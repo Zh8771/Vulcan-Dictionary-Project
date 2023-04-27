@@ -1,0 +1,4462 @@
+FRST_LETTER	WORD-V
+a	A'gal \ _ - ' g_l \ -- proton
+a	A'gal-lushun -- proton torpedo
+a	A'ho -- hello
+a	A'rak-, A'rakik \ _ - ' r_k \ -- positive (polarity)
+a	A'rak-falun -- positive charge
+a	A'rak-falun-krus -- positive ion
+a	A'rak-narak'es -- positive polarity
+a	Aberala \ _ - be - ' r_ - l_ \ -- aerofoil, airfoil
+a	Aberala-tchakat \ - t__ - ' k_t \ -- camber (aero.)
+a	Aberayek \ _ - be - ' r_ - jek \ -- crane (n.)
+a	Aberofek \ _ - be - ' ro - fek \ -- derrick
+a	Abevipladau -- dub (v.)
+a	Abi' \ _ - ' bi \ -- until (prep.)
+a	Abmarkan-, Abmarkanik -- buoyant
+a	Abmarkan'es -- buoyancy
+a	Abmarkan'es-svitan -- center of buoyancy
+a	Abomesayik vath-sfek-aus -- arccosecant
+a	Abomesayik vath-sfek-vel -- arccotangent
+a	Abomesayik vath-tavat-zes -- arccosine
+a	Abomesayik vul-tavat-zes -- arcsine
+a	Abomesayik weht-sfek-aus -- arcsecant
+a	Abomesayik wuh-sfek-vel -- arctangent
+a	Aborau \ _ - bo - ' ra_ \ -- boost (v.)
+a	Aborau-yon-hashek -- booster rocket
+a	Aboraya -- boost (n.)
+a	Aborayek -- booster
+a	Aborayek-dahshaya -- booster separation
+a	Abrash \ _ - ' br__ \ -- flood (n.)
+a	Abrash-eiktra -- flood plain
+a	Abrash-masu -- floodwater(s)
+a	Abrash-pthak -- antlophobia
+a	Abrash-temep -- floodgate
+a	Abrash-temok -- floodwall
+a	Abrash-tor -- flood (v.)
+a	Abru' \ _ - ' bru \ -- above, over (prep.)
+a	Abru'es \ _ - ' bru - es \ -- dominance
+a	Abru'mesukh (obs.) -- across
+a	Abru-ahs|-hinek| -- maxilla (anat.)
+a	Abru-kapol-nafek -- adrenal gland
+a	Abru-kar-hinek -- humerus (anat.)
+a	Abru-mal -- thigh
+a	Abru-mal-hinek -- femur, thighbone
+a	Abru-mes -- crossover (n.)
+a	Abru-ralashik -- supersonic
+a	Abru-ralashik ifis-hali -- supersonic transport (SST)
+a	Abru-spis -- anticline
+a	Abru-su'us -- numerator
+a	Abru-tchakat -- camber (eng., mech.)
+a	Abru-tus -- overload (n.)
+a	Abru-tus-nelayek -- overload suppressor
+a	Abru-tus-tor -- overload (v.)
+a	Abru-tvi-kovtra -- asthenosphere
+a	Abru-vulu -- obtuse angle
+a	Abru-yetural-, Abru-yeturalik -- overdriven (adj.)
+a	Abru-zan-mev -- periscope
+a	Abrukhau -- dominate
+a	Abrumashen-, abrumashenik -- awash
+a	Abruneniwau -- supervise
+a	Abruneniwausu -- supervisor
+a	Abrupik \ _ - ' bru - pik \ -- dominant
+a	Abrupodon -- profit (n.)
+a	Abruven-esh-nosh -- orthopnea
+a	Absakau -- raid (v.)
+a	Absakausu -- raider, marauder
+a	Abu, Abu' -- up
+a	Abu'le \ _ - ' bu - le \ -- upward(s)
+a	Abu'shi -- aloft
+a	Abu'tvau -- swing up
+a	Abu-dvun-, Abu-dvunik -- anabatic (adj.)
+a	Abu-pla'dor-hinek -- thoracic vertebra
+a	Abu-to'ovayak -- stalagmite
+a	Abu-tor -- erect, put up
+a	Abu-vla-nu'leyik -- upside-down (adj.)
+a	Abu-yumaya -- updraft (n.)
+a	Abuhish -- upward pressure
+a	Abukhau \ _ - bu - ' xa_ \ -- rule over
+a	Abulau \ _ - bu - ' la_ \ -- increase (v.)
+a	Abulik -- vertical (adj.)
+a	Abulik sov-razh -- air pocket
+a	Abun-dvunek -- erector (anat.)
+a	Abunaf \ _ - bu - ' n_f \ -- uplink (n.)
+a	Abunuhal-tor -- pitch (v., aero.)
+a	Abunuhalan -- pitch (n., aero.)
+a	Abusalan-, Abusalanik -- upwind (adj.)
+a	Abuthresha -- throttle up (v.)
+a	Abutsuplau -- surrender (v.)
+a	Abutsuplaya -- surrender (n.)
+a	Abuvenik \ _ - ' bu - ve - nik \ -- upright
+a	Achut \ _ - ' t_ut \ -- brush (n.)
+a	Af'traul -- utensil
+a	Af'tum \ ' _f - tum \ (anc.) -- kitchen
+a	Afer-tor \ _ - fer - ' tor \ -- establish, found (v.)
+a	Aferal-, Aferalik -- established, founded (adj.)
+a	Aferteraya -- corporation
+a	Afsakau -- declare, proclaim
+a	Afsakaya -- declaration, proclamation
+a	Agreibau -- torture (v.)
+a	Agreibaya -- torture (n.)
+a	Ahahr-tukh -- rhenium
+a	Ahkh \ _'x , _x \ (anc.) -- war (n.)
+a	Ahkh-pidsu -- warlord
+a	Ahkh-zhagralar -- wargames
+a	Ahkhan \ _'x - ' _n , _x - \ -- warfare
+a	Ahkhinahru \ _'x - i - ' n_r - u , _x - \ (anc.) -- ancient battlefield psionic warrior
+a	Ahkhsu \ ' _'x - su , ' _x - \ -- warrior
+a	Ahklavau -- reveal
+a	Ahl-tukh -- iridium
+a	Ahm \ _'m , _m \ -- name (n.)
+a	Ahm-rubah -- name change
+a	Ahm-tor \ _'m - ' tor , _m - \ -- name (v.)
+a	Ahm-van-kal -- naming ceremony
+a	Ahn-vahr \ _'n - ' v_'r , _n - ' v_r \ (anc.) -- suicide dagger
+a	Ahn-wun \ _'n - ' wun , _n - \ (anc.) -- strap-like weapon, often with a weighted end
+a	Ahs \ _'s , _s \ -- jaw (n.)
+a	Aht'lahntik Masutra -- Atlantic Ocean
+a	Aid \ a_d \ -- contentment
+a	Aidihn|-| \ ' a_d - _n \ -- contented (adj.)
+a	Aifa \ ' a_ - f_ \ -- these
+a	Aikum \ ' a_ - kum \ -- moon (n.)
+a	Aikum-ek'duv -- lunar eclipse
+a	Aikum-ha'gel -- moonlight
+a	Aikum-shen -- moonrise
+a	Aikum-solek -- lunar regolith
+a	Aikum-tal -- selenology
+a	Aikum-tevan -- moonset
+a	Ailin-tukh -- gabbro
+a	Ain -- garment
+a	Aisha \ ' a_ - __ \ -- cause (v.)
+a	Aishan \ a_ - ' __n \ -- cause (n.)
+a	Aitlu \ a_t - ' lu \ -- desire, want (v.)
+a	Aitlun \ a_t - ' lun \ -- desire, want (n.)
+a	Ak -- soon
+a	Ak'spra \ ' _k - spr_ \ (NGS) -- heretic, unorthodox believer
+a	Ak'wik \ _k - ' wik \ -- surprised (adj.)
+a	Ak'wik-abrash -- flash flood
+a	Ak'wikman -- surprise (v.)
+a	Akali|-| \ _ - ' k_ - li \ -- urgent
+a	Akan|-| -- alien, ecdemic, exotic (not native)
+a	Akan-ha-tal -- xenobiology
+a	Akan-ha-talsu -- xenobiologist
+a	Akan-tor -- alienate
+a	Akanal-, Akanalik -- alienated (adj.)
+a	Akansu \ _ - ' k_n - su \ -- alien (n.)
+a	Akarshif \ _ - k_r - ' _if \ -- a long time
+a	Akhlami \ _ - ' xl_ - mi \ -- among us
+a	Akteibuhl \ _k - ' te_ - b_l , - b_l \ -- attainment
+a	Alakolah -- ripple (v.)
+a	Alakolan -- ripple (n.)
+a	Alem \ _ - ' lem \ -- salt (n.)
+a	Alem'es -- saltiness, salinity
+a	Alem-flash -- mangrove swamp
+a	Alem-kov -- halite, rock salt
+a	Alem-masu -- saltwater (n.)
+a	Alem-masu-kastra -- salt(water) marsh
+a	Alem-sis -- salt depletion
+a	Alem-solek -- saline soil
+a	Alem-suk'muzh -- salt lake
+a	Alem-tukh -- sodium, natrium
+a	Alemik -- salty, saline
+a	Alemtra -- sabkha (geol.)
+a	Aluk \ _ - ' luk \ -- fish (n.)
+a	Aluk-kak -- fishbowl
+a	Aluk-kelek -- aquarium
+a	Aluk-kum-fek -- fishing pole
+a	Aluk-kum-kik -- fishhook
+a	Aluk-kum-mashali -- fishing boat
+a	Aluk-kum-tor -- fish (v.)
+a	Aluk-kumsu -- fisherman
+a	An-bet (anc.) -- gable (n.)
+a	An-kharkh \ _n - ' x_rx \ (obs.) -- fear (n.)
+a	An-prele \ _n - ' pre - le \ (NGS) -- pain control meditation
+a	Andorsu \ _n - ' dor - su \ -- Andorian (person/language)
+a	Ap'hashau \ _p - h_ - ' _a_ \ -- ricochet (v.)
+a	Ap'hashaya -- ricochet (n.)
+a	Apalikau-zehlanaya -- startup sequence
+a	Apalikaya -- startup, start-up
+a	Apumeskarau -- take a hold of
+a	Ar'ka-halek -- flywheel
+a	Ar'kada \ _r - ' k_ - d_ \ -- work (v.)
+a	Ar'kada-lashi -- workstation
+a	Ar'kada-pthak -- ergophobia
+a	Ar'kadan \ _r - k_ - ' d_n \ -- work, chore, task, job
+a	Ar'tu \ ' _r - tu \ (anc.) -- project (n.)
+a	Arlanga -- a Vulcan mountain range
+a	Arlanga-tukh -- yttrium
+a	Aru \ _ - ' ru \ (anc.) -- afternoon
+a	"Aru-yem -- dinner, ""afternoon meal"""
+a	Asal \ _ - ' s_l \ -- morning
+a	Asal-masu -- dew (n.)
+a	Asal-masu-sfek -- dew point
+a	Asal-masu-thek -- dewdrop
+a	Asal-masu-thonek -- drosometer
+a	"Asal-yem -- breakfast, ""morning meal"""
+a	Ash'ai \ __ - ' a_ \ -- sock, stocking
+a	Ash'ai-zhel -- garter
+a	Ash'el \ __ - ' el \ (MGV) -- shoe (n.)
+a	Ash'gelfek -- perch (n.)
+a	Ash'kwitayek -- pedal (n.)
+a	Ash'ya \ ' __ - j_ \ -- foot
+a	Ash'ya-dukal -- football (the ball), soccer ball
+a	Ash'ya-dukal-torvukh -- football (the sport), soccer
+a	Ash'ya-fam-, ash'ya-famik -- apodal, apodous, footless
+a	Ash'ya-hilek -- spade (n.)
+a	Ash'ya-sai-vel -- footwear
+a	Ash'yaidar \ __ - ja_ - ' d_r \ -- footprint (n.)
+a	Ash'yakhut -- slipper (n.)
+a	Ash-tor -- step, tread (v.)
+a	Ash-vel \ __ - ' vel \ (TGV) -- shoe (n.)
+a	Ashal-, Ashalik -- (be)loved, darling (adj.)
+a	Ashal-veh -- beloved, darling, sweetheart (n.)
+a	Ashau \ _ - ' _a_ \ -- love (v.)
+a	Ashau-krel-masu -- love potion
+a	Ashaun-, Ashaunik -- loving (adj.)
+a	Ashausu -- lover
+a	Ashaya-var -- love story
+a	Ashen-fau-yut -- causeway
+a	Ashen-padukau-rala -- elevon
+a	Ashenau \ _ - _en - ' a_ \ -- raise, elevate, amplify
+a	Ashenayek -- elevator (aero., anat.), amplifier (electr.)
+a	Ashenek \ _ - ' _en - ek \ -- exponent (math.)
+a	Ashiv-tor -- repeat (v.)
+a	Ashivau \ _ - _i - ' va_ \ -- iterate
+a	Ask'er \ _sk - ' er \ -- army
+a	Ask'ersu -- soldier
+a	Ask'ersu-kelek -- barracks
+a	Ask'ersu-leshek -- troop carrier
+a	Ask'plak-, Ask'plakik -- tactical (adj.)
+a	Ask'plak-galu-wun -- tactical nuclear weapon
+a	Ask'plak-lansu -- tactical officer
+a	Ask'plak-lashi -- tactical station
+a	Ask'plakanu -- tactics
+a	Aski|-| \ ' _s - ki \ -- mighty, military (adj.)
+a	Askital \ _sk - i - ' t_l \ -- military (n.)
+a	Asklotau -- blockade (v.)
+a	Asklotaya -- blockade (n.)
+a	Asteronau -- attach
+a	Asteronau-mof -- clevis pin
+a	Asteronaya -- attachment
+a	Asteronaya-sfek -- attachment point
+a	Au -- them, they
+a	Aukh \ a_x \ -- gypsum
+a	Ausham \ a__ - ' _m \ -- venom
+a	Aushfa \ a__ - ' f_ \ -- animal (n.)
+a	Aushfa-kelek -- barn, stable
+a	Aushfa-palutunatra -- animal husbandry
+a	Aushfa-razh -- burrow (n.)
+a	Aushfa-wadi-hatik ha-vel -- epizoon
+a	Aushfa-tal -- zoology
+a	Aushfa-talsu -- zoologist
+a	Aushfal'esk -- beast
+a	Aushfamaluhr \ a__ - ' f_ - m_ - l_r , - l_r , - l_r \ -- animal(istic), beastly, savage (adj.)
+a	Aushfatra \ a__ - ' f_ - tr_ \ -- fauna
+a	Aushfebihk-dva -- totemism (towards an animal)
+a	Aushkel \ a__ - ' kel \ -- den, lair
+a	Avaru (anc.) -- trouble (n.)
+a	Avaru-satalau -- troubleshoot
+a	Avaru-satalausu -- troubleshooter
+a	Avaru-satalaya -- troubleshooting (n.)
+a	Avon \ _ - ' von \ -- hunger (n.)
+a	Avon-telik -- hunger (v.)
+a	Awek|-| \ _ - ' wek \ -- private (adj.)
+a	Awek'es -- privacy, solitude
+a	Awek-thro-yut -- driveway
+a	Awekat-, Awekatik -- solitary
+a	Ayau \ _ - ' ja_ \ -- tilt (v.)
+a	Ayau-keh-vla -- rhombus
+a	Ayau-thonek -- tiltmeter
+a	Ayayik keh-vla -- rhombohedron
+a	Ayayik leh-dah-muk -- rhombododecahedron
+a	Azehl -- ray (math.)
+a	Azehl-, Azehlik -- radial (adj.)
+b	Ba'tak \ b_ - ' t_k \ (anc.) -- tradition
+b	Bablivau \ b_ - bli - ' va_ \ -- designate
+b	Babloputak \ b_ - blo - ' put - _k \ -- crusade (n.)
+b	Bah-ker \ ' b_' - ker , ' b_ - \ (anc.) -- garden (n.)
+b	Bah-tor \ b_' - ' tor , b_ - \ -- garden (v.)
+b	Bahsu -- gardener
+b	Bai' (obs.) -- through, via, by means of
+b	Bai-lak-pa (anc.) -- self-pity
+b	Bak -- rib
+b	Bal -- group, set (n.)
+b	Bali|-| \ ' b_ - li \ -- thick
+b	Bali-thonek -- caliper(s)
+b	Balkra \ ' b_l - kr_ , ' b_lk - r_ \ (anc.) -- an aromatic casserole
+b	Banut \ b_ - ' nu t \ -- speak of or about
+b	Bar-got (anc.) -- herb
+b	Bar-kas (anc.) -- spice
+b	Bashan \ b_ - ' __n \ -- migration
+b	Batai \ b_ - ' ta_ \ -- sturdy (adj.)
+b	Bau-tor -- disregard, ignore
+b	Be' -- adjacent to, beside, close to, near, next to, in proximity to (prep.)
+b	Be'es -- nearness, proximity
+b	Be'hai'la \ be - ' ha_ - l_ \ (NGS) -- guest (n.)
+b	Be'ru'lutik -- adoral
+b	Be-, Beik -- adjacent, close, near (adj.)
+b	Be-wan-kur -- off-white (color)
+b	Beglanau -- notice (v.)
+b	Behsu -- neighbor
+b	Beidzhorsu \ ' be_ - d_or - su \ -- Bajoran (person/language)
+b	Bek -- wait (n.)
+b	Bek-tor -- wait (v.)
+b	Belaar \ be - ' l__r \ (NGS) -- Summer (season)
+b	Belk (anc.) -- scout (n.)
+b	Ben -- to us
+b	Ben-gun \ ben - ' gun \ (anc.) -- therapy
+b	Bes -- drawing
+b	Bes-tor -- draw (v.)
+b	Besan -- chart, map, plot (n.)
+b	Besan-tanaf -- cartography
+b	Besau -- chart, map, plot (v.)
+b	Besayek -- plotter (device)
+b	Besu \ ' be - su \ -- companion
+b	Besu'es -- companionship
+b	Betau -- approach, near (v.)
+b	Bezhun \ be - ' _un \ -- eye, oculus
+b	Bezhun-hassu -- ophtalmologist
+b	Bezhun-isach -- eyelash
+b	Bezhun-kal -- eyeball (n.)
+b	Bezhun-masu -- tears (n., multiple drops)
+b	Bezhun-masu-mev -- lacrimal duct, tear duct
+b	Bezhun-ripa'shaya -- cataract (med.)
+b	Bezhun-tal -- ophtalmology
+b	Bezhun-thek -- tear (n., a single drop)
+b	Bezhun-wadi -- cornea
+b	Bezhun-wan -- sclera
+b	Bezhun-zehl -- eyebrow
+b	Bi' -- along (prep.)
+b	Bif-, Bifik -- sure (adj.)
+b	Bikuv \ bi - ' kuv \ -- picture
+b	Bikuv-kitaun -- hieroglyphic (writing)
+b	Bishau -- swarm, teem (v.)
+b	Bladzh -- camp (n.)
+b	Bladzh-yon -- campfire
+b	Bling -- cymbal
+b	Bohrau -- cure (v.)
+b	Bol-, Bolik -- critical, vital
+b	Bol-falek'es -- critical temperature
+b	Bol-mog'es -- critical volume
+b	Bol-shivak -- critical mass
+b	Bol-sov-masu'es -- critical humidity
+b	Bol-suk'es -- critical size
+b	Bol-tav -- critical rate
+b	Bol-threshan -- critical speed
+b	Bol-toruk'es -- critical voltage
+b	Bol-vakav'es -- critical frequency
+b	Bol-vihish -- critical pressure
+b	Bol-vulu -- critical angle
+b	Bolau -- need (v.)
+b	Bolaya -- need (n.)
+b	Bolaya-, Bolayatik -- essential (adj.)
+b	Bosh|-| -- full
+b	Bosh-khaf-masu -- plasma (med.)
+b	Boshak \ ' bo_ - _k \ -- filling (n.)
+b	Boshau \ bo_ - ' a_ \ -- fill (v.)
+b	Bov -- average (n.)
+b	Bov-, Bovik -- average (adj.)
+b	Bov-tor -- average (v.)
+b	Brag -- crypt, tomb
+b	Bral-tukh -- gallium
+b	Brash'es -- fecundity
+b	Breth-tukh -- praseodymium
+b	Bru -- lip (n.)
+b	Bru-yonshaya -- cheilitis
+b	Bruhd -- caterpillar
+b	Budda-dva -- Buddhism
+b	Budda-dvasu -- Buddhist (n.)
+b	Buhfik \ ' b_f - ik , ' b_f - \ -- perfect
+b	Buhl'es -- enthusiasm
+b	Buhl-, Buhlik -- enthusiastic
+b	Buhn -- coin (n.)
+b	Buk -- fate, destiny
+b	Bulom-tukh -- molybdenum
+b	Bureki \ bu - ' re - ki \ (anc.) -- a volcanic stone used for construction
+b	Burun \ bu - ' run \ -- crisis
+b	Burun-, Burunik -- critical (in a crisis)
+b	Burun-palutun-flanapausu -- critical care specialist
+b	Burun-palutun-hassu -- critical care doctor
+b	Burun-palutun-shal -- critical care unit
+b	Burun-palutun-shi'has -- critical care center
+b	Burun-palutunik has-golsu -- critical care nurse
+b	Busnem -- abortion (med.)
+b	Busnem-tor -- abort (med.)
+d	D'mallu \ d  - ' m_ - __u \ (NGS) -- large, carnivorous Vulcan plant
+d	D'oh-tor -- confuse, perplex, puzzle
+d	D'ohan \ ' d_ - _n \ -- confusion, perplexity, puzzlement
+d	D'ohik \ ' d_ - ik \ -- confused, perplexed, puzzled (adj.)
+d	Da -- pebble
+d	Da'Nikhirch (NGS) -- Eye of Fire, Fire-Eye, ie. the Vulcan Sun
+d	Da-fek \ ' d_ - fek \ -- axle
+d	Da-kuv \ d_ - ' kuv \ -- circle (n.)
+d	Da-kuv-falek'es -- convection
+d	Da-kuvau -- circulate
+d	Da-kuvau-katrom -- circulating current
+d	Da-kuvau-spol -- circulating pump
+d	Da-kuvau-torektra -- circulatory system
+d	Da-kuvaya -- circulation
+d	Da-kuvayek -- circulator
+d	Da-nel -- cycle (n.)
+d	Da-nel-, Da-nelik -- cyclic (adj.)
+d	Da-rala-hali, Da-rala-hashek -- helicopter
+d	Da-sfek -- axis
+d	Da-sfek-lerakovayek -- axial compressor
+d	Da-sfek-mishu -- axial engine
+d	Da-sfek-tavat -- axial ratio
+d	Da-sfek-vukharat -- axial vector
+d	Da-sfek-yumaya -- axial flow
+d	Da-skramek \ d_ - ' skr_m - ek \ -- lathe (n.)
+d	Da-tor \ d_ - ' tor \ -- rotate, turn
+d	Dafel \ ' d_f - el \ -- pelvis
+d	Dafel-, Dafelik -- pelvic
+d	Dah'es -- duality
+d	Dah-glan -- double vision, diplopia
+d	Dah-guv-, Dah-guvik -- bisexual (adj.)
+d	Dah-halek -- bicycle (n.)
+d	Dah-ketil -- double integral
+d	Dah-kharat-, Dah-kharatik -- bidirectional (adj.)
+d	Dah-kharat-katrom (DKhK) -- alternating current (AC)
+d	Dah-kiht -- binary code
+d	Dah-kulan -- double helix
+d	Dah-lan-tol -- double floor
+d	Dah-leh -- twenty
+d	Dah-leh'rak, dah-lehr- -- twentieth (adj.)
+d	Dah-leh'veh -- twentieth (n.)
+d	Dah-mashek -- emulsifier
+d	Dah-masu-tukh -- deuterium
+d	Dah-mavaya -- duet (n.)
+d	Dah-narafek -- diode
+d	Dah-pim-folayek -- dilithium reactor
+d	Dah-pim-tukh -- dilithium
+d	Dah-pim-viskulan -- dilithium matrix
+d	Dah-rala-, Dah-ralaik -- dipterous
+d	Dah-ralash-vel -- diphthong
+d	Dah-sashavaya -- double exposure
+d	Dah-shivaya -- paraplegia
+d	Dah-stonn-pi'sef |t'shahov| -- beach cusp
+d	Dah-stonn-sef -- barchan
+d	Dah-svep -- double door
+d	Dah-svin -- double entry
+d	Dah-temok -- double wall, double bulkhead
+d	Dah-tukh -- curium
+d	Dah-vla-, Dah-vlaik -- bilateral (adj.)
+d	Dah-vukh -- double hull
+d	Dah-wak -- twice
+d	Dah-weizehl -- double series
+d	Dah-wek-, Dah-wekik -- diphasic
+d	Dah-yel -- binary star
+d	Dah-zalu -- coenzyme
+d	Dah-zamasu -- double agent
+d	Dah-zan-vel -- binoculars
+d	Dah-zun -- digraph
+d	Dahal-tor \ d_ - ' h_l - tor \ -- go around (v.)
+d	Dahek \ ' d_' - ek , ' d_ - \ -- duo
+d	Dahkvalu \ d_' - ' kv_ - lu , d_ - \ -- parabola
+d	Dahl-tor -- detach, disengage
+d	Dahli -- apart
+d	Dahli-nesh-tor -- dissect
+d	Dahli-neshan -- dissection
+d	Dahpul-vo'ihn -- quadratic equation
+d	Dahr-, Dahrik -- second, secondary (adj.)
+d	Dahs-da-kuv -- equator
+d	Dahsau -- divide (v.)
+d	Dahsau-nosahp -- quotient
+d	Dahsaya -- divide, division (n.)
+d	Dahshau -- separate (v.)
+d	Dahshaya -- separation
+d	Dahsu'us -- binomial (n., math.)
+d	Dahtau -- double (v.)
+d	Dailissak -- adventure (n.)
+d	Dakh (anc.) -- cast out, evict, expel, toss out
+d	Dakh-ha'tanaya -- luminescence
+d	Dan -- rotation, turn(ing)
+d	Dan-, Danik -- most (adj.)
+d	Dan-fa-, Dan-faik -- foremost (adj.)
+d	Dan-glu|-| -- deepest (adj.)
+d	Dan-has-bosh -- sickest (adj.)
+d	Dan-karik -- strongest (adj.)
+d	Dan-klon|-| -- smartest (adj.)
+d	Dan-kobat|-| -- weakest (adj.)
+d	Dan-lerash|-| -- hardest (adj., least soft)
+d	Dan-nu'ri|-| -- youngest (adj.)
+d	Dan-nuk|-| -- lowest (adj.)
+d	Dan-os|-| -- oldest (adj.)
+d	Dan-pid|-| -- highest (adj.)
+d	Dan-ras|-| -- heaviest (adj.)
+d	Dan-rom|-| -- best (adj.)
+d	Dan-runemek -- clutch (mech.)
+d	Dan-sahr-, Dan-sahris -- fastest, quickest (adj.)
+d	Dan-slu-, Dan-sluk -- freshest (adj.)
+d	Dan-ta'hal|-| -- lightest (adj., least heavy)
+d	Dan-thel-, Dan-thelik -- fattest (adj.)
+d	Dan-vohr-, Dan-vohris -- slowest (adj.)
+d	Dan-wonil|-| -- thinnest (adj.)
+d	Danan \ ' d_n - _n \ -- majority
+d	Danau \ d_n - ' a_ \ -- explain
+d	Danau-dunap -- encyclopedia
+d	Dap -- mercy
+d	Dap-lan-pa -- children's game similar to Mercy or Uncle
+d	Dash -- injury
+d	Dash-tor -- injure
+d	Datau \ d_ - ' ta_ \ -- propel
+d	Datau-tukh -- propellant (n.)
+d	Dataya -- propulsion
+d	Datayek -- propeller
+d	Dator \ ' d_ - tor \ -- prepare
+d	Dau -- affect
+d	Dau-bosh -- effective
+d	Dau-tukh -- hormone
+d	Dawan \ ' d_ - w_n \ (anc.) -- a person who cannot be counted on
+d	Daya -- effect
+d	Def -- batch (n.)
+d	Deik -- file (document)
+d	Del -- rim
+d	Desh'rak \ ' de_ - r_k \ -- north
+d	Desh'rak-, Desh'rakik -- northern
+d	Desh'raksu -- northerner
+d	Desh-she'rak -- northeast
+d	Desh-tev'rak -- northwest
+d	Desh-tukh -- dolomite
+d	Deshkau \ de_ - ' ka_ \ -- question (v.)
+d	Deshker \ de_ - ' ker \ -- question (n.)
+d	Detra -- bunch
+d	Di'kish-torek -- metabolism
+d	Di'kish-tor -- metabolize
+d	Di'kizh \ di - ' ki_ \ -- exchange (n.)
+d	Dif-tor \ dif - ' tor \ -- live a long time, live a full life
+d	Dihrf -- sexual intercourse
+d	Din-tor -- miss (v.)
+d	Dir-, Dirik -- coarse
+d	Do -- than
+d	Dohn -- board, plank, playing surface for a board game
+d	Dok -- brick (n.)
+d	Dok-krizhiv -- brick clay
+d	Dok-torvausu -- bricklayer
+d	Dol-hinek -- clavicle
+d	Dom -- so (exclamation)
+d	Don-ka \ don - ' k_ \ (anc.) -- rich, wealthy
+d	Don-kut \ don - ' kut \ (anc.) -- bonanza, financial windfall
+d	Don-tak \ ' don - t_k \ (anc.) -- riches, wealth
+d	Donkes-tor -- finance, fund, bankroll (v.)
+d	Donketu \ don - ' ket - u \ (anc.) -- funds, monetary resources
+d	Donku \ ' don - ku \ (anc.) -- money, currency
+d	Dor -- honor (n.)
+d	Dor-tor -- honor (v.)
+d	Dor-yehat -- honorable
+d	Dorli \ ' dor - li \ -- honorable (mostly obs.)
+d	Dotokau \ do - to - ' ka_ \ -- fine (v., penalize)
+d	Dozhuhk -- troll
+d	Drahk -- throat, pharynx
+d	Drahk-pi'nafek -- thyroid gland
+d	Dref -- rake
+d	Drichel-, Drichelik -- creepy, eerie, spooky
+d	Drizh -- itch (n.)
+d	Drizh-tor -- itch (v.)
+d	Drizhaya -- pruritis
+d	Drom|-| -- pure (adj.)
+d	Drom'es -- purity
+d	Drom-tor -- purify
+d	Du -- you
+d	Dud -- a small piece of paper, film, etc.
+d	Duf -- leather
+d	Duh-, Duhik -- daffy, foolish, goofy
+d	Duk -- bubble (n.)
+d	Dukal \ du - ' k_l \ -- ball
+d	Dukal-guf-lesek -- ball-and-socket joint
+d	Dukal-igen-wesh -- ball lightning
+d	Dukal-kuvish -- ball bearing
+d	Dukal-spunek -- ball valve
+d	Dukau \ du - ' ka_ \ -- bubble (v.)
+d	Dulai|-| \ du - ' la_ \ -- tough (adj.)
+d	Dun -- paper
+d	Dun-zhuksu -- paper-maker
+d	Dunap \ dun - ' _p \ -- book (n.)
+d	Dunap-krus -- chapter
+d	Dunap-tsorayek -- bookcase
+d	Dunapshausu -- bookbinder
+d	Dunapsu -- librarian
+d	Dunesh \ ' dun - e_ \ -- pamphlet, brochure, leaflet
+d	Dungi|-| \ dun - ' gi \ -- will, shall (v.)
+d	Dunusu -- clerk (n.)
+d	Duta'es -- diplomacy
+d	Duta-, Dutarik -- diplomatic
+d	Duta-shan-hali -- diplomatic courier vessel
+d	Duta-Sklada-Dvin T'Khasi -- Vulcan Diplomatic Courier Service
+d	Dutar \ du - ' t_r \ (anc.) -- diplomat
+d	Duv -- shadow (n.), umbra
+d	Duv-tor -- shadow (v.)
+d	Duvyan-, Duvyanik -- shady (adj.)
+d	Dva -- belief
+d	Dva-tor -- believe
+d	Dvanik -- believed (adj.)
+d	Dvar -- risk (n.)
+d	Dvar-tor -- risk (v.)
+d	Dvariben -- preach (v.)
+d	Dvasu \ ' dv_ - su \ -- believer
+d	Dvatai \ dv_ - ' ta_ \ -- doctrine, principle, tenet
+d	Dvel -- choice
+d	"Dvel'nahr (anc.) -- old concept of ""Vulcan-by-choice"""
+d	Dvel-tor -- choose
+d	Dvesh-tukh -- brass
+d	Dvin-tor -- serve
+d	Dvinsu \ ' dvin - su \ -- servant
+d	Dvolau \ dvo - ' la_ \ -- set, adjust
+d	Dvor-tukh -- astatine
+d	Dvubolau \ dvu - bo - ' la_ \ -- motivate
+d	Dvubolau-staribsu -- motivational speaker
+d	Dvubolaya -- motivation
+d	Dvubolek \ dvu - ' bo - lek \ -- motive (n.)
+d	Dvudau-fek -- crankshaft
+d	Dvudau-kes-wun -- crossbow
+d	Dvudau-natuhn -- crankcase
+d	Dvudayek -- crank (mech.)
+d	Dvun -- move(ment)
+d	Dvun-mesut -- drawbridge
+d	Dvun-tor -- move (v.)
+d	Dvun-zehl -- fault(line) (geol.)
+d	Dvunek \ ' dvun - ek \ -- muscle (n.)
+d	Dvunek-pak-nosh -- amyotrophia, amyotrophy
+d	Dvunek-tash-svitan -- cerebellum
+d	Dvunek-tersayek -- sinew
+d	Dvunel \ dvun - ' el \ -- motion
+d	Dvunel-pi'harr -- flagellum
+d	Dwemish ni-an (NGS) -- training: isolation of identity
+d	Dzhal -- mortise
+d	Dzhan|-khush| -- beryl
+d	Dzhan-tukh \ ' d__n - tux \ -- beryllium
+d	"Dzharel \ d__ - ' rel \ (NGS) -- ""jarel"", a small, horned horse-like animal"
+d	"Dzhasif \ d__ - ' sif \ (NGS) - ""jasif"", type of crystal used to make vre-katras"
+d	Dzhelu \ d_e - ' lu \ -- envy (n.)
+d	Dzhih -- pimple (n.)
+d	Dzhinau \ d_i - ' na_ \ -- refer
+d	Dzhinaya -- reference
+d	"Dzhya'an'Kahr \ d_j_ - ' _n - k_'r , - k_r , - k_r \ -- ""Jia'anKahr"", a Vulcan city"
+d	Dzhya'an-tukh \ d_j_ - ' _n - tux \ -- hafnium
+e	Eglus (anc.) -- religious shrine
+e	Eh \ e, _ \ -- and (after a vowel sound)
+e	Eifa \ ' e_ - f_ \ -- those
+e	Eik -- wide
+e	Eik'es \ ' e_k - es \ -- range (n.)
+e	Eik-vath -- width
+e	Eiksha \ e_k - ' __ \ -- dilate
+e	Eiksharu -- dilation
+e	Eiktra \ ' e_k - tr_ \ -- plain (geol.)
+e	Ein -- some
+e	Ein-veh -- someone
+e	Ein-wak -- someday, sometime
+e	Ein-wilat -- somewhere
+e	Eingelsu \ ' e__el - su \ -- English (language/person)
+e	Eitau \ e_ - ' ta_ \ -- shear, cut away (v.)
+e	Ek, Ek' -- all, total, complete
+e	Ek'aifa \ ek - ' a_ - f_ \ -- all (of) these
+e	Ek'an -- maximum
+e	Ek'anau -- maximize
+e	Ek'ariben-, Ek'aribenik -- fluent (in a language)
+e	Ek'au -- all of them
+e	Ek'dular -- all of you
+e	Ek'duv -- eclipse (n.)
+e	Ek'eifa \ ek - ' e_ - f_ \ -- all (of) those
+e	Ek'eku \ ek - ' ek - u \ -- continuum
+e	Ek'elmin -- petroleum
+e	Ek'es-, Ek'esik -- absolute (adj.)
+e	Ek'es-danan -- absolute majority
+e	Ek'es-rasath -- absolute weight
+e	Ek'es-ris -- absolute zero
+e	Ek'es-tala -- absolute value
+e	Ek'es-tepul -- absolute power
+e	Ek'esik masu'es -- absolute humidity
+e	Ek'esik pul'es -- absolute magnitude
+e	Ek'etek -- all of us
+e	Ek'ka-, Ek'kayik -- constant (adj.)
+e	Ek'ka-ferek -- alternator
+e	Ek'kal \ ek - ' k_l \ -- orb, sphere
+e	Ek'kal t'Daison -- Dyson sphere
+e	Ek'kat \ ek - ' k_t \ -- constant (n.)
+e	Ek'khafau -- exsanguinate
+e	Ek'kovtra \ ek - ' kov - tr_ \-- continent
+e	Ek'kovtra-dvun -- continental drift
+e	Ek'kovtra-ek'nosh -- continental climate
+e	Ek'kovtra-math -- continental plate
+e	Ek'man'es -- safety (n.)
+e	Ek'mishan -- technology
+e	Ek'mishupik -- technical (adj.)
+e	Ek'nala-dahsaya -- mitosis
+e	Ek'nehau -- decompose
+e	Ek'nosh \ ' ek - no_ \ -- climate
+e	Ek'nosh-rubah -- climatic change
+e	Ek'nosh-shal -- climatic zone
+e	Ek'nosh-tal -- climatology (study)
+e	Ek'nosh-tash|ek| -- climate control
+e	Ek'nosh-venek -- climatic trend
+e	Ek'os|-| \ ek - ' os \ -- antique (adj.)
+e	Ek'os-vel -- antique (n.)
+e	Ek'pa-ptak -- paranoia
+e	Ek'panu-vis -- internet
+e	Ek'pu-tor -- sterilize
+e	Ek'puyik -- sterile
+e	Ek'rak \ ' ek - r_k \ -- in all directions
+e	Ek'renkupik -- adept, adroit, skilled
+e	Ek'saven -- education
+e	Ek'saven-tor -- educate
+e	Ek'savensu -- educator
+e	Ek'shaht-razh -- cloaca (zool.)
+e	Ek'tal \ ek - ' t_l \ -- science
+e	Ek'tal-zup-shal -- laboratory
+e	Ek'talsu -- scientist
+e	Ek'te'kau -- authorize
+e	Ek'te'kru -- authority (power)
+e	Ek'te'krusu -- authority (person)
+e	Ek'teraya -- confederation
+e	"Ek'tevakh -- ""brain death"""
+e	Ek'tevan -- extinction
+e	Ek'tra \ ' ek - tr_ \ -- planet
+e	Ek'tra-dukal -- globe
+e	Ek'trasha \ ek - tr_ - ' __ \ -- abandon, desert, forsake
+e	Ek'tukh -- mineral
+e	Ek'tukh-razh -- adit
+e	Ek'tukh-tal -- mineralogy
+e	Ek'wak \ ek - ' w_k \ -- forever
+e	Ek'wak'es -- eternity
+e	Ek'wak-, Ek'wakik -- eternal
+e	Ek'yeht'es -- reality
+e	Ek'zehl \ ek - ' z_l \ -- border
+e	Ek'zer \ ek - ' zer \ -- jewel, gem
+e	Ek'zer-tam -- bezel (gemology)
+e	Ek'zeru -- jewelry
+e	Ekhartau -- administer
+e	Ekhartausu \ e - x_r - ' ta_ - su \ -- administrator
+e	Ekhartaya -- administration
+e	Ekhlami \ e - ' xl_ - mi \ -- among them
+e	Ekon \ e - ' kon \ -- god, deity
+e	Ekon-, Ekonik -- godly, divine
+e	Ekon-dva -- deism, belief in god(s)
+e	Ekon-shoret -- pray (v.)
+e	Ekruman-, Ekrumanik -- adequate
+e	Eku \ ' ek - u \ -- whole (n.)
+e	El'dayek -- (hand)crank (n.)
+e	El'es -- freedom
+e	El'mish \ ' el - mi_ \ -- device, apparatus
+e	El'neshek -- scissors, shears
+e	El'rek -- handle (n.)
+e	El'ru \ el - ' ru \ -- hand
+e	El'ru-pohshayek \ - p__ - ' _ - jek \ (TGV) -- pistol, handgun
+e	El'ru-pohshek \ - ' p__ - ek \ (MGV) -- pistol, handgun
+e	El'ru-wek-zehlek -- hand phaser
+e	El'ruhik \ el - ' ru - hik \ -- manual (adj.)
+e	El'tanarau -- manipulate
+e	El'urokesor \ el - u - ' ro - ke - sor \ -- sickle
+e	El-, Elik -- free
+e	El-nala -- corpuscle
+e	El-tor \ el - ' tor \ -- (set) free, release
+e	El-wak -- leisure
+e	Elakh \ e - ' l_x \ -- cable, cord, line
+e	Elakh-mev -- cable duct
+e	Elakh-og -- cable stitch (n.)
+e	Elakh-torai-vel -- cable release
+e	Elakh-yonshaya -- corditis
+e	Elakhtra -- cabling, rigging (n.)
+e	Elat \ el - ' _t \ -- knob
+e	Elek \ el - ' ek \ -- pointer, hand (of a clock, etc.)
+e	Elek-wak-vel -- analog clock
+e	Elkhrul|-| \ el - ' xrul \ -- entire, whole (adj.)
+e	Elmin \ ' el - min \ -- oil (n.)
+e	Elmuvak \ ' el - mu - v_k \ -- ointment, unction
+e	Elsaku \ el - ' s_ - ku \ -- leash, tether (n.)
+e	Enem-tor \ e - ' nem - tor \ -- delete
+e	Enok-kal fi-lar (NGS) -- training: processes of definition
+e	Ertau -- bother, disturb
+e	Es'merka \ es - ' mer - k_ \ (anc.) -- habit(s)
+e	Esh -- breath
+e	Esh-mev -- airway, trachea, windpipe
+e	Esh-nala -- alveolus
+e	Esh-pehkaya-nosh -- apnea
+e	Esh-prash -- phlegm
+e	Esh-tor -- breathe
+e	Esh-tukh -- oxygen
+e	Esh-tukh-tuhlek -- oxygen tank
+e	Esh-tukhaya -- oxygenation
+e	Esh-tukhovaya -- oxidation
+e	"Eshak \ e - ' __k , ' e - __k \ (NGS) -- ""eschak"", destructive psychokinetic effects"
+e	Eshan \ e_ - ' _n \ -- breathing
+e	Eshikh \ e - ' _ix \ -- desert
+e	Eshikh-salan -- sirocco
+e	Eshu'a \ e - ' _u - _ \ (anc.) -- demon
+e	Estuhl -- touch (v.)
+e	Etek \ ' et - ek \ -- us, we (normal)
+e	Etwel \ ' et - wel \ -- us, we (superior)
+e	Ezyak \ ez - ' j_k \ (obs.) -- uncle
+e	Ezyet \ ez - ' jet \ (obs.) -- aunt
+f	Fa' -- before, in front of (prep.)
+f	Fa'ariben \ f_ - _ - ' ri - ben \ -- foretell
+f	Fa'rak \ ' f_ - r_k \ -- forward(s)
+f	Fa'vutau -- summon, send for
+f	Fa'vutaya -- summoning
+f	Fa'vutak -- summons
+f	Fa-gad -- tomorrow
+f	Fa-glan -- foresight
+f	Fa-ko-mekh -- grandmother
+f	Fa-komi -- grandma, nana
+f	Fa-krus -- forepart, front end
+f	Fa-patam -- forehead
+f	Fa-rala -- canard, foreplane
+f	Fa-sa-mekh -- grandfather
+f	Fa-sami -- grandpa, gramps
+f	Fa-vikau -- forewarn
+f	Fa-wak \ ' f_ - w_k \ -- future
+f	Fa-wak-glansu -- prophet
+f	Fabehal-tor -- pass, overtake
+f	Faf-kur -- pink (color)
+f	Fah-yat \ f_' - ' j_t , f_ - \ (anc.) -- balcony
+f	Fai-tor -- know
+f	Fai-tukh -- knowledge
+f	Faik -- data
+f	Faik-khush -- data crystal
+f	Faik-pastorayek -- data processor (device)
+f	Faik-tsoraya -- data storage
+f	Faik-vistra -- data network
+f	Faika-, Faikaik -- exact (adj.)
+f	Faiktra -- database
+f	Fainu -- (the) known (n.)
+f	Faka \ ' f_ - k_ \ -- hernia
+f	Fakovau \ f_ - ko - ' va_ \ -- prevail
+f	Fal|-| -- hot
+f	Fal-tor \ f_l - ' tor \ -- rejoin, reunite, put back together
+f	Fal-tor-pan -- refusion of body and soul
+f	Falek \ ' f_l - ek \ -- heat
+f	Falek'es -- temperature
+f	Falkrashaya -- ablation
+f	Falun \ f_ - ' lun \ -- charge (n., electrical)
+f	Fam -- lack, dearth
+f	Fam-kursu -- albino (person)
+f	Fam-shidik -- amorphous, shapeless
+f	Fan|-| -- any
+f	Fan-kitok -- anything else
+f	Fan-veh -- anyone, anybody
+f	Fan-vel -- anything
+f	Fan-wilat -- anywhere
+f	Fanet \ f_ - ' net \ -- ornament (n.)
+f	Farmah \ ' f_r - m_' , - m_ \ -- welcome (v.)
+f	Farsu -- host (n.)
+f	Fas-nentu -- brazier (for cooking)
+f	Fas-tor -- cook (v.)
+f	Fasarlah -- come forward
+f	Fasei \ f_ - ' se_ \ -- this here, this very one
+f	Fasek \ ' f_s - ek \ -- oven
+f	Fash -- hood (n.)
+f	Fassu \ ' f_s - su , ' f_s - u \ -- cook (n.)
+f	Fator -- continue
+f	Fator'es -- continuity
+f	Fatorli -- continuous
+f	Fau-tor \ fa_ - ' tor \ -- ride (v.)
+f	Fau-yut \ ' fa_ - jut \ -- road, street
+f	Faukh -- battle (n.)
+f	Fe-vesht-varik vash-ukraluk t'Terra -- dinosaur
+f	Feh -- peak (n.)
+f	"Feihan \ fe_ - ' h_n \ -- ""feyhan"", chief, team leader, boss"
+f	Feim -- list (n.)
+f	Feim-tor -- list (v.)
+f	Fek -- pole, rod, staff, post, stick
+f	Fek-besan -- bar graph (n.)
+f	Fek-kiht -- bar code (n.)
+f	Fel -- oar, paddle (n.)
+f	Fel-tor -- paddle, row (v.)
+f	Felu \ fe - ' lu \ -- nail (finger, toe)
+f	Felu-nen-wadi -- cuticle (nail)
+f	Fen -- seal (n.)
+f	Fen-tor -- seal (v.)
+f	Fenul \ fe - ' nul \ -- seam (n.)
+f	Fer-tor -- generate
+f	Fereh \ ' fer - _ \ -- engender (v.)
+f	Fereik'es -- inventiveness, creativity
+f	Fereik-folayek -- breeder reactor
+f	Fereik-tor -- invent, create
+f	Fereikan -- invention, creation
+f	Fereiksu -- inventor, creator
+f	Ferek \ ' fer - ek \ -- generator
+f	Feretah \ fer - e - ' t_' , - ' t_ \ -- assemble, put together
+f	Feretah-zehl -- assembly line
+f	Feretai \ fer - e - ' ta_ \ -- assembly (mech.)
+f	Feretau \ fer - e - ' ta_ \ -- assemble, gather
+f	Feretaya -- assembly, gathering (of people)
+f	Feshek \ ' fe - ek \ -- abdomen
+f	Feshel \ fe - ' el \ -- disruption
+f	Feshel-tor -- disrupt
+f	Feshelek \ fe - ' el - ek \ -- disrupter
+f	Feshelek-zehl -- disrupter beam
+f	Fezanikau -- forecast (v.)
+f	Fezhau \ fe - ' a_ \ -- dissolve
+f	Fi' -- atop, on, upon (prep.)
+f	Fihal-tor -- embark, emplane, get on(to)
+f	Fihet \ fi - ' het \ -- stable (adj.)
+f	Fihish-tor -- to leave a mark in or on something
+f	Fik -- top
+f	Fim -- dose (n.)
+f	Fim-thonek -- dosimeter
+f	Fimah -- dosage
+f	Fimau \ fim - ' a_ \ -- dose (v.)
+f	Fir-tor \ fir - ' tor \ -- brace (v.)
+f	Firan \ ' fir - _n \ -- bracing (n.)
+f	Fish-tor -- damp(en), turn down, lower (a setting)
+f	Fishek -- damper, dampener
+f	Fitartausu -- executive (n.)
+f	Fitor \ ' fi - tor \ -- carry out, execute
+f	Fitorsu -- executor, executrix
+f	Flakosh \ fl_ - ' ko \ -- distress (n.)
+f	Flakosh-glantokaya -- distress signal
+f	Flakosh-glaribek -- distress beacon
+f	Flan -- intense
+f	Flan'es -- intensity
+f	Flanapau \ fl_ - n_ - ' pa_ \ -- specialize
+f	Flash -- swamp (n.)
+f	Flau -- pollute
+f	Fleitau \ fle_ - ' ta_ \ -- strip (away)
+f	Flekh-, Flekhik -- odd, strange, weird, anomalous
+f	Floku -- spoon (n.)
+f	Flutash \ flu - ' t_ \ -- placenta
+f	Fmak (anc.) -- sanctuary
+f	Fmel (anc.) -- alchemist
+f	Fmelaf (anc.) -- alchemy
+f	Fna' -- due to, through, via (prep.)
+f	Fna-sov-threshan -- airspeed
+f	Fna-svep -- airlock
+f	Fnash-vel -- broom, besom
+f	Fnashtau \ fn_ - ' ta_ \ -- sweep (v.)
+f	Fnau|-| -- tame, domesticated (adj.)
+f	Fnek-tukh -- bromine
+f	Fnish-tor -- smell (v.)
+f	Fnu-vein t'vuhn-koshtri -- racism
+f	Fnu-veisu t'vuhn-koshtri -- racist
+f	Fnu-ven \ ' fnu - ven \ -- hate, hatred
+f	Fo -- shell (anc.)
+f	Fo-dan \ fo - ' d_n \ -- shield (n.)
+f	Fo-wein -- armor, shutter
+f	Fokarikau \ fo - k_ - ri - ' ka_ \ -- reinforce
+f	Folau \ fo - ' la_ \ -- react
+f	Folaya -- reaction
+f	Folu \ ' fo - lu \ -- turquoise (stone)
+f	Folu-kur -- turquoise (color)
+f	Fon-ta-nel (NGS) -- children's game similar to blindman's bluff
+f	Fonn \ fo \ -- loyal
+f	Fonn'es -- loyalty
+f	Fori-kol -- Vulcan vegetable stew
+f	Fosh -- defense
+f	"Fosh-lan \ ' fo - l_n \ -- First lieutenant (army/marines); Lieutenant (jg) (navy/Starfleet)"
+f	Fosh-tor -- defend
+f	Foshek \ ' fo - ek \ -- barrier, barricade
+f	Foshinahru (anc.) -- defensive psionic warrior
+f	Foshsu \ ' fo - su \ -- defender
+f	Foshuhl \ ' fo - l , - l \ -- shed (v.)
+f	Frut -- sump (n.)
+f	Frut-spol -- sump pump
+f	Fudau -- regard (v.)
+f	Fukat \ fu - ' k_t \ -- buffer (n.)
+f	Fukat-raf-kuv -- buffer circuit
+f	Fulag-tor -- lead (v.)
+f	Fulagsu -- leader
+f	Fun-tor -- return (v.)
+f	Fun-wun \ fun - ' wun \ -- ancient boomerang-like weapon
+f	Fupa s' -- according to
+f	Fusik \ ' fus - ik \ -- bashful, shy
+g	G'teth \ g - ' te \ (NGS) -- Vulcan bush whose berries are made into a mocha-like drink
+g	Gad -- day
+g	Gad t'keshtan -- birthday
+g	Gad-besan -- calendar
+g	Gad-dunap -- diary
+g	Gad-ha'gel -- daylight
+g	Gad-keshtan -- daybreak
+g	Gad-wak \ ' g_d - w_k \ -- daytime (n.)
+g	Gaf -- hip
+g	Gahv -- amethyst
+g	Gakh -- wart
+g	Gal-tor -- lean, list (v.)
+g	Galat \ g_l - ' _t \ -- lean, list (n.)
+g	Galu \ g_ - ' lu \ -- atom
+g	Galu-dahshau-folayek -- (atomic) fission reactor
+g	Galu-dahshaya -- (atomic) fission
+g	Galu-kaunshau-folayek -- (atomic) fusion reactor
+g	Galu-kaunshaya -- (atomic) fusion
+g	Galu-svitan -- (atomic) nucleus
+g	Galu-thorshek -- atomic bomb
+g	Galupik \ g_ - ' lu - pik \ -- atomic
+g	Galutravek \ g_ - ' lu - tr_ - vek \ -- molecule
+g	Gan|-| -- shallow
+g	Gas'rak \ ' g_s - r_k \ -- right (direction)
+g	Gasu -- flux (n.)
+g	Gatselau \ g_ - tse - ' la_ \ -- entertain
+g	Gatselausu -- entertainer
+g	Gatselaya -- entertainment
+g	Gau -- pulse, pulsate, throb (v.)
+g	Gav -- chalk
+g	Gef -- coast, (sea)shore
+g	Gehnli -- essential (adj.)
+g	Gel -- branch (n., path or segment)
+g	Gel-tor -- branch (v.)
+g	Geldau -- hang (v., dangle)
+g	Geldel -- fringe, decorative border
+g	Gen-lis \ gen - ' lis \ -- language
+g	Geretau -- protect
+g	Geretausu -- protector (person)
+g	Geretaya -- protection
+g	Gir -- root (n.)
+g	Gis-tukh -- arsenic
+g	Gisam \ gis - ' _m \ -- poison
+g	Gish -- expect
+g	Gishat \ gi - ' _t \ -- expectation
+g	Gishen \ ' gi - en \ -- what one expects
+g	Gishu -- (the) expected (n.) 
+g	Gla-tor -- see (v.)
+g	Glan -- sight
+g	Glan-fam -- blind, sightless
+g	Glan-fam'es -- blindness, sightlessness
+g	Glan-Famu -- The Blind (blind people)
+g	Glantau -- observe
+g	Glantaya -- observation
+g	Glantokau -- signal (v.)
+g	Glantokaya -- signal (n.)
+g	Glashau -- scan (v.)
+g	Glat -- sign (n.)
+g	Glayek \ ' gl_ - jek \ -- camera
+g	Glazhau -- look (v.)
+g	Glozho \ ' glo - o \ -- elixir (anc.)
+g	Glu|-| -- deep
+g	Gluder \ glu - ' der \ -- depth
+g	Gluder-thonek -- depth finder
+g	Gluv-math -- display panel
+g	Gluv-mesk -- display case
+g	Gluvau -- display, exhibit, show (v.)
+g	Gluvayek -- display screen
+g	Gmor (anc.) -- mirage
+g	Gnal \ gn_l \ -- tumor
+g	Gnihsau -- snap (v., bite at, fly open, etc.)
+g	Go'an (anc.) -- Han'shir's central desert
+g	Gof -- toe
+g	Goh -- only, merely
+g	Gol (anc.) -- famed region of Vulcan, home to the Kolinahru and others
+g	Gol'nev -- aid, help (n.)
+g	Gol'nevsu -- aide, helper
+g	Gol-tor -- aid, help (v.)
+g	Gol-tukh -- rubidium
+g	Gonaf \ ' go - n_f \ -- button
+g	Gor -- knot (n.)
+g	Gosh -- abyss
+g	Gotsu \ ' got - su \ -- heir
+g	Grashau -- abrade
+g	Grashaya -- abrasion
+g	Grashayek -- abrasive (n.)
+g	Grat -- skull
+g	Grazhau -- grind (v.)
+g	Grazhiv -- dust, powder (n.)
+g	Grazhiv-sahriv -- dust storm
+g	Grei -- limit (n.)
+g	Grenat \ gre - ' n_t \ -- domain
+g	Grohk \ gr_k \ -- perversion
+g	Grok-tukh -- bismuth
+g	Grut -- agate
+g	Gu-vam \ gu - ' v_m \ (anc.) -- duty
+g	Gubi \ ' gu - bi \ (anc.) -- stigma
+g	Guf -- socket
+g	Guhf-, Guhfik -- boring, dull (adj.)
+g	Guhl'es -- confidence
+g	Guhras-zhit -- invective (n., grammar)
+g	Guhsh \ g , g \ -- debris, garbage, refuse, trash, offal, rubbish
+g	Guramau \ gu - r_ - ' ma_ \ -- appal(l)
+g	Guramayik -- appalled (adj.)
+g	Guv -- gender, sex
+h	Ha -- yes, affirmative
+h	Ha'au -- dwell, live (v.)
+h	Ha'fek \ ' h_ - fek \ -- candle
+h	Ha'gel \ h_ - ' gel \ -- light (illumination)
+h	Ha'gel-neyek -- dimmer (switch)
+h	Ha'gel-tanaf -- photography
+h	Ha'gel-tanafsu -- photographer
+h	Ha'gelet -- (electric) light, electric lamp, any device that gives off light
+h	Ha'kiv \ h_ - ' kiv \ -- life
+h	Ha'tanau -- give off light
+h	Ha'u \ h_ - ' u \ -- the Living
+h	Ha-donka'es -- biodiversity
+h	Ha-ek'shal -- ecosphere
+h	Ha-ek'torektra -- ecosystem
+h	Ha-ha'tanaya -- bioluminescence
+h	Ha-kel \ h_ - ' kel \ -- home
+h	Ha-meil-tal -- biochemistry (study)
+h	Ha-tal \ ' h_ - t_l \ -- biology (study)
+h	Ha-tehvar -- biological hazard, biohazard
+h	Ha-tor \ h_ - ' tor \ -- live (v.)
+h	Ha-vel-ahkhan -- biological warfare
+h	Ha-wak-vel -- biological clock
+h	Haf -- gap
+h	Hafa'el \ h_ - ' f_ - el \ (anc.) -- hostel(ry), inn
+h	Hafan-tor -- stay (v., spending time/being a guest)
+h	Hafau -- remain (behind), stay (behind)
+h	Hag-, Hagik -- easy, facile
+h	Hahf -- adversary, foe
+h	Haifan \ ha_ - ' f_n \ -- banner, flag, pennant
+h	Haishau \ ha_ - ' a_ \ -- demand (v.)
+h	Hakau -- heal (v.)
+h	Hakausu -- healer
+h	Hakur-, Hakurik -- vivid
+h	Hal (anc.) -- car, cart
+h	Hal-masu -- gasoline, petrol, liquid fuel
+h	Hal-sov-mishek -- carburetor
+h	Hal-tor -- go, proceed
+h	Halan \ ' h_l - _n \ -- trip, trek, voyage
+h	Halek \ ' h_l - ek \ -- wheel
+h	Hali \ ' h_l - i \ -- conveyance, craft, ship, vehicle
+h	Halitra -- fleet
+h	Halitra-lan -- admiral
+h	Halovau -- journey, travel (v.)
+h	Halovaya -- journey, travel (n.)
+h	°Halovaya t'Falor° -- Falor's Journey (a tale of enlightenment with 348 verses)
+h	Han -- nose
+h	Haniwah \ h_n - ' i - w_' , - w_ , - w_ \ (NGS) -- Vulcan seed-plant
+h	Hanuvau -- flicker (v.)
+h	"Haran \ ' h_ - r_n \ (anc.) -- legendary ""fire beast"""
+h	Has -- disease
+h	Has-bosh -- sick
+h	Has-dvinsu -- orderly (n., med.)
+h	Has-golsu, Has-gol'nevsu -- nurse (n., med.)
+h	Has-mar -- sickness
+h	Has-mashek -- amp(o)ule (containing medicine)
+h	Has-tal -- medicine (the medical field)
+h	Hasam \ h_s - ' _m \ -- toxin
+h	Hasau -- sicken, become ill
+h	Haseret -- medicine (medication)
+h	Hash-hassu -- flight surgeon
+h	Hash-hutau -- buffet (aero.)
+h	Hash-hutaya -- buffeting (aero.)
+h	Hash-mishek -- flight engineer
+h	Hash-tal -- aeronautics
+h	Hash-tash -- flight control
+h	Hash-tor -- fly (v.)
+h	Hash-vulu -- angle of attack (aero.)
+h	Hash-yut -- flight path
+h	Hashan-mathra -- flying saucer
+h	Hashsu -- aviator, flier, pilot
+h	Hashsu-shal -- cockpit (aero.)
+h	Hassu \ ' h_s - su , ' h_s - u \ -- healer, doctor, physician
+h	Hasu \ ' h_ - su \ -- a living person/being
+h	Hasuk \ h_s - ' uk \ -- medical (adj.)
+h	Hau -- add (v.)
+h	Hau-vel -- addend
+h	Haul-kur -- silver (color)
+h	Haul-tor -- reflect
+h	Haul-tukh -- silver (metal)
+h	Haulan \ ' ha_l - _n \ -- reflection
+h	Haulat \ ha_l - ' _t \ -- mirror
+h	Haulek \ ' ha_l - ek \ -- reflector
+h	Haurok -- a Vulcan bird
+h	Haya -- addition
+h	Hayaik -- additional
+h	Hayal|-| \ h_ - ' j_l \ -- calm, placid
+h	Hayalit -- a small Vulcan burrowing animal
+h	Hayatau -- augment (v.)
+h	Hayataya \ h_ - j_ - ' t_ - j_ \ -- augmentation
+h	Heh \ he, h_ \ -- and (after a consonant sound)
+h	Herbosh \ her - ' bo \ -- empty
+h	Herik -- suitable
+h	Herish-tor -- blend (v.)
+h	Herishek -- blender (device)
+h	Hertak \ ' her - t_k \ -- baffle (n.)
+h	Hertak-math -- baffle plate
+h	Hesha \ he - ' _ \ -- fold (v.)
+h	Hi -- but
+h	Hif-bi -- to me (superior)
+h	Hiktra -- font (type)
+h	Hil-tor -- dig (v.)
+h	Hilek \ ' hil - ek \ -- digger, shovel, spade
+h	Hinek \ hi - ' nek \ -- bone
+h	Hinek-masu -- (bone) marrow
+h	Hinek-tukh -- calcium
+h	Hinekau \ hi - nek - ' a_ \ -- calcify, ossify
+h	Hirat (anc.) -- grape-like Vulcan plant
+h	His-tor -- strain (v.)
+h	Hish-pla-kur -- cyan (color)
+h	Hish-tor -- print, press (down on)
+h	Hishek \ ' hi - ek \ -- press (n.)
+h	Hishel \ hi - ' el \ -- stress (n.)
+h	Hishsu \ ' hi - su \ -- printer (person)
+h	Hitra -- media
+h	Hiya'es \ hi - ' j_ - es \ -- expertise
+h	Hiyasu -- expert (n.)
+h	Hiyet \ hi - ' jet \ -- enough
+h	Hizhuk -- quiet (adj.)
+h	Ho-rah (anc.) -- ritual
+h	Hohl-tor -- shave (v.)
+h	Hoknau \ hok - ' na_ \ -- accumulate, gather (up)
+h	Hoknaya -- accumulation, gathering (up)
+h	Hokni'es \ ' hok - ni - es \ -- consciousness
+h	Holsh -- myth
+h	Holsh-tal -- mythology
+h	Holshan-, Holshanik -- mythical
+h	Hosh-tukh -- fluorine
+h	Hotor-, Hotorik -- formal (adj.)
+h	"Hu'a \ ' hu - _ \ (anc.) -- mythological demon seductress; succubus"
+h	Hudokal-, Hudokalik -- delighted (adj.)
+h	Hudokau -- delight (v.)
+h	Hudokaya -- delight (n.)
+h	Huhk \ hk , hk \ -- hiccup (n.)
+h	Huhsh \ h , h \ -- cough (n.)
+h	Huht-, Huhtik -- solid (adj.)
+h	Hushau -- gasp (v.)
+h	Hutau -- shake, quake (v.)
+h	Huun -- oops
+i	I, I' -- now
+i	If -- which
+i	Ifis \ i - ' fis \ -- transport(ation)
+i	Ifis-tor \ i - fis - ' tor \ -- transport (v.)
+i	"Ifis-ur \ i - ' fis - ur \ -- travel tube, ""subway"""
+i	Ifisek \ i - ' fis - ek \ -- transporter
+i	Igen \ i - ' gen \ -- sky
+i	Igen-tukh -- atmosphere
+i	Igen-va -- weather
+i	Igen-wesh -- lightning (obs.)
+i	Ihat-, Ihatik -- extant
+i	Ihn'es -- density
+i	Ihn-, Ihnik -- dense
+i	"Ihk-banut (anc.) -- ""the subject of discussion"", ""the one who is being spoken of"""
+i	Ihsek \ _s - ' ek \ -- fog (n.)
+i	Ihsek-pasht -- fogbound
+i	Ihsek-vikayek -- foghorn
+i	Ihsekweik \ _s - ' ek - we_k \ -- foggy
+i	Ihv-mofek -- pry bar
+i	Ihv-tor -- pry (v.)
+i	Ihv-vel -- crowbar
+i	Ikap-, Ikapik -- closed (adj.)
+i	Ikap-raf-kuvik -- closed circuit (adj.)
+i	Ikap-shal-pthak -- claustrophobia
+i	Ikap-tor -- close, shut (v.)
+i	"Ikapirak -- meditation: ""closed posture"""
+i	Iksevau \ ik - se - ' va_ \ -- annoy
+i	Iksevaunik -- annoyed (adj.)
+i	Ikun \ i - ' kun \ -- cone (shape)
+i	Il -- or, nor
+i	Il-eh \ il - ' e , - ' _ \ -- and/or
+i	Im-tukh -- argon
+i	In-du-ka (NGS) -- small, red-leafed tree found near water
+i	Inam-, Inamik -- existent (adj.)
+i	Ip-sut (anc.) -- conceal, hide
+i	Ir -- distance
+i	Ir-zehl-kes -- azimuth
+i	Irak|-| \ i - ' r_k \ -- far, distant
+i	Is -- use (n.)
+i	Is-bosh -- useful
+i	Is-fam-, Is-famik \ ' is - f_m \ -- useless
+i	Is-lof \ is - ' lof \ -- function (n.)
+i	Is-tor -- use (v.)
+i	Isachya \ i - ' s_t - j_ \ -- hair
+i	Isan \ ' is - _n \ -- usage
+i	Ish-veh -- that one
+i	Isha \ ' i - _ \ -- also, too
+i	Iskan \ is - ' k_n \ -- economy
+i	Iskan-tal -- economics (study)
+i	Iskan-talsu -- economist
+i	Istau -- wish (v.)
+i	Istaya -- wish (n.)
+i	Isu-keh -- a type of Vulcan bush
+i	It -- tact
+i	It-bosh \ ' it - bo \ -- tactful (adj.)
+i	It-fam-, It-famik -- tactless (adj.)
+i	Itaren \ i - ' t_ - ren \ -- thank (v.)
+i	Iwi|-| \ i - ' wi \ -- immediate(ly)
+i	Iyi-, Iyik -- contemporary, modern
+i	Iyula \ i - ' ju - l_ \ -- culture
+i	Izau -- shift (v.)
+i	Izayek \ i - ' z_ - jek \ -- shifter, shift lever
+i	Izh -- snow (n.)
+i	Izh-ash'el -- showshoe
+i	Izh-sahriv -- snowstorm, blizzard
+i	Izh-vok -- snow level
+i	Izh-wef -- snowflake
+i	Izh-zahzek -- snow plow
+i	Izhau -- snow (v.)
+i	Izhyan-, Izhyanik -- snowy (adj.)
+k	K'ashiv \  - '  \ -- often
+k	K'avon (TGV) \  - '  \ -- hungry
+k	K'ha \  - '  \ -- alive
+k	K'ha-solektau-pthak -- taphephobia
+k	K'hu'kru \  - '  -  \ -- babble, hubbub
+k	K'kan \  - '  \ -- pregnant
+k	"K'kari \  - '  -  \ (NGS) -- ""k'karee"", a mottled, blue-grey poisonous snake"
+k	K'kla-min -- in fact, in all actuality
+k	K'kvai \  - '  \ -- through (TGV rare, MGV obs.)
+k	K'kvai'ei \  -  - '  \ -- through which (TGV)
+k	K'kvayei \  -  - '  \ -- through which (MGV)
+k	K'mag (TGV) \  - '  \ -- thirsty
+k	K'oh-nar (anc.) -- fear of being completely exposed in a vulnerable situation
+k	K'puu \  - '  \ -- at least
+k	K'shatri \  - '  -  \ (anc.) -- foreign
+k	K'torr \  - ' R \ (anc.) -- completely lacking something
+k	K'wuhli \  - '  -  , - '  - \ -- apart, separate (from)
+k	K'zung (TGV) -- tired, fatigued
+k	Ka -- same, equally (adv.)
+k	Ka'a \  - '  \ -- as, like, similar to, akin to
+k	"Ka'athaira -- ""ka'athyra"", a Vulcan musical instrument"
+k	Ka'es -- equality
+k	Ka'yed \  - '  \ (anc.) -- axiom
+k	Ka-, Kaik -- same, equal (adj.)
+k	Ka-gad -- equinox
+k	Ka-ir-, Ka-irik -- equidistant (adj.)
+k	"Ka-ni-fur (NGS) -- ""ka-nifur"", first ritual of maturity"
+k	Ka-reh-vla -- equilateral triangle
+k	Ka-shal-salehm -- equal-area projection
+k	"Ka-ta-pak (NGS) -- ""The Inner Chorus"", understanding of one's emotions as manifestations of the gods"
+k	Ka-tala'es -- equivalence
+k	Ka-tala-, Ka-talupik -- equivalent (adj.)
+k	Kad -- bump (n.)
+k	Kafeh -- slave, bonded servant
+k	Kafunik -- random
+k	Kahai -- flash (v.)
+k	Kahai-sfek -- flash point
+k	Kahat \  - '  \ -- flash (n.)
+k	Kahatek -- flasher (device)
+k	Kahkrus \ ' ' -  , '  - \ -- district
+k	Kahkwa \ ' - '  ,  - \ (mostly obs.) -- alike, similar
+k	Kahla \ ' ' -  , '  - \ -- inertia
+k	Kahm -- flesh, meat
+k	Kahm-yokulsu, Kahm-yokulfa -- carnivore, meat-eater
+k	Kahn-tor -- boil (v.)
+k	Kahnek -- boiler
+k	Kahr -- city, town
+k	Kahr-lan -- general (officer)
+k	Kahs-hir (anc.) -- an ornamental dark stone, usually black
+k	Kahs-wan (anc.) -- Vulcan coming-of-age survival test
+k	"Kaht -- garnet; cat"
+k	Kai -- step, stage (in a process)
+k	Kai'tan \  - '  \ (anc.) -- pain and muscle control
+k	Kai-ros \ '  -  \ -- children's game similar to hopscotch
+k	Kaiden \ '  -  \ -- stairs, staircase, steps
+k	"Kaiidth \  - '  \ (NGS) -- ""What is, is"""
+k	Kaisu \ '  -  \ -- sibling
+k	Kak -- jar (n.)
+k	Kakhartau -- guide (v.)
+k	Kal-ap-ton (NGS) -- ancient personification of grief
+k	Kal-Rekk (NGS) -- Vulcan holiday of atonement and silence
+k	Kal-toh \  - '  , - '  \ (NGS) -- a Vulcan logic puzzle
+k	Kal-tor \  - '  \ -- allow, let
+k	Kala -- thorny plant often used for hedges
+k	Kali-tor -- challenge (v.)
+k	Kaluk -- ear
+k	Kaluk-ek'zerut -- earring
+k	Kaluk-kusut -- earache
+k	Kaluk-ralashek -- earphone
+k	Kaluk-vel -- earpiece
+k	Kam-nat \  - '  \ (anc.) -- treason (obs.)
+k	Kambus \ '  -  \ -- shingle (n.)
+k	Kamu \ '  -  \ -- roof (n.)
+k	Kan -- child
+k	Kan-palutunausu -- nanny
+k	Kan-sorn (NGS) -- a very deep, self-induced, defensive trance
+k	Kanok \  - '  \ -- every
+k	Kanok-veh -- everyone, everybody
+k	Kanok-vel -- everything
+k	Kanok-wilat -- everyplace, everywhere
+k	Kap -- bread
+k	Kapiratau -- discard, throw away, cast away
+k	Kapol \  - '  \ -- filter (n.)
+k	Kapol-dun -- filter paper
+k	Kapol-lantra -- filter bed
+k	Kapol-nafek -- kidney
+k	Kapol-tor -- filter (v.)
+k	Kapol-toran -- filtration
+k	Kapol-yokulek -- filter feeder
+k	Kapralau -- fluctuate
+k	Kapralaya -- fluctuation
+k	Kar -- arm (n.)
+k	"Kar-an-zhi (NGS) -- ""ka-ranji"", a tall cactus-like Vulcan plant"
+k	Kar-nef -- elbow
+k	Kar-nik -- wrist
+k	Karf -- fragment (n.)
+k	Karik -- strong (adj.)
+k	"Karil \  - '  \ (NGS) -- ""Kareel"", Winter (season)"
+k	Kas'el|-| -- lazy (adj.)
+k	Kas-elakh -- vine, tendril
+k	Kasa -- a blue-green Vulcan fruit
+k	Kash-naf -- mind-link, mind-meld
+k	Kash-ral -- sense (n.)
+k	Kash-tok -- intelligent
+k	Kash-tor -- sense (v.)
+k	Kashan -- sensation
+k	Kashek \  - '  \ -- (the) mind
+k	Kashkau \  - '  \ -- minds (eg. in melding, etc.)
+k	Kashovau -- sensitize
+k	Kastik \ '  -  \ -- plant (n.)
+k	Kastik-goh-yokulsu -- vegetarian
+k	Kastik-sokasitausu -- plant cultivator
+k	Kastik-yokulfa -- herbivore
+k	Kastoral-, Kastoralik -- encouraged (adj.)
+k	Kastorau -- encourage
+k	Kastoraya -- encouragement
+k	Kastorilak -- stimulant (n.)
+k	Kastorilal-, Kastorilalik -- stimulated (adj.)
+k	Kastorilau -- stimulate
+k	Kastorilaya -- stimulation
+k	Kastorilayek -- stimulator (device)
+k	Kasu \ '  -  \ -- equal (person)
+k	Katachik \  - '  -  \ -- aggravated (adj.)
+k	Katak \ '  -  \ -- placebo
+k	Katau \  - '  \ -- bring
+k	Katelau -- mate (v.)
+k	Kath-vuk \  - '  \ (anc.) -- syndrome
+k	Katra \ '  -  \ -- soul, spirit, essence
+k	Katravah-vel -- fellowship
+k	Katravahsu -- associate, fellow
+k	Katravek \  - '  -  \ -- association
+k	Katrom \  - '  \ -- current (elect. & water)
+k	Kau -- wisdom
+k	Kau-bosh -- wise
+k	Kau-leh -- fifty
+k	Kau-leh'rak, kau-lehr- -- fiftieth (adj.)
+k	Kau-leh'veh -- fiftieth (n.)
+k	Kau-tor -- grow or become wise
+k	Kauk -- even (adj.)
+k	Kau|kuh| -- five
+k	Kaul-tukh -- vanadium
+k	Kaunshal-, Kaunshalik -- united (adj.)
+k	Kaunshal-Teraya t'Ek'tralar (TGV/MGV) -- United Federation of Planets
+k	Kaunshau -- to unite
+k	Kaunshaya -- unity
+k	Ke (TGV) -- that, which, who (not a question word)
+k	Ke-ta-yatar (anc.) -- ancient fighting style designed to kill
+k	Ke-tarya (anc.) -- an ancient fighting style
+k	Kebi \  - '  \ -- unit
+k	Kebitra -- facility
+k	Kef-, Kefik -- emergency (adj.)
+k	Kef-dvelek -- emergency switch
+k	Kef-ferek -- emergency generator
+k	Kef-fisolekau-mal -- emergency landing leg
+k	Kef-ha'kiv-nenikaya -- emergency life support
+k	Kef-ifisek -- emergency transporter
+k	Kef-kipok -- emergency battery
+k	Kef-kluhvau-krau -- emergency flush vent
+k	Kef-rishan-tsorayek -- emergency survival compartment
+k	Kef-thro-svep -- emergency hatch
+k	Kef-tuhlau-vis -- emergency containment grid
+k	Kefik has-reh-bikuvsu -- emergency medical hologram (EMH)
+k	Kefik tehn-sesh-kwitek -- emergency anti-grav thruster
+k	Keh-leh -- forty
+k	Keh-leh'rak, keh-lehr- -- fortieth (adj.)
+k	Keh-leh'veh -- fortieth (n.)
+k	Keh|kuh| -- four
+k	Kehr-, Keh'rak -- fourth (adj.)
+k	Kei|-| -- fierce
+k	Keimen|-| \ '  -  \ (anc.) -- ferocious
+k	Kel -- building, structure
+k	Kelek \ '  -  \ -- house, dwelling
+k	Ken-tor -- understand
+k	Kenel \  - '  , '  -  \ -- extinct horse-like Vulcan animal
+k	Kenelsu -- kenel-rider
+k	Kep -- gong (n.)
+k	Kerik \ '  -  \ -- worthy
+k	Kes -- arc
+k	Kesek \ '  -  \ -- arch
+k	Kesazh \  - '  \ -- navel, umbilicus, belly button
+k	Keshtan \  - '  \ -- birth
+k	Kesik \ '  -  \ -- likely
+k	Ket'es -- integrity
+k	Kethelvau \  -  - '  \ -- describe
+k	Kethtra \ '  -  \ -- lore (n.)
+k	Ketilau \  -  - '  \ -- integrate
+k	Kevas -- medicinal Vulcan herb
+k	Kevetsu \  - '  -   \ -- ambassador
+k	Kh'reitekh (NGS) -- region in the northern hemisphere of Vulcan
+k	Kha'wal \ '  -  \ -- joke (n.)
+k	Khaf -- blood
+k	"Khaf-kur -- a green color (lit. ""blood green"")"
+k	Khaf-spol -- heart
+k	Khaf-tukh -- copper
+k	Khar-, Kharik -- direct (adj.)
+k	Khara (NGS) -- Vulcan desert bush with edible pulp
+k	Kharat \  - '  \ -- direction
+k	Kharlah -- route (v.)
+k	Kharlahek -- router (electr.)
+k	Khart-lan \ '  -  \ -- captain (navy/Starfleet)
+k	Khartau \  - '  \ -- command, direct, manage
+k	Khat-, Khatik -- grave, serious
+k	Khau -- rule (v.)
+k	Khav-kur \ '  -  \ -- brown (color)
+k	Kheh \ _ \ -- a type of grain
+k	Khin -- fame
+k	Khinik \ '  -  \ -- famous
+k	Khlapau \  - '  \ -- knock (v.)
+k	Khlop-thon-, Khlop-thonik -- geometric
+k	Khlop-thon-sagan -- geometric distribution
+k	Khlop-thon-weizehl -- geometric series
+k	Khlop-thon-zehlanaya -- geometric sequence
+k	Khlop-thonik su'us-ek'tal -- geometry (study)
+k	Khluhkau \  - '  ,  - \ -- choke (v.)
+k	Khlup -- gel, jelly
+k	Khoken \ '  -  \ -- entrance
+k	Khom -- front
+k	Khrasau \  - '  \ -- discharge (v.)
+k	Khrash -- violence
+k	Khrashik \ '  -  \ -- violent
+k	Khru -- evening
+k	Khru-yem -- supper
+k	Khu'rak \ '  -  \ -- south
+k	Khu'rak-, Khu'rakik -- southern
+k	Khu'raksu -- southerner
+k	Khu-she'rak -- southeast
+k	Khu-tev'rak -- southwest
+k	Khush -- crystal
+k	Ki' -- have, has (participial)
+k	Ki'an \  - '  \ -- nest (n.)
+k	Ki'haf \  - '  \ (anc.) -- basket
+k	Ki-fah (anc.) -- lethal self-defense
+k	Kid -- feather, plume
+k	Kidtra \ '  -  \ -- plumage
+k	Kihsev -- pendant
+k	Kihsh-kur -- lilac, mauve
+k	Kiht -- code (n.)
+k	Kiit \  \ -- fury
+k	Kik -- hook
+k	Kil -- spark (n.)
+k	Kil-tor \  - '  \ -- spark (v.)
+k	Kil-tukh \ '  -  \ -- flint
+k	Kilko|-srashiv| -- answer (n.)
+k	Kilko-tor -- answer (v.)
+k	Kim-, Kim-shah -- final, last (adj.)
+k	Kim-tor -- finalize
+k	Kimsu -- finalist
+k	Kin-kur -- yellow, golden
+k	Kin-tukh \ '  -  \ -- gold (n.)
+k	Kinuf \  - '  \ -- date
+k	Kipof \  - '  \ -- battery, accumulator
+k	Kir'Shara (anc.) -- the ancient repository of Surak's writings
+k	Kis-ka -- jealous
+k	Kisev -- document
+k	Kisheya \  - '  -  \ -- accident
+k	Kisu -- member
+k	Kitak -- pen (writing)
+k	Kitau \  - '  \ -- write
+k	Kitausu -- author, scribe, writer
+k	Kitek \ '  -  \ -- dirt, silt
+k	"Kithara (NGS) -- ""keethara"", a type of block art"
+k	Kitok-wilat \  - '    - '  \ -- elsewhere
+k	Kitork|-| \ '  -  \ -- dirty
+k	Kla-hil-tor -- research (v.)
+k	Kla-hilsu -- researcher
+k	Kla-min -- fact
+k	Klai -- factor
+k	Klash -- guard (n., protective item)
+k	Klashau -- guard (v.)
+k	Klashausu -- guard (n., person)
+k	Klau -- harm (v.)
+k	Klaya \ '  -  \ -- harm (n.)
+k	Klehp -- fjord
+k	Klem -- gratitude, thankfulness
+k	Klem-bosh -- grateful
+k	Klepovau -- shop (v.)
+k	Kli -- dart (n.)
+k	Klimtau \  - '  \ -- melt (v.)
+k	Kling -- no-one, nobody, not one person
+k	Kliton \  - '  \ -- arrow
+k	Klomak \ '  -  \ (anc.) -- fortress
+k	Klon|-| -- smart
+k	Klopau -- describe
+k	Klosha \  - '  \ -- behave
+k	Kloshai \  - '  \ -- behavior
+k	Klotau \  - '  \ -- block (v.)
+k	Klotaya -- blockage
+k	Kluchi \  - '  \ -- object (v.)
+k	Kluf -- boot (n.)
+k	Klunyau -- ram (v.)
+k	Knuk|-| -- lousy
+k	Ko-, Koyik -- female (adj.)
+k	Ko-eik-te'krusu -- empress
+k	Ko-fu \ '  -  \ -- daughter
+k	Ko-ka-ashausu -- lesbian (n.)
+k	Ko-kai \ '  -  \ -- sister
+k	Ko-kan \ '  -  \ -- girl
+k	Ko-kelek-han -- prioress
+k	Ko-kuk \ '  -  \ -- aunt
+k	Ko-mekh \ '  -  \ -- mother
+k	Ko-niht \ '  -  \ -- female cousin
+k	Ko-Te'kor -- Queen (only in a title or with a proper name)
+k	Ko-te'krusu -- queen (general term)
+k	Ko-telsu -- wife
+k	Kobat|-| \  - '  \ -- weak
+k	Kobsu \ '  -  \ -- dwarf (n.)
+k	Kodonuhk -- expensive
+k	Kogav'es -- femininity
+k	Kogav-, Kogavik -- feminine
+k	Kohl \ _ ,  \ (anc.) -- emotion-purging mind-exercise
+k	Kohl-tor \ _ - '  ,  - \ -- meditate (Vulcan-style)
+k	Kohs'es -- sanity
+k	Kohs-, Kohsik -- sane (adj.)
+k	Kohv-tukh -- quartz
+k	Kol -- stew (n.)
+k	"Kol-uchang (NGS), kol-ut-shan (anc.) -- the principle of IDIC, literally ""the cornerstone of our beliefs"""
+k	Kolaya \  - '  -  \ -- shock (med.)
+k	Kolchak \  - '  \ -- flute, piccolo, fife
+k	Kolinahr \  -  - '  , - ' ' , - '  \ (anc.) -- highest adult state of mental discipline
+k	Komak \ '  -  \ -- genus
+k	Komihn|-| \ '  -  \ -- human (adj.)
+k	Kon -- worship (n.)
+k	Kon-tor -- worship (v.)
+k	Konahr (NGS) -- the feeling of being exposed
+k	Kopal -- jacket (clothing)
+k	Korsau -- save, preserve, conserve
+k	Korseivel \  - '  -  \ -- save (by means of)
+k	Korsovau \  -  - '  \ -- to be saved spiritually
+k	Koshvar \  - '  \ -- disaster
+k	Koshtri \  - '  \ -- race, species
+k	Kosu -- female, woman (n.)
+k	Kosu-has-tal -- gynecology
+k	Kosu-hassu -- gynecologist
+k	Kov -- rock, stone (as an individual object)
+k	Kov-skramsu -- stonecarver
+k	Kov-tor -- stone, throw rocks at
+k	Kov-tukh -- rock, stone (as a material)
+k	Kovau -- turn to stone, fossilize, petrify
+k	Kozauk -- specific
+k	Kra-tukh -- antimony
+k	Kraffaya -- abort (n., rocketry, etc.)
+k	"Krahkra (anc.) -- ""It is nothing"""
+k	Krahl -- pressure point
+k	Kraisek \ '  -  \ -- cage (n.)
+k	Krani \ '  -  \ -- window
+k	Kras -- paint (n.)
+k	Kras-tor -- paint (v.)
+k	Krassu \ '  -  \ -- painter
+k	Krau -- vent (n.)
+k	Kravau -- cheat (v.)
+k	Kreila \ '  -  \ -- kreyla (a flat bread-like food)
+k	Krein -- canopy (aero.)
+k	Krelsh (anc.) -- witch
+k	"Krenath \  - '  \ -- ""shamed one""; half-breed, illegitimate child"
+k	Kresik \ '  -  \ -- aggressive
+k	Krik -- pinch (n.)
+k	Krik-tor -- pinch (v.)
+k	Kril'es -- harmony
+k	Kril-tor -- harmonize
+k	Kriltesau -- guess (v.)
+k	Krish -- bronze (n.)
+k	Kritashsu -- cyborg
+k	Kriv -- such
+k	Krizhiv \  - '  \ -- clay
+k	Kro|-| -- fair (adj.)
+k	"Kroikah \ '  - ' , -  \ (anc.) -- ""Kroykah""; ""Be still"", ""Stop"""
+k	Krol-tor -- praise (v.)
+k	Kronosh \ '  -  \ -- Klingon home world
+k	Kropaya -- fantasy
+k	Kru -- supervisor
+k	Kru'minaakh (anc.) -- appoint
+k	Krumaat \  - '  \ -- generation (family)
+k	Krup -- boundary
+k	Krus -- part, piece, segment, section
+k	Krusek \ '  -  \ -- fraction (math.)
+k	Kruvek -- sect
+k	Ktorr \ R \ (anc.) -- cut off, sever (obs.)
+k	Ktorr skann  (anc.) -- the formal cutting of family ties
+k	Ku -- palm (hand)
+k	"Ku'Vel-bi (NGS) -- ""Place of the Fallen""; medical research complex in the L'langon Mountains"
+k	Ku-li \ '  -  \ -- valley
+k	Ku-san \  - '  \ -- chair
+k	Ku-tor -- sit (v.)
+k	Ku-trak \  - '  \ -- cushion (n.)
+k	Kudau -- bless
+k	Kugau -- commit
+k	Kuhku \ '  -  , '  - \ -- pus
+k	Kuhlau -- compete
+k	Kuhlaya \  - '  -  ,  - \ -- competition
+k	Kuhr -- latch (n.)
+k	Kuhsh-tor -- beat (v.)
+k	Kuht -- herd (n.)
+k	Kukev \  - '  \ -- benzene
+k	Kulan \ '  -  \ -- helix, spiral
+k	Kulauf \  - '  \ -- exception
+k	Kum-tor -- catch (v.)
+k	Kun-ut (anc.) -- bond-mate, spouse
+k	"Kun-ut kali-fi (anc.) -- ritual ""marriage challenge"""
+k	"Kun-ut so'lik (anc.) -- ritual ""marriage proposal"""
+k	Kunel \  - '  \ -- hill, butte
+k	Kunli \ '  -  \ -- happy
+k	Kup -- able, can
+k	Kur -- color
+k	Kur-tor -- color, dye (v.)
+k	Kur-tukh -- dye (n.)
+k	Kurau -- stain (v.)
+k	Kuraya \  - '  -  \ -- stain (n.)
+k	Kurek \ '  -  \ -- pigment(ation)
+k	Kuriht \  - '  \ -- rash (n.)
+k	Kurtra -- spectrum
+k	Kurucham \  - '  -  \ -- zombie
+k	Kus-tor -- ring (v.)
+k	Kus-vakh -- bell
+k	Kushel \  - '  \ -- bird, fowl
+k	Kushizhau -- mold (v.)
+k	Kusilau -- resonate
+k	Kusut -- pain (n.)
+k	Kutra -- bank (n.)
+k	Kuv -- if
+k	Kuvish \ '  -  \ -- bearing (mech.)
+k	Kuyau -- sit (v.)
+k	Kuzhet -- harness (n.)
+k	Kveshkau -- taunt (v.)
+k	Kvichau -- worry (v.)
+k	Kwai -- wild, untamed, undomesticated
+k	"Kwal se tu (anc.) -- ""Is that really you?"" (traditional greeting after a long separation)"
+k	Kwal-tor -- frown (v.)
+k	Kwas-, Kwasik -- meek (adj.)
+k	Kwes -- afraid
+k	Kwi' -- from a distance
+k	Kwi'shoret -- call (to) from far away
+k	Kwitau -- push (v.)
+k	Kwohk'a \ ' _ -   \ (anc.) -- mythological guardian spirit
+k	Kwon-mor-, Kwon-morik -- evergreen (adj.)
+k	Kwon-mor-kastik -- evergreen (plant)
+k	Kwon-mor-lap -- evergreen (tree)
+k	Kwon-mor-laptra -- evergreen forest
+k	Kwon-sum \ '  -   \ (anc.) -- always
+k	Kwul -- hit, impact, strike (n.)
+k	Kwul-razh \ '  -  \ -- (impact) crater
+k	Kwul-tor -- hit, impact, strike (v.)
+l	L'langon -- a Vulcan mountain range 
+l	L'langon-tukh -- krypton
+l	La, La' -- here
+l	La'ash \  - '  \ (anc.) -- axe
+l	La'ka-yehat -- available
+l	La'yi \ '  -  \ (anc.) -- a type of rug
+l	Lad -- sole (foot)
+l	Laf-bosh -- erroneous
+l	Laf-glantokaya -- error signal
+l	Laf-kiht -- error code
+l	Laf-skladan -- error message
+l	Laf-tor -- err, make a mistake
+l	Laf-tukh -- chlorine
+l	Lafosh \  - '  \ -- error, mistake
+l	Lafot \  - '  \ -- defect, flaw
+l	Lafotik -- defective, faulty, flawed
+l	Lag -- gum (n.)
+l	Lahrn -- rudder (n.)
+l	Lahv -- tongue (n.)
+l	"Lairet -- ""lyrette"", type of harp"
+l	"Laithuhret -- ""lytherette"", type of harp"
+l	Lakh (anc.) -- language (obs.)
+l	Lam-tor -- stand (v.)
+l	Lamekh|-| \  - '  \ -- warm (adj.)
+l	Lan -- rank
+l	"Lan-tol \ '  -  \ -- floor, deck; bed (geol.)"
+l	Lanet -- bottom (n.)
+l	Lanka-gar (NGS) -- a Vulcan nocturnal predatory bird
+l	Lansu -- officer
+l	Lap -- tree
+l	Lap-gel \ '  -  \ -- branch
+l	Lap-shal -- woodland
+l	Lap-tukh -- timber
+l	Lapan -- wood
+l	Lapan-skramsu -- woodcarver
+l	Lapan-tanaf -- woodcraft
+l	Laptra -- forest
+l	Lara -- a Vulcan desert bird
+l	Lasha \  - '  \ -- arrive
+l	Lashan \  - '  \ -- arrival
+l	"Lashark (anc.) -- a poetic name for sunrise; lit. ""he who arrives"""
+l	Laskat -- depot, station, terminal
+l	Lates \ '  -  \ -- walk (n.)
+l	Lau|-| -- may, might
+l	Lautuv|-| \  - '  \ -- stubborn
+l	Laz -- jamb
+l	Le-matya \  - '  -  \ (anc.) -- large, venomous Vulcan desert predator
+l	Le-su (anc.) -- frost
+l	Le-suma \  - '  -  \ (anc.) -- ice (n.)
+l	Le-suma-eiktra -- ice shelf
+l	Le-suma-haki -- ice hockey
+l	Le-suma-marshak -- (ice) floe
+l	Le-suma-pal -- ice age
+l	Le-suma-tal -- glaciology (study)
+l	Lef'es -- texture
+l	Leh-dah -- twelve
+l	Leh-dah'veh -- twelfth (n.)
+l	Leh-dah-tukh -- Seaborgium
+l	Leh-dahr-, Leh-dah'rak -- twelfth (adj.)
+l	Leh-kau -- fifteen
+l	Leh-kau'veh -- fifteenth (n.)
+l	Leh-kau-tukh -- Meitnerium
+l	Leh-kaur-, Leh-kau'rak -- fifteenth (adj.)
+l	Leh-keh -- fourteen
+l	Leh-keh'veh -- fourteenth (n.)
+l	Leh-keh-tukh -- Hassium
+l	Leh-kehr-, Leh-keh'rak -- fourteenth (adj.)
+l	Leh-nau -- nineteen
+l	Leh-nau'veh -- nineteenth (n.)
+l	Leh-naur-, Leh-nau'rak -- nineteenth (adj.)
+l	Leh-oh -- eighteen
+l	Leh-oh'veh -- eighteenth (n.)
+l	Leh-ohr-, Leh-oh'rak -- eighteenth (adj.)
+l	Leh-reh -- thirteen
+l	Leh-reh'veh -- thirteenth (n.)
+l	Leh-reh-tukh -- Bohrium
+l	Leh-rehr-, Leh-reh'rak -- thirteenth (adj.)
+l	Leh-sheh -- sixteen
+l	Leh-sheh'veh -- sixteenth (n.)
+l	Leh-shehr-, Leh-sheh'rak -- sixteenth (adj.)
+l	Leh-steh -- seventeen
+l	Leh-steh'veh -- seventeenth (n.)
+l	Leh-stehr-, Leh-steh'rak -- seventeenth (adj.)
+l	Leh-tukh -- Rutherfordium
+l	Leh-wuh -- eleven
+l	Leh-wuh'veh -- eleventh (n.)
+l	Leh-wuh-tukh -- Dubnium
+l	Leh-wuhr-, Leh-wuh'rak -- eleventh (adj.)
+l	Lehk -- post (n.)
+l	Leh|kuh| -- ten
+l	Lehm-tor -- throw, toss, heave
+l	Leipau -- bake
+l	Leipausu -- baker
+l	Leitri \ '  -  \ -- toy, plaything
+l	Lek-tukh -- niobium
+l	Lekva \ '  -  \ -- aegis
+l	Ler-tukh -- tungsten
+l	Lerakh|-| \  - '  \ -- compressed, compacted (adj.)
+l	Lerash|-| \  - '  \ -- hard (adj.)
+l	Les -- target (n.)
+l	Lesek \ '  -  \ -- joint (anat.)
+l	Lesh -- bear, carry
+l	Lest -- burden (n.)
+l	Li-fal \  - '  \ -- example, sample
+l	Li-wun \ '  -  \ -- lance (n.)
+l	Lihsek -- grommet
+l	Limak -- facing (n.)
+l	Limein \  - '  \ -- mask (n.)
+l	Limuk \  - '  \ -- face
+l	Limuk-sazehlanaya -- face-lift (n.)
+l	Linisau -- examine
+l	Linsu \ '  -  \ -- cynic
+l	Lipau -- knife (n.)
+l	Lipitah \  -  - ' ' ,  - '  - ' \ (anc.) -- dagger (n.)
+l	Lirpa \ '  -  \ (anc.) -- ceremonial weapon with a blade on one end and club on the other
+l	Littau \  - '  \ -- quench (v.)
+l	Lo'uk \  - '  \ -- great
+l	Lof -- reason, purpose
+l	Lof-torvauk -- constructive purpose
+l	Lograzek -- jail (n.)
+l	Lohk (NGS) -- love (n., mostly used poetically in TGV/MGV)
+l	Lok -- penis, phallus
+l	Los'rak \ '  -  \ -- left (direction)
+l	"Loshirak (NGS) -- meditation: ""open posture"""
+l	Lu -- when
+l	Lufik -- oblique
+l	Luhp-, Luhpik -- rude (adj.)
+l	Luk -- fungus
+l	Lushun \  - '  \ -- torpedo
+l	Luvau \  - '  \ -- to yawn
+m	Ma -- have, own, possess
+m	Ma'os|-| \  - '  \ -- ancient (adj.)
+m	Ma-vel \ '  -  \ -- possession (thing)
+m	Maat \  \ -- clan, extended family
+m	Mabuhl'es -- exuberance
+m	Mabuhl-, Mabuhlik -- exuberant
+m	Mad -- bracket (n.)
+m	Madzh -- plug (n.)
+m	Maf -- cry (n.)
+m	Maf-tor \  - '  \ -- cry (v.)
+m	Mag -- thirst (n.)
+m	Magol \  - '  \ (anc.) -- flagon
+m	Magu \ '  -  \ -- reel, spindle
+m	Magu-shidik -- fusiform, spindle-shaped
+m	Mah-tor \ ' - '  ,  - \ -- hammer (v.)
+m	Mah-vel \ ' ' -  , '  - \ -- hammer (n.)
+m	Mahai \  - '  \ -- seizure, convulsion
+m	Mahal-tor -- swim (v.)
+m	Mahalovau -- cruise (v.)
+m	Mahr-kel \ ' - '  ,  - \ -- shop, store, market
+m	Mahr-tor \ ' - '  ,  - \ -- buy, purchase (v.)
+m	Mair-, Mairik -- extreme
+m	Mair-nuk-vakav'es |MNV| -- extremely low frequency (ELF)
+m	Mair-pid-vakav'es |MPV| -- extremely high frequency (EHF)
+m	Mak -- joy
+m	Makau \  - '  \ -- spell (v.)
+m	Makh -- glass
+m	Makh-salursu -- glass-blower
+m	Makh-zhuksu -- glass-maker
+m	Mal -- leg
+m	Mal-nef \ '  -  \ -- knee
+m	Mal-nik \ '  -  \ -- ankle
+m	Malanu \  - '  -  \ -- pants, trousers
+m	Malat \  - '  \ -- nature
+m	Mamuk \  - '  \ (anc.) -- aid (v.)
+m	Man-elakh -- rope
+m	Man-tor \  - '  \ -- climb (v.)
+m	Map -- fen
+m	Marau \  - '  \ -- drift (v.)
+m	Maraya -- drift (n.)
+m	Markan-, Markanik -- floating (adj.)
+m	Markau \  - '  \ -- float (v.)
+m	Markaya -- flotation, floating (n.)
+m	Markek \ '  -  \ -- float (n.)
+m	Markek-sov-hali -- floatplane
+m	Markuhsh -- flotsam
+m	Marom|-| \  - '  \ -- excellent
+m	Marshak \ '  -  \ -- raft (n.)
+m	Masayuk -- faucet, tap
+m	Mashau \  - '  \ -- water (v.), irrigate
+m	Mashayek -- sprinkler
+m	Mashek \ '  -  \ -- bottle, flask, canteen, amphora, amp(o)ule
+m	Mashen \ '  -  \ -- tide
+m	Mashuk \ '  -  \ -- bucket
+m	Mashulek \  - '  -  \ -- fountain (decorative)
+m	Mashya \ '  -  \ -- a Vulcan tuberous vegetable
+m	Masmev -- hose (n.)
+m	Masmezh \  - '  \ -- ford (n.)
+m	Masmezhau -- ford (v.)
+m	Mastevau \  -  - '  \ -- drown
+m	Masu \  - '  \ -- water, fluid, liquid
+m	Masu'er -- navy
+m	Masu'es -- wetness, moisture
+m	Masu-hali -- ship, large boat
+m	Masu-nakh -- moisture index
+m	Masu-razh -- well (n.)
+m	Masu-tukh -- hydrogen
+m	Masu-ur -- aqueduct
+m	Masu-yut -- waterway, canal
+m	Masuk, Masuk' \  - '  \ -- enormous, gigantic, gargantuan, huge, mammoth, massive
+m	Masumok-tukh -- mercury
+m	Masupau \  -  - '  \ -- dampen, moisten, wet
+m	Masupik \  - '  -  \ -- damp, moist, wet
+m	Masusek \  - '  -  \ -- ewer, pitcher
+m	Masusu -- sailor, seaman
+m	Masutra \  - '  -  \ -- sea, ocean
+m	Masutra-ek'maik -- seaworthy
+m	Masutra-eshu'a -- waterspout, marine tornado
+m	Masutra-glu-spathel -- ocean trench
+m	Masutra-ha-tal -- marine biology
+m	Masutra-ha-talsu -- marine biologist
+m	Masutra-kunel -- seamount
+m	Masutra-mish-tal -- oceanology
+m	Masutra-nursu -- mermaid (myth.)
+m	Masutra-pa'ash-kunel -- guyot
+m	Masutra-pi'salan -- sea breeze
+m	Masutra-riflash -- estuary
+m	Masutra-sasu -- merman (myth.)
+m	Masutra-su'u -- merfolk, merpeople (myth.)
+m	Masutra-tal -- oceanography
+m	Masutra-tol -- seafloor
+m	Masutra-vashraluk -- sea serpent (myth.)
+m	Masutraik -- marine, oceanic, pelagic (adj.)
+m	Masutral'esk -- sea monster (myth.)
+m	Mat -- possession, ownership
+m	Math -- plate (n.)
+m	Mathra \ '  -  \ -- disc, disk
+m	Mathra-glayek -- disk camera
+m	Mathra-kapol -- disk filter
+m	Mathra-sadan-dahshayek -- disk centrifuge
+m	Mathra-spunek -- disk valve
+m	Mathra-tuh -- disk pack
+m	Mathra-vohrayeklar -- disc brakes
+m	Mathra-yeturek -- disc drive
+m	Mau -- much
+m	Mau-tan \  - '  \ -- excess, plethora, overabundance, glut
+m	Maut|-| -- very
+m	Maut-klon'es -- brilliance (intelligence)
+m	Maut-klonik -- brilliant, very smart
+m	Maut-ugel'es -- brilliance (brightness)
+m	Maut-ugelik -- brilliant (bright)
+m	Mauyik \  - '  \ -- excessive
+m	Mavau -- play (v.)
+m	Maz -- grain (of sand, etc.)
+m	Mazhiv \  - '  \ -- sand(s)
+m	Mazhiv-tukh -- silicon
+m	Mazhu \  - '  \ -- silica
+m	Mehk-tath (anc.) -- an integral part
+m	Mehtal-tor -- pass, go past
+m	Meil-, Meilik -- chemical (adj.)
+m	Meil-folaya -- chemical reaction
+m	Meil-lesk -- chemistry set
+m	Meil-tal -- chemistry (study)
+m	Meil-tel -- chemical bond
+m	Meil-tepul -- chemical energy
+m	Meil-tukh -- chemical (n.)
+m	Meil-vo'ihn -- chemical equation
+m	Meilak \ '  -  \ -- (chemical) element
+m	Meilaktra \  - '  -  \ -- chemical compound
+m	Meilokul \  - '  -  \ -- corrode
+m	Meilokulan -- corrosion
+m	Mek-tor -- nod (v.)
+m	Mekh -- parent (n.)
+m	Mekh-tor -- parent (v.)
+m	Mekhlar -- parents (general plural or alternatives)
+m	Mekhu -- parents (a mother and a father)
+m	Men-hil-tor -- investigate
+m	Men-hilan -- investigation
+m	Men-hilsu -- investigator
+m	Menal \  - '  \ -- cliff
+m	Mes -- crossing (n., place)
+m	Mes' -- across (prep.)
+m	Mes-iyula-, Mes-iyulaik -- cross-cultural (adj.)
+m	Mes-kahr-, Mes-kahrik -- crosstown (adj.)
+m	Mes-katrom -- crosscurrent
+m	Mes-nakh-tor -- cross-index (v.)
+m	Mes-shasol-, Mes-shasolik -- cross-national (adj.)
+m	Mes-solektra-, Mes-solektraik -- cross-country (adj.)
+m	Mes-tor -- cross (over), go across
+m	Mes-yehat -- crossable
+m	Mesah \  - ' ' , - '  \ -- catwalk
+m	Mesakh' \  - '  \ -- beyond (prep.)
+m	Mesan -- crossing (n., act of going across)
+m	Mesh -- shame (n.)
+m	Mesk -- case, chest, crate, container, etc.
+m	Meskarau -- hold (v.)
+m	Mesprah \  - ' ' , - '  \ -- define (v.)
+m	Mesprahn -- definition
+m	Messau \  - '  \ -- approve
+m	Messaya -- approval
+m	Mestau -- contact (v.)
+m	Mestaya -- contact (n.)
+m	Mesukh-tor -- translate
+m	Mesut \  - '  \ -- bridge (n.)
+m	"Mesya \  - '  \ -- a children's game similar to ""Tag"""
+m	Mesyel \  - '  \ -- overhang (n.)
+m	Mesyutik \  - '  -  \ -- opposite (adj.)
+m	Mev -- pipe, tube, duct
+m	Mihl-tor -- taper (v.)
+m	Mihr-, Mihrik -- funny (adj.)
+m	Mihrsh \  \ -- fun (n.)
+m	Mihrsh-bosh -- fun (adj.)
+m	Mihrtra \ '  -  \ -- comedy
+m	Mik -- dial (n.)
+m	Mik-yal \  - '  \ -- gauge (n.)
+m	Mikat'es -- curiosity
+m	Mikat-, Mikatik -- curious
+m	Min-shara (NGS) -- M-Class (planet), Class-M (planet)
+m	Min-tor \  - '  \ -- glow (v.)
+m	Min-tukh \ '  -  \ -- neon
+m	Mish-tal \ '  -  \ -- engineering
+m	Mish-vel \ '  -  \ -- machine
+m	Mishek \ '  -  \ -- engineer (n.)
+m	Mit-, Mitik -- gentle
+m	Miyusau -- assume
+m	Miyusaya -- assumption
+m	Mlan (anc.) -- a very distant blood relative
+m	Mof -- pin (n.)
+m	Mog'es -- volume (math., physics)
+m	Moh \  \ -- billion
+m	Moh'veh -- billionth (n.)
+m	Mohk-, Mohkik -- comfortable
+m	Mohr-, Moh'rak -- billionth (adj.)
+m	Mohrn \ _ \ -- class (n.)
+m	Mohrnau -- classify
+m	Mohrnaya -- classification
+m	Mokev \  - '  \ -- metal (n.)
+m	Mokh -- aim (n.)
+m	Mokh-tor -- aim (v.)
+m	Mokuv \  - '  \ -- ring, metal loop
+m	Mol-kur \ '  -  \ -- magenta
+m	Molu \  - '  \ -- tone (sound)
+m	Mon -- drink (n.)
+m	Mon-masu -- drinking water, potable water
+m	Mon-masuyek -- drinking fountain
+m	Mon-tor -- drink (v.)
+m	Mon-yehat -- drinkable, potable
+m	"Mor -- leaf (n.); blade"
+m	Mor-vulu -- blade angle
+m	Morov \  - '  \ -- combat (anc.)
+m	Mos|-| -- soft
+m	Mu'gel \  - '  \ -- dark (n.)
+m	Mu'gel'es -- darkness
+m	Mu'gel-, Mu'gelik -- dark (adj.)
+m	Mu'gel-folaya -- dark reaction
+m	Mu'gel-rubilaya -- dark adaptation
+m	Mu'gel-stukh-wan -- dark nebula
+m	Mu'gel-tukh -- dark matter
+m	Mu'glau \  - '  \ -- darken
+m	Mu'glaya -- darkening (n.)
+m	Mu'yar-kur -- dark green
+m	Mu'yor \  - '  \ -- night
+m	Mu'yor-yem -- supper
+m	Muhd \  ,  \ -- club (n.)
+m	Muhl \  ,  \ -- healthy, well
+m	Muhl'es -- health, wellness
+m	Muhl-olau'es -- euphoria
+m	Muhl-olauk -- euphoric
+m	Muhs \  ,  \ -- vapor
+m	Mukau -- pour (v.)
+m	Mulut'es -- antagonism
+m	Mumau -- rhyme (v.)
+m	Mun \  \ -- sauce
+m	Mutau -- divert
+m	Mutaya -- diversion
+m	Muzh \  \ -- pond, waterhole
+n	Na -- pole (physics)
+n	Na' -- at, to(wards), for (prep.)
+n	Na'gal \  - '  \ -- polaron
+n	Na'shau -- greet
+n	Na'shaya -- greeting
+n	Na'shikh (anc.) -- advice, counsel
+n	Na-sovau -- evaporate
+n	Na-sovau-thonek -- evaporimeter
+n	Na-sovaya -- evaporation
+n	Na-sovayek -- evaporator
+n	Naf -- link (n.)
+n	Naf-elakh -- chain (n., TGV)
+n	Nafai-tor -- acknowledge
+n	Nafek \  - '  \ -- organ (anat.)
+n	Nafek-nen -- fundus
+n	Naflakh \ '  -  \ -- chain (n., MGV)
+n	Naflakh-aberau-vihpan -- chain block
+n	Naflakh-halek -- chain wheel
+n	Naflakh-spol -- chain pump
+n	Naflakh-tvi-shal -- chain locker
+n	Naflakh-zheleshek -- chain conveyor
+n	Nafu'es -- personality
+n	Nafuhlau -- frustrate
+n	Nafuhlaya -- frustration
+n	Nagau \  - '  \ -- face, confront
+n	Naglashau -- recognize
+n	Nah-tor -- think
+n	Nahp \ ' ,  \ -- thought(s)
+n	Nahp-tash-svitan -- cerebrum
+n	Nahr \ ' ,  ,  \ (anc.) -- discipline
+n	Nahth-tukh -- halogen
+n	Nak -- cheek
+n	Nakarat -- endeavor (n.)
+n	Nakh -- index
+n	Nakht \  \-- a cereal grain similar to oats
+n	Nakihtilau -- modulate
+n	Nakihtilayek -- modulator
+n	Nal-tor -- chew (v.)
+n	Nala \ '  -  \ -- cell (med., biol.)
+n	Nala-, Nalatik -- cellular (adj.)
+n	Nala-ashauk -- cytophilic
+n	Nala-da-nel -- cell cycle
+n	Nala-dahshaya -- cell(ular) division
+n	Nala-hasam -- cytotoxin
+n	Nala-kaunshaya -- cell(ular) fusion
+n	Nala-litra -- cell culture
+n	Nala-meil-tal -- cytochemistry (study)
+n	Nala-pehkauk -- cytostatic
+n	Nala-svitan -- cell(ular) nucleus
+n	Nala-tal -- cytology
+n	Nala-temok -- cell wall
+n	Nala-to'ovaya -- cell(ular) growth
+n	Nala-tol-tal -- cytogenetics (study)
+n	Nala-wein -- cell(ular) membrane
+n	Nalatra -- tissue (med., biol.)
+n	Nalatra-nisan -- biopsy (n.)
+n	Nalatra-vaferek -- tissue regenerator
+n	Naliveh \  - '  - _ \ -- alcohol
+n	Nam -- existence, the state of being
+n	Nam-tor -- be, exist
+n	Namishau -- adjust
+n	Namishaya -- adjustment
+n	Nan -- threat
+n	Nan-tor -- threaten
+n	Nantau -- stare (v.)
+n	Nar-tor -- accept
+n	Narak \  - '  \ -- pole (physics, geog.)
+n	Narak'es -- polarity
+n	Narat do-toh (NGS) -- child's game of hide & seek
+n	Nartau -- embrace (v.)
+n	Nas|-| -- sharp
+n	Nash-gad \  - '  \ -- today
+n	Nashinahru (anc.) -- offensive psionic warrior
+n	Nashiv \  - '  \ -- attack (n.)
+n	Nashiv-tor -- attack (v.)
+n	Natel -- module
+n	Nati \  - '  \ -- differ
+n	Natuhn \  - '  , - '  \ -- box, carton (n.)
+n	Natya|-| -- different
+n	Natyan -- difference(s)
+n	Nau -- moan (v.)
+n	Nau'veh -- ninth (n.)
+n	Nau-leh -- ninety
+n	Nau-leh'veh -- ninetieth (n.)
+n	Nau-lehr-, Nau-leh'rak -- ninetieth (adj.)
+n	Nauf -- epoch
+n	Nauk -- sprain (n.)
+n	Nau|kuh| -- nine
+n	Naul -- feud (n.)
+n	Naur-, Nau'rak -- ninth (adj.)
+n	Nav -- ever
+n	Navath-zhit -- comparitive (n., grammar)
+n	Navathau -- compare
+n	Navathaya -- comparison
+n	Navau -- succeed
+n	Navun \  - '  \ -- success
+n	Navyasik -- anxious
+n	Nayik -- avid, eager
+n	Nazh|-kap| -- gain (n.) 
+n	Nazh-tor -- gain (v.)
+n	Ne' (prep.) -- below, beneath, under
+n	Ne'rak (adv.) \ '  -  \ -- underneath, beneath
+n	Ne-kaluk -- earlobe
+n	Ne-kar \ '  -  \ -- forearm
+n	Ne-koshtri'es -- ethnicity
+n	Ne-koshtri-svitanik -- ethnocentric
+n	Ne-koshtri-tal -- ethnology (study)
+n	Ne-lan \ '  -  \ -- cadet, trainee
+n	Ne-mal \ '  -  \ -- shin
+n	Ne-shal -- basement
+n	Ne-tuhlek -- belly tank
+n	Ned -- dough
+n	Nef -- shelf, terrace
+n	Nehau \  - '  \ -- decay, rot (v.)
+n	Nehg \ _ \ -- belly (n.)
+n	Nei -- seed (n.)
+n	Neikau -- defeat, vanquish
+n	Neis-tor -- deplete, use up
+n	Nek -- squad, patrol, scouting party
+n	Nekwitaya -- force (n.)
+n	Nel-, Nelik -- main (adj.)
+n	Nel-dath \  - '  \ -- pattern
+n	Nelka \ '  -  \ -- pedestal, display stand
+n	Nem-tor -- take (v.)
+n	Nemashau -- dehydrate
+n	Nemashaya -- dehydration
+n	Nemasu-, Nemasuyik -- underwater, undersea, submarine, subsea
+n	Nemut \  - '  \ -- enemy
+n	Nen -- base, foot, foundation
+n	Nen-, Nenik -- basal, basic, fundamental
+n	Nen-dukal -- baseball (the ball)
+n	Nen-dukal-torvukh -- baseball (the sport)
+n	Nen-kas-tukh -- cellulose
+n	Nen-kebi -- base unit, fundamental unit
+n	Nen-pi'gal -- fundamental particle
+n	Nen-shid -- basic form, fundamental form
+n	Nen-shif -- base pair
+n	Nen-tin -- base level
+n	Nen-torektra -- basic system, fundamental system
+n	Nen-travek -- base group, fundamental group
+n	Nen-vukharat -- base vector
+n	Nen-vukhut -- basal body
+n	Nen-vulu -- base angle
+n	Nen-weltralar -- basal ganglia
+n	Nen-zehl -- baseline
+n	Nenam-tor -- to be based on
+n	Nenem-tor -- deduct
+n	Nenikau -- support (v.)
+n	Nentu -- frame (n.)
+n	Ner-, Nerik -- dependent
+n	Nerau \  - '  \ -- depend
+n	Nerek|-| \ '  -  \ -- dependable
+n	Neruk-, Nerukik -- humble (adj.)
+n	Nes -- drop (n., in temperature, etc.)
+n	Nesh -- cut (n.)
+n	Nesh-kur -- black
+n	Nesh-kurau -- blacken
+n	Nesh-tor -- cut (v.)
+n	Nesh-tukh -- iodine
+n	Neshek \ '  -  \ -- cutter (device)
+n	Neshuhk \  - '  , - '  \ -- parasite
+n	Net -- scab (n.)
+n	Netikidau -- reduce
+n	Nev-kur -- maroon (color)
+n	Nevasa - \  - '  -  \ (anc.) -- a name for the Vulcan system's sun
+n	Nezhak \  - '  \ -- chaos
+n	Ni -- so, such a
+n	Ni-prazh (anc.) -- stoic, displaying no emotion(s)
+n	Nifauli|-| -- bizarre (adj.)
+n	Niht \  \ -- cousin (general term)
+n	Nik'el -- convoy, caravan
+n	Nikh (anc.) -- eye (n., obs.)
+n	Nis-tor -- test (v.)
+n	Nisan -- test (n.)
+n	Nisau -- probe, test thoroughly, examine in detail, analyze
+n	Nodolaya -- fixation (chem.)
+n	Nohv \ _ \ -- meld (n.)
+n	"Nok -- concrete (material); b_ton"
+n	Nol-tukh -- carbon
+n	"Nom (NGS) -- the philosophical concept of ""all"""
+n	Nop -- card (n.)
+n	Norn-la-hal (NGS) -- status change from child to adult
+n	Nosahp -- amount
+n	Nosh -- state, condition (n.)
+n	Nosh-nisaklar -- diagnostics
+n	Nosh-satilau -- diagnose
+n	Nosh-satilaya -- diagnosis
+n	Nosh-tor -- condition (v.)
+n	Noshau -- stand (v., as, for, etc.)
+n	Noshek \ '  -  \ -- conditioner (device)
+n	Noshtra \ '  -  \ -- trait, characteristic
+n	Nu, Nu' -- down
+n	Nu'le -- downwards
+n	Nu'ri|-| \  - '  \ -- young (adj.)
+n	Nu-seshan -- gravity
+n	Nu-seshan-svitan -- center of gravity
+n	Nu-tor -- lower (v.), drop (v., as in temperature)
+n	Nuf -- case, event
+n	Nufau -- offer (v.)
+n	Nuh' -- too (adv.)
+n	Nuhish -- downward pressure
+n	Nuhk|-| -- courteous
+n	Nuhk'es -- courtesy
+n	Nuhs \  ,  \ -- era
+n	Nuk|-| -- low (adj.)
+n	Nuk-ha'gel-, Nuk-ha'gelik -- dim (adj.)
+n	Nuk-khaf-vihish -- low blood pressure
+n	Nuk-mashen -- low tide
+n	Nuk-tahmoh-, Nuk-tahmohik -- low resolution (adj.)
+n	Nuk-vihish -- low pressure (meteor.)
+n	Nuk-vikuvtra -- cay, key, low island
+n	Nukh -- mode
+n	Nukuyau \  -  - '  \ -- sit down
+n	Nulau \  - '  \ -- decrease, diminish, suppress
+n	Numo -- extremely small, microscopic
+n	Numo-zan-vel -- microscope
+n	Nunau \  - '  \ -- fit (v.)
+n	Nup -- fractal
+n	Nuralash -- bass (low frequency sound)
+n	Nuralash-aboraya -- bass boost
+n	Nuralash-vakav'es -- bass frequency
+n	Nus -- parameter
+n	Nushau \  - '  \ -- collapse (v.)
+n	Nushaya -- collapse (n.)
+n	Nut -- drop, lowering
+n	Nuv-tor -- flutter (v.)
+o	Odon \ '  -  \ -- treasure (n.)
+o	Odva \ '  -  \ -- faith
+o	Oekon -- God, the Supreme Being
+o	Ofereiksu -- the Creator, ie. God
+o	Og -- stitch (n.)
+o	Og-elakh -- thread
+o	Og-lum -- needle
+o	Og-tor -- sew, stitch (v.)
+o	Ogsu -- seamster, seamstress (general term)
+o	Oh-leh -- eighty
+o	Oh-leh'veh -- eightieth (n.)
+o	Oh-lehr-, Oh-leh'rak -- eightieth (adj.)
+o	Oh|kuh| -- eight
+o	Ohmor \ ' _ -  \ -- epithet
+o	Ohorssu -- knight (Terran)
+o	Ok -- cam
+o	Ok-fek -- camshaft
+o	Okenelsu -- knight (Vulcan)
+o	Olau \  - '  \ -- feel (v.)
+o	Oluhk -- snake
+o	On -- both
+o	Ooch (anc.) -- wizard
+o	Opilsu \ '  -  -  \ -- chef
+o	Opul-, Opulik -- aware (adj.)
+o	Oren-tor -- learn
+o	Orenau \  -  - '  \ --- study (v.)
+o	Orensu \  - '  -  \ -- student, pupil
+o	Orenus -- course (of study)
+o	Orfikkel \  -  - '   \  (anc.) -- ancestors, forebearers, progenitors
+o	Ork -- boom (n.)
+o	Orn-tukh -- nickel
+o	Orniaga (anc.) -- irritated  (adj.)
+o	Os|-| -- old, aged
+o	Oshi \ '  -  \ -- shrine
+o	Oshu'a (anc.) -- mythological volcano spirit
+o	Osos'ehtak -- legend
+o	Osos'ehtakan-, Osos'ehtakanik -- legendary
+o	"Osu \ '  -  \ -- honored person (can be used for ""sir"" or ""madam"" in context)"
+o	"Ot-lan -- captain (army/marines); lieutenant (navy/Starfleet)"
+o	Oub -- firmament
+o	Oveh \ '  - _ \ -- saint
+o	Ovsotu (anc.) -- total (v.)
+o	Ovsotuhl -- complete, total (adj.)
+o	Ovsu \  - '  \ (anc.) -- total (n.)
+o	Ovulau -- bow (v.)
+o	Oyut \ '  -  \ -- custom
+o	Ozh -- finger (n.)
+o	Ozh-dukal -- fist (n.)
+o	Ozhika \ '  -  -  \ -- logic
+o	Ozhikaik -- logical
+p	Pa' -- around (prep.)
+p	Pa'ash|-| \  - '  \ -- flat
+p	Pa'ash-tor -- flatten
+p	Pa'shau -- clear (v.)
+p	Pa'tam'al-kelek -- haunted house
+p	Pa'tam'au -- haunt (v.)
+p	Pa-tukh \ '  -  \ -- gas (oxygen, etc.)
+p	Pa-tukh-, Pa-tukhik -- gaseous
+p	Pabukh-tor -- forgive
+p	Pabukhu -- The Forgiven
+p	"Pach-te (NGS) -- ego; strongest of all desires and the root of emotion"
+p	Pada-tor -- spin/rotate quickly, turn fast
+p	Padukau -- roll (v.)
+p	Pafam|-| \  - '  \ -- deficient
+p	Pagun \  - '  \ (anc.) -- duel (n.)
+p	Pahth -- panic (n.)
+p	Pahutau -- agitate
+p	Pahz -- lightning
+p	Paikau -- fluster (v.)
+p	"Pailora (TGV) -- ""pyllora"", counselor, guide"
+p	Pak -- loss
+p	Pak-tor -- lose
+p	"Pakh -- stroke (n.); Vulcan ""hyphen"""
+p	Pakhaik -- regular
+p	Pakhartau -- regulate
+p	Pakik, Pakal-, Pakalik \ '  -  \ -- lost (adj.)
+p	Pakuv \  - '  \ -- coil, loop (n.)
+p	Pal -- age, era
+p	Palesh-tor -- endure
+p	Palikau -- begin, commence, start
+p	Palutunau -- care for, tend, watch over
+p	Pamashok -- dike (n.)
+p	Pamutau -- bypass (v.)
+p	Panaz \  - '  \  -- fume
+p	Panu \ '  -  \ -- world
+p	Paribau -- discuss
+p	Paribaya -- discussion
+p	Pas-, Pasik -- dull, blunt (adj.)
+p	Pash-tor -- trap (v.)
+p	Pashov \  - '  \ (anc.) -- dolmen
+p	Pasu \ '  -  \ -- table
+p	Pasutau -- camouflage, disguise (v.)
+p	Patal-tor -- detect
+p	Patalek -- detector
+p	Patalavau -- appraise, evaluate
+p	Patalavaya -- appraisal, evaluation
+p	Patam \  - '  \ -- head (n.)
+p	Patishal-, Patishalik -- popular (adj.)
+p	Patorau -- process (v.)
+p	Patra \ '  -  \ -- pool (gene, vehicle, etc.)
+p	Patuhl-tor -- encase
+p	Pau -- corona, halo
+p	Pauk -- round
+p	Pavek \ '  -  \ -- event
+p	Pavesh-tor -- happen, occur
+p	Pehkau -- stop (v.)
+p	Pekh \  \ -- feces, dung, excrement, manure
+p	Pel-tar'uk (anc.) -- a low shrub which produces small, green, edible berries
+p	Pelakh \  - '  \ -- filament
+p	Pelal \  - '  \ -- robe
+p	Pen-, Penik -- short
+p	Pen-tor -- shorten, curtail
+p	Penal-harr -- bobtail
+p	Per-ithop (anc.) -- actor, actress
+p	Per-tor -- act (v.)
+p	Pes-, Pesik -- firm (adj.)
+p	Pev -- mat (anc.)
+p	Pi, Pi' -- small, little
+p	Pi'dayek -- rotor (n.)
+p	Pi'dayek-hashek -- gyrocopter
+p	Pi'gal \ '  -  \ -- particle
+p	Pi'kahr -- village, hamlet, settlement
+p	Pi'lek|-| \  - '  \ -- small, little (rare adj., mostly obs.)
+p	Pi'maat \ '  -  \ -- family
+p	Pi'mashali -- boat
+p	Pi'math \ '  -  \ -- saucer
+p	Pi'nafek -- gland (anat.)
+p	Pi'sukhlop -- figurine, statuette
+p	Pi'tenkan (MGV) -- embryo
+p	Pi'wakru \  - '  -  \ -- minute (n., time)
+p	Pid|-| -- high
+p	Pid-khaf-vihish -- high blood pressure, hypertension
+p	Pid-mashen -- high tide
+p	Pid-shal|tra| -- highland(s)
+p	Pid-tahmoh-, Pid-tahmohik -- high resolution (adj.)
+p	Pid-vihish -- high pressure (meteor.)
+p	Pidek \ '  -  \ -- height
+p	Pidesh \  - '  \ -- exert (anc.)
+p	Pidvalu -- hyperbola
+p	Pih-saya -- gamma radiation
+p	Pih-zehllar -- gamma rays
+p	Pihl -- quark
+p	"Pihlora \  - '  -  \ (MGV) -- ""pyllora"", counselor, guide"
+p	Pil-tor -- prepare food (for eating)
+p	Pilash \  - '  \ -- river
+p	"Pilsu \ '  -  \ -- food preparer, ""cook"""
+p	Pim-tukh -- lithium
+p	Pinkau -- earn
+p	Pishek \ '  -  \ -- steel
+p	Pitoh \ '  -  \ -- note (n.)
+p	Piyah|-| -- ripe
+p	Pla'dor -- back (n.)
+p	Pla'rak -- backward(s)
+p	Pla-kur -- blue
+p	Pla-tor -- back up, to go in reverse
+p	Pla-tukh -- cobalt
+p	"Plak-tau (anc.) -- ""plak tow"", Vulcan ""blood fever"""
+p	Plan -- backing up, reversal
+p	Plat -- spine
+p	Plathau -- consummate (v.)
+p	Plesh-tor -- crush (v.)
+p	Pliflau \  - '  \ -- condemn
+p	Plik -- advantage (n.)
+p	Plis-tor -- glide (v.)
+p	Plisek \ '  -  \ -- glider (aircraft)
+p	Plokh -- delusion
+p	Plom (anc.) -- vegetable (n.)
+p	Plom-bah-ker -- vegetable garden
+p	"Plomik \ '  -  \ -- ""plomeek"", vegetable (adj.)"
+p	Plomik shur -- plomeek soup, vegetable soup
+p	Pluhk -- vomit (n.)
+p	Po -- why
+p	Po' -- after (prep.)
+p	Po-wak -- aftermath
+p	Pohl|-| -- several
+p	Pohshau \ _ - '  \ -- shoot
+p	Pohshayek \ _ - '  -  \ (TGV,LGV) -- firearm, gun
+p	Pohshek \ ' _ -  \ (MGV) -- firearm, gun
+p	Pok -- ready
+p	Pol-tor -- fry (v.)
+p	"Pon farr (anc.) -- ""mating time"""
+p	"Pon-to-fa (anc.) -- estrus, ""heat"""
+p	Pon-tor -- mate (v.)
+p	Poprah -- receive
+p	Poshaht-, Poshahtik -- eventual
+p	Potau \  - '  \ -- keep (v.)
+p	Potun-tor -- sustain
+p	Praduk \ '  -  \ -- front (meteor.)
+p	Prahk'es -- ecstasy
+p	Pral -- wave
+p	Prash -- mucus
+p	Praskul-, Praskulik -- flamboyant
+p	Prel -- bliss
+p	Prel-bosh -- blissful
+p	Pris-tor -- braid (v.)
+p	Psal-tukh -- strontium
+p	Psau \  \ -- seek
+p	Pseth|-| \  \ -- dry
+p	Pseth-wak -- drought
+p	Pstha \  \ -- search, look for (v.)
+p	Psthan -- search, quest (n.)
+p	Pstheran \ '  -  \ -- clich_
+p	Pthak \  \ -- fear, phobia
+p	Pu'a \  - '  \ -- fairy
+p	Pu'gal \ '  -  \ -- baryon
+p	Pu'olu \  - '  -  \ -- genie
+p	Pu'ulidau -- to be marked
+p	Pu-tor -- clean (v.)
+p	Pudatau -- to be propelled
+p	Pudor-tor -- to be honored
+p	Pudva-tor -- to be to believed
+p	Pudvel-tor -- to be chosen
+p	Pufai-tor -- to be known
+p	Pufas-tor -- to be cooked
+p	Pufulag-tor -- to be lead
+p	Puhku -- amber, succinite
+p	Puhnk -- crust
+p	Puhsh \  ,  \ -- foam, froth, spume (n.)
+p	Puk-tor -- fight (v.)
+p	Pukilko-tor -- to be answered
+p	Pula'tusa -- to be mourned
+p	Pulau \  - '  \ -- reach (v.)
+p	Pulayau \  -  - '  \ -- to be present
+p	Pulu-kur -- lavender (color)
+p	Puma \  - '  \ -- to be owned
+p	Pumeskarau -- to be held
+p	Puna'shau -- to be greeted
+p	Punaf-tor -- to be linked
+p	Punar-tor -- to be accepted
+p	Punekwitau -- to be forced
+p	Pupak-tor -- to be lost
+p	Pupol-tor -- to be fried
+p	Puragtau -- to be introduced
+p	Purubai -- to be changed
+p	Pusaganau -- to be dispersed
+p	Pushau \  - '  \ -- to be broken
+p	Puskau-tor -- to be digested
+p	Puspusau -- to be launched
+p	Pustau \  - '  \ -- to be killed
+p	Pusvik-tor -- to be betrayed
+p	Putal-tor -- to be found
+p	Putan-tor -- to be given
+p	Putanovau -- to be equipped
+p	Putash-tor -- to be controlled
+p	Putaurau -- to be amazed
+p	Puterish-tor -- to be combined
+p	Putesha -- to be awed
+p	Puthakau -- to be focused
+p	Puthrap-tor -- to be offended
+p	Putrefei -- to be martyred
+p	Putumau -- to be programmed
+p	Putus-tor -- to be loaded
+p	Puv -- swelling
+p	Puv-tor -- swell (v.)
+p	Puvinem-tor -- to be assimilated
+p	Puyem-tor -- to be fed
+p	Puyik \ '  -  \ -- clean (adj.)
+p	Puzehl-tor -- to be aligned
+p	Puzhu-tor -- to be heard
+r	Ra -- what
+r	Raal \  \ -- a region on Vulcan
+r	Rada-tor -- spin (a web, yarn, etc.)
+r	Radet \  - '  \ -- bushing (mech.)
+r	Raf-, Rafik -- electric(al)
+r	Raf-a'rak|-| -- electropositive
+r	Raf-ar'kada-, Raf-ar'kadaik -- electronic
+r	Raf-ar'kada-dvelek -- electronic switch
+r	Raf-ar'kada-ha'wein -- electronic shutter (camera)
+r	Raf-ar'kada-kahat -- electronic flash
+r	Raf-ar'kada-sakat -- electronic mail (e-mail)
+r	Raf-ar'kada-sutauk -- electronics bay
+r	Raf-ar'kada-tash -- electronic control
+r	Raf-ar'kada-tehnokatlar -- electronic countermeasures (ECM)
+r	Raf-ar'kada-tvelkaun -- electronic tuning
+r	Raf-ar'kada-vellar -- electronics (equipment)
+r	Raf-ar'kada-viralashek -- electronic microphone
+r	Raf-ar'kada-yonan -- electronic ignition
+r	Raf-dataya -- electric propulsion
+r	Raf-dvun-nekwitaya -- electromotive force
+r	Raf-dvun-tal -- electrokinetics (study)
+r	Raf-elakh -- electric(al) wire
+r	Raf-falek-, Raf-falekik -- electrothermal
+r	Raf-gasu -- electric flux
+r	Raf-glayek -- electric eye
+r	Raf-ha'gelek -- electric light
+r	Raf-khrasaya -- electrical discharge
+r	Raf-kolaya -- electric(al) shock
+r	Raf-kus-vakh -- electric bell
+r	Raf-meil-tal -- electrochemistry
+r	Raf-mish-tal -- electrical engineering
+r	Raf-mishu -- electric motor
+r	Raf-nala -- electrocyte
+r	Raf-natya-thonek -- electrometer
+r	Raf-nifau -- electrolyze
+r	Raf-nifaya -- electrolysis
+r	Raf-seshan-dvelek -- electromagnetic switch
+r	Raf-seshan-ferek -- electromagnetic generator
+r	Raf-seshan-kebi -- electromagnetic unit
+r	Raf-seshan-pral -- electromagnetic wave
+r	Raf-seshan-sagaya -- electromagnetic pulse (EMP)
+r	Raf-seshan-saya -- electromagnetic radiation
+r	Raf-seshan-vel -- electromagnet
+r	Raf-seshan-vimevilaya -- electromagnetic induction
+r	Raf-seshan-vohrayek -- electromagnetic brake
+r	Raf-seshan-vunai -- electromagnetic field (EMF)
+r	Raf-slaun -- electroplating
+r	Raf-spa'es -- electrical conductivity
+r	Raf-tepul -- electrical power, electricity
+r	Raf-tepul-sagan -- electrical power distribution
+r	Raf-tor-velsu -- electrician
+r	Raf-toranu-masu -- electrodynamic fluid
+r	Raf-u'rak|-| -- electronegative
+r	Raf-yontaya -- electric(al) burn
+r	Rafanitra -- bus (electr.)
+r	Rafau -- electrify
+r	Rafaya -- electrification
+r	Rafostau -- electrocute
+r	Rafostaya -- electrocution
+r	Ragel-tor -- meet (v.)
+r	Ragelan -- meeting
+r	Ragtau \  - '  \ -- introduce
+r	Ragtaya \  - '  -  \ -- introduction
+r	Rahm -- thunder
+r	"Rai -- no (opposite of ""yes"")"
+r	Rak -- position (n.)
+r	Rak-tukh -- boron
+r	Rakusau -- sting (v.)
+r	Ral|-| -- loud
+r	Ral'es \ '  -  \ -- volume, loudness
+r	Rala -- wing
+r	Ralash \  - '  ,  - '  \ -- noise, sound
+r	Ralash-bosh -- noisy
+r	Ralash-fam -- silent
+r	Ralash-tal -- acoustics (study)
+r	Ralash-tanaf -- music
+r	Ralash-tanafsu -- musician
+r	Ram-, Ramik -- classical (adj.)
+r	Ran-, Ranik -- nice (adj.)
+r	Ran-pleth (anc.) -- revenge
+r	Ran-tor -- avenge, take revenge
+r	Ranau \  - '  \ -- train (v.)
+r	Ranaya \  - '  -  \ -- training
+r	Ras|-| -- heavy
+r	Ras-tukh -- lead (metal)
+r	Rasahkos|-| (anc.) -- bad (adj.)
+r	Raskwul -- bash(ing) (n.)
+r	Raskwul-tor -- bash (v.)
+r	Raspiis -- curse (n.)
+r	Rau-nol -- refuge, shelter
+r	Rau-tor -- shelter, provide refuge
+r	Raul -- tool
+r	Ravot \  - '  \ -- insect, bug
+r	Razh -- hole, pit
+r	Razhen \ '  -  \ -- ulcer (med.)
+r	Razhil \  - '  \ -- excavation
+r	Razhil-tor -- excavate
+r	Redzh-, Redzhik -- mild (adj.)
+r	Reh-leh -- thirty
+r	Reh-leh'veh -- thirtieth (n.)
+r	Reh-lehr-, Reh-leh'rak -- thirtieth (adj.)
+r	Rehek \ ' _ -  \ -- trio
+r	Reh|kuh| -- three
+r	Rehr-, Reh'rak -- third
+r	Rekun \  - '  \ -- pyramid (shape)
+r	Reldai (anc.) -- female religious leader, ruler or princess
+r	Relen (anc.) -- a plant made into a tea
+r	Relk -- cupola
+r	Relkoh \ '  -  \ -- oath (n.)
+r	Renkup'es -- skill
+r	Renyut \  - '  \ -- way (skill, type)
+r	Reshan \ '  -  \ -- anger, rage (n.)
+r	Reshnek -- angry, enraged
+r	Ret -- space (room)
+r	Ri -- not
+r	Ri'el \  - '  \ -- nothing
+r	Rifainuk -- unknown (adj.)
+r	Rigath|-| \ '  -  \ -- benign
+r	Rigishuk -- unexpected (adj.)
+r	Rihag-, Rihagik -- difficult, hard, not easy
+r	Rihamau -- check, verify
+r	Rihansu -- Romulan (person/language)
+r	Riherik -- unsuitable
+r	Rihk -- edge (n.)
+r	Rihpret \ '  -  \ -- cataract (water)
+r	Rihtun \ '  -  \ -- virtue
+r	Rikerik -- unworthy
+r	Rikohs-, Rikohsik -- insane, mad
+r	Ril -- nor
+r	Rilik -- intermittent
+r	Rim -- none
+r	Rimon-yehat -- undrinkable, non-potable
+r	Rinan'es -- futility
+r	Rinan-, Rinanik -- futile
+r	Riozhika -- illogic
+r	Riozhikaik -- illogical
+r	Ripabukhu -- The Unforgiven
+r	Ripakhaik -- irregular
+r	Ripakhaik'es -- irregularity
+r	Rirom|-| \ '  -  \ -- not good (but not necessarily bad) (adj.)
+r	Ris -- zero
+r	Risanemau -- deprive
+r	Rish-tor -- survive
+r	Rishan \ '  -  \ -- survival
+r	Riskuri|-| -- unconventional
+r	Rislau -- contaminate (v.)
+r	Rislaya -- contamination
+r	Ritsuk|-| \ '  -  \ -- rare, uncommon
+r	Ritsuri|-| \ '  -  -  \ -- abnormal, irregular, unusual
+r	Rivak \  - '  \ -- course (n.)
+r	Riyin \  - '  \ -- negation
+r	Ro'fah -- inform
+r	Ro'fori \  - '  -  \ (anc.) -- information
+r	Ro-kas -- vaccine
+r	Ro-kasau -- vaccinate
+r	Ro-kasaya -- vaccination
+r	Rok -- hope (n.)
+r	Rom|-| -- good
+r	Rom-lashan -- welcome (n.)
+r	Ru'lut \  - '  \ -- mouth
+r	Ru'lut-masu -- saliva
+r	Rubah \  - ' ' , - '  \ -- change (n.)
+r	Rubanau -- change (v.)
+r	Rubitau -- alter, modify
+r	Rubitaya -- alteration, modification
+r	Ruduhk -- decoy (n.)
+r	Rufai \  - '  \ -- benefit (n.)
+r	Ruhm -- even (adv.)
+r	Rukau \  - '  \ -- bounce (v.)
+r	Ruken \ '  -  \ -- exit (n.)
+r	Run -- dream (n.)
+r	Runem-tor -- grab (v.)
+r	Runev \ '  -  \  -- spasm (n.)
+r	Ruskarau -- grasp (v.)
+r	Ruskarayek -- forceps
+r	Ryill \  ,  ,  \ (anc.) -- a Vulcan musical instrument
+s	"S'harien \  - '  -  -  ,  - '  -  \ (NGS) -- ancient Vulcan combat sword, lit. ""Pierceblood"""
+s	S'udish \  - '  \ -- outside
+s	Sa'adek \  - '  -  \ -- elevator, lift
+s	Sa'akh \  - '  \ (anc.) -- debt
+s	Sa'awek (anc.) -- alone
+s	Sa'le-esh-tor -- exhale
+s	Sa'le-eshan -- exhalation
+s	Sa'ovau -- expand
+s	Sa'ovau-lesek -- expansion joint
+s	Sa'ovau-masu-mishu -- expansion engine
+s	Sa'ovau-spunek -- expansion valve
+s	Sa'ovau-tuhlek -- expansion tank
+s	Sa'ovaya -- expansion
+s	Sa-, Sayik -- male (adj.)
+s	Sa-fu \ '  -  \ -- son
+s	Sa-ka-ashausu -- male homosexual (n.)
+s	Sa-kai \ '  -  \ -- brother
+s	Sa-kan \ '  -  \-- boy
+s	Sa-kelek-han -- prior (person)
+s	Sa-kuk \ '  -  \ -- uncle
+s	Sa-mekh \ '  -  \ -- father
+s	Sa-niht \ '  -  \ -- male cousin
+s	Sa-Te'kor -- King (only in a title or with a proper name)
+s	Sa-te'krusu -- king (general term)
+s	Sa-telsu -- husband
+s	"Sadahshaya t'Lokan -- Lokan's Schism (often inaccurately called ""T'Lokan Schism"")"
+s	Sadakh \  - '  \ (anc.) -- eject
+s	Sadakh-ku-san -- ejection seat
+s	Sadakhat -- ejection
+s	Sadakhek -- ejector
+s	Sadalau \  -  - '  \ -- release (v.)
+s	Sagan-tor -- distribute
+s	Saganau \  -  - '  \ -- disperse
+s	Sagau \  - '  \ -- pulse, burst out (v., physics, etc.)
+s	Saguhsh \  - '  , - '  \ -- exhaust (n.)
+s	Saguhsh-mev -- exhaust pipe
+s	Saguhsh-pa-tukh -- exhaust gas
+s	Saguhsh-sovek -- exhaust fan
+s	Saguhsh-tersvep -- exhaust port
+s	Saguhsh-wekh-vel -- exhaust manifold
+s	Saguhsh-yontayek -- afterburner
+s	Sahil-tor -- dig out, dig up, unearth
+s	Sahish-tor -- depressurize
+s	Sahishan \  - '  -  \ -- depressurization
+s	Sahr'gal -- tachyon
+s	Sahr'gal-glashayek -- tachyon scanner
+s	Sahr'gal-vunai -- tachyon field
+s	Sahr'gal-zehl|ek| -- tachyon beam
+s	Sahr-, Sahris -- fast, quick, rapid, speedy
+s	Sahr-tor -- run (v.)
+s	Sahrafel \ ' -  - '  ,  - \ -- trust (v.)
+s	Sahrau \ ' - '  ,  - \ -- accelerate, speed up
+s	Sahraya -- acceleration
+s	Sahrayek -- accelerator
+s	Sahriv -- storm (n.)
+s	Sahrvukh -- race (n., sport)
+s	Sahrvukh-ashket -- racetrack
+s	Sahrvukh-hors -- racehorse
+s	Sahrvukhsu -- racer (person)
+s	Sai-bosh -- overdressed (adj.)
+s	Sai-fam -- naked, nude, unclothed, completely undressed
+s	Sai-tor -- clothe
+s	Sai-tukh -- cloth
+s	Sai-vel -- clothes, clothing
+s	Sailau -- accompany
+s	Saizhiv -- lint
+s	Sak-tor -- spread (v.)
+s	Sak-tukh -- scandium
+s	Sakal -- testis, testicle
+s	Sakal-rasahtra -- testicular cancer
+s	Sakal-sa'haf -- scrotum
+s	Sakat -- mail (n.)
+s	Sakatau -- enhance
+s	Sakataya -- enhancement
+s	Sakathilau -- discriminate (v.)
+s	Sakelekau -- evict
+s	Sakikau -- jettison
+s	Saklukhau -- deteriorate
+s	Sakurau -- decolorize
+s	Sakwitau -- deflect
+s	Sakwitayek -- deflector
+s	Salan -- wind
+s	Salasu -- native (n.)
+s	Salatik -- native (adj.)
+s	Salur -- blow (v.)
+s	Samazhau -- bail (water) (v.)
+s	Samek -- cold (adj.)
+s	Sameskarau -- isolate
+s	Sameskaraya -- isolation
+s	Samev -- flue
+s	Samm \  \ -- flea
+s	Samuyek -- chiller (device)
+s	San -- waist
+s	San-zhel -- belt (n.)
+s	Sanan -- exclusion
+s	Sanan'es -- exclusivity, exclusiveness
+s	Sanan-tor -- exclude
+s	Sananik -- exclusive (adj.)
+s	Sanesh-tor -- amputate
+s	Sanoi (anc.) -- please (v.)
+s	Sanok-, Sanokik -- pleasant (adj.)
+s	Sanosh (anc.) -- pleasure
+s	Sanu -- please (pleasantry)
+s	Sapanu-, Sapanuyik -- off-world (adj.)
+s	Saplau -- spray (v.)
+s	Saplaya -- spray (n.)
+s	Saplayek -- sprayer (device)
+s	Sar-tak -- bed
+s	Sar-tak-pthak -- clinophobia
+s	Saran-tukh -- technetium
+s	Sark -- beetle
+s	Sarlah -- come, arrive
+s	Sas-a-shar (anc.) -- a Vulcan desert
+s	Sas-tor -- diffuse (v.)
+s	Sasahr-tor -- flee, run away (from)
+s	Sasak -- diffusion
+s	Sasalfosau -- pasteurize
+s	Sasalfosaya -- pasteurization
+s	Sasarlah -- come out, emerge
+s	Sasau -- transmit
+s	Sasaya -- transmission
+s	Sasayek -- transmitter
+s	Saseshau -- pull out, withdraw, extract, evulse
+s	Sash -- acid (compound)
+s	Sash'es -- acidity
+s	Sash-masu -- acid (liquid)
+s	Sash-sov-masu -- acid rain
+s	Sashalotau -- evacuate
+s	Sashalotaya -- evacuation
+s	Sashavau -- expose (v.)
+s	Sashidau -- deform
+s	Sashidaya -- deformation
+s	Sashik -- acidic
+s	Sasnem-tor -- excrete
+s	Sasovau -- deflate
+s	Sastoraya -- breakthrough (n.)
+s	Satalau -- determine
+s	Satau -- send
+s	Sateh -- percent
+s	Sateh'es -- percentage
+s	Satekhau -- sprout up
+s	Satersau -- disconnect
+s	Satorvu -- product
+s	Sau -- emit
+s	Sau-ha'tanau -- fluoresce
+s	Sau-ha'tanauk -- fluorescent
+s	Saudau -- appear
+s	Saul-tor -- shout, yell (v.)
+s	Saurib-, Sauribik -- radio (adj.)
+s	Saurib-poprat -- radio reception
+s	Saurib-pral -- radio wave
+s	Saurib-sasaya -- radio broadcast/transmission
+s	Saurib-vakav'es -- radio frequency (RF)
+s	Sauribau -- radio (v.)
+s	Sauribayek -- radio (n.)
+s	Sauyau -- seem
+s	Sav'el -- shirt
+s	Savar-tor -- confess
+s	Savas -- fruit (n.)
+s	Savas-slor-tukh -- fructose
+s	Savasau -- (bear) fruit (v.), fructify
+s	Savasau-bosh -- fruitful
+s	Savasaya -- fructification, fruition, fruiting (out)
+s	Savasik -- fruity
+s	Savau -- diverge
+s	Savaya -- divergence
+s	Savilau -- deodorize
+s	Savlau -- evade
+s	Savlaya -- evasion
+s	Saweinau -- molt, shed one's skin
+s	Sayonotau -- extinguish
+s	Sayonotayek -- extinguisher
+s	Sayorkunau -- eviscerate, disembowel, gut
+s	Sayumak -- spring (water source), fountain
+s	Sazehlik -- perpendicular (adj.)
+s	Sazh -- legume
+s	Sef -- dune
+s	"Seheik (NGS) -- ""declared ones""; pilgrims (obs.)"
+s	Sehlat -- large bear-like animal (sometimes domesticated as a pet)
+s	Sek -- outlet
+s	Sele-an-t'li (anc.) -- secondary level of adult discipline
+s	"Seleya -- a mountain; site of a major Vulcan ceremonial center"
+s	Selk -- delta (geol.)
+s	Sem-rik -- fascinating
+s	Senau -- get up, arise
+s	Senepa (anc.) -- a weapon with poisoned tips
+s	Sep-wafikh (anc.) -- agree
+s	Sesh'gal -- graviton
+s	Sesh'gal-vunai -- graviton field
+s	Sesh'gal-zehl|ek| -- graviton beam
+s	Seshan -- pull (n.)
+s	Seshan-ek'shal -- magnetosphere
+s	Seshan-fen -- magnetic seal
+s	Seshan-khluhkayek -- magnetic constrictor
+s	Seshan-korsau-tuhlek -- magnetic storage bottle
+s	Seshan-kwitayek -- magnetic repulsor
+s	Seshan-thonek -- magnetometer
+s	Seshan-vel -- magnet
+s	Seshan-vunai -- magnetic field
+s	Seshan-vunai-yeturek -- magnetic field drive
+s	Seshau -- pull (v.)
+s	Seshayek -- tractor, tug
+s	Seshilan-eitaya -- gravimetric shear
+s	Seshilan-glashayek -- gravimetric scanner
+s	Seshilan-sagaya -- gravimetric pulse
+s	Seshu-ip-thorshek -- gravitic mine
+s	Seshupau -- magnetize
+s	Seshupik -- magnetic (adj.)
+s	Seshupik flekh'es -- magnetic anomaly
+s	Set -- drop (n.)
+s	Set'ki -- interesting
+s	Set-kar -- drop arm
+s	Set-mah-vel -- drop hammer
+s	Set-sfek -- drop point
+s	Set-spunek -- drop valve
+s	Set-tor -- drop (v.)
+s	Set-tuhlek -- drop tank
+s	Setebihk -- symbol
+s	Sfek -- point (n.)
+s	Sfith|-| -- bitter
+s	Sfith-masu -- vinegar
+s	Sfith-masu-sash -- acetic acid
+s	Sha' -- one's own, personal
+s	Sha'es -- identity
+s	Sha'koshtri -- one's own race or species
+s	Sha'ti -- cubbyhole, niche, nook, recess
+s	Sha-ka-ri (anc.) -- mythical source of creation
+s	Shad -- brain
+s	Shaf -- cyst
+s	Shahtau -- conclude, end, finish
+s	Shahtaya -- conclusion, end, finish
+s	Shai -- self
+s	Shai-kas-vikantaya -- self-pollination
+s	Shai-vashau -- self-destruct (v.)
+s	Shai-vashau-torektra -- self-destruct(ion) system
+s	Shai-vashaya -- self-destruct(ion) (n.)
+s	Shai-vikantaya -- self-fertilization
+s	Shaik|-| -- odd (not even)
+s	Shaik-su'us -- odd number
+s	Shaka -- fiend
+s	Shal -- area, region, zone
+s	Shal-lan -- colonel
+s	Shalrihk -- frontier
+s	Shan-hali -- shuttle(craft)
+s	Shan-tor -- transfer (v.)
+s	Shanai'Kahr -- a Vulcan city
+s	Shar -- security (police)
+s	Shar'es -- security (condition)
+s	Shar-tor -- secure (v.)
+s	Sharu -- opening, aperture
+s	Sharush -- open up, split open
+s	Sharushan -- surgery
+s	Shasol -- land, country, nation
+s	Shasutan -- identification
+s	Shasutan-tor -- identify
+s	Shatarr -- a poisonous lizard
+s	Shau -- break, fracture (v.)
+s	Shau-vel -- fuse (n., electr.)
+s	Shaukaush -- passion(s)
+s	Shaula -- self-control, reason(ing)
+s	Shavokh (anc.) -- very large Vulcan bird with gold-brown feathers
+s	Shaya -- break, fracture (n.)
+s	Shayuf -- ego
+s	She'rak -- east
+s	She'raksu -- easterner
+s	She-tor -- ascend, rise
+s	Shefek -- rail (n.)
+s	Shefek-hali -- train (n.)
+s	Shefek-seshayek -- locomotive, railroad engine
+s	Shefek-yut -- railroad, railway (n.)
+s	Shefek-yut-laskat -- railroad station
+s	Shefek-yut-mes -- railroad crossing
+s	Sheh'rak, Shehr- -- sixth (adj.)
+s	Sheh'veh -- sixth (n.)
+s	Sheh-leh -- sixty
+s	Sheh-leh'veh -- sixtieth (n.)
+s	Sheh-lehr-, Sheh-leh'rak -- sixtieth (adj.)
+s	Sheh-vla -- hexagon, hexahedron
+s	Sheh|kuh| -- six
+s	Shehr-, Sheh'rak -- eastern
+s	Shei -- scream (v.)
+s	Shek -- sword
+s	Shek-tukh -- iron (metal)
+s	Shel-tukh -- manganese
+s	Shemp-, Shempik -- glad
+s	Shen -- ascent, rising
+s	Shenek -- escalator
+s	Shetau -- become
+s	Shi -- place, site, location
+s	Shi'aushfalar -- zoo, zoological garden, zoological park
+s	Shi'dan-abru -- zenith
+s	Shi'dunap -- library
+s	Shi'has -- hospital
+s	Shi'ip -- blind, hide, place of concealment
+s	Shi'Kahr (Shir'Kahr, Shir-Kahr, ShirKahr) -- Vulcan capital city
+s	Shi'kon -- church, temple, synagogue, mosque
+s	Shi'kov -- non-volcanic mountain
+s	Shi'kwai -- wilderness
+s	Shi'masu -- oasis
+s	Shi'oren -- school, academy, educational institute
+s	Shi'Oren t'Ek'tallar T'Khasi -- Vulcan Academy of Sciences (Vulcan Science Academy)
+s	Shi'sochya -- Vulcan-type park
+s	Shi'to-gav -- (law) court
+s	Shi'vukhut -- grave
+s	Shi'wun|lar| -- armory, arsenal
+s	Shi'yar -- Earth-type park
+s	Shi'yavekh -- address
+s	Shi'yem -- dining room
+s	Shi'yon -- volcano
+s	Shi'yuk -- bedroom
+s	Shi-shi-ifisek -- site-to-site transporter
+s	Shid -- form, shape (n.)
+s	Shid-shuk-tor -- sculpt
+s	Shid-tanaf -- sculpting
+s	Shid-tanafsu -- sculptor
+s	Shid-vel -- sculpture (piece of art)
+s	Shidau -- form, shape (v.)
+s	Shif -- pair
+s	Shihvek -- wedge (n.)
+s	Shika karf-tak pon-tau (NGS) -- happy birthday (to you)
+s	Shikh-orna -- council
+s	Shila -- community
+s	Shila'es -- society
+s	Shilaik -- social (adj.)
+s	Shisau -- hiss (v.)
+s	Shitau -- (put into) place, locate something somewhere, position
+s	Shivak -- mass (n.)
+s	Shivau -- paralyze
+s	Shiyau -- be located
+s	Shiyu -- degree (n.)
+s	Shok -- kiss (n.)
+s	Shok-tor -- kiss (v.)
+s	Shom-tor -- to rest
+s	"Shon-ha-lohk (NGS) -- engulfment; feeling of being ""head over heels"""
+s	Shonau -- engulf
+s	Shoren -- calling out to (n.)
+s	Shoret -- call (out) to (v.)
+s	Shrau -- fray, frazzle (v.)
+s	Shu-pal -- source
+s	Shu-tukh -- uranium
+s	Shuhk -- slime
+s	Shul -- position (n.)
+s	Shur -- soup
+s	Si-, Sik -- outer (adj.)
+s	Sih-nehaya -- alpha decay
+s	Sih-pi'gal -- alpha particle
+s	Sih-saya -- alpha radiation
+s	Sih-sayek -- alpha emitter
+s	Sih-zehllar -- alpha rays
+s	Sikar (NGS) -- Spring (season)
+s	"Sir-sen -- ""cir-cen"", a squat, cactus-like Vulcan plant"
+s	Sis-tor -- squander, fritter away
+s	Siselau -- ferment (v.)
+s	Siyah -- almost
+s	Ska'gal -- neutrino
+s	Ska-fulagtau -- abdicate (v.)
+s	Skaf -- dais, platform, stage
+s	Skahal-tor -- get off (of), disembark, deplane, detrain, etc.
+s	Skahan -- curtain (n.)
+s	Skamau -- attract
+s	Skan -- proof
+s	Skan-tor -- prove
+s	Skann (anc.) -- all of one's blood relatives
+s	Skapa'shau -- clear off (v.)
+s	Skasau -- treat (v., med.)
+s	Skau-tor -- digest (v.)
+s	Skau-yehat -- digestible
+s	Skaun -- digestion
+s	Skaun-ek'ur -- digestive tract
+s	Skaun-ek'ur-tal -- gastroenterology
+s	Skaun-pi'nafek -- digestive gland
+s	Skaun-pi'vel -- lysosome
+s	Skaun-sa'haf -- stomach (n.)
+s	Skaun-sa'haf-masu -- gastric juice
+s	Skaun-sa'haf-pamutaya -- gastric bypass
+s	Skaun-sa'haf-razhen -- gastric ulcer
+s	Skaun-sa'haf-yonshaya -- gastritis
+s	Skaun-zalu -- digestive enzyme
+s	Skaunek -- digester (device)
+s	Skautuhlau -- rid
+s	Skehl -- groove (n.)
+s	Skek -- wound (n.)
+s	Ski'flana-oren -- academy
+s	Skichra (anc.) -- epilepsy
+s	Skil -- win, victory
+s	Skil-tor -- to win
+s	Skilsu -- winner, victor
+s	Skish-tor -- slide, slip (v.)
+s	Skladan -- message
+s	Skladasu -- messenger
+s	Skonn -- surface
+s	Skor-tor -- tie (as a rope) (v.)
+s	Skram -- carving (n.)
+s	Skram-tor -- carve
+s	Skramek -- lathe (n.)
+s	Skramsu -- carver (person)
+s	Skrashau -- erode
+s	Skrol -- errand, mission
+s	Sku -- sill
+s	Skuf -- rune
+s	Skunap -- diploma
+s	Skuri|-| -- conventional
+s	Slah -- fiber, fibre
+s	Slah-gnal -- fibroid tumor, fibroma
+s	Slah-makh -- fiberglass (n.)
+s	Slah-nalatra -- fibrous tissue
+s	Slaht-, Slahtik -- fibrous
+s	Slakh -- nausea
+s	Slau-tor -- plate, chrome (v.)
+s	Slau-tukh -- chromium
+s	Slokh -- starch (n.)
+s	Slor|-| -- sweet
+s	Slor-dau-tukh -- insulin
+s	Slor-tukh -- sugar (n.)
+s	Slu-, Sluk -- fresh (adj.)
+s	Sluyau -- freshen
+s	Smash-hali-kif -- dry dock (n.)
+s	Smashau -- drain (v.)
+s	Smer -- pest
+s	Smertau -- harass, bug, pester, vex
+s	Smes-shasol-, Smes-shasolik -- international (adj.)
+s	Smol -- alga
+s	Smusma -- prosper
+s	Smusma'es -- prosperity
+s	Sna-lok (anc.) -- mosaic, tessara
+s	Sna-lok-zhuksu -- mosaic-worker
+s	Snagel-tor -- encounter (v.)
+s	Snaipau -- crumble (v.)
+s	Snauk -- fork (n.)
+s	Snazh|-tukh| -- plasma (physics)
+s	Snem-tor -- remove
+s	Snertau -- interfere
+s	Snesh-tor -- cut out, excise
+s	Snet -- fulcrum
+s	Snikau -- rob
+s	Snishau -- erase (v.)
+s	Snuhglau -- gargle (v.)
+s	Snuhkrol -- flattery
+s	Snuhkrol-tor -- flatter
+s	So-resh -- madness
+s	Sochya -- peace
+s	Sohk'es -- elegance
+s	Solai -- field (cultivated)
+s	Solantra -- property, land(s), (real) estate
+s	Solek -- soil
+s	Solektra -- ground, land
+s	Solektra-besan -- map, chart
+s	Solektra-hutau'es -- seismicity
+s	"Solektra-hutauk masutra-pral -- seismic sea wave, tsunami, ""tidal wave"""
+s	Solektra-hutaya -- earthquake (n.)
+s	Solektra-hutaya-besan -- seismogram
+s	Solektra-hutaya-besek -- seismograph
+s	Solektra-hataya-pavek -- seismic event
+s	Solektra-hutaya-tal -- seismology
+s	Solektra-hutaya-thonek -- seismometer
+s	Solektra-hataya-toran -- seismic activity
+s	Son-ha-lohk  (NGS) -- romantic love
+s	Sos'eh -- maybe, perhaps, possibly
+s	Sov -- air (n.)
+s	Sov-dvun-tal -- aerodynamics (study)
+s	Sov-ha-vel -- aerobe
+s	Sov-hali -- aircraft
+s	Sov-hashek -- airplane
+s	Sov-kapol -- air filter
+s	Sov-ladik -- aerobic
+s	Sov-lerakovayek -- air compressor
+s	Sov-mashau -- rain (v.)
+s	Sov-masu -- rain (n.)
+s	Sov-masu'es -- humidity
+s	Sov-masu-thek -- raindrop
+s	Sov-mev -- air duct
+s	Sov-noshek -- air conditioner
+s	Sov-pidek -- altitude
+s	Sov-puyek -- air cleaner
+s	Sov-spol -- air pump
+s	Sov-spunek -- air valve
+s	Sov-su-yata -- airliner
+s	Sov-tan-tor -- aerate
+s	Sov-tanan -- aeration
+s	Sov-tukh -- nitrogen
+s	Sov-vihish -- air pressure
+s	Sov-yutik-dvun -- advection
+s	Sovash -- alkali, base
+s	Sovash-, Sovashik -- alkaline, basic
+s	Sovash-kipof -- alkaline battery
+s	Sovek -- fan (cooling)
+s	Spa'ash -- disgust
+s	Spa-tor -- conduct (v.)
+s	"Spa-yorna (NGS) -- ""Spyorna"", Vulcan High Council"
+s	Spahk -- claw, talon
+s	Spathel -- canyon
+s	Spen-tor -- jump, leap (v.)
+s	Spes -- voice
+s	Spes-fam -- mute
+s	Spis-tor -- dip (v.)
+s	Spitau -- bore, drill (v.)
+s	Spitau-el'lamok -- drill press
+s	Spitau-raul -- auger, boring tool, manual drill
+s	Spitau-zus -- drill bit
+s	Spitayek -- drill (machine)
+s	Spo-kur -- dark blue
+s	Spoh-tor -- fade (out), become pale
+s	Spoh-tukh -- potassium
+s	Spol -- pump (n.)
+s	Spolek -- experiment (n.)
+s	Sporiben -- exclaim (v.)
+s	Sporun -- exclamation
+s	Sposh-tor -- erupt
+s	Sprah -- indeed
+s	Spunau -- outweigh
+s	Spunek -- valve
+s	Spusau -- launch (v.)
+s	Srashiv -- achievement
+s	Sri'Kahr -- a Vulcan city
+s	Stal-tukh -- cadmium
+s	Stan-tor -- exude, ooze (v.)
+s	Star-krus -- statement
+s	Stariben -- speak (a language)
+s	Starun -- speech
+s	Stau -- kill (v.)
+s	Steh-leh -- seventy
+s	Steh-leh'rak, steh-lehr- -- seventieth (adj.)
+s	Steh-leh'veh -- seventieth (n.)
+s	Steh-vla -- heptagon
+s	Steheht -- type of old Vulcan poetry
+s	Steh|kuh| -- seven
+s	Stehr-, Steh'rak -- seventh (adj.)
+s	Stek -- clamp (n.)
+s	Stivan -- phenomenon
+s	Stonal -- (musical) horn
+s	Stonn \  \ -- animal horn, antler
+s	Stor-, Storik -- developed (adj.)
+s	Storau -- develop
+s	Storaya -- development
+s	Storil|-| -- advanced (adj.)
+s	Stron -- escape (n.)
+s	Stron-tor -- escape (v.)
+s	Stron-threshan -- escape velocity
+s	Stron-thro-svep -- escape hatch
+s	Stronsu -- escapee
+s	Stukh -- (outer) space
+s	Stukh-hali -- spacecraft, spaceship
+s	Stukh-hash -- spaceflight
+s	Stukh-laskat -- space station
+s	Stukh-saikhut -- spacesuit
+s	Stukh-shan-hali -- space shuttle
+s	Stukhtra -- universe
+s	Su'el-tor -- emancipate
+s	Su'elan -- emancipation
+s	Su'elsu -- emancipator
+s	Su'us -- number (n.)
+s	Su-lak -- third party (person)
+s	Su-plisek -- hang glider
+s	Sudef -- womb, uterus
+s	"Sudef t'Yon -- ""The Womb of Fire"""
+s	Sufnuvau -- abhor, detest, loathe
+s	Suk, Suk' -- big, large
+s	Suk-payon -- inferno
+s	Sukhlop -- statue
+s	Sunil (anc.) -- pan (n.)
+s	Sura'Kahr -- a Vulcan city
+s	Sut -- ache (n.)
+s	Sutor-, Sutorik -- artificial
+s	Sutor-aikum -- artificial satellite
+s	Sutor-kash-tok'es -- artificial intelligence (AI)
+s	Sutor-nu-seshan -- artificial gravity
+s	Sutorik kapol-nafek -- artificial kidney
+s	Sutorik khaf-spol -- artificial heart
+s	Sutorik sa-neitaya -- artificial insemination
+s	Sutra -- crew, staff, faculty
+s	Sutravek -- team (n.)
+s	Suus Mahna (anc.) -- a Vulcan martial art discipline which takes years to master
+s	Suyu -- crew, faculty, personnel
+s	Sva' -- between (prep.)
+s	Svai -- flower (n.)
+s	Svai-zehlausu -- floral arranger
+s	Svai-zhuksu -- florist
+s	Svail -- fragrance
+s	Svailik -- fragrant
+s	Sval -- lesion
+s	Svekh -- cartridge
+s	Svep -- door
+s	Svi' -- among, in (the midst of), inside (of) (prep.)
+s	Svi'udish -- inside, internal
+s	Svi-shau -- interrupt
+s	Svi-tor -- enter
+s	Svi-wak -- interval
+s	Svik-tor -- betray
+s	Svitan -- center, middle, core
+s	Svitasunezh -- club, group, association, membership
+s	Svizh-tor -- pause (v.)
+s	Swana -- a rare and precious item
+t	T'an (anc.) -- rod used in kal-toh puzzle
+t	T'dahsu -- twin
+t	T'forti -- finally
+t	"T'hai'la (NGS) -- ""t'hy'la"", someone like a brother, very close/intimate friend, lover"
+t	T'kausu -- quintuplet
+t	T'kehsu -- quadruplet
+t	T'Khasi -- the native name for the Vulcan homeworld
+t	T'Khut -- a name for the twin world of T'Khasi
+t	T'Lai-tukh -- zirconium
+t	"T'Lokan -- see ""Sadahshaya t'Lokan"""
+t	T'rehsu -- triplet
+t	T'Rukh -- a name for the twin world of T'Khasi
+t	T'Rukhemai -- a name for T'Rukh's moon
+t	T'san s'at (NGS) -- a process of eliminating emotions
+t	T'shehsu -- sextuplet
+t	T'stehsu -- septuplet
+t	Ta (MGV) -- that, which, who (not a question word)
+t	"Ta'a (anc.) -- ""taal"", traditional Vulcan hand salute"
+t	Ta'an (anc.) -- a very valuable gift
+t	Ta'bek -- drug (n.)
+t	Ta'gal -- neutron
+t	Ta'raf -- neutral
+t	Ta'Valsh -- an ancient Vulcan port facility
+t	Tab-ma (anc.) -- late
+t	Tabakau -- regain
+t	Tadek-adir (anc.) -- absent
+t	Taflau -- punish
+t	Taflaya -- punishment
+t	Tah|-| -- unobtainable
+t	Tahal|-| -- light (weight)
+t	Tahal-tukh -- helium
+t	Tahmoh -- resolution
+t	Tahsin-, Tahsinik -- intransigent, uncompromising
+t	Taik -- hat, cap
+t	Taik-luk -- mushroom
+t	Takau -- beckon
+t	Takov|-| -- pretty
+t	Takurek -- prism
+t	Tal t'li (anc.) -- first meditation of adult training
+t	Tal'oth (NGS) -- Vulcan young adult desert survival ritual
+t	Tal-kam -- dear
+t	Tal-muv -- key (n.)
+t	Tal-tor -- find, discover
+t	Tala -- value (n.)
+t	Talal -- find, discovery
+t	Talash-, Talashik -- logarithmic
+t	Talash-ketil -- logarithmic integral
+t	Talash-kulan -- logarithmic spiral
+t	Talash-sagan -- logarithmic distribution
+t	Talash-su'us -- logarithmic number
+t	Talashenek -- logarithm
+t	Talik -- scientific
+t	Talkau -- head (v.)
+t	Talu -- neck (n.)
+t	Talu-krik -- neck pinch
+t	"Talu-shaya -- ""tal-shaya"", execution by breaking the neck"
+t	Taluhk|-| -- precious, valuable
+t	Taluhk-tukh -- platinum
+t	Talupau -- estimate (v.)
+t	Talvot -- bacterium, germ
+t	Tam-tor -- dance (v.)
+t	Tam'a -- ghost, apparition, phantom, spirit
+t	Tamadau -- abuse (v.)
+t	Tamadaya -- abuse (n.)
+t	Tamsu -- dancer
+t	Tan -- donation, gift, present
+t	Tan-tor -- donate, gift, present with something
+t	Tanaf -- art
+t	Tanafsu -- artist
+t	Tangu -- ideal (n.)
+t	Tanilau -- provide, supply
+t	Tanilkel -- warehouse (n.)
+t	Tanovau -- equip, provision, fit out
+t	Tanovau-tukh -- equipment, gear, provisions
+t	Tansu -- donor, giver
+t	Tar-tor -- say
+t	Tarkiv -- crown (n.)
+t	Tasau -- leak (v.)
+t	Tash -- control (n.)
+t	Tash-tor -- control (v.)
+t	Tashal -- (control) console
+t	Tashek -- controller
+t	"Tasmin (NGS) -- ""Tasmeen"", Autumn (season)"
+t	Tau -- fever
+t	"Tau-kath -- ""fever healing"""
+t	Tauf -- ridge (geol.)
+t	Tauk -- cave
+t	Taul-tor -- dive (v.)
+t	Taulik -- febrile, feverish (adj.)
+t	Taulsu -- diver
+t	Taurau -- amaze
+t	Tauvolau -- incite, foment
+t	Tav -- rate (n.)
+t	Tavat -- ratio
+t	Tcha -- curl (n.)
+t	Tchachaik -- awkward
+t	Tchai -- tea (Earth-style)
+t	"Tchakarya (NGS) -- ""chkariya"" or ""ch'kariya"", a ferret-like predator/scavenger"
+t	Tchas -- warp (n.)
+t	Tchas-klai -- warp factor
+t	Tchas-mev -- warp conduit
+t	Tchas-mishu -- warp engine
+t	Tchas-threshan -- warp speed
+t	Tchas-tviyan -- warp core
+t	Tchas-vunai -- warp field
+t	Tchas-yeturek -- warp drive
+t	Tchef -- vortex
+t	Tchepnu -- dork, nerd
+t	Tchol -- bay
+t	Te -- structure
+t	Te'koshfet (anc.) -- architect
+t	Te'koshif (anc.) -- architecture
+t	Te'krul-, Te'krulik -- royal (adj.)
+t	Te'krul-maat -- royal family
+t	Te'krultra -- royalty
+t	Te'krulyek -- royal house
+t	Te'Rikh, TeRikh -- a Vulcan city
+t	Tedvun-tor -- flex (v.)
+t	Tedvunik -- flexible, pliable, pliant
+t	Tefosh'es -- immunity
+t	Tefosh-, Tefoshik -- immune
+t	Tefosh-kesaya -- immune response
+t	Tefosh-torektra -- immune system
+t	Tefuk -- deliver (v.)
+t	Teh -- hundred (the number)
+t	Teh'rak, Tehr- -- hundredth (adj.)
+t	Teh'veh -- hundredth (n.)
+t	Tehk -- sprout (n.)
+t	Tehnat -- against
+t	Tehnau -- resist, stand up against
+t	Tehnyak -- override (n.)
+t	Tehrai -- goal
+t	Tehs -- deceit, fraud, deception, trickery
+t	Tehs-bosh -- deceitful, deceptive, fraudulent
+t	Tehs-tor -- deceive, defraud, trick (v.)
+t	Tehvar -- danger
+t	Tehvarik -- dangerous
+t	Tekeret -- deviation
+t	Tekla -- a type of wood
+t	Tel -- bond (n.)
+t	Tel-tor -- bond (v.)
+t	Tela'at  (anc.) -- elder (title of respect for advanced age Kolinahru)
+t	Telsu -- one who is bonded, a married person
+t	Telv-tor -- read (v.)
+t	Temep -- gate
+t	Temep-dvinsu -- gatekeeper
+t	Temep-kelek -- gatehouse
+t	Temep-lehk -- gatepost
+t	Temep-sharu -- gateway
+t	Temok -- wall
+t	Temok-weiwan -- plaster (n.)
+t	Ten -- less
+t	Ten-kan-bu (TGV) -- embryo
+t	Ten-mal -- early
+t	Tenah -- blame (v.)
+t	Tenkan -- fetus
+t	Teporilau -- excite (v.)
+t	Tepuh -- power (v.)
+t	Tepul -- energy, power
+t	Tepul-mev -- energy conduit, power conduit
+t	Tepul-nala -- energy cell, power cell
+t	Tepul-pak -- energy loss, power loss
+t	Tepul-rushanek -- power converter
+t	Tepul-sek -- power outlet
+t	Tepul-shan -- energy transfer, power transfer
+t	Tepul-smashaya -- energy drain, power drain
+t	Tepul-tanilayek -- power supply
+t	Tepul-tersayek -- power coupling
+t	Tepul-torvayek -- power plant
+t	Tepul-tral -- energy surge, power surge
+t	Tepul-vis -- power grid
+t	Tepul-vok -- energy level, power level
+t	Tepul-vunai -- energy field
+t	Tepulau -- energize
+t	Ter-tor -- compose (v.)
+t	Terau -- federate, fasten, join together
+t	Teraya -- federation, fastening, joining together
+t	Teraya Kaunshuk t'Ek'tralar (LGV) -- United Federation of Planets
+t	Terek -- affix (n.)
+t	"Teresh-kah -- Vulcan ""silver-bird"""
+t	Teretarun -- conference
+t	Teretau -- converge
+t	Teretek -- coupler
+t	Teretuhr -- together, united, fused
+t	Terish-tor -- combine (v.)
+t	Terk -- bolt (n.)
+t	Terpau -- adhere
+t	Terpaya -- adhesion
+t	Terpayek -- adhesive (n.)
+t	Terra -- Earth
+t	Terrasu -- Terran, Earthling, Earther
+t	Terrupik -- Terran, earthly (adj.)
+t	Tersau -- connect
+t	Tersek -- buckle (n.)
+t	Tershau -- collect
+t	Tersu -- partner (n.)
+t	Teruk -- corner (n.)
+t	Tesha -- awe (v.)
+t	Tesihk -- albumin
+t	Teslau -- repair, fix (v.)
+t	Tessau \  - '  \ -- addict (v.)
+t	Tessaya -- addiction
+t	Tetalaya -- friction
+t	Tetau -- rub (v.)
+t	Tev'rak -- west
+t	Tev'rak-, Tev'rakik -- western, westerly
+t	Tev'raksu -- westerner
+t	"Tev-tor -- fall, descend; die"
+t	Tev-yehat -- mortal (adj.)
+t	Tevakh -- death
+t	Tevakh-fam -- deathless, immortal (adj.)
+t	Tevakh-kahk -- deathly
+t	Teval-, Tevalik -- deadly
+t	Tevan -- descent, fall
+t	Tevanu -- the Dead
+t	Tevanu-prikel -- mortuary (n.)
+t	Tevanu-tsorkel -- morgue
+t	Tevik -- dead (adj.)
+t	Tevun -- year
+t	Thak (MGV) -- breast
+t	Thak-hayataya -- breast augmentation
+t	Thak-netakidaya -- breast reduction
+t	Thak-storau-palikaya -- thelarche
+t	Thak-vishi-vel -- breast implant
+t	Thak-yem-tor -- breastfeed
+t	Thakau -- focus (v.)
+t	Thakaya -- focus (n.)
+t	Thal|-| -- loose (adj.)
+t	Thal-tor -- loosen
+t	Thalv -- page, sheet
+t	Thanai -- adopt
+t	Thas -- milk (n.)
+t	Thas-pi'nafek -- mammary gland
+t	Thas-spol -- breast pump
+t	Thasau -- lactate
+t	Thasaya -- lactation
+t	Thask (TGV) -- breast
+t	Thasnem-tor -- milk (v.)
+t	Thasnemek -- milking machine
+t	Thav -- cone (bot.)
+t	Thek -- drop (rain, tear, etc.)
+t	Thel'a -- fat (n.)
+t	Thel'a-di'kish-torek -- fat metabolism
+t	Thel'a-sash -- fatty acid
+t	Thel-, Thelik -- fat, fatty (adj.)
+t	Theris -- a Vulcan herb
+t	Theris-masu -- tea (Vulcan-style)
+t	Thes-tor -- engrave
+t	Theshau -- scrape (v.)
+t	Thezh-tor -- drip (v.)
+t	Thinoi -- waste (v.)
+t	Thol|-| -- noble (adj.)
+t	Tholsu -- noble (n.)
+t	Tholtra -- nobility, aristocracy
+t	Thon -- measurement
+t	Thon-tor -- measure (v.)
+t	Thon-yehat -- measurable
+t	Thonau -- anguish (v.)
+t	Thonek -- meter, measuring device
+t	Thorau -- burst (v.)
+t	Thoraya -- burst (n.)
+t	Thorsh-yel -- nova
+t	Thorshau -- explode (v.)
+t	Thorshau-tukh -- explosives
+t	Thorshaya -- explosion
+t	Thorshek -- bomb
+t	Thorshun -- cannon
+t	Thrah -- friend (general term)
+t	Thraht-, Thrahtik -- friendly
+t	Thrakh -- gneiss
+t	Thrap -- offense
+t	Thrap-tor -- offend
+t	Thresh-tor -- split, cleave
+t	Threshan -- speed, velocity
+t	Thro -- access (n.)
+t	Thro-tor -- access (v.)
+t	Thro-wein -- access panel
+t	Thro-yehat -- accessible
+t	Throks -- give, share (with a superior)
+t	Thruhk|-| -- foul, offensive, loathsome, repulsive
+t	Thu -- then (next in sequence)
+t	Thuhk -- cheese
+t	Thurai -- next
+t	Thyar -- butter (n.)
+t	Ti -- lay, lie (down)
+t	Tik -- each
+t	Tikap -- method
+t	Tikopah -- independence
+t	Tilau -- perforate, pierce
+t	Tilek -- spear (n.)
+t	Timut -- heel
+t	Tin -- layer, stratum
+t	Tinga -- dimension (measurement)
+t	Tipan -- shoulder
+t	Tir-nuk (anc.) -- a small Vulcan succulent tree that produces wood
+t	Tish -- to you
+t	Tishau -- like (v.)
+t	Tizh-tor -- enjoy (v.)
+t	Tlingansu -- Klingon (being/language)
+t	To'ovau -- grow (v.)
+t	To'oveh -- adult (n.)
+t	To-gav -- law
+t	To-gav-kel -- courthouse
+t	To-pal -- coat (n.)
+t	To-tanlar -- rights
+t	Tobeg-tor -- excuse (v.)
+t	Todvel-tor -- elect (v.)
+t	Toglantau -- (eye)witness (v.)
+t	Toglantausu -- (eye)witness (n.)
+t	Togolau -- enforce
+t	Togolausu -- enforcer
+t	Togolaya -- enforcement
+t	Tok-ti -- fine (adj.)
+t	Tol -- gene
+t	Tol-, Tolik -- genetic
+t	Tol-has -- genetic disease
+t	Tol-kiht -- genetic code
+t	Tol-mish-tal -- genetic engineering
+t	Tol-patra -- gene pool
+t	Tol-tal -- genetics (study)
+t	Tol-ulidek -- genetic marker
+t	Tol-var -- genome
+t	Tol-ves -- genotype
+t	Tol-yumaya -- gene flow
+t	Tolasau -- clone (v.)
+t	Toltra -- chromosome
+t	Tomasu -- kinsman, relative
+t	Tomayeht-, Tomayehtik -- ethical
+t	Toper -- act, deed
+t	Tor -- do, make (v.)
+t	Tor-tal -- physics (study)
+t	Tor-vel -- mechanism
+t	Tor-velsu -- mechanic (person)
+t	"Tor-yatal (NGS) -- ""tor-ia-tal"", challenge to death"
+t	Tor-zhit -- verb (grammar)
+t	Torah -- act, produce an effect
+t	Torai -- action
+t	Toran -- activity
+t	Toranelek -- dynamo (mech.)
+t	Toranik -- busy
+t	Torek -- process (n.)
+t	Torektra -- system
+t	Torsh -- feat, exploit
+t	Toru-zhit -- imperative (grammar)
+t	Torupik -- active
+t	Torupik dvun-zehl -- active fault
+t	Torupik |suk'|zul-kunel -- active volcano
+t	Torvau -- build, construct, produce (v.)
+t	Torvel-zhit -- gerund (grammar)
+t	Torvukh -- sport (n.)
+t	Tostau -- execute, put to death
+t	"Totsu-k'hai (NGS) -- ""totsu'k'hy"", a disabling nerve pitch"
+t	Tovek-tukh -- germanium
+t	Tra -- mass, body, accumulation, assemblage
+t	Tra-lan -- major (army/marines), lieutenant commander (navy/Starfleet)
+t	Trahokna -- institute
+t	Trahokna t'Ek'Mishan T'Khasi -- Vulcan Institute of Technology
+t	Trak -- pillow (n.)
+t	Tral -- surge (n.)
+t	Tran -- order (command) (n.)
+t	Tran-tor -- order (to do something) (v.)
+t	Tranush -- patience
+t	Trasha -- depart, leave
+t	Trau -- honest
+t	Trau'es -- honesty
+t	Travek -- group, set, platoon
+t	Traveksu -- sergeant, petty officer
+t	Travilau -- compile
+t	Trefei -- martyr (v.)
+t	Trefem -- martyr (n.)
+t	Treit -- flock (n.)
+t	Tren-tor -- master (v.)
+t	Trensu -- master (n.)
+t	Tres-tor -- rip, tear (v.)
+t	Tresahk-tor -- rip into pieces, rend, shred (v.)
+t	Tresahk-vel -- shredder
+t	Treshau -- crack, split open (v.)
+t	Tri-zhar (anc.) -- an invasive procedure
+t	Trof (anc.) -- week
+t	Trufemu (NGS) -- martyr (n.)
+t	Truhk|-zehl| -- latitude (geog.)
+t	Tsa -- curve (n.)
+t	Tsat -- secret (n.)
+t	Tsat-, Tsatik -- secret (adj.)
+t	Tsau-tukh -- zinc
+t	Tsautal-, Tsautalik -- galvanized (adj.)
+t	Tsek -- column (n.)
+t	Tsel-, Tselik -- mutant (adj.)
+t	Tsel-vel -- mutant (n., thing)
+t	Tselau -- mutate
+t	Tselau-palikauk -- mutagenic
+t	Tselau-tav -- mutation rate
+t	Tselaya -- mutation
+t	Tselayek -- mutagen
+t	Tselfa -- mutant (n., non-sentient being)
+t	Tselsu -- mutant (n., sentient being)
+t	Tsokal -- territory
+t	Tsorau -- store, cache, save up
+t	Tsorkel -- storehouse (n.)
+t	Tsuk|-| -- common (adj.)
+t	Tsulaya -- amplitude
+t	Tsuri|-| -- normal, regular, usual
+t	Tsuri-fna-krus -- normal section
+t	Tsuri-kek -- normal function
+t	Tsuri-khaf-vihish -- normotension
+t	Tsuri-pa'ashtra -- normal plane
+t	Tsuri-sagan -- normal distribution
+t	Tsuri-shid -- normal form
+t	Tsuri-su'us -- regular number
+t	Tsuri-travek -- normal group
+t	Tsuri-vo'ihn -- normal equation
+t	Tsuri-vukharat -- normal vector
+t	Tsuri-wehk-vla -- regular polygon
+t	Tsuri-zehlanaya -- regular sequence
+t	Tsuri-zek -- normal order
+t	Tsurkan-, Tsurkanik -- consistent
+t	Tu -- you (after a vowel sound)
+t	Tu'ash -- open (v.)
+t	"Tu-Dzharok (NGS) -- ""The Way of Jarok""; mastery over ""The Inner Chorus"" by embracing emotion"
+t	Tu-lan -- Vulcan breathing exercise
+t	"Tu-Surak (NGS) -- ""The Way of Surak"""
+t	Tuf -- chest, thorax
+t	Tuf-has-tal -- thoracic medicine
+t	Tuf-hinek -- breast bone, sternum
+t	Tuf-wel -- thoracic nerve
+t	Tuh -- stack, pile, heap (n.)
+t	Tuhk -- dent (n.)
+t	Tuhllar -- contents
+t	Tuhsau -- cross (v.)
+t	Tukh -- material, stuff, substance
+t	Tum -- count, tally (n.)
+t	Tum-nentu -- abacus
+t	Tum-tor -- count, add up, tally (v.)
+t	Tum-vel -- computer
+t	Tumak -- (computer) program
+t	Tumau -- program (v.)
+t	Tun -- care (n.)
+t	Tupa -- lesson
+t	Tus-tor -- load (v.)
+t	Tusa -- weep (v.)
+t	Tushah -- grieve
+t	Tushat -- grief
+t	Tushetik -- apprehensive (adj.)
+t	Tusla -- cargo
+t	Tusla-masu-hali, Tusla-mashali -- cargo ship, freighter
+t	Tusok -- exercise (n.)
+t	Tuvel -- matter (subject)
+t	Tuwak -- recent
+t	Tvah -- meaning (n.)
+t	Tvai -- mean (v.)
+t	Tvau -- swing (v.)
+t	Tvaya -- swing (n.)
+t	Tvelkau -- tune (v., radio, musical instrument, etc.)
+t	Tveshu -- origin
+t	Tvi-, Tvik -- inner, interior, internal (adj.)
+t	Tvi-dash -- internal injury
+t	Tvi-ha-velik -- in vivo
+t	Tvi-kaluk -- inner ear
+t	Tvi-kovtra -- mantle (geol.)
+t	Tvi-nafeklar -- internal organs
+t	Tvi-samuyek -- intercooler
+t	Tvi-sau-pi'nafek -- endocrine gland
+t	Tvi-sau-tal -- endocrinology
+t	Tvi-sau-torektra -- endocrine system
+t	Tvi-shal (TGV) -- chamber, room, atrium
+t	Tvi-shitik -- in situ (med.)
+t	Tvi-stukh -- interstice
+t	Tvi-sudefik -- in utero
+t	Tvi-sviribayek -- intercom
+t	Tvi-thro-svep -- inner hatch
+t	Tvi-tukh -- endoplasm
+t	Tvi-vulu -- interior angle
+t	Tvi-wek -- interphase (n.)
+t	Tvi-yontau-mishu -- internal combustion engine
+t	Tvi-zan-vel -- endoscope
+t	Tvi-zul -- magma
+t	Tvidon'es -- enrichment
+t	Tvidon-tor -- enrich
+t	Tvihal (MGV) -- chamber, room, atrium
+t	Tvihanek -- interface (n.)
+t	Tviklachek -- interlock (n.)
+t	Tvimesau -- intersect
+t	Tvimesaya -- intersection
+t	Tvisek -- reflex
+t	Tvitau -- line (v.)
+t	Tvitaya -- lining
+t	Tviyan -- core (n.)
+u	U, U' -- as
+u	U'gal -- electron (n.)
+u	U'gal-glashaun -- electron scanning
+u	U'gal-ha'zehl -- electron beam
+u	U'gal-pohshek -- electron gun
+u	U'gal-salash -- electron stream
+u	U'gal-shivak -- electron mass
+u	U'gal-yumau-tal -- electronics (study)
+u	Ugalik numo-zan-vel -- electron microscope
+u	U'rak -- negative (polarity)
+u	Ub -- dome
+u	Udash|-| -- cruel, mean, not nice (at all)
+u	Uf -- how
+u	Ugau -- promise (v.)
+u	Uk -- digit (finger or toe)
+u	Ukhru-vishan -- affair
+u	Ukralau -- crawl (v.)
+u	Ukraluk -- reptile
+u	Ul-wihka -- hypothesis
+u	Ulef -- half
+u	Ulidak -- scarring (n.)
+u	Ulidar -- mark, scar (n.)
+u	Ulidau -- mark, scar (v.)
+u	Ulidau-glaribek -- marker beacon
+u	Ulidaya -- marking (n.)
+u	Ulidayek -- marker buoy
+u	Ulidek -- marker (n.)
+u	Um -- tip, point
+u	Un -- digit (math.)
+u	Ur -- tunnel
+u	Uralau -- sing (v.)
+u	Uralausu -- singer
+u	Urgam -- effort
+u	Uroshal -- farm (n.)
+u	Uroshal-kelek -- farmhouse
+u	Uroshal-solektra -- farmland
+u	Uroshal-zupsu -- farm hand, farm worker
+u	Uroshalsu -- farmer (MGV)
+u	Uroshitau -- farm (v.)
+u	Uroshitausu -- farmer (TGV)
+u	Urozh (anc.) -- crop(s), harvest
+u	Ushek -- basalt
+u	Ushgul -- a legendary werewolf-like being
+u	Utan -- compassionate
+u	Utan'es -- compassion
+u	Utvau -- reason (v.)
+u	Uus \  \ -- icon
+u	Uyed -- emphatic particle (grammar)
+u	Uz -- fee
+u	Uzh|-| -- new
+u	Uzhau -- refresh, renew
+v	V'hak (anc.) -- elegy
+v	V'Shar (NGS) -- The Vulcan Security Force
+v	V'Tosh (NGS) -- the people of Vulcan
+v	"V'Tosh ka'tur (NGS) -- ""Vulcans without logic"""
+v	Va'amau -- mimic (v.)
+v	Va'asau -- copy (v.)
+v	Va'ashiv -- again
+v	Va'num (obs.) -- search (n.)
+v	Va'prah -- replace
+v	Vah -- as (comparitive)
+v	Vahl -- grant, bequeath
+v	Vai -- holy
+v	Vaikar-, Vaikarik -- devout
+v	Vaikau -- devote
+v	Vaikausu -- devotee, fan
+v	Vak-zehl -- X-ray (n.)
+v	Vakav'es -- frequency
+v	Vakav'es-fereikek -- frequency synthesizer
+v	Vakav'es-nakihtilaya -- frequency modulation (FM)
+v	Vakav'es-rushanek -- frequency converter
+v	Vakav'es-zhel -- frequency band
+v	Vakav-, Vakavik -- frequent
+v	Vakh-, Vakhik -- bold
+v	Vaksurik -- beautiful
+v	Val -- chip (n.)
+v	Valit -- a Vulcan burrowing animal
+v	Vam -- esteem (n.)
+v	Van-kal (anc.) -- ceremony
+v	Van-razh -- mine(shaft)
+v	Van-tor -- mine, excavate, dig up
+v	Van-tukh -- ore
+v	Vanu-, Vanuk -- ceremonial
+v	Var -- tale, story
+v	Var-tor -- tell (a story), relate
+v	Varahmau -- address, speak directly to
+v	Variben -- talk (v.)
+v	Vas-tor -- relieve
+v	Vash -- terror
+v	Vash-tor -- terrify
+v	Vashau -- destroy
+v	Vashaya -- destruction
+v	Vat -- repository, temporary storage
+v	Vath -- other
+v	Vathru -- otherwise
+v	Vau-tukh -- titanium
+v	Vaukh -- calf (leg)
+v	Vaunah -- hesitation
+v	Vaunai -- hesitate
+v	Vava -- echo (n.)
+v	Vazgau -- steal
+v	Vazh -- urine
+v	Vazh-ek'ur-tal -- urology
+v	Vazh-mev -- urethra
+v	Vazh-mev-yonshaya -- urethritis
+v	Vazh-sa'haf (TGV) -- bladder
+v	Vazhaf (MGV) -- bladder
+v	Vazhau -- urinate
+v	Vazhau-kusut|-nosh| -- urodynia
+v	Vazhaya -- urination
+v	Ved -- quite
+v	Vedik -- weed
+v	Vedrah prah (NGS) -- acceptance & negation of pain & discomfort
+v	Vek -- (egg) yolk
+v	Vel -- thing, object, item
+v	Vel-zhit -- noun
+v	Velek -- structure (biol., chem., etc.)
+v	Veli-, Velik -- simple, basic
+v	Veltra -- property
+v	Ven-dol-tar (anc.) -- philosophy
+v	Venek -- trend (n.)
+v	Venk -- idea (n.)
+v	Venlinahr (anc.) -- normal state of adult discipline
+v	Ver-tor -- edit (v.)
+v	Versu -- editor
+v	Ves -- kind, type, ilk
+v	Vesh -- ago
+v	Veshau -- elapse, pass (v.)
+v	Vesht -- past
+v	Vesht-aushfa-tal -- paleozoology
+v	Vesht-ek'nosh-tal -- paleoclimatology
+v	Vesht-ha-tal -- paleontology
+v	Vesht-kastik-tal -- paleobotany
+v	Vesht-koshtri -- paleospecies
+v	Vesht-var -- history
+v	Vesht-varik -- historic(al)
+v	Veshtau -- experience (v.)
+v	Veshtaya -- experience (n.)
+v	Vesuhl (anc.) -- bitumen
+v	Vet -- doubt (n.)
+v	Vet-bosh -- doubtful, dubious
+v	Vet-fam -- doubtless
+v	Vi -- who
+v	Vi-kwitau -- intrude
+v	Vi-kwitaya -- intrusion
+v	Vi-seshau -- absorb
+v	Vi-seshau'es -- absorbency
+v	Vi-seshau-kurtra -- absorption spectrum
+v	Vi-seshau-zehllar -- absorption lines
+v	Vi-seshau-zhel -- absorption band
+v	Vi-seshauk -- absorbent (adj.)
+v	Vi-seshaya -- absorption
+v	Vi-seshayek -- absorbent (n.)
+v	Vihash-tor -- fly in, arrive by aircraft (v.)
+v	Vihish -- pressure (n.)
+v	Vihish-fen -- pressure seal
+v	Vihish-mev -- pressurization duct
+v	Vihish-pakhartayek -- pressure regulator
+v	Vihish-sahish-torektra -- pressurization/depressurization system
+v	Vihish-tash-torektra -- pressure control system
+v	Vihish-tor -- pressurize
+v	Vihishan -- pressurization
+v	Vihk -- blob, clod, clot, glob
+v	Vihpan -- block (n.)
+v	Vikau -- warn
+v	Vikaya -- warning, alarm
+v	Vikayek -- alarm (device)
+v	Vikuvau -- encircle, surround
+v	Vil -- odor
+v	Vimashau -- liquefy
+v	Vimashaya -- liquefication
+v	Vimevilau -- induce
+v	Vimevilaya -- induction
+v	Vimevilayek -- inducer (device)
+v	Vin'es -- maturity
+v	Vin-tor -- mature (v.)
+v	Vinem -- assimilation
+v	Vinem-tor -- assimilate
+v	Vinemalik, Vinemayik -- assimilated (adj.)
+v	Vinik -- mature(d) (adj.)
+v	Vipladau -- record (v.)
+v	Vipladayek -- recorder (device)
+v	Vis -- grid, net, web
+v	Visak'a (anc.) -- legacy
+v	Visatilau -- encrypt
+v	Visatilaya -- encryption
+v	Vishau -- insert
+v	Vishaya -- insertion
+v	Vishi-vel -- implant (n.)
+v	Vishitau -- embed, implant, set into place
+v	Vishitaya -- embedding, implantation
+v	Vishizhukel -- foundry
+v	Viskulan -- matrix
+v	Visnuhpau -- encroach
+v	Visnuhpaya -- encroachment
+v	Visolektau -- bury
+v	Visolektaya -- burial
+v	Visovau -- inflate
+v	Visovaya -- inflation
+v	Vistra -- network, netting, webbing
+v	Vita -- unless
+v	Vitaya -- stasis
+v	Vitik -- static (adj.)
+v	Vitush -- ash(es)
+v	Vivotaya -- infection
+v	Viyatau -- impregnate
+v	Viyi-, Viyik -- even (not odd)
+v	Viyi-su'us -- even number
+v	Vla -- side, facet (n.)
+v	Vlak|-| -- sudden (adj.)
+v	Vlavla|-| -- parallel (adj.)
+v	Vlavla-wakrubaya -- parallel evolution
+v	Vlau-tor -- stink, reek (v.)
+v	Vlei -- bellow (v.)
+v	Vlitau -- pay (v.)
+v	Vluhn -- drum (n.)
+v	Vluhn-kuhsh -- drumbeat
+v	Vluhn-tor -- drum (v.)
+v	Vlur -- howl (v.)
+v	Vnol (anc.) -- former friend who is now an enemy
+v	Vohr-, Vohris -- slow (adj.)
+v	Vohrau -- brake, slow down, slow to a stop
+v	Vohtau -- delay (v.)
+v	Vokau -- remember
+v	Vokaya -- memory, remembrance
+v	Vom-tukh -- limestone
+v	Vrav-teht -- foolproof
+v	Vravshau -- fail
+v	Vravshaya -- failure
+v	"Vre-katra (anc.) -- vre'katra/vrekatra; Katric ark, crystalline repository for a katra"
+v	Vre-kasht (anc.) -- exile, outcast
+v	Vrel -- mud
+v	Vrel-eiktra -- mud flat
+v	Vrel-yumaya -- mudflow
+v	Vu -- you (reflexive)
+v	Vugau -- to fester
+v	Vuhlkansu -- Vulcan (person, language)
+v	Vuhnau -- vary
+v	Vuhnauk -- divers, various
+v	Vuhnaya -- variation, diversity
+v	Vukh -- hull, fuselage
+v	Vukharat -- vector (n.)
+v	Vukhut -- body
+v	Vul -- slant, slope
+v	Vulosoltra -- embankment
+v	Vulu -- angle (n.)
+v	Vulumau -- bevel (v.)
+v	Vun|-| -- have to, must
+v	Vunai -- field (physics)
+v	Vunai-ferek -- field generator
+v	Vunai-karik'es -- field strength
+v	Vunai-katrom -- field current
+v	Vunai-khlop-thon -- field geometry
+v	Vunai-khrasaya -- field discharge
+v	Vunai-mish-raul -- hydrospanner
+v	Vunai-pakuv -- field coil
+v	Vunai-seshan-vel -- field magnet
+v	Vunai-wihka -- field theory
+v	Vup -- feint (n.)
+v	Vus -- echelon
+v	Vutau -- call (v.)
+v	Vuyurau -- roar (v.)
+v	Vuzh -- smoke (n.)
+v	Vuzh-mev -- chimney, smokestack
+v	Vuzh-patalek -- smoke detector
+v	Vyek -- inlet
+w	Wa, Wa' -- especially
+w	Wadashau -- perspire, sweat (v.)
+w	Wadi -- skin
+w	Wafau -- deny
+w	Wahdzh-, Wahdzhik -- severe (adj.)
+w	Wahtau -- insult (v.)
+w	Wak -- time
+w	Wak-vel -- clock
+w	Wakiv-, Wakivik -- temporal (adj.)
+w	Wakiv-flekh'es -- temporal anomaly
+w	Wakiv-fo-dan -- temporal shield
+w	Wakiv-ri'aret-nosh -- temporal narcosis
+w	Wakiv-sasayek -- temporal transmitter
+w	Wakiv-vavayek -- temporal transponder
+w	Wakiv-vunai -- temporal field
+w	Wakli -- in what manner, in what way
+w	Wakrubau -- evolve
+w	Wakrubaya -- evolution
+w	Wal-tukh -- magnesium
+w	Wan -- cloud (n.)
+w	Wan-kur -- white
+w	Wan-tukh -- aluminum, aluminium
+w	Wan-tukh-grazhiv -- aluminum powder
+w	Wan-tukh-thalv -- aluminum foil
+w	Waneti (anc.) -- Vulcan plant with tiny white blossoms
+w	Wat -- problem
+w	Watosh|-| -- ugly
+w	Wauk -- turbulence
+w	Wedzh -- intent
+w	Wedzh-tor -- intend
+w	Wef -- scale, flake
+w	Weh|-| -- more (adj.)
+w	Weh-abu-, Weh-abuk -- upper (adj.)
+w	Weh-abu-grei -- upper limit
+w	Weh-abu-ketil -- upper integral
+w	Weh-abu-klayanek -- upper factorial
+w	Weh-glu|-| -- deeper (adj.)
+w	Weh-has-bosh -- sicker (adj.)
+w	Weh-karik -- stronger (adj.)
+w	Weh-klon|-| -- smarter (adj.)
+w	Weh-kobat|-| -- weaker (adj.)
+w	Weh-lerash|-| -- harder (adj., less soft)
+w	Weh-nu'ri|-| -- younger (adj.)
+w	Weh-nuk|-| -- lower (adj.)
+w	Weh-nuk-grei -- lower limit
+w	Weh-nuk-ketil -- lower integral
+w	Weh-nuk-klayanek -- lower factorial
+w	Weh-os|-| -- older (adj.)
+w	Weh-pid|-| -- higher (adj.)
+w	Weh-ras|-| -- heavier (adj.)
+w	Weh-rom|-| -- better (adj.)
+w	Weh-sahr-, Weh-sahris -- faster, quicker (adj.)
+w	Weh-slu-, Weh-sluk -- fresher (adj.)
+w	Weh-ta'hal|-| -- lighter (adj., less heavy)
+w	Weh-thel-, Weh-thelik -- fatter (adj.)
+w	Weh-vohr-, Weh-vohris -- slower (adj.)
+w	Weh-wonil|-| -- thinner (adj.)
+w	Wehk|-| -- many
+w	Wehk-vel -- manifold
+w	Wehk-wek-fnash -- multiphasic sweep
+w	Wehk-wek-glashaya -- multiphasic scan
+w	Wehk-wek-glashayek -- multiphasic scanner
+w	Wehkovau -- multiply
+w	Wehkovaya -- multiplication
+w	Wehkovayek -- multiplier
+w	Weht -- more (n.)
+w	Wehu -- plural
+w	Wei-, Weik -- easy
+w	Wein -- cover (n.)
+w	Weizehl -- series
+w	Wek -- phase (n.)
+w	Wek-ashenayek -- phase amplifier
+w	Wek-izaya -- phase shift (n.)
+w	Wek-nakihtilayek -- phase modulator
+w	Wek-sapa'shayek -- phase discriminator
+w	Wek-tor -- phase (v.)
+w	Wek-vimevilayek -- phase inducer
+w	Wek-zehlek -- phaser
+w	Wek-zehlek-kutra -- phaser bank
+w	Wek-zehlek-pohshaikebi -- phaser battery
+w	Wek-zehlek-pakuv -- phaser coil
+w	Wek-zehlek-thorshun -- phaser cannon
+w	Wel -- nerve (anat.)
+w	Wel-haf -- synapse
+w	Weltra -- ganglion
+w	Wenator -- accomplish
+w	Wesh-tor -- streak (v.)
+w	Wesht -- pathos
+w	Wi -- yet
+w	Wi'trel -- puzzle (n.)
+w	Wihs -- frenzy
+w	Wilat -- where
+w	Wilnei -- droop (v.)
+w	Wimish -- to be called/named
+w	Wis -- tense (grammar)
+w	Wivel'es -- tolerance
+w	Wivelau -- tolerate
+w	Woht -- funnel (n.)
+w	Wonil|-| -- narrow, strict
+w	Worla -- never
+w	Wu|-| -- long (adj.)
+w	Wu'sibau -- bathe
+w	Wu'sibau-pthak -- ablutophobia
+w	Wu'sibaya -- bath (n.)
+w	Wu-vath -- length
+w	Wu-zud -- fang
+w	Wufik -- tight (adj.)
+w	Wufkau -- tighten
+w	Wugau -- confirm
+w	Wuh -- a, an
+w	Wuh'ashiv -- another
+w	Wuh'veh -- first, primary (n.)
+w	Wuh-guv-, Wuh-guvik -- unisexual (adj.)
+w	Wuh-guv-svai -- unisexual flower
+w	"Wuh-lan -- second lieutenant (army/marines); ensign (navy/Starfleet)"
+w	Wuh-thurai -- the next one
+w	Wuh-vlavla-vel -- trapezoid
+w	Wuh-wak -- once
+w	Wuhin'es -- uniqueness
+w	Wuhin-, Wuhinik -- unique
+w	Wuh|kuh| -- one (the number)
+w	Wuhr-, Wuh'rak -- first, primary (adj.)
+w	Wuhtantau -- unify
+w	Wuhtantaya -- unification
+w	Wuk -- canker (sore)
+w	Wun -- weapon
+w	Wut|-zehl| -- longitude (geog.)
+w	Wuvau -- elongate (v.)
+w	Wuvauk -- elongated (adj.)
+w	Wuvaya -- elongation
+y	Ya'akash -- ask
+y	Ya'shakhuv -- age
+y	Yad-tukh -- thallium
+y	Yadan -- edition
+y	Yahla -- tunic
+y	Yahv-tor -- borrow
+y	Yai -- flame (n.)
+y	Yailaik -- dejected (adj.)
+y	Yak -- lymph
+y	Yak-gnal -- lymphoma
+y	Yak-kal -- lymph node
+y	Yak-masu -- lymph
+y	Yak-mev -- lymph(atic) vessel
+y	Yak-nala -- lymphocyte
+y	Yakektra -- lymphatic system
+y	Yal -- indicator
+y	Yansoku -- The Damned
+y	Yar -- grass
+y	Yar-kur -- green (color)
+y	Yar-tukh -- copper ore
+y	Yaret -- visit (v.)
+y	Yaritra -- pasture, grazing land
+y	Yarmok -- salad
+y	Yartik -- grain
+y	Yatau -- father a child, sire (v.)
+y	Yauluhk -- important (adj.)
+y	Yausha -- expire (v.)
+y	Yaut|-| -- proud (adj.)
+y	Yazhutau -- chafe (v.)
+y	Yazik -- probable
+y	Yed -- though
+y	Yeht|-| -- correct, right, real, true, genuine
+y	Yeht'es -- truth, reality
+y	Yeht-fam -- wrong, incorrect, false, untrue
+y	Yeht-gav -- justice
+y	Yeht-urgam|-| -- efficient
+y	Yeht-urgam'es -- efficiency
+y	Yehvaru -- fable
+y	Yekuhl -- moss
+y	Yel -- star (n.)
+y	Yel-ek'duv -- solar eclipse
+y	Yel-halek -- galaxy
+y	Yel-halek-, Yel-halekik -- galactic
+y	Yel-halek-dan -- galactic rotation
+y	Yel-halek-kuv -- galactic circle
+y	Yel-halek-pa'ashtra -- galactic plane
+y	Yel-halekik shi-kethel -- galactic coordinate
+y	Yel-hali -- starship
+y	Yel-Halitra -- Starfleet
+y	Yel-pi'maat -- solar system
+y	Yel-pohshaya -- solar flare
+y	Yel-salan -- solar wind
+y	Yel-sposhan -- solar prominence
+y	Yel-su-yata -- starliner
+y	Yel-toran -- solar activity
+y	Yem -- meal
+y	Yem-gisaman -- food poisoning
+y	Yem-tan -- nutrition
+y	Yem-tan-tor -- nourish
+y	Yem-tanan -- nourishment
+y	Yem-tanek -- nutrient
+y	Yem-tanik -- nutritious
+y	Yem-tanilayek -- food dispenser
+y	Yem-tor -- feed
+y	Yem-tukh -- food
+y	Yem-zektra -- food chain
+y	Yen-tor -- forget
+y	Yerak -- bowl
+y	Yetur -- drive (v.)
+y	Yetur-ek'zehl -- driveline, drivetrain
+y	Yetur-fek -- drive shaft
+y	Yetur-pakuv -- driver coil
+y	Yeturak -- driver (software)
+y	Yeturat -- drive, urge
+y	Yeturek -- drive (n., mech.)
+y	Yeturek-krus -- drive section
+y	Yetursu -- driver (person)
+y	Yi -- then
+y	Yidor-tor -- format (v.)
+y	Yo -- per
+y	Yokul -- eat (v.)
+y	Yokul-mev -- esophagus, gullet
+y	Yokul-yehat -- edible
+y	"Yokulsu t'Katralar -- ""The Eater of Souls"" (myth.)"
+y	Yol -- chitin (insect shell, etc.)
+y	Yon -- fire (n.)
+y	Yon-dok -- firebrick
+y	Yon-dukal -- sun (colloquial term)
+y	Yon-foshek -- firebreak
+y	Yon-ha'gel -- firelight
+y	Yon-kur -- red (color)
+y	Yon-lapan -- firewood
+y	Yon-pohshek -- flamethrower
+y	Yon-sha'ti -- fireplace
+y	Yon-teht -- fireproof
+y	Yon-temok -- fire wall
+y	Yon-thorshek -- firebomb (n.)
+y	Yon-tor -- ignite, set on fire
+y	Yon-tukh -- phosphorus
+y	Yon-vohr-torektra -- fire suppression system
+y	Yon-yehat -- flammable
+y	Yonag -- torch (flaming only), flambeau
+y	Yonan -- ignition
+y	Yonan-pehkau -- flame out (v.)
+y	Yonan-pehkaya -- flameout (n.)
+y	Yonan-torektra -- ignition system
+y	Yonek -- igniter
+y	Yonkal -- fireball
+y	Yonshau -- inflame
+y	Yonshaya -- inflammation
+y	Yontau -- burn (v.), combust
+y	Yontaya -- burn(ing), combustion
+y	Yonuk -- quarter (1/4)
+y	Yorku -- guts, innards, viscera
+y	Yos-, Yosik -- tender (adj.)
+y	Yoshuhlnak (anc.) -- dragon
+y	Yu-mur -- egg
+y	Yu-mur-fo -- egg shell
+y	Yuda-dva -- Judaism
+y	Yuda-dvasu -- Jew (general term)
+y	Yudasik -- Jewish
+y	Yuk-sai -- blanket (n.)
+y	Yuk-tor -- sleep (v.)
+y	Yuk-vel -- mattress
+y	Yukal -- ovary
+y	Yukau -- ovulate
+y	Yumau -- flow (v.)
+y	Yush-tukh -- polonium
+y	Yut -- path, trail, way
+y	Yuv-, Yuvik -- oval, ovoid, elliptic(al)
+y	Yuzhat -- caution (n.)
+z	Za' -- behind (prep.)
+z	Za-gad -- yesterday
+z	Za-glan -- hindsight
+z	Za-vel -- relic
+z	Zad-, Zadik -- forbidden
+z	Zadau -- forbid
+z	Zahal-tor -- follow
+z	Zahv-tor -- taste (v.)
+z	Zahz -- plow, plough (n.)
+z	Zaipos (anc.) -- magic (n.)
+z	Zaipossu -- magician
+z	Zaiposyan-, Zaiposyanik -- magic(al) (adj.)
+z	Zakar -- damage (n.)
+z	Zakashtau -- remind (v.)
+z	Zalu -- enzyme
+z	Zalu-nafek -- pancreas
+z	Zalu-nafek-masu -- pancreatic juice
+z	Zalu-nafek-mev -- pancreatic duct
+z	Zalu-nafek-rasahtra -- pancreatic cancer
+z	Zalu-nafek-yonshaya -- pancreatitis
+z	Zam -- few
+z	Zama-tor -- spy (v.)
+z	Zamasu -- spy (n.)
+z	Zan-tor -- view (v.)
+z	Zaprah -- retrieve, get back, fetch
+z	Zarahk-tor -- break into pieces, shatter, smash
+z	Zaseshau -- drag (v.)
+z	Zasuhl -- granite
+z	Zat|-| -- acute
+z	Zat'es -- acuity
+z	Zavikau -- trace, track down
+z	Zeh -- beam, girder (n.)
+z	Zehik -- straight
+z	Zehl -- line, row, beam
+z	Zehl'es -- alignment
+z	Zehl-krus -- line segment
+z	Zehl-tor -- align
+z	Zehl-travek -- linear group
+z	Zehl-vo'ihn -- linear equation
+z	Zehl-velak -- line element
+z	Zehlanau -- sequence (v.)
+z	Zehlau -- arrange, array
+z	Zek -- order (birth, seating, etc.)
+z	Zhagra -- game
+z	Zhai-kur -- gray
+z	Zhai-tukh -- tin
+z	Zhar -- rust (n.)
+z	Zhar-kur -- orange
+z	Zhar-tor -- rust (v.)
+z	Zhel -- strap, band
+z	"Zhel-lan -- lieutenant colonel (army/marines); commander (navy/Starfleet)"
+z	Zherka (anc.) -- emotion(s)
+z	Zherka-bosh -- emotional
+z	Zherka-fam -- emotionless
+z	Zhil -- term (n.)
+z	Zhipenau -- abbreviate
+z	Zhipenaya -- abbreviation
+z	Zhis -- steam (n.)
+z	Zhit -- word
+z	Zhit-dunap -- dictionary
+z	Zhit-feim -- vocabulary (list)
+z	Zhit-vesht-tal -- etymology
+z	Zhoh -- million
+z	Zhoh'veh -- millionth (n.)
+z	Zhohr-, Zhoh'rak -- millionth (adj.)
+z	Zhu-fam -- deaf
+z	Zhu-famau -- deafen
+z	Zhu-tal -- audiology
+z	Zhu-tor -- hear (v.)
+z	Zhu-yehat -- audible
+z	Zhuk-fas-tor -- forge (v.)
+z	Zhuk-fasek -- forge (n.)
+z	Zhuk-Fasu -- The Forge
+z	Zhuk-om -- factory (anc.)
+z	Zhuk-tor -- fabricate
+z	Zih -- blur (n.)
+z	Zih-, Zihik -- blurred, blurry, fuzzy, out-of-focus (adj.)
+z	Zih-ozhika -- fuzzy logic
+z	Zih-tor -- blur (v.)
+z	Zihn -- fuzz (n.)
+z	Zish-tor -- slide (v.)
+z	Zisplah -- whistle (v.)
+z	Zli -- stripe (n.)
+z	Zo -- no matter (how)
+z	Zon-tukh -- barium
+z	Zud -- tooth
+z	Zud-halek -- gear (mech.)
+z	Zud-has-tal -- dentistry
+z	Zud-hassu -- dentist
+z	Zud-nehaya -- dental caries
+z	Zud-tukh -- dentine
+z	Zudtra -- dentition
+z	Zul -- lava
+z	Zul-kunel -- volcano
+z	Zul-kunel-sposhan -- volcanic eruption
+z	Zul-kunel-tal -- volcanology
+z	Zul-kunel-zehl -- volcanic chain
+z	Zul-makh -- volcanic glass, obsidian
+z	Zul-mazh -- lava lake
+z	Zul-mazhiv -- volcanic sand
+z	Zul-razh -- volcanic crater
+z	Zul-ru'lut -- volcanic vent
+z	Zul-ur -- lava tube
+z	Zul-yumaya -- lava flow
+z	Zun -- letter (alphabet)
+z	Zun-shif -- dyad
+z	Zung-tor -- tire, fatigue
+z	Zungor -- tired, fatigued
+z	Zup-dvun-tal -- ergonomics (study)
+z	Zup-fulagsu -- foreman
+z	Zup-shal -- (work)shop
+z	Zup-thro-kispek -- gantry (rocketry)
+z	Zup-tor -- labor (v.)
+z	Zupsu -- laborer, worker
+z	Zus -- (drill) bit
+z	Zuvel \ '  -  \ -- gadget, gizmo
