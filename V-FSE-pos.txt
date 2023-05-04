@@ -207,7 +207,7 @@
 "206"	"a"	"Ash'yakhut "	NA	"MGV"	"n."	" slipper"	""
 "207"	"a"	"Ash-tor "	NA	"MGV"	"v."	" step, tread"	""
 "208"	"a"	"Ash-vel "	" __ - ' vel "	"TGV"	"n."	" shoe"	""
-"209"	"a"	"Ashal-, Ashalik "	NA	"MGV"	NA	" "	"be"
+"209"	"a"	"Ashal-, Ashalik "	NA	"MGV"	NA	"be"	""
 "210"	"a"	"Ashal-veh "	NA	"MGV"	"n."	" beloved, darling, sweetheart"	""
 "211"	"a"	"Ashau "	" _ - ' _a_ "	"MGV"	"v."	" love"	""
 "212"	"a"	"Ashau-krel-masu "	NA	"MGV"	NA	" love potion"	""

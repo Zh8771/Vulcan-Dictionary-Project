@@ -306,7 +306,7 @@ V.FSE$misc <- trim(V.FSE$misc)
 V.FSE$misc <- trim1(V.FSE$misc)
 # Now let's trim off the ; if it's at the beginning of the 'misc' column...
 V.FSE$misc <- trim2(V.FSE$misc)
-# NOTE TO SELF: When editing in Excel, line 209 has an extra tab after pos column that needs deleted!
+# FIXED: (NOTE TO SELF: When editing in Excel, line 209 has an extra tab after pos column that needs deleted!)
 
 # Let's write a new table we can edit in text editor/excel!
 write.table(V.FSE, file = "V-FSE-pos.txt", append = FALSE, sep = "\t", dec = ".",
