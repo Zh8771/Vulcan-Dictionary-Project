@@ -9,7 +9,7 @@ a	Abandon ship -- ek'trasha MH
 a	"Abandonment -- rinshahtaya (leaving incomplete); ek'trashan (leaving behind/untended)"
 a	Abashed -- tafus-, tafusik
 a	Abaxial (bot., zool.) -- irak-da-sfekik
-a	\ Abbess -- ko-abbesu
+a	Abbess -- ko-abbesu
 a	Abbey -- abbe (VTW)
 a	Abbot -- sa-abbesu
 a	Abbreviate -- zhipenau
