@@ -10,14 +10,16 @@
 # Vulcan-Federation Standard (English) - index: https://web.archive.org/web/20180527014028/http://www.vli-online.org/ohv-eng.htm
 # Federation Standard (English)-Vulcan - index: https://web.archive.org/web/20180427031114/http://www.vli-online.org/eng-ohv.htm
 # Vulcan-Klingon - dictionary: https://web.archive.org/web/20160729005845/http://www.vli-online.org/gv-kli.htm
-# Tutorial for IF loops: https://www.dataquest.io/blog/control-structures-in-r-using-loops-and-if-else-statements/
+# Tutorial for splitting combined column: https://stackoverflow.com/questions/44544776/extract-rows-from-a-single-column-to-form-two-new-columns 
+# Tutorial for IF-ELSE/FOR/WHILE loops in R: https://www.dataquest.io/blog/control-structures-in-r-using-loops-and-if-else-statements/
 
 ### SCRIPT SETUP ###
 ## Clear R's memory ##
 rm(list=ls(all=TRUE))
 ## Define function trim() to remove excess leading or trailing spaces in columns
 trim <- function (x) gsub("^\\s+|\\s+$", "", x)
-# IF NEEDED: trim1 <- function (x) gsub("�","", x)
+trim1 <- function (x) gsub("^NA|NA$", "", x)
+trim2 <- function (x) gsub("^;|;$","", x)
 ## LOAD LIBRARIES ##
 library(stringr)
 library(tidyverse)
@@ -269,19 +271,49 @@ write.table(V.KLI, file = "V-KLI-var.txt", append = FALSE, sep = "\t", dec = "."
 ## column, and the rest of the rows into a separate column.
 
 ## Step 1: Separate out the domain and extra material from the pos column, V.FSE
+# Let's try separating the column by comma first, just so that there's not more than one value in each cell...
+V.FSE1 <- data.frame(V.FSE) %>%
+  separate(domain,
+           into = c("misc", "secondary.domain"),
+           sep = ",")
 
-# My try would be...
-# V.FSE2 %>%
-#  mutate(pos = case_when(
-#    contains(domain, "adj.") ~ "adjective",
-#    contains(domain, "n.") ~ "noun",
-#    contains(domain, "prep.") ~ "preposition",
-#    contains(domain, "v.") ~ "verb"),
-# domain1 = if_else(domain, c("adjective", "noun", "preposition", "verb"), .keep = "unused")
+# Let's give this the good ol' college try...
+  # V.FSE1 <- data.frame(V.FSE, stringsAsFactors = T) %>%
+  #  add_column(pos = if_else(value %in% .$domain,
+  #    contains("adj.") ~ "adjective",
+  #    contains("n.") ~ "noun",
+  #    contains("prep.") ~ "preposition",
+  #    contains("v.") ~ "verb"))
+# Nope. That didn't work. Let's try something else.
+
+# First, let's create a vector that has our expected parts of speech in it...
+v1 <- c('adj.', 'n.', 'prep.', 'v.')
+# Then, let's see if we can get it to break up the two columns
+V.FSE2 <- V.FSE1 %>%
+  group_by(grp = c('domain', 'pos')[(misc %in% v1) + 1]) %>%
+  mutate(n = row_number())  %>%
+  spread(grp, misc) %>% 
+  select(-n)
+# Okay! This worked to get the parts of speech into a single column! Which is great, but now I have to go recode the ones that have no data for them in Excel. .-.
+
+# Before I do that, let's see if I can recombine the domain & secondary domain columns so I can later separate out what is an abbreviation, what is an extension,
+# and what is an actual semantic domain!
+V.FSE2 <- V.FSE2[, c("FRST_LETTER", "vulcan", "pronunciation", "variety", "pos", "fse", "domain", "secondary.domain")]
+V.FSE2$misc <- paste(V.FSE2$secondary.domain, V.FSE2$domain, sep=";")
+V.FSE <- subset(V.FSE2, select = -c(domain,secondary.domain))
+V.FSE$misc <- trim(V.FSE$misc)
+# Let's get rid of the printed NAs in there...
+V.FSE$misc <- trim1(V.FSE$misc)
+# Now let's trim off the ; if it's at the beginning of the 'misc' column...
+V.FSE$misc <- trim2(V.FSE$misc)
+# NOTE TO SELF: When editing in Excel, line 209 has an extra tab after pos column that needs deleted!
+
+# Let's write a new table we can edit in text editor/excel!
+write.table(V.FSE, file = "V-FSE-pos.txt", append = FALSE, sep = "\t", dec = ".",
+            row.names = TRUE, col.names = TRUE)
 
 
 ### Next, we'll separate out semantic domain data and add the 'domain' column to V.FSE, FSE.V ###
-
 
 #### TASK 3: (if there's time) Add concept data from concepticon, new Vulc-concepticon ####
 # Vulc-concepticon = new table I will create with vulcan-specific and trek-specific concepts
