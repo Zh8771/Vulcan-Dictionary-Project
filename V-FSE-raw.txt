@@ -625,7 +625,7 @@ d	Dzhal -- mortise
 d	Dzhan|-khush| -- beryl
 d	Dzhan-tukh \ ' d__n - tux \ -- beryllium
 d	"Dzharel \ d__ - ' rel \ (NGS) -- ""jarel"", a small, horned horse-like animal"
-d	"Dzhasif \ d__ - ' sif \ (NGS) - ""jasif"", type of crystal used to make vre-katras"
+d	"Dzhasif \ d__ - ' sif \ (NGS) -- ""jasif"", type of crystal used to make vre-katras"
 d	Dzhelu \ d_e - ' lu \ -- envy (n.)
 d	Dzhih -- pimple (n.)
 d	Dzhinau \ d_i - ' na_ \ -- refer
