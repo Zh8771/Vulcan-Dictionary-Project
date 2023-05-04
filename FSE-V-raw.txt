@@ -1,7 +1,7 @@
 FRST_LETTER	WORD-FSE
 a	AM radio -- TsN sauribayek
 a	AM/FM radio -- TsN-VN sauribayek
-a	_ l_ (prep.) -- spo'
+a	a la (prep.) -- spo'
 a	Abacus -- tum-nentu
 a	Abaft -- za'le
 a	"Abandon (v.) -- rinshahtau (not complete); ek'trasha (leave behind/untended)"

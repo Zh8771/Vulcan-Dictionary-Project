@@ -1,5 +1,5 @@
 ##### VULCAN DICTIONARY DATABASE PROJECT - DATA CURATION LOG - GS #####
-#### START: 2023.04.11 - LAST UPDATED: 2023.04.13 ####
+#### START: 2023.04.11 - LAST UPDATED: 2023.05.01 ####
 
 #### DESCRIPTION OF DATA COLLECTION ####
 # Data was collected from the Vulcan Language Institute (VLI) dictionary (archived on the wayback machine)
