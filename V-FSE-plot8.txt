@@ -1,0 +1,4375 @@
+FRST_LETTER	voicing	vulcan	variety	pos	croftian_crossling_concepts	fse
+a	1	A'gal 	MGV	n.	OBJ.CONC	proton
+a	1	A'gal-lushun 	MGV	n.	OBJ.CONC	proton torpedo
+a	1	A'ho 	MGV	interj.	interjection	hello
+a	1	A'rak-, A'rakik 	MGV	n.	OBJ.CONC	positive (polarity)
+a	1	A'rak-falun 	MGV	n.	OBJ.CONC	positive charge
+a	1	A'rak-falun-krus 	MGV	n.	OBJ.CONC	positive ion
+a	1	A'rak-narak'es 	MGV	n.	OBJ.CONC	positive polarity
+a	1	Aberala 	MGV	n.	OBJ.CONC	aerofoil, airfoil
+a	1	Aberala-tchakat 	MGV	n.	OBJ.CONC	camber
+a	1	Aberayek 	MGV	n.	OBJ.CONC	crane
+a	1	Aberofek 	MGV	n.	OBJ.CONC	derrick
+a	1	Abevipladau 	MGV	v.	ACT.CONC	dub
+a	1	Abi' 	MGV	prep.	SITU.MOD	until
+a	1	Abmarkan-, Abmarkanik 	MGV	adj.	PROP.CONC	buoyant
+a	1	Abmarkan'es 	MGV	n.	OBJ.CONC	buoyancy
+a	1	Abmarkan'es-svitan 	MGV	n.	OBJ.CONC	center of buoyancy
+a	1	Abomesayik vath-sfek-aus 	MGV	n.	OBJ.CONC	arccosecant
+a	1	Abomesayik vath-sfek-vel 	MGV	n.	OBJ.CONC	arccotangent
+a	1	Abomesayik vath-tavat-zes 	MGV	n.	OBJ.CONC	arccosine
+a	1	Abomesayik vul-tavat-zes 	MGV	n.	OBJ.CONC	arcsine
+a	1	Abomesayik weht-sfek-aus 	MGV	n.	OBJ.CONC	arcsecant
+a	1	Abomesayik wuh-sfek-vel 	MGV	n.	OBJ.CONC	arctangent
+a	1	Aborau 	MGV	v.	ACT.CONC	boost
+a	1	Aborau-yon-hashek 	MGV	n.	OBJ.CONC	booster rocket
+a	1	Aboraya 	MGV	n.	OBJ.CONC	boost
+a	1	Aborayek 	MGV	n.	OBJ.CONC	booster
+a	1	Aborayek-dahshaya 	MGV	n.	OBJ.CONC	booster separation
+a	1	Abrash 	MGV	n.	OBJ.CONC	flood
+a	1	Abrash-eiktra 	MGV	n.	OBJ.CONC	flood plain
+a	1	Abrash-masu 	MGV	n.	OBJ.CONC	floodwater(s)
+a	1	Abrash-pthak 	MGV	n.	OBJ.CONC	antlophobia
+a	1	Abrash-temep 	MGV	n.	OBJ.CONC	floodgate
+a	1	Abrash-temok 	MGV	n.	OBJ.CONC	floodwall
+a	1	Abrash-tor 	MGV	v.	ACT.CONC	flood
+a	1	Abru' 	MGV	prep.	SITU.MOD	above, over
+a	1	Abru'es 	MGV	n.	OBJ.CONC	dominance
+a	1	Abru-ahs|-hinek| 	MGV	n.	OBJ.CONC	maxilla
+a	1	Abru-kapol-nafek 	MGV	n.	OBJ.CONC	adrenal gland
+a	1	Abru-kar-hinek 	MGV	n.	OBJ.CONC	humerus
+a	1	Abru-mal 	MGV	n.	OBJ.CONC	thigh
+a	1	Abru-mal-hinek 	MGV	n.	OBJ.CONC	femur, thighbone
+a	1	Abru-mes 	MGV	n.	OBJ.CONC	crossover
+a	1	Abru-ralashik 	MGV	adj.	PROP.CONC	supersonic
+a	1	Abru-ralashik ifis-hali 	MGV	n.	OBJ.CONC	supersonic transport (SST)
+a	1	Abru-spis 	MGV	n.	OBJ.CONC	anticline
+a	1	Abru-su'us 	MGV	n.	OBJ.CONC	numerator
+a	1	Abru-tchakat 	MGV	n.	OBJ.CONC	camber
+a	1	Abru-tus 	MGV	n.	OBJ.CONC	overload
+a	1	Abru-tus-nelayek 	MGV	n.	OBJ.CONC	overload suppressor
+a	1	Abru-tus-tor 	MGV	v.	ACT.CONC	overload
+a	1	Abru-tvi-kovtra 	MGV	n.	OBJ.CONC	asthenosphere
+a	1	Abru-vulu 	MGV	n.	OBJ.CONC	obtuse angle
+a	1	Abru-yetural-, Abru-yeturalik 	MGV	adj.	PROP.CONC	overdriven
+a	1	Abru-zan-mev 	MGV	n.	OBJ.CONC	periscope
+a	1	Abrukhau 	MGV	v.	ACT.CONC	dominate
+a	1	Abrumashen-, abrumashenik 	MGV	adj.	PROP.CONC	awash
+a	1	Abruneniwau 	MGV	v.	ACT.CONC	supervise
+a	1	Abruneniwausu 	MGV	n.	OBJ.CONC	supervisor
+a	1	Abrupik 	MGV	adj.	PROP.CONC	dominant
+a	1	Abrupodon 	MGV	n.	OBJ.CONC	profit
+a	1	Abruven-esh-nosh 	MGV	n.	OBJ.CONC	orthopnea
+a	1	Absakau 	MGV	v.	ACT.CONC	raid
+a	1	Absakausu 	MGV	n.	OBJ.CONC	raider, marauder
+a	1	Abu, Abu' 	MGV	prep.	SITU.MOD	up
+a	1	Abu'le 	MGV	prep.	SITU.MOD	upward(s)
+a	1	Abu'shi 	MGV	adv.	SITU.MOD	aloft
+a	1	Abu'tvau 	MGV	v.	ACT.CONC	swing up
+a	1	Abu-dvun-, Abu-dvunik 	MGV	adj.	PROP.CONC	anabatic
+a	1	Abu-pla'dor-hinek 	MGV	n.	OBJ.CONC	thoracic vertebra
+a	1	Abu-to'ovayak 	MGV	n.	OBJ.CONC	stalagmite
+a	1	Abu-tor 	MGV	v.	ACT.CONC	erect, put up
+a	1	Abu-vla-nu'leyik 	MGV	adj.	PROP.CONC	upside-down
+a	1	Abu-yumaya 	MGV	n.	OBJ.CONC	updraft
+a	1	Abuhish 	MGV	n.	OBJ.CONC	upward pressure
+a	1	Abukhau 	MGV	v.	ACT.CONC	rule over
+a	1	Abulau 	MGV	v.	ACT.CONC	increase
+a	1	Abulik 	MGV	adj.	PROP.CONC	vertical
+a	1	Abulik sov-razh 	MGV	n.	OBJ.CONC	air pocket
+a	1	Abun-dvunek 	MGV	n.	OBJ.CONC	erector
+a	1	Abunaf 	MGV	n.	OBJ.CONC	uplink
+a	1	Abunuhal-tor 	MGV	v.	ACT.CONC	pitch
+a	1	Abunuhalan 	MGV	n.	OBJ.CONC	pitch
+a	1	Abusalan-, Abusalanik 	MGV	adj.	PROP.CONC	upwind
+a	1	Abuthresha 	MGV	v.	ACT.CONC	throttle up
+a	1	Abutsuplau 	MGV	v.	ACT.CONC	surrender
+a	1	Abutsuplaya 	MGV	n.	OBJ.CONC	surrender
+a	1	Abuvenik 	MGV	adj.	PROP.CONC	upright
+a	1	Achut 	MGV	n.	OBJ.CONC	brush
+a	1	Af'traul 	MGV	n.	OBJ.CONC	utensil
+a	1	Af'tum 	anc.	n.	OBJ.CONC	kitchen
+a	1	Afer-tor 	MGV	v.	ACT.CONC	establish, found
+a	1	Aferal-, Aferalik 	MGV	adj.	PROP.CONC	established, founded
+a	1	Aferteraya 	MGV	n.	OBJ.CONC	corporation
+a	1	Afsakau 	MGV	v.	ACT.CONC	declare, proclaim
+a	1	Afsakaya 	MGV	n.	OBJ.CONC	declaration, proclamation
+a	1	Agreibau 	MGV	v.	ACT.CONC	torture
+a	1	Agreibaya 	MGV	n.	OBJ.CONC	torture
+a	1	Ahahr-tukh 	MGV	n.	OBJ.CONC	rhenium
+a	1	Ahkh 	anc.	n.	OBJ.CONC	war
+a	1	Ahkh-pidsu 	MGV	n.	OBJ.CONC	warlord
+a	1	Ahkh-zhagralar 	MGV	n.	OBJ.CONC	wargames
+a	1	Ahkhan 	MGV	n.	OBJ.CONC	warfare
+a	1	Ahkhinahru 	anc.	n.	OBJ.CONC	ancient battlefield psionic warrior
+a	1	Ahkhsu 	MGV	n.	OBJ.CONC	warrior
+a	1	Ahklavau 	MGV	v.	ACT.CONC	reveal
+a	1	Ahl-tukh 	MGV	n.	OBJ.CONC	iridium
+a	1	Ahm 	MGV	n.	OBJ.CONC	name
+a	1	Ahm-rubah 	MGV	n.	OBJ.CONC	name change
+a	1	Ahm-tor 	MGV	v.	ACT.CONC	name
+a	1	Ahm-van-kal 	MGV	n.	OBJ.CONC	naming ceremony
+a	1	Ahn-vahr 	anc.	n.	OBJ.CONC	suicide dagger
+a	1	Ahn-wun 	anc.	n.	OBJ.CONC	strap-like weapon, often with a weighted end
+a	1	Ahs 	MGV	n.	OBJ.CONC	jaw
+a	1	Aht'lahntik Masutra 	MGV	n.	OBJ.CONC	Atlantic Ocean
+a	1	Aid 	MGV	n.	OBJ.CONC	contentment
+a	1	Aidihn|-| 	MGV	adj.	PROP.CONC	contented
+a	1	Aifa 	MGV	pron.	SITU.MOD	these
+a	1	Aikum 	MGV	n.	OBJ.CONC	moon
+a	1	Aikum-ek'duv 	MGV	n.	OBJ.CONC	lunar eclipse
+a	1	Aikum-ha'gel 	MGV	n.	OBJ.CONC	moonlight
+a	1	Aikum-shen 	MGV	n.	OBJ.CONC	moonrise
+a	1	Aikum-solek 	MGV	n.	OBJ.CONC	lunar regolith
+a	1	Aikum-tal 	MGV	n.	OBJ.CONC	selenology
+a	1	Aikum-tevan 	MGV	n.	OBJ.CONC	moonset
+a	1	Ailin-tukh 	MGV	n.	OBJ.CONC	gabbro
+a	1	Ain 	MGV	n.	OBJ.CONC	garment
+a	1	Aisha 	MGV	v.	ACT.CONC	cause
+a	1	Aishan 	MGV	n.	OBJ.CONC	cause
+a	1	Aitlu 	MGV	v.	PREDIC.MODAL	desire, want
+a	1	Aitlun 	MGV	n.	OBJ.CONC	desire, want
+a	1	Ak 	MGV	adv.	ACT.CONC.MOD	soon
+a	1	Ak'wik 	MGV	adj.	PROP.CONC	surprised
+a	1	Ak'wik-abrash 	MGV	n.	OBJ.CONC	flash flood
+a	1	Ak'wikman 	MGV	v.	ACT.CONC	surprise
+a	1	Akali|-| 	MGV	adj.	PROP.CONC	urgent
+a	1	Akan|-| 	MGV	adj.	PROP.CONC	alien, ecdemic, exotic (not native)
+a	1	Akan-ha-tal 	MGV	n.	OBJ.CONC	xenobiology
+a	1	Akan-ha-talsu 	MGV	n.	OBJ.CONC	xenobiologist
+a	1	Akan-tor 	MGV	v.	ACT.CONC	alienate
+a	1	Akanal-, Akanalik 	MGV	adj.	PROP.CONC	alienated
+a	1	Akansu 	MGV	n.	OBJ.CONC	alien
+a	1	Akarshif 	MGV	adv.	ACT.CONC.MOD	a long time
+a	1	Akhlami 	MGV	prep.	SITU.MOD	among us
+a	1	Akteibuhl 	MGV	n.	OBJ.CONC	attainment
+a	1	Alakolah 	MGV	v.	ACT.CONC	ripple
+a	1	Alakolan 	MGV	n.	OBJ.CONC	ripple
+a	1	Alem 	MGV	n.	OBJ.CONC	salt
+a	1	Alem'es 	MGV	n.	OBJ.CONC	saltiness, salinity
+a	1	Alem-flash 	MGV	n.	OBJ.CONC	mangrove swamp
+a	1	Alem-kov 	MGV	n.	OBJ.CONC	halite, rock salt
+a	1	Alem-masu 	MGV	n.	OBJ.CONC	saltwater
+a	1	Alem-masu-kastra 	MGV	n.	OBJ.CONC	salt (water)
+a	1	Alem-sis 	MGV	n.	OBJ.CONC	salt depletion
+a	1	Alem-solek 	MGV	n.	OBJ.CONC	saline soil
+a	1	Alem-suk'muzh 	MGV	n.	OBJ.CONC	salt lake
+a	1	Alem-tukh 	MGV	n.	OBJ.CONC	sodium, natrium
+a	1	Alemik 	MGV	adj.	PROP.CONC	salty, saline
+a	1	Alemtra 	MGV	n.	OBJ.CONC	sabkha
+a	1	Aluk 	MGV	n.	OBJ.CONC	fish
+a	1	Aluk-kak 	MGV	n.	OBJ.CONC	fishbowl
+a	1	Aluk-kelek 	MGV	n.	OBJ.CONC	aquarium
+a	1	Aluk-kum-fek 	MGV	n.	OBJ.CONC	fishing pole
+a	1	Aluk-kum-kik 	MGV	n.	OBJ.CONC	fishhook
+a	1	Aluk-kum-mashali 	MGV	n.	OBJ.CONC	fishing boat
+a	1	Aluk-kum-tor 	MGV	v.	ACT.CONC	fish
+a	1	Aluk-kumsu 	MGV	n.	OBJ.CONC	fisherman
+a	1	An-bet	anc.	n.	OBJ.CONC	gable
+a	1	Andorsu 	MGV	n.	OBJ.CONC	Andorian
+a	1	Ap'hashau 	MGV	v.	ACT.CONC	ricochet
+a	1	Ap'hashaya 	MGV	n.	OBJ.CONC	ricochet
+a	1	Apalikau-zehlanaya 	MGV	n.	OBJ.CONC	startup sequence
+a	1	Apalikaya 	MGV	n.	OBJ.CONC	startup, start-up
+a	1	Apumeskarau 	MGV	v.	ACT.CONC	take a hold of
+a	1	Ar'ka-halek 	MGV	n.	OBJ.CONC	flywheel
+a	1	Ar'kada 	MGV	v.	ACT.CONC	work
+a	1	Ar'kada-lashi 	MGV	n.	OBJ.CONC	workstation
+a	1	Ar'kada-pthak 	MGV	n.	OBJ.CONC	ergophobia
+a	1	Ar'kadan 	MGV	n.	OBJ.CONC	work, chore, task, job
+a	1	Ar'tu 	anc.	n.	OBJ.CONC	project
+a	1	Arlanga 	MGV	n.	OBJ.CONC	a Vulcan mountain range
+a	1	Arlanga-tukh 	MGV	n.	OBJ.CONC	yttrium
+a	1	Aru 	anc.	n.	OBJ.CONC	afternoon
+a	1	Aru-yem 	MGV	n.	OBJ.CONC	dinner, afternoon meal
+a	1	Asal 	MGV	n.	OBJ.CONC	morning
+a	1	Asal-masu 	MGV	n.	OBJ.CONC	dew
+a	1	Asal-masu-sfek 	MGV	n.	OBJ.CONC	dew point
+a	1	Asal-masu-thek 	MGV	n.	OBJ.CONC	dewdrop
+a	1	Asal-masu-thonek 	MGV	n.	OBJ.CONC	drosometer
+a	1	Asal-yem 	MGV	n.	OBJ.CONC	breakfast, morning meal
+a	1	Ash'ai 	MGV	n.	OBJ.CONC	sock, stocking
+a	1	Ash'ai-zhel 	MGV	n.	OBJ.CONC	garter
+a	1	Ash'el 	MGV	n.	OBJ.CONC	shoe
+a	1	Ash'gelfek 	MGV	n.	OBJ.CONC	perch
+a	1	Ash'kwitayek 	MGV	n.	OBJ.CONC	pedal
+a	1	Ash'ya 	MGV	n.	OBJ.CONC	foot
+a	1	Ash'ya-dukal 	MGV	n.	OBJ.CONC	football (the ball)
+a	1	Ash'ya-dukal-torvukh 	MGV	n.	OBJ.CONC	football (the sport)
+a	1	Ash'ya-fam-, ash'ya-famik 	MGV	adj.	PROP.CONC	apodal, apodous, footless
+a	1	Ash'ya-hilek 	MGV	n.	OBJ.CONC	spade
+a	1	Ash'ya-sai-vel 	MGV	n.	OBJ.CONC	footwear
+a	1	Ash'yaidar 	MGV	n.	OBJ.CONC	footprint
+a	1	Ash'yakhut 	MGV	n.	OBJ.CONC	slipper
+a	1	Ash-tor 	MGV	v.	ACT.CONC	step, tread
+a	1	Ashal-, Ashalik 	MGV	adj.	PROP.CONC	(be)loved, darling
+a	1	Ashal-veh 	MGV	n.	OBJ.CONC	beloved, darling, sweetheart
+a	1	Ashau 	MGV	v.	ACT.CONC	love
+a	1	Ashau-krel-masu 	MGV	n.	OBJ.CONC	love potion
+a	1	Ashaun-, Ashaunik 	MGV	adj.	ACT.CONC.MOD	loving
+a	1	Ashausu 	MGV	n.	OBJ.CONC	lover
+a	1	Ashaya-var 	MGV	n.	OBJ.CONC	love story
+a	1	Ashen-fau-yut 	MGV	n.	OBJ.CONC	causeway
+a	1	Ashen-padukau-rala 	MGV	n.	OBJ.CONC	elevon
+a	1	Ashenau 	MGV	v.	ACT.CONC	raise, elevate, amplify
+a	1	Ashenayek 	MGV	n.	OBJ.CONC	elevator
+a	1	Ashenek 	MGV	n.	OBJ.CONC	exponent
+a	1	Ashiv-tor 	MGV	v.	ACT.CONC	repeat
+a	1	Ashivau 	MGV	v.	ACT.CONC	iterate
+a	1	Ask'er 	MGV	n.	OBJ.CONC	army
+a	1	Ask'ersu 	MGV	n.	OBJ.CONC	soldier
+a	1	Ask'ersu-kelek 	MGV	n.	OBJ.CONC	barracks
+a	1	Ask'ersu-leshek 	MGV	n.	OBJ.CONC	troop carrier
+a	1	Ask'plak-, Ask'plakik 	MGV	adj.	PROP.CONC	tactical
+a	1	Ask'plak-galu-wun 	MGV	n.	OBJ.CONC	tactical nuclear weapon
+a	1	Ask'plak-lansu 	MGV	n.	OBJ.CONC	tactical officer
+a	1	Ask'plak-lashi 	MGV	n.	OBJ.CONC	tactical station
+a	1	Ask'plakanu 	MGV	n.	OBJ.CONC	tactics
+a	1	Aski|-| 	MGV	adj.	PROP.CONC	mighty, military
+a	1	Askital 	MGV	n.	OBJ.CONC	military
+a	1	Asklotau 	MGV	v.	ACT.CONC	blockade
+a	1	Asklotaya 	MGV	n.	OBJ.CONC	blockade
+a	1	Asteronau 	MGV	v.	ACT.CONC	attach
+a	1	Asteronau-mof 	MGV	n.	OBJ.CONC	clevis pin
+a	1	Asteronaya 	MGV	n.	OBJ.CONC	attachment
+a	1	Asteronaya-sfek 	MGV	n.	OBJ.CONC	attachment point
+a	1	Au 	MGV	pron.	OBJ.CONC	them, they
+a	1	Aukh 	MGV	n.	OBJ.CONC	gypsum
+a	1	Ausham 	MGV	n.	OBJ.CONC	venom
+a	1	Aushfa 	MGV	n.	OBJ.CONC	animal
+a	1	Aushfa-kelek 	MGV	n.	OBJ.CONC	barn, stable
+a	1	Aushfa-palutunatra 	MGV	n.	OBJ.CONC	animal husbandry
+a	1	Aushfa-razh 	MGV	n.	OBJ.CONC	burrow
+a	1	Aushfa-wadi-hatik ha-vel 	MGV	n.	OBJ.CONC	epizoon
+a	1	Aushfa-tal 	MGV	n.	OBJ.CONC	zoology
+a	1	Aushfa-talsu 	MGV	n.	OBJ.CONC	zoologist
+a	1	Aushfal'esk 	MGV	n.	OBJ.CONC	beast
+a	1	Aushfamaluhr 	MGV	adj.	PROP.CONC	animal(istic), beastly, savage
+a	1	Aushfatra 	MGV	n.	OBJ.CONC	fauna
+a	1	Aushfebihk-dva 	MGV	n.	OBJ.CONC	totemism (towards an animal)
+a	1	Aushkel 	MGV	n.	OBJ.CONC	den, lair
+a	1	Avaru	anc.	n.	OBJ.CONC	trouble
+a	1	Avaru-satalau 	MGV	v.	ACT.CONC	troubleshoot
+a	1	Avaru-satalausu 	MGV	n.	OBJ.CONC	troubleshooter
+a	1	Avaru-satalaya 	MGV	n.	OBJ.CONC	troubleshooting
+a	1	Avon 	MGV	n.	OBJ.CONC	hunger
+a	1	Avon-telik 	MGV	v.	ACT.CONC	hunger
+a	1	Awek|-| 	MGV	adj.	PROP.CONC	private
+a	1	Awek'es 	MGV	n.	OBJ.CONC	privacy, solitude
+a	1	Awek-thro-yut 	MGV	n.	OBJ.CONC	driveway
+a	1	Awekat-, Awekatik 	MGV	adj.	PROP.CONC	solitary
+a	1	Ayau 	MGV	v.	ACT.CONC	tilt
+a	1	Ayau-keh-vla 	MGV	n.	OBJ.CONC	rhombus
+a	1	Ayau-thonek 	MGV	n.	OBJ.CONC	tiltmeter
+a	1	Ayayik keh-vla 	MGV	n.	OBJ.CONC	rhombohedron
+a	1	Ayayik leh-dah-muk 	MGV	n.	OBJ.CONC	rhombododecahedron
+a	1	Azehl 	MGV	n.	OBJ.CONC	ray
+a	1	Azehl-, Azehlik 	MGV	adj.	PROP.CONC	radial
+b	1	Ba'tak 	anc.	n.	OBJ.CONC	tradition
+b	1	Bablivau 	MGV	v.	ACT.CONC	designate
+b	1	Babloputak 	MGV	n.	OBJ.CONC	crusade
+b	1	Bah-ker 	anc.	n.	OBJ.CONC	garden
+b	1	Bah-tor 	MGV	v.	ACT.CONC	garden
+b	1	Bahsu 	MGV	n.	OBJ.CONC	gardener
+b	1	Bai-lak-pa	anc.	n.	OBJ.CONC	self-pity
+b	1	Bak 	MGV	n.	OBJ.CONC	rib
+b	1	Bal 	MGV	n.	OBJ.CONC	group, set
+b	1	Bali|-| 	MGV	adj.	PROP.CONC	thick
+b	1	Bali-thonek 	MGV	n.	OBJ.CONC	caliper(s)
+b	1	Balkra 	anc.	n.	OBJ.CONC	an aromatic casserole
+b	1	Banut 	MGV	v.	ACT.CONC	speak of or about
+b	1	Bar-got	anc.	n.	OBJ.CONC	herb
+b	1	Bar-kas	anc.	n.	OBJ.CONC	spice
+b	1	Bashan 	MGV	n.	OBJ.CONC	migration
+b	1	Batai 	MGV	adj.	PROP.CONC	sturdy
+b	1	Bau-tor 	MGV	v.	ACT.CONC	disregard, ignore
+b	1	Be' 	MGV	prep.	SITU.MOD	adjacent to, beside, close to, near, next to, in proximity to
+b	1	Be'es 	MGV	n.	OBJ.CONC	nearness, proximity
+b	1	Be'ru'lutik 	MGV	adj.	PROP.CONC	adoral
+b	1	Be-, Beik 	MGV	adj.	PROP.CONC	adjacent, close, near
+b	1	Be-wan-kur 	MGV	adj.	PROP.CONC	off-white
+b	1	Beglanau 	MGV	v.	ACT.CONC	notice
+b	1	Behsu 	MGV	n.	OBJ.CONC	neighbor
+b	1	Beidzhorsu 	MGV	n.	OBJ.CONC	Bajoran
+b	1	Bek 	MGV	n.	OBJ.CONC	wait
+b	1	Bek-tor 	MGV	v.	ACT.CONC	wait
+b	1	Belk	anc.	n.	OBJ.CONC	scout
+b	1	Ben 	MGV	pron.	OBJ.CONC	to us
+b	1	Ben-gun 	anc.	n.	OBJ.CONC	therapy
+b	1	Bes 	MGV	n.	OBJ.CONC	drawing
+b	1	Bes-tor 	MGV	v.	ACT.CONC	draw
+b	1	Besan 	MGV	n.	OBJ.CONC	chart, map, plot
+b	1	Besan-tanaf 	MGV	n.	OBJ.CONC	cartography
+b	1	Besau 	MGV	v.	ACT.CONC	chart, map, plot
+b	1	Besayek 	MGV	n.	OBJ.CONC	plotter
+b	1	Besu 	MGV	n.	OBJ.CONC	companion
+b	1	Besu'es 	MGV	n.	OBJ.CONC	companionship
+b	1	Betau 	MGV	v.	ACT.CONC	approach, near
+b	1	Bezhun 	MGV	n.	OBJ.CONC	eye, oculus
+b	1	Bezhun-hassu 	MGV	n.	OBJ.CONC	ophtalmologist
+b	1	Bezhun-isach 	MGV	n.	OBJ.CONC	eyelash
+b	1	Bezhun-kal 	MGV	n.	OBJ.CONC	eyeball
+b	1	Bezhun-masu 	MGV	n.	OBJ.CONC	tears (multiple drops)
+b	1	Bezhun-masu-mev 	MGV	n.	OBJ.CONC	lacrimal duct, tear duct
+b	1	Bezhun-ripa'shaya 	MGV	n.	OBJ.CONC	cataract
+b	1	Bezhun-tal 	MGV	n.	OBJ.CONC	ophtalmology
+b	1	Bezhun-thek 	MGV	n.	OBJ.CONC	tear (a single drop)
+b	1	Bezhun-wadi 	MGV	n.	OBJ.CONC	cornea
+b	1	Bezhun-wan 	MGV	n.	OBJ.CONC	sclera
+b	1	Bezhun-zehl 	MGV	n.	OBJ.CONC	eyebrow
+b	1	Bi' 	MGV	prep.	SITU.MOD	along
+b	1	Bif-, Bifik 	MGV	adj.	PROP.CONC	sure
+b	1	Bikuv 	MGV	n.	OBJ.CONC	picture
+b	1	Bikuv-kitaun 	MGV	n.	OBJ.CONC	hieroglyphic (writing)
+b	1	Bishau 	MGV	v.	ACT.CONC	swarm, teem
+b	1	Bladzh 	MGV	n.	OBJ.CONC	camp
+b	1	Bladzh-yon 	MGV	n.	OBJ.CONC	campfire
+b	1	Bling 	MGV	n.	OBJ.CONC	cymbal
+b	1	Bohrau 	MGV	v.	ACT.CONC	cure
+b	1	Bol-, Bolik 	MGV	adj.	PROP.CONC	critical, vital
+b	1	Bol-falek'es 	MGV	n.	OBJ.CONC	critical temperature
+b	1	Bol-mog'es 	MGV	n.	OBJ.CONC	critical volume
+b	1	Bol-shivak 	MGV	n.	OBJ.CONC	critical mass
+b	1	Bol-sov-masu'es 	MGV	n.	OBJ.CONC	critical humidity
+b	1	Bol-suk'es 	MGV	n.	OBJ.CONC	critical size
+b	1	Bol-tav 	MGV	n.	OBJ.CONC	critical rate
+b	1	Bol-threshan 	MGV	n.	OBJ.CONC	critical speed
+b	1	Bol-toruk'es 	MGV	n.	OBJ.CONC	critical voltage
+b	1	Bol-vakav'es 	MGV	n.	OBJ.CONC	critical frequency
+b	1	Bol-vihish 	MGV	n.	OBJ.CONC	critical pressure
+b	1	Bol-vulu 	MGV	n.	OBJ.CONC	critical angle
+b	1	Bolau 	MGV	v.	ACT.CONC	need
+b	1	Bolaya 	MGV	n.	OBJ.CONC	need
+b	1	Bolaya-, Bolayatik 	MGV	adj.	PROP.CONC	essential
+b	1	Bosh|-| 	MGV	adj.	PROP.CONC	full
+b	1	Bosh-khaf-masu 	MGV	n.	OBJ.CONC	plasma
+b	1	Boshak 	MGV	n.	OBJ.CONC	filling
+b	1	Boshau 	MGV	v.	ACT.CONC	fill
+b	1	Bov 	MGV	n.	OBJ.CONC	average
+b	1	Bov-, Bovik 	MGV	adj.	PROP.CONC	average
+b	1	Bov-tor 	MGV	v.	ACT.CONC	average
+b	1	Brag 	MGV	n.	OBJ.CONC	crypt, tomb
+b	1	Bral-tukh 	MGV	n.	OBJ.CONC	gallium
+b	1	Brash'es 	MGV	n.	OBJ.CONC	fecundity
+b	1	Breth-tukh 	MGV	n.	OBJ.CONC	praseodymium
+b	1	Bru 	MGV	n.	OBJ.CONC	lip
+b	1	Bru-yonshaya 	MGV	n.	OBJ.CONC	cheilitis
+b	1	Bruhd 	MGV	n.	OBJ.CONC	caterpillar
+b	1	Budda-dva 	MGV	n.	OBJ.CONC	Buddhism
+b	1	Budda-dvasu 	MGV	n.	OBJ.CONC	Buddhist
+b	1	Buhfik 	MGV	adj.	PROP.CONC	perfect
+b	1	Buhl'es 	MGV	n.	OBJ.CONC	enthusiasm
+b	1	Buhl-, Buhlik 	MGV	adj.	PROP.CONC	enthusiastic
+b	1	Buhn 	MGV	n.	OBJ.CONC	coin
+b	1	Buk 	MGV	n.	OBJ.CONC	fate, destiny
+b	1	Bulom-tukh 	MGV	n.	OBJ.CONC	molybdenum
+b	1	Bureki 	anc.	n.	OBJ.CONC	a volcanic stone used for construction
+b	1	Burun 	MGV	n.	OBJ.CONC	crisis
+b	1	Burun-, Burunik 	MGV	adj.	PROP.CONC	critical (in a crisis)
+b	1	Burun-palutun-flanapausu 	MGV	n.	OBJ.CONC	critical care specialist
+b	1	Burun-palutun-hassu 	MGV	n.	OBJ.CONC	critical care doctor
+b	1	Burun-palutun-shal 	MGV	n.	OBJ.CONC	critical care unit
+b	1	Burun-palutun-shi'has 	MGV	n.	OBJ.CONC	critical care center
+b	1	Burun-palutunik has-golsu 	MGV	n.	OBJ.CONC	critical care nurse
+b	1	Busnem 	MGV	n.	OBJ.CONC	abortion
+b	1	Busnem-tor 	MGV	v.	ACT.CONC	abort
+d	1	D'oh-tor 	MGV	v.	ACT.CONC	confuse, perplex, puzzle
+d	1	D'ohan 	MGV	n.	OBJ.CONC	confusion, perplexity, puzzlement
+d	1	D'ohik 	MGV	adj.	PROP.CONC	confused, perplexed, puzzled
+d	1	Da 	MGV	n.	OBJ.CONC	pebble
+d	1	Da-fek 	MGV	n.	OBJ.CONC	axle
+d	1	Da-kuv 	MGV	n.	OBJ.CONC	circle
+d	1	Da-kuv-falek'es 	MGV	n.	OBJ.CONC	convection
+d	1	Da-kuvau 	MGV	v.	ACT.CONC	circulate
+d	1	Da-kuvau-katrom 	MGV	n.	OBJ.CONC	circulating current
+d	1	Da-kuvau-spol 	MGV	n.	OBJ.CONC	circulating pump
+d	1	Da-kuvau-torektra 	MGV	n.	OBJ.CONC	circulatory system
+d	1	Da-kuvaya 	MGV	n.	OBJ.CONC	circulation
+d	1	Da-kuvayek 	MGV	n.	OBJ.CONC	circulator
+d	1	Da-nel 	MGV	n.	OBJ.CONC	cycle
+d	1	Da-nel-, Da-nelik 	MGV	adj.	PROP.CONC	cyclic
+d	1	Da-rala-hali, Da-rala-hashek 	MGV	n.	OBJ.CONC	helicopter
+d	1	Da-sfek 	MGV	n.	OBJ.CONC	axis
+d	1	Da-sfek-lerakovayek 	MGV	n.	OBJ.CONC	axial compressor
+d	1	Da-sfek-mishu 	MGV	n.	OBJ.CONC	axial engine
+d	1	Da-sfek-tavat 	MGV	n.	OBJ.CONC	axial ratio
+d	1	Da-sfek-vukharat 	MGV	n.	OBJ.CONC	axial vector
+d	1	Da-sfek-yumaya 	MGV	n.	OBJ.CONC	axial flow
+d	1	Da-skramek 	MGV	n.	OBJ.CONC	lathe
+d	1	Da-tor 	MGV	v.	ACT.CONC	rotate, turn
+d	1	Dafel 	MGV	n.	OBJ.CONC	pelvis
+d	1	Dafel-, Dafelik 	MGV	adj.	PROP.CONC	pelvic
+d	1	Dah'es 	MGV	n.	OBJ.CONC	duality
+d	1	Dah-glan 	MGV	n.	OBJ.CONC	double vision, diplopia
+d	1	Dah-guv-, Dah-guvik 	MGV	adj.	PROP.CONC	bisexual
+d	1	Dah-halek 	MGV	n.	OBJ.CONC	bicycle
+d	1	Dah-ketil 	MGV	n.	OBJ.CONC	double integral
+d	1	Dah-kharat-, Dah-kharatik 	MGV	adj.	PROP.CONC	bidirectional
+d	1	Dah-kharat-katrom (DKhK)	MGV	n.	OBJ.CONC	alternating current (AC)
+d	1	Dah-kiht 	MGV	n.	OBJ.CONC	binary code
+d	1	Dah-kulan 	MGV	n.	OBJ.CONC	double helix
+d	1	Dah-lan-tol 	MGV	n.	OBJ.CONC	double floor
+d	1	Dah-leh 	MGV	num.	SELEC.MOD	twenty
+d	1	Dah-leh'rak, dah-lehr- 	MGV	adj.	PROP.CONC	twentieth
+d	1	Dah-leh'veh 	MGV	n.	OBJ.CONC	twentieth
+d	1	Dah-mashek 	MGV	n.	OBJ.CONC	emulsifier
+d	1	Dah-masu-tukh 	MGV	n.	OBJ.CONC	deuterium
+d	1	Dah-mavaya 	MGV	n.	OBJ.CONC	duet
+d	1	Dah-narafek 	MGV	n.	OBJ.CONC	diode
+d	1	Dah-pim-folayek 	MGV	n.	OBJ.CONC	dilithium reactor
+d	1	Dah-pim-tukh 	MGV	n.	OBJ.CONC	dilithium
+d	1	Dah-pim-viskulan 	MGV	n.	OBJ.CONC	dilithium matrix
+d	1	Dah-rala-, Dah-ralaik 	MGV	adj.	PROP.CONC	dipterous
+d	1	Dah-ralash-vel 	MGV	n.	OBJ.CONC	diphthong
+d	1	Dah-sashavaya 	MGV	n.	OBJ.CONC	double exposure
+d	1	Dah-shivaya 	MGV	n.	OBJ.CONC	paraplegia
+d	1	Dah-stonn-pi'sef |t'shahov| 	MGV	n.	OBJ.CONC	beach cusp
+d	1	Dah-stonn-sef 	MGV	n.	OBJ.CONC	barchan
+d	1	Dah-svep 	MGV	n.	OBJ.CONC	double door
+d	1	Dah-svin 	MGV	n.	OBJ.CONC	double entry
+d	1	Dah-temok 	MGV	n.	OBJ.CONC	double wall, double bulkhead
+d	1	Dah-tukh 	MGV	n.	OBJ.CONC	curium
+d	1	Dah-vla-, Dah-vlaik 	MGV	adj.	PROP.CONC	bilateral
+d	1	Dah-vukh 	MGV	n.	OBJ.CONC	double hull
+d	1	Dah-wak 	MGV	adv.	ACT.CONC.MOD	twice
+d	1	Dah-weizehl 	MGV	n.	OBJ.CONC	double series
+d	1	Dah-wek-, Dah-wekik 	MGV	adj.	PROP.CONC	diphasic
+d	1	Dah-yel 	MGV	n.	OBJ.CONC	binary star
+d	1	Dah-zalu 	MGV	n.	OBJ.CONC	coenzyme
+d	1	Dah-zamasu 	MGV	n.	OBJ.CONC	double agent
+d	1	Dah-zan-vel 	MGV	n.	OBJ.CONC	binoculars
+d	1	Dah-zun 	MGV	n.	OBJ.CONC	digraph
+d	1	Dahal-tor 	MGV	v.	ACT.CONC	go around
+d	1	Dahek 	MGV	n.	OBJ.CONC	duo
+d	1	Dahkvalu 	MGV	n.	OBJ.CONC	parabola
+d	1	Dahl-tor 	MGV	v.	ACT.CONC	detach, disengage
+d	1	Dahli 	MGV	prep.	SITU.MOD	apart
+d	1	Dahli-nesh-tor 	MGV	v.	ACT.CONC	dissect
+d	1	Dahli-neshan 	MGV	n.	OBJ.CONC	dissection
+d	1	Dahpul-vo'ihn 	MGV	n.	OBJ.CONC	quadratic equation
+d	1	Dahr-, Dahrik 	MGV	adj.	PROP.CONC	second, secondary
+d	1	Dahs-da-kuv 	MGV	n.	OBJ.CONC	equator
+d	1	Dahsau 	MGV	v.	ACT.CONC	divide
+d	1	Dahsau-nosahp 	MGV	n.	OBJ.CONC	quotient
+d	1	Dahsaya 	MGV	n.	OBJ.CONC	divide, division
+d	1	Dahshau 	MGV	v.	ACT.CONC	separate
+d	1	Dahshaya 	MGV	n.	OBJ.CONC	separation
+d	1	Dahsu'us 	MGV	n.	OBJ.CONC	binomial
+d	1	Dahtau 	MGV	v.	ACT.CONC	double
+d	1	Dailissak 	MGV	n.	OBJ.CONC	adventure
+d	1	Dakh	anc.	v.	ACT.CONC	cast out, evict, expel, toss out
+d	1	Dakh-ha'tanaya 	MGV	n.	OBJ.CONC	luminescence
+d	1	Dan 	MGV	n.	OBJ.CONC	rotation, turn
+d	1	Dan-, Danik 	MGV	adj.	DEG.MOD	most
+d	1	Dan-fa-, Dan-faik 	MGV	adj.	DEG.MOD	foremost
+d	1	Dan-glu|-| 	MGV	adj.	DEG.MOD	deepest
+d	1	Dan-has-bosh 	MGV	adj.	DEG.MOD	sickest
+d	1	Dan-karik 	MGV	adj.	DEG.MOD	strongest
+d	1	Dan-klon|-| 	MGV	adj.	DEG.MOD	smartest
+d	1	Dan-kobat|-| 	MGV	adj.	DEG.MOD	weakest
+d	1	Dan-lerash|-| 	MGV	adj.	DEG.MOD	hardest (least soft)
+d	1	Dan-nu'ri|-| 	MGV	adj.	DEG.MOD	youngest
+d	1	Dan-nuk|-| 	MGV	adj.	DEG.MOD	lowest
+d	1	Dan-os|-| 	MGV	adj.	DEG.MOD	oldest
+d	1	Dan-pid|-| 	MGV	adj.	DEG.MOD	highest
+d	1	Dan-ras|-| 	MGV	adj.	DEG.MOD	heaviest
+d	1	Dan-rom|-| 	MGV	adj.	DEG.MOD	best
+d	1	Dan-runemek 	MGV	n.	OBJ.CONC	clutch
+d	1	Dan-sahr-, Dan-sahris 	MGV	adj.	DEG.MOD	fastest, quickest
+d	1	Dan-slu-, Dan-sluk 	MGV	adj.	DEG.MOD	freshest
+d	1	Dan-ta'hal|-| 	MGV	adj.	DEG.MOD	lightest (least heavy)
+d	1	Dan-thel-, Dan-thelik 	MGV	adj.	DEG.MOD	fattest
+d	1	Dan-vohr-, Dan-vohris 	MGV	adj.	DEG.MOD	slowest
+d	1	Dan-wonil|-| 	MGV	adj.	DEG.MOD	thinnest
+d	1	Danan 	MGV	n.	OBJ.CONC	majority
+d	1	Danau 	MGV	v.	ACT.CONC	explain
+d	1	Danau-dunap 	MGV	n.	OBJ.CONC	encyclopedia
+d	1	Dap 	MGV	n.	OBJ.CONC	mercy
+d	1	Dap-lan-pa 	MGV	n.	OBJ.CONC	children's game similar to Mercy or Uncle
+d	1	Dash 	MGV	n.	OBJ.CONC	injury
+d	1	Dash-tor 	MGV	v.	ACT.CONC	injure
+d	1	Datau 	MGV	v.	ACT.CONC	propel
+d	1	Datau-tukh 	MGV	n.	OBJ.CONC	propellant
+d	1	Dataya 	MGV	n.	OBJ.CONC	propulsion
+d	1	Datayek 	MGV	n.	OBJ.CONC	propeller
+d	1	Dator 	MGV	v.	ACT.CONC	prepare
+d	1	Dau 	MGV	v.	ACT.CONC	affect
+d	1	Dau-bosh 	MGV	adj.	PROP.CONC	effective
+d	1	Dau-tukh 	MGV	n.	OBJ.CONC	hormone
+d	1	Dawan 	anc.	n.	OBJ.CONC	a person who cannot be counted on
+d	1	Daya 	MGV	n.	OBJ.CONC	effect
+d	1	Def 	MGV	n.	OBJ.CONC	batch
+d	1	Deik 	MGV	n.	OBJ.CONC	file (document)
+d	1	Del 	MGV	n.	OBJ.CONC	rim
+d	1	Desh'rak 	MGV	n.	OBJ.CONC.MOD	north
+d	1	Desh'rak-, Desh'rakik 	MGV	adj.	PROP.CONC	northern
+d	1	Desh'raksu 	MGV	n.	OBJ.CONC	northerner
+d	1	Desh-she'rak 	MGV	n.	OBJ.CONC.MOD	northeast
+d	1	Desh-tev'rak 	MGV	n.	OBJ.CONC.MOD	northwest
+d	1	Desh-tukh 	MGV	n.	OBJ.CONC	dolomite
+d	1	Deshkau 	MGV	v.	ACT.CONC	question
+d	1	Deshker 	MGV	n.	OBJ.CONC	question
+d	1	Detra 	MGV	n.	OBJ.CONC	bunch
+d	1	Di'kish-torek 	MGV	n.	OBJ.CONC	metabolism
+d	1	Di'kish-tor 	MGV	v.	ACT.CONC	metabolize
+d	1	Di'kizh 	MGV	n.	OBJ.CONC	exchange
+d	1	Dif-tor 	MGV	v.	ACT.CONC	live a long time, live a full life
+d	1	Dihrf 	MGV	n.	OBJ.CONC	sexual intercourse
+d	1	Din-tor 	MGV	v.	ACT.CONC	miss
+d	1	Dir-, Dirik 	MGV	adj.	PROP.CONC	coarse
+d	1	Do 	MGV	conj.	CONNECTOR	than
+d	1	Dohn 	MGV	n.	OBJ.CONC	board, plank, playing surface for a board game
+d	1	Dok 	MGV	n.	OBJ.CONC	brick
+d	1	Dok-krizhiv 	MGV	n.	OBJ.CONC	brick clay
+d	1	Dok-torvausu 	MGV	n.	OBJ.CONC	bricklayer
+d	1	Dol-hinek 	MGV	n.	OBJ.CONC	clavicle
+d	1	Dom 	MGV	interj.	interjection	so (exclamation)
+d	1	Don-ka 	anc.	adj.	PROP.CONC	rich, wealthy
+d	1	Don-kut 	anc.	n.	OBJ.CONC	bonanza, financial windfall
+d	1	Don-tak 	anc.	n.	OBJ.CONC	riches, wealth
+d	1	Donkes-tor 	MGV	v.	ACT.CONC	finance, fund, bankroll
+d	1	Donketu 	anc.	n.	OBJ.CONC	funds, monetary resources
+d	1	Donku 	anc.	n.	OBJ.CONC	money, currency
+d	1	Dor 	MGV	n.	OBJ.CONC	honor
+d	1	Dor-tor 	MGV	v.	ACT.CONC	honor
+d	1	Dor-yehat 	MGV	adj.	PROP.CONC	honorable
+d	1	Dotokau 	MGV	v.	ACT.CONC	fine (penalize)
+d	1	Dozhuhk 	MGV	n.	OBJ.CONC	troll
+d	1	Drahk 	MGV	n.	OBJ.CONC	throat, pharynx
+d	1	Drahk-pi'nafek 	MGV	n.	OBJ.CONC	thyroid gland
+d	1	Dref 	MGV	n.	OBJ.CONC	rake
+d	1	Drichel-, Drichelik 	MGV	adj.	PROP.CONC	creepy, eerie, spooky
+d	1	Drizh 	MGV	n.	OBJ.CONC	itch
+d	1	Drizh-tor 	MGV	v.	ACT.CONC	itch
+d	1	Drizhaya 	MGV	n.	OBJ.CONC	pruritis
+d	1	Drom|-| 	MGV	adj.	PROP.CONC	pure
+d	1	Drom'es 	MGV	n.	OBJ.CONC	purity
+d	1	Drom-tor 	MGV	v.	ACT.CONC	purify
+d	1	Du 	MGV	pron.	OBJ.CONC	you
+d	1	Dud 	MGV	n.	OBJ.CONC	a small piece of paper, film, etc.
+d	1	Duf 	MGV	n.	OBJ.CONC	leather
+d	1	Duh-, Duhik 	MGV	adj.	PROP.CONC	daffy, foolish, goofy
+d	1	Duk 	MGV	n.	OBJ.CONC	bubble
+d	1	Dukal 	MGV	n.	OBJ.CONC	ball
+d	1	Dukal-guf-lesek 	MGV	n.	OBJ.CONC	ball-and-socket joint
+d	1	Dukal-igen-wesh 	MGV	n.	OBJ.CONC	ball lightning
+d	1	Dukal-kuvish 	MGV	n.	OBJ.CONC	ball bearing
+d	1	Dukal-spunek 	MGV	n.	OBJ.CONC	ball valve
+d	1	Dukau 	MGV	v.	ACT.CONC	bubble
+d	1	Dulai|-| 	MGV	adj.	PROP.CONC	tough
+d	1	Dun 	MGV	n.	OBJ.CONC	paper
+d	1	Dun-zhuksu 	MGV	n.	OBJ.CONC	paper-maker
+d	1	Dunap 	MGV	n.	OBJ.CONC	book
+d	1	Dunap-krus 	MGV	n.	OBJ.CONC	chapter
+d	1	Dunap-tsorayek 	MGV	n.	OBJ.CONC	bookcase
+d	1	Dunapshausu 	MGV	n.	OBJ.CONC	bookbinder
+d	1	Dunapsu 	MGV	n.	OBJ.CONC	librarian
+d	1	Dunesh 	MGV	n.	OBJ.CONC	pamphlet, brochure, leaflet
+d	1	Dungi|-| 	MGV	v.	ACT.CONC	will, shall
+d	1	Dunusu 	MGV	n.	OBJ.CONC	clerk
+d	1	Duta'es 	MGV	n.	OBJ.CONC	diplomacy
+d	1	Duta-, Dutarik 	MGV	adj.	PROP.CONC	diplomatic
+d	1	Duta-shan-hali 	MGV	n.	OBJ.CONC	diplomatic courier vessel
+d	1	Duta-Sklada-Dvin T'Khasi 	MGV	n.	OBJ.CONC	Vulcan Diplomatic Courier Service
+d	1	Dutar 	anc.	n.	OBJ.CONC	diplomat
+d	1	Duv 	MGV	n.	OBJ.CONC	shadow
+d	1	Duv-tor 	MGV	v.	ACT.CONC	shadow
+d	1	Duvyan-, Duvyanik 	MGV	adj.	PROP.CONC	shady
+d	1	Dva 	MGV	n.	OBJ.CONC	belief
+d	1	Dva-tor 	MGV	v.	ACT.CONC	believe
+d	1	Dvanik 	MGV	adj.	PROP.CONC	believed
+d	1	Dvar 	MGV	n.	OBJ.CONC	risk
+d	1	Dvar-tor 	MGV	v.	ACT.CONC	risk
+d	1	Dvariben 	MGV	v.	ACT.CONC	preach
+d	1	Dvasu 	MGV	n.	OBJ.CONC	believer
+d	1	Dvatai 	MGV	n.	OBJ.CONC	doctrine, principle, tenet
+d	1	Dvel 	MGV	n.	OBJ.CONC	choice
+d	1	Dvel'nahr	anc.	adj.	PROP.CONC	old concept of 'Vulcan-by-choice'
+d	1	Dvel-tor 	MGV	v.	ACT.CONC	choose
+d	1	Dvesh-tukh 	MGV	n.	OBJ.CONC	brass
+d	1	Dvin-tor 	MGV	v.	ACT.CONC	serve
+d	1	Dvinsu 	MGV	n.	OBJ.CONC	servant
+d	1	Dvolau 	MGV	v.	ACT.CONC	set, adjust
+d	1	Dvor-tukh 	MGV	n.	OBJ.CONC	astatine
+d	1	Dvubolau 	MGV	v.	ACT.CONC	motivate
+d	1	Dvubolau-staribsu 	MGV	n.	OBJ.CONC	motivational speaker
+d	1	Dvubolaya 	MGV	n.	OBJ.CONC	motivation
+d	1	Dvubolek 	MGV	n.	OBJ.CONC	motive
+d	1	Dvudau-fek 	MGV	n.	OBJ.CONC	crankshaft
+d	1	Dvudau-kes-wun 	MGV	n.	OBJ.CONC	crossbow
+d	1	Dvudau-natuhn 	MGV	n.	OBJ.CONC	crankcase
+d	1	Dvudayek 	MGV	n.	OBJ.CONC	crank
+d	1	Dvun 	MGV	n.	OBJ.CONC	move(ment)
+d	1	Dvun-mesut 	MGV	n.	OBJ.CONC	drawbridge
+d	1	Dvun-tor 	MGV	v.	ACT.CONC	move
+d	1	Dvun-zehl 	MGV	n.	OBJ.CONC	fault(line)
+d	1	Dvunek 	MGV	n.	OBJ.CONC	muscle
+d	1	Dvunek-pak-nosh 	MGV	n.	OBJ.CONC	amyotrophia, amyotrophy
+d	1	Dvunek-tash-svitan 	MGV	n.	OBJ.CONC	cerebellum
+d	1	Dvunek-tersayek 	MGV	n.	OBJ.CONC	sinew
+d	1	Dvunel 	MGV	n.	OBJ.CONC	motion
+d	1	Dvunel-pi'harr 	MGV	n.	OBJ.CONC	flagellum
+d	1	Dzhal 	MGV	n.	OBJ.CONC	mortise
+d	1	Dzhan|-khush| 	MGV	n.	OBJ.CONC	beryl
+d	1	Dzhan-tukh 	MGV	n.	OBJ.CONC	beryllium
+d	1	Dzhelu 	MGV	n.	OBJ.CONC	envy
+d	1	Dzhih 	MGV	n.	OBJ.CONC	pimple
+d	1	Dzhinau 	MGV	v.	ACT.CONC	refer
+d	1	Dzhinaya 	MGV	n.	OBJ.CONC	reference
+d	1	Dzhya'an'Kahr 	MGV	n.	OBJ.CONC	'Jia'anKahr' a Vulcan city
+d	1	Dzhya'an-tukh 	MGV	n.	OBJ.CONC	hafnium
+e	1	Eglus	anc.	n.	OBJ.CONC	religious shrine
+e	1	Eh 	MGV	conj.	CONNECTOR	and (after a vowel sound)
+e	1	Eifa 	MGV	pron.	SITU.MOD	those
+e	1	Eik 	MGV	adj.	PROP.CONC	wide
+e	1	Eik'es 	MGV	n.	OBJ.CONC	range
+e	1	Eik-vath 	MGV	n.	OBJ.CONC	width
+e	1	Eiksha 	MGV	v.	ACT.CONC	dilate
+e	1	Eiksharu 	MGV	n.	OBJ.CONC	dilation
+e	1	Eiktra 	MGV	n.	OBJ.CONC	plain
+e	1	Ein 	MGV	pron.	OBJ.CONC	some
+e	1	Ein-veh 	MGV	pron.	OBJ.CONC	someone
+e	1	Ein-wak 	MGV	adv.	ACT.CONC.MOD	someday, sometime
+e	1	Ein-wilat 	MGV	prep.	SITU.MOD	somewhere
+e	1	Eingelsu 	MGV	n.	OBJ.CONC	English
+e	1	Eitau 	MGV	v.	ACT.CONC	shear, cut away
+e	1	Ek, Ek' 	MGV	adj.	PROP.CONC	all, total, complete
+e	1	Ek'aifa 	MGV	pron.	SITU.MOD	all (of)
+e	1	Ek'an 	MGV	n.	OBJ.CONC	maximum
+e	1	Ek'anau 	MGV	v.	ACT.CONC	maximize
+e	1	Ek'ariben-, Ek'aribenik 	MGV	adj.	PROP.CONC	fluent (in a language)
+e	1	Ek'au 	MGV	pron.	OBJ.CONC	all of them
+e	1	Ek'dular 	MGV	pron.	OBJ.CONC	all of you
+e	1	Ek'duv 	MGV	n.	OBJ.CONC	eclipse
+e	1	Ek'eifa 	MGV	pron.	OBJ.CONC	all (of)
+e	1	Ek'eku 	MGV	n.	OBJ.CONC	continuum
+e	1	Ek'elmin 	MGV	n.	OBJ.CONC	petroleum
+e	1	Ek'es-, Ek'esik 	MGV	adj.	PROP.CONC	absolute
+e	1	Ek'es-danan 	MGV	n.	OBJ.CONC	absolute majority
+e	1	Ek'es-rasath 	MGV	n.	OBJ.CONC	absolute weight
+e	1	Ek'es-ris 	MGV	n.	OBJ.CONC	absolute zero
+e	1	Ek'es-tala 	MGV	n.	OBJ.CONC	absolute value
+e	1	Ek'es-tepul 	MGV	n.	OBJ.CONC	absolute power
+e	1	Ek'esik masu'es 	MGV	n.	OBJ.CONC	absolute humidity
+e	1	Ek'esik pul'es 	MGV	n.	OBJ.CONC	absolute magnitude
+e	1	Ek'etek 	MGV	pron.	OBJ.CONC	all of us
+e	1	Ek'ka-, Ek'kayik 	MGV	adj.	PROP.CONC	constant
+e	1	Ek'ka-ferek 	MGV	n.	OBJ.CONC	alternator
+e	1	Ek'kal 	MGV	n.	OBJ.CONC	orb, sphere
+e	1	Ek'kal t'Daison 	MGV	n.	OBJ.CONC	Dyson sphere
+e	1	Ek'kat 	MGV	n.	OBJ.CONC	constant
+e	1	Ek'khafau 	MGV	v.	ACT.CONC	exsanguinate
+e	1	Ek'kovtra 	MGV	n.	OBJ.CONC	continent
+e	1	Ek'kovtra-dvun 	MGV	n.	OBJ.CONC	continental drift
+e	1	Ek'kovtra-ek'nosh 	MGV	n.	OBJ.CONC	continental climate
+e	1	Ek'kovtra-math 	MGV	n.	OBJ.CONC	continental plate
+e	1	Ek'man'es 	MGV	n.	OBJ.CONC	safety
+e	1	Ek'mishan 	MGV	n.	OBJ.CONC	technology
+e	1	Ek'mishupik 	MGV	adj.	PROP.CONC	technical
+e	1	Ek'nala-dahsaya 	MGV	n.	OBJ.CONC	mitosis
+e	1	Ek'nehau 	MGV	v.	ACT.CONC	decompose
+e	1	Ek'nosh 	MGV	n.	OBJ.CONC	climate
+e	1	Ek'nosh-rubah 	MGV	n.	OBJ.CONC	climatic change
+e	1	Ek'nosh-shal 	MGV	n.	OBJ.CONC	climatic zone
+e	1	Ek'nosh-tal 	MGV	n.	OBJ.CONC	climatology
+e	1	Ek'nosh-tash|ek| 	MGV	n.	OBJ.CONC	climate control
+e	1	Ek'nosh-venek 	MGV	n.	OBJ.CONC	climatic trend
+e	1	Ek'os|-| 	MGV	adj.	PROP.CONC	antique
+e	1	Ek'os-vel 	MGV	n.	OBJ.CONC	antique
+e	1	Ek'pa-ptak 	MGV	n.	OBJ.CONC	paranoia
+e	1	Ek'panu-vis 	MGV	n.	OBJ.CONC	internet
+e	1	Ek'pu-tor 	MGV	v.	ACT.CONC	sterilize
+e	1	Ek'puyik 	MGV	n.	OBJ.CONC	sterile
+e	1	Ek'rak 	MGV	adv.	ACT.CONC.MOD	in all directions
+e	1	Ek'renkupik 	MGV	adj.	PROP.CONC	adept, adroit, skilled
+e	1	Ek'saven 	MGV	n.	OBJ.CONC	education
+e	1	Ek'saven-tor 	MGV	v.	ACT.CONC	educate
+e	1	Ek'savensu 	MGV	n.	OBJ.CONC	educator
+e	1	Ek'shaht-razh 	MGV	n.	OBJ.CONC	cloaca
+e	1	Ek'tal 	MGV	n.	OBJ.CONC	science
+e	1	Ek'tal-zup-shal 	MGV	n.	OBJ.CONC	laboratory
+e	1	Ek'talsu 	MGV	n.	OBJ.CONC	scientist
+e	1	Ek'te'kau 	MGV	v.	ACT.CONC	authorize
+e	1	Ek'te'kru 	MGV	n.	OBJ.CONC	authority (power)
+e	1	Ek'te'krusu 	MGV	n.	OBJ.CONC	authority (person)
+e	1	Ek'teraya 	MGV	n.	OBJ.CONC	confederation
+e	1	Ek'tevakh 	MGV	n.	OBJ.CONC	'brain death'
+e	1	Ek'tevan 	MGV	n.	OBJ.CONC	extinction
+e	1	Ek'tra 	MGV	n.	OBJ.CONC	planet
+e	1	Ek'tra-dukal 	MGV	n.	OBJ.CONC	globe
+e	1	Ek'trasha 	MGV	v.	ACT.CONC	abandon, desert, forsake
+e	1	Ek'tukh 	MGV	n.	OBJ.CONC	mineral
+e	1	Ek'tukh-razh 	MGV	n.	OBJ.CONC	adit
+e	1	Ek'tukh-tal 	MGV	n.	OBJ.CONC	mineralogy
+e	1	Ek'wak 	MGV	adv.	ACT.CONC.MOD	forever
+e	1	Ek'wak'es 	MGV	n.	OBJ.CONC	eternity
+e	1	Ek'wak-, Ek'wakik 	MGV	adj.	PROP.CONC	eternal
+e	1	Ek'yeht'es 	MGV	n.	OBJ.CONC	reality
+e	1	Ek'zehl 	MGV	n.	OBJ.CONC	border
+e	1	Ek'zer 	MGV	n.	OBJ.CONC	jewel, gem
+e	1	Ek'zer-tam 	MGV	n.	OBJ.CONC	bezel
+e	1	Ek'zeru 	MGV	n.	OBJ.CONC	jewelry
+e	1	Ekhartau 	MGV	v.	ACT.CONC	administer
+e	1	Ekhartausu 	MGV	n.	OBJ.CONC	administrator
+e	1	Ekhartaya 	MGV	n.	OBJ.CONC	administration
+e	1	Ekhlami 	MGV	prep.	SITU.MOD	among them
+e	1	Ekon 	MGV	n.	OBJ.CONC	god, deity
+e	1	Ekon-, Ekonik 	MGV	adj.	PROP.CONC	godly, divine
+e	1	Ekon-dva 	MGV	n.	OBJ.CONC	deism, belief in god(s)
+e	1	Ekon-shoret 	MGV	v.	ACT.CONC	pray
+e	1	Ekruman-, Ekrumanik 	MGV	adj.	PROP.CONC	adequate
+e	1	Eku 	MGV	n.	OBJ.CONC	whole
+e	1	El'dayek 	MGV	n.	OBJ.CONC	(hand)crank
+e	1	El'es 	MGV	n.	OBJ.CONC	freedom
+e	1	El'mish 	MGV	n.	OBJ.CONC	device, apparatus
+e	1	El'neshek 	MGV	n.	OBJ.CONC	scissors, shears
+e	1	El'rek 	MGV	n.	OBJ.CONC	handle
+e	1	El'ru 	MGV	n.	OBJ.CONC	hand
+e	1	El'ru-pohshek 	MGV	n.	OBJ.CONC	pistol, handgun
+e	1	El'ru-wek-zehlek 	MGV	n.	OBJ.CONC	hand phaser
+e	1	El'ruhik 	MGV	adj.	PROP.CONC	manual
+e	1	El'tanarau 	MGV	v.	ACT.CONC	manipulate
+e	1	El'urokesor 	MGV	n.	OBJ.CONC	sickle
+e	1	El-, Elik 	MGV	adj.	PROP.CONC	free
+e	1	El-nala 	MGV	n.	OBJ.CONC	corpuscle
+e	1	El-tor 	MGV	v.	ACT.CONC	(set) free, release
+e	1	El-wak 	MGV	n.	OBJ.CONC	leisure
+e	1	Elakh 	MGV	n.	OBJ.CONC	cable, cord, line
+e	1	Elakh-mev 	MGV	n.	OBJ.CONC	cable duct
+e	1	Elakh-og 	MGV	n.	OBJ.CONC	cable stitch
+e	1	Elakh-torai-vel 	MGV	n.	OBJ.CONC	cable release
+e	1	Elakh-yonshaya 	MGV	n.	OBJ.CONC	corditis
+e	1	Elakhtra 	MGV	n.	OBJ.CONC	cabling, rigging
+e	1	Elat 	MGV	n.	OBJ.CONC	knob
+e	1	Elek 	MGV	n.	OBJ.CONC	pointer, hand, (etc.) of a clock
+e	1	Elek-wak-vel 	MGV	n.	OBJ.CONC	analog clock
+e	1	Elkhrul|-| 	MGV	adj.	PROP.CONC	entire, whole
+e	1	Elmin 	MGV	n.	OBJ.CONC	oil
+e	1	Elmuvak 	MGV	n.	OBJ.CONC	ointment, unction
+e	1	Elsaku 	MGV	n.	OBJ.CONC	leash, tether
+e	1	Enem-tor 	MGV	v.	ACT.CONC	delete
+e	1	Ertau 	MGV	v.	ACT.CONC	bother, disturb
+e	1	Es'merka 	anc.	n.	OBJ.CONC	habit(s)
+e	1	Esh 	MGV	n.	OBJ.CONC	breath
+e	1	Esh-mev 	MGV	n.	OBJ.CONC	airway, trachea, windpipe
+e	1	Esh-nala 	MGV	n.	OBJ.CONC	alveolus
+e	1	Esh-pehkaya-nosh 	MGV	n.	OBJ.CONC	apnea
+e	1	Esh-prash 	MGV	n.	OBJ.CONC	phlegm
+e	1	Esh-tor 	MGV	v.	ACT.CONC	breathe
+e	1	Esh-tukh 	MGV	n.	OBJ.CONC	oxygen
+e	1	Esh-tukh-tuhlek 	MGV	n.	OBJ.CONC	oxygen tank
+e	1	Esh-tukhaya 	MGV	n.	OBJ.CONC	oxygenation
+e	1	Esh-tukhovaya 	MGV	n.	OBJ.CONC	oxidation
+e	1	Eshan 	MGV	n.	OBJ.CONC	breathing
+e	1	Eshikh 	MGV	n.	OBJ.CONC	desert
+e	1	Eshikh-salan 	MGV	n.	OBJ.CONC	sirocco
+e	1	Eshu'a 	anc.	n.	OBJ.CONC	demon
+e	1	Estuhl 	MGV	v.	ACT.CONC	touch
+e	1	Etek 	MGV	pron.	OBJ.CONC	us, we (normal)
+e	1	Etwel 	MGV	pron.	OBJ.CONC	us, we (superior)
+f	0	Fa' 	MGV	prep.	SITU.MOD	before, in front of
+f	0	Fa'ariben 	MGV	v.	ACT.CONC	foretell
+f	0	Fa'rak 	MGV	adv.	ACT.CONC.MOD	forward(s)
+f	0	Fa'vutau 	MGV	v.	ACT.CONC	summon, send for
+f	0	Fa'vutaya 	MGV	n.	OBJ.CONC	summoning
+f	0	Fa'vutak 	MGV	n.	OBJ.CONC	summons
+f	0	Fa-gad 	MGV	adv.	ACT.CONC.MOD	tomorrow
+f	0	Fa-glan 	MGV	n.	OBJ.CONC	foresight
+f	0	Fa-ko-mekh 	MGV	n.	OBJ.CONC	grandmother
+f	0	Fa-komi 	MGV	n.	OBJ.CONC	grandma, nana
+f	0	Fa-krus 	MGV	n.	OBJ.CONC	forepart, front end
+f	0	Fa-patam 	MGV	n.	OBJ.CONC	forehead
+f	0	Fa-rala 	MGV	n.	OBJ.CONC	canard, foreplane
+f	0	Fa-sa-mekh 	MGV	n.	OBJ.CONC	grandfather
+f	0	Fa-sami 	MGV	n.	OBJ.CONC	grandpa, gramps
+f	0	Fa-vikau 	MGV	v.	ACT.CONC	forewarn
+f	0	Fa-wak 	MGV	n.	OBJ.CONC	future
+f	0	Fa-wak-glansu 	MGV	n.	OBJ.CONC	prophet
+f	0	Fabehal-tor 	MGV	v.	ACT.CONC	pass, overtake
+f	0	Faf-kur 	MGV	adj.	PROP.CONC	pink
+f	0	Fah-yat 	anc.	n.	OBJ.CONC	balcony
+f	0	Fai-tor 	MGV	v.	ACT.CONC	know
+f	0	Fai-tukh 	MGV	n.	OBJ.CONC	knowledge
+f	0	Faik 	MGV	n.	OBJ.CONC	data
+f	0	Faik-khush 	MGV	n.	OBJ.CONC	data crystal
+f	0	Faik-pastorayek 	MGV	n.	OBJ.CONC	data processor
+f	0	Faik-tsoraya 	MGV	n.	OBJ.CONC	data storage
+f	0	Faik-vistra 	MGV	n.	OBJ.CONC	data network
+f	0	Faika-, Faikaik 	MGV	adj.	PROP.CONC	exact
+f	0	Faiktra 	MGV	n.	OBJ.CONC	database
+f	0	Fainu 	MGV	n.	OBJ.CONC	(the) known
+f	0	Faka 	MGV	n.	OBJ.CONC	hernia
+f	0	Fakovau 	MGV	v.	ACT.CONC	prevail
+f	0	Fal|-| 	MGV	adj.	PROP.CONC	hot
+f	0	Fal-tor 	MGV	v.	ACT.CONC	rejoin, reunite, put back together
+f	0	Fal-tor-pan 	MGV	n.	OBJ.CONC	refusion of body and soul
+f	0	Falek 	MGV	n.	OBJ.CONC	heat
+f	0	Falek'es 	MGV	n.	OBJ.CONC	temperature
+f	0	Falkrashaya 	MGV	n.	OBJ.CONC	ablation
+f	0	Falun 	MGV	n.	OBJ.CONC	charge (electrical)
+f	0	Fam 	MGV	adj.	PROP.CONC	lack, dearth
+f	0	Fam-kursu 	MGV	n.	OBJ.CONC	albino (person)
+f	0	Fam-shidik 	MGV	adj.	PROP.CONC	amorphous, shapeless
+f	0	Fan|-| 	MGV	pron.	SITU.MOD	any
+f	0	Fan-kitok 	MGV	pron.	OBJ.CONC	anything else
+f	0	Fan-veh 	MGV	pron.	OBJ.CONC	anyone, anybody
+f	0	Fan-vel 	MGV	pron.	OBJ.CONC	anything
+f	0	Fan-wilat 	MGV	prep.	SITU.MOD	anywhere
+f	0	Fanet 	MGV	n.	OBJ.CONC	ornament
+f	0	Farmah 	MGV	v.	ACT.CONC	welcome
+f	0	Farsu 	MGV	n.	OBJ.CONC	host
+f	0	Fas-nentu 	MGV	n.	OBJ.CONC	brazier (for cooking)
+f	0	Fas-tor 	MGV	v.	ACT.CONC	cook
+f	0	Fasarlah 	MGV	v.	ACT.CONC	come forward
+f	0	Fasei 	MGV	pron.	SITU.MOD	this here, this very one
+f	0	Fasek 	MGV	n.	OBJ.CONC	oven
+f	0	Fash 	MGV	n.	OBJ.CONC	hood
+f	0	Fassu 	MGV	n.	OBJ.CONC	cook
+f	0	Fator 	MGV	v.	ACT.CONC	continue
+f	0	Fator'es 	MGV	n.	OBJ.CONC	continuity
+f	0	Fatorli 	MGV	adj.	PROP.CONC	continuous
+f	0	Fau-tor 	MGV	v.	ACT.CONC	ride
+f	0	Fau-yut 	MGV	n.	OBJ.CONC	road, street
+f	0	Faukh 	MGV	n.	OBJ.CONC	battle
+f	0	Fe-vesht-varik vash-ukraluk t'Terra 	MGV	n.	OBJ.CONC	dinosaur
+f	0	Feh 	MGV	n.	OBJ.CONC	peak
+f	0	Feihan 	MGV	n.	OBJ.CONC	'feyhan' chief, team leader, boss
+f	0	Feim 	MGV	n.	OBJ.CONC	list
+f	0	Feim-tor 	MGV	v.	ACT.CONC	list
+f	0	Fek 	MGV	n.	OBJ.CONC	pole, rod, staff, post, stick
+f	0	Fek-besan 	MGV	n.	OBJ.CONC	bar graph
+f	0	Fek-kiht 	MGV	n.	OBJ.CONC	bar code
+f	0	Fel 	MGV	n.	OBJ.CONC	oar, paddle
+f	0	Fel-tor 	MGV	v.	ACT.CONC	paddle, row
+f	0	Felu 	MGV	n.	OBJ.CONC	nail
+f	0	Felu-nen-wadi 	MGV	n.	OBJ.CONC	cuticle
+f	0	Fen 	MGV	n.	OBJ.CONC	seal
+f	0	Fen-tor 	MGV	v.	ACT.CONC	seal
+f	0	Fenul 	MGV	n.	OBJ.CONC	seam
+f	0	Fer-tor 	MGV	v.	ACT.CONC	generate
+f	0	Fereh 	MGV	v.	ACT.CONC	engender
+f	0	Fereik'es 	MGV	n.	OBJ.CONC	inventiveness, creativity
+f	0	Fereik-folayek 	MGV	n.	OBJ.CONC	breeder reactor
+f	0	Fereik-tor 	MGV	v.	ACT.CONC	invent, create
+f	0	Fereikan 	MGV	n.	OBJ.CONC	invention, creation
+f	0	Fereiksu 	MGV	n.	OBJ.CONC	inventor, creator
+f	0	Ferek 	MGV	n.	OBJ.CONC	generator
+f	0	Feretah 	MGV	v.	ACT.CONC	assemble, put together
+f	0	Feretah-zehl 	MGV	n.	OBJ.CONC	assembly line
+f	0	Feretai 	MGV	n.	OBJ.CONC	assembly
+f	0	Feretau 	MGV	v.	ACT.CONC	assemble, gather
+f	0	Feretaya 	MGV	n.	OBJ.CONC	assembly, gathering (of people)
+f	0	Feshek 	MGV	n.	OBJ.CONC	abdomen
+f	0	Feshel 	MGV	n.	OBJ.CONC	disruption
+f	0	Feshel-tor 	MGV	v.	ACT.CONC	disrupt
+f	0	Feshelek 	MGV	n.	OBJ.CONC	disrupter
+f	0	Feshelek-zehl 	MGV	n.	OBJ.CONC	disrupter beam
+f	0	Fezanikau 	MGV	v.	ACT.CONC	forecast
+f	0	Fezhau 	MGV	v.	ACT.CONC	dissolve
+f	0	Fi' 	MGV	prep.	SITU.MOD	atop, on, upon
+f	0	Fihal-tor 	MGV	v.	ACT.CONC	embark, emplane, get on (to)
+f	0	Fihet 	MGV	adj.	PROP.CONC	stable
+f	0	Fihish-tor 	MGV	v.	ACT.CONC	to leave a mark in or on something
+f	0	Fik 	MGV	n.	OBJ.CONC	top
+f	0	Fim 	MGV	n.	OBJ.CONC	dose
+f	0	Fim-thonek 	MGV	n.	OBJ.CONC	dosimeter
+f	0	Fimah 	MGV	n.	OBJ.CONC	dosage
+f	0	Fimau 	MGV	v.	ACT.CONC	dose
+f	0	Fir-tor 	MGV	v.	ACT.CONC	brace
+f	0	Firan 	MGV	n.	OBJ.CONC	bracing
+f	0	Fish-tor 	MGV	v.	ACT.CONC	damp(en)
+f	0	Fishek 	MGV	n.	OBJ.CONC	damper, dampener
+f	0	Fitartausu 	MGV	n.	OBJ.CONC	executive
+f	0	Fitor 	MGV	v.	ACT.CONC	carry out, execute
+f	0	Fitorsu 	MGV	n.	OBJ.CONC	executor, executrix
+f	0	Flakosh 	MGV	n.	OBJ.CONC	distress
+f	0	Flakosh-glantokaya 	MGV	n.	OBJ.CONC	distress signal
+f	0	Flakosh-glaribek 	MGV	n.	OBJ.CONC	distress beacon
+f	0	Flan 	MGV	adj.	PROP.CONC	intense
+f	0	Flan'es 	MGV	n.	OBJ.CONC	intensity
+f	0	Flanapau 	MGV	v.	ACT.CONC	specialize
+f	0	Flash 	MGV	n.	OBJ.CONC	swamp
+f	0	Flau 	MGV	v.	ACT.CONC	pollute
+f	0	Fleitau 	MGV	v.	ACT.CONC	strip (away)
+f	0	Flekh-, Flekhik 	MGV	adj.	PROP.CONC	odd, strange, weird, anomalous
+f	0	Floku 	MGV	n.	OBJ.CONC	spoon
+f	0	Flutash 	MGV	n.	OBJ.CONC	placenta
+f	0	Fmak	anc.	n.	OBJ.CONC	sanctuary
+f	0	Fmel	anc.	n.	OBJ.CONC	alchemist
+f	0	Fmelaf	anc.	n.	OBJ.CONC	alchemy
+f	0	Fna' 	MGV	prep.	SITU.MOD	due to, through, via
+f	0	Fna-sov-threshan 	MGV	n.	OBJ.CONC	airspeed
+f	0	Fna-svep 	MGV	n.	OBJ.CONC	airlock
+f	0	Fnash-vel 	MGV	n.	OBJ.CONC	broom, besom
+f	0	Fnashtau 	MGV	v.	ACT.CONC	sweep
+f	0	Fnau|-| 	MGV	adj.	PROP.CONC	tame, domesticated
+f	0	Fnek-tukh 	MGV	n.	OBJ.CONC	bromine
+f	0	Fnish-tor 	MGV	v.	ACT.CONC	smell
+f	0	Fnu-vein t'vuhn-koshtri 	MGV	n.	OBJ.CONC	racism
+f	0	Fnu-veisu t'vuhn-koshtri 	MGV	n.	OBJ.CONC	racist
+f	0	Fnu-ven 	MGV	n.	OBJ.CONC	hate, hatred
+f	0	Fo 	anc.	n.	OBJ.CONC	shell
+f	0	Fo-dan 	MGV	n.	OBJ.CONC	shield
+f	0	Fo-wein 	MGV	n.	OBJ.CONC	armor, shutter
+f	0	Fokarikau 	MGV	v.	ACT.CONC	reinforce
+f	0	Folau 	MGV	v.	ACT.CONC	react
+f	0	Folaya 	MGV	n.	OBJ.CONC	reaction
+f	0	Folu 	MGV	n.	OBJ.CONC	turquoise (stone)
+f	0	Folu-kur 	MGV	adj.	PROP.CONC	turquoise
+f	0	Fonn 	MGV	adj.	PROP.CONC	loyal
+f	0	Fonn'es 	MGV	n.	OBJ.CONC	loyalty
+f	0	Fori-kol 	MGV	n.	OBJ.CONC	Vulcan vegetable stew
+f	0	Fosh 	MGV	n.	OBJ.CONC	defense
+f	0	Fosh-lan 	MGV	n.	OBJ.CONC	First lieutenant
+f	0	Fosh-tor 	MGV	v.	ACT.CONC	defend
+f	0	Foshek 	MGV	n.	OBJ.CONC	barrier, barricade
+f	0	Foshinahru	anc.	n.	OBJ.CONC	defensive psionic warrior
+f	0	Foshsu 	MGV	n.	OBJ.CONC	defender
+f	0	Foshuhl 	MGV	v.	ACT.CONC	shed
+f	0	Frut 	MGV	n.	OBJ.CONC	sump
+f	0	Frut-spol 	MGV	n.	OBJ.CONC	sump pump
+f	0	Fudau 	MGV	v.	ACT.CONC	regard
+f	0	Fukat 	MGV	n.	OBJ.CONC	buffer
+f	0	Fukat-raf-kuv 	MGV	n.	OBJ.CONC	buffer circuit
+f	0	Fulag-tor 	MGV	v.	ACT.CONC	lead
+f	0	Fulagsu 	MGV	n.	OBJ.CONC	leader
+f	0	Fun-tor 	MGV	v.	ACT.CONC	return
+f	0	Fun-wun 	MGV	n.	OBJ.CONC	ancient boomerang-like weapon
+f	0	Fupa s' 	MGV	prep.	SITU.MOD	according to
+f	0	Fusik 	MGV	adj.	PROP.CONC	bashful, shy
+g	1	Gad 	MGV	n.	OBJ.CONC	day
+g	1	Gad t'keshtan 	MGV	n.	OBJ.CONC	birthday
+g	1	Gad-besan 	MGV	n.	OBJ.CONC	calendar
+g	1	Gad-dunap 	MGV	n.	OBJ.CONC	diary
+g	1	Gad-ha'gel 	MGV	n.	OBJ.CONC	daylight
+g	1	Gad-keshtan 	MGV	n.	OBJ.CONC	daybreak
+g	1	Gad-wak 	MGV	n.	OBJ.CONC	daytime
+g	1	Gaf 	MGV	n.	OBJ.CONC	hip
+g	1	Gahv 	MGV	n.	OBJ.CONC	amethyst
+g	1	Gakh 	MGV	n.	OBJ.CONC	wart
+g	1	Gal-tor 	MGV	v.	ACT.CONC	lean, list
+g	1	Galat 	MGV	n.	OBJ.CONC	lean, list
+g	1	Galu 	MGV	n.	OBJ.CONC	atom
+g	1	Galu-dahshau-folayek 	MGV	n.	OBJ.CONC	(atomic) fission reactor
+g	1	Galu-dahshaya 	MGV	n.	OBJ.CONC	(atomic) fission
+g	1	Galu-kaunshau-folayek 	MGV	n.	OBJ.CONC	(atomic) fusion reactor
+g	1	Galu-kaunshaya 	MGV	n.	OBJ.CONC	(atomic) fusion
+g	1	Galu-svitan 	MGV	n.	OBJ.CONC	(atomic) nucleus
+g	1	Galu-thorshek 	MGV	n.	OBJ.CONC	atomic bomb
+g	1	Galupik 	MGV	adj.	PROP.CONC	atomic
+g	1	Galutravek 	MGV	n.	OBJ.CONC	molecule
+g	1	Gan|-| 	MGV	adj.	PROP.CONC	shallow
+g	1	Gas'rak 	MGV	n.	OBJ.CONC.MOD	right
+g	1	Gasu 	MGV	n.	OBJ.CONC	flux
+g	1	Gatselau 	MGV	v.	ACT.CONC	entertain
+g	1	Gatselausu 	MGV	n.	OBJ.CONC	entertainer
+g	1	Gatselaya 	MGV	n.	OBJ.CONC	entertainment
+g	1	Gau 	MGV	v.	ACT.CONC	pulse, pulsate, throb
+g	1	Gav 	MGV	n.	OBJ.CONC	chalk
+g	1	Gef 	MGV	n.	OBJ.CONC	coast, (sea)shore
+g	1	Gehnli 	MGV	adj.	PROP.CONC	essential
+g	1	Gel 	MGV	n.	OBJ.CONC	branch (path or segment)
+g	1	Gel-tor 	MGV	v.	ACT.CONC	branch
+g	1	Geldau 	MGV	v.	ACT.CONC	hang (dangle)
+g	1	Geldel 	MGV	n.	OBJ.CONC	fringe, decorative border
+g	1	Gen-lis 	MGV	n.	OBJ.CONC	language
+g	1	Geretau 	MGV	v.	ACT.CONC	protect
+g	1	Geretausu 	MGV	n.	OBJ.CONC	protector (person)
+g	1	Geretaya 	MGV	n.	OBJ.CONC	protection
+g	1	Gir 	MGV	n.	OBJ.CONC	root
+g	1	Gis-tukh 	MGV	n.	OBJ.CONC	arsenic
+g	1	Gisam 	MGV	n.	OBJ.CONC	poison
+g	1	Gish 	MGV	v.	ACT.CONC	expect
+g	1	Gishat 	MGV	n.	OBJ.CONC	expectation
+g	1	Gishen 	MGV	n.	OBJ.CONC	what one expects
+g	1	Gishu 	MGV	n.	OBJ.CONC	(the) expected
+g	1	Gla-tor 	MGV	v.	ACT.CONC	see
+g	1	Glan 	MGV	n.	OBJ.CONC	sight
+g	1	Glan-fam 	MGV	adj.	PROP.CONC	blind, sightless
+g	1	Glan-fam'es 	MGV	n.	OBJ.CONC	blindness, sightlessness
+g	1	Glan-Famu 	MGV	n.	OBJ.CONC	The Blind (blind people)
+g	1	Glantau 	MGV	v.	ACT.CONC	observe
+g	1	Glantaya 	MGV	n.	OBJ.CONC	observation
+g	1	Glantokau 	MGV	v.	ACT.CONC	signal
+g	1	Glantokaya 	MGV	n.	OBJ.CONC	signal
+g	1	Glashau 	MGV	v.	ACT.CONC	scan
+g	1	Glat 	MGV	n.	OBJ.CONC	sign
+g	1	Glayek 	MGV	n.	OBJ.CONC	camera
+g	1	Glazhau 	MGV	v.	ACT.CONC	look
+g	1	Glozho 	anc.	n.	OBJ.CONC	elixir
+g	1	Glu|-| 	MGV	adj.	PROP.CONC	deep
+g	1	Gluder 	MGV	n.	OBJ.CONC	depth
+g	1	Gluder-thonek 	MGV	n.	OBJ.CONC	depth finder
+g	1	Gluv-math 	MGV	n.	OBJ.CONC	display panel
+g	1	Gluv-mesk 	MGV	n.	OBJ.CONC	display case
+g	1	Gluvau 	MGV	v.	ACT.CONC	display, exhibit, show
+g	1	Gluvayek 	MGV	n.	OBJ.CONC	display screen
+g	1	Gmor	anc.	n.	OBJ.CONC	mirage
+g	1	Gnal 	MGV	n.	OBJ.CONC	tumor
+g	1	Gnihsau 	MGV	v.	ACT.CONC	snap (bite at)
+g	1	Go'an	anc.	n.	OBJ.CONC	Han'shir's central desert
+g	1	Gof 	MGV	n.	OBJ.CONC	toe
+g	1	Goh 	MGV	adv.	ACT.CONC.MOD	only, merely
+g	1	Gol	anc.	n.	OBJ.CONC	famed region of Vulcan, home to the Kolinahru and others
+g	1	Gol'nev 	MGV	n.	OBJ.CONC	aid, help
+g	1	Gol'nevsu 	MGV	n.	OBJ.CONC	aide, helper
+g	1	Gol-tor 	MGV	v.	ACT.CONC	aid, help
+g	1	Gol-tukh 	MGV	n.	OBJ.CONC	rubidium
+g	1	Gonaf 	MGV	n.	OBJ.CONC	button
+g	1	Gor 	MGV	n.	OBJ.CONC	knot
+g	1	Gosh 	MGV	n.	OBJ.CONC	abyss
+g	1	Gotsu 	MGV	n.	OBJ.CONC	heir
+g	1	Grashau 	MGV	n.	OBJ.CONC	abrade
+g	1	Grashaya 	MGV	n.	OBJ.CONC	abrasion
+g	1	Grashayek 	MGV	n.	OBJ.CONC	abrasive
+g	1	Grat 	MGV	n.	OBJ.CONC	skull
+g	1	Grazhau 	MGV	v.	ACT.CONC	grind
+g	1	Grazhiv 	MGV	n.	OBJ.CONC	dust, powder
+g	1	Grazhiv-sahriv 	MGV	n.	OBJ.CONC	dust storm
+g	1	Grei 	MGV	n.	OBJ.CONC	limit
+g	1	Grenat 	MGV	n.	OBJ.CONC	domain
+g	1	Grohk 	MGV	n.	OBJ.CONC	perversion
+g	1	Grok-tukh 	MGV	n.	OBJ.CONC	bismuth
+g	1	Grut 	MGV	n.	OBJ.CONC	agate
+g	1	Gu-vam 	anc.	n.	OBJ.CONC	duty
+g	1	Gubi 	anc.	n.	OBJ.CONC	stigma
+g	1	Guf 	MGV	n.	OBJ.CONC	socket
+g	1	Guhf-, Guhfik 	MGV	adj.	PROP.CONC	boring, dull
+g	1	Guhl'es 	MGV	n.	OBJ.CONC	confidence
+g	1	Guhras-zhit 	MGV	n.	OBJ.CONC	invective (grammar)
+g	1	Guhsh 	MGV	n.	OBJ.CONC	debris, garbage, refuse, trash, offal, rubbish
+g	1	Guramau 	MGV	v.	ACT.CONC	appal(l)
+g	1	Guramayik 	MGV	adj.	PROP.CONC	appalled
+g	1	Guv 	MGV	n.	OBJ.CONC	gender, sex
+h	0	Ha 	MGV	interj.	interjection	yes, affirmative
+h	0	Ha'au 	MGV	v.	ACT.CONC	dwell, live
+h	0	Ha'fek 	MGV	n.	OBJ.CONC	candle
+h	0	Ha'gel 	MGV	n.	OBJ.CONC	light (illumination)
+h	0	Ha'gel-neyek 	MGV	n.	OBJ.CONC	dimmer (switch)
+h	0	Ha'gel-tanaf 	MGV	n.	OBJ.CONC	photography
+h	0	Ha'gel-tanafsu 	MGV	n.	OBJ.CONC	photographer
+h	0	Ha'gelet 	MGV	n.	OBJ.CONC	(electric) light, electric lamp, any device that gives off light
+h	0	Ha'kiv 	MGV	n.	OBJ.CONC	life
+h	0	Ha'tanau 	MGV	v.	ACT.CONC	give off light
+h	0	Ha'u 	MGV	n.	OBJ.CONC	the Living
+h	0	Ha-donka'es 	MGV	n.	OBJ.CONC	biodiversity
+h	0	Ha-ek'shal 	MGV	n.	OBJ.CONC	ecosphere
+h	0	Ha-ek'torektra 	MGV	n.	OBJ.CONC	ecosystem
+h	0	Ha-ha'tanaya 	MGV	n.	OBJ.CONC	bioluminescence
+h	0	Ha-kel 	MGV	n.	OBJ.CONC	home
+h	0	Ha-meil-tal 	MGV	n.	OBJ.CONC	biochemistry
+h	0	Ha-tal 	MGV	n.	OBJ.CONC	biology
+h	0	Ha-tehvar 	MGV	n.	OBJ.CONC	biological hazard, biohazard
+h	0	Ha-tor 	MGV	v.	ACT.CONC	live
+h	0	Ha-vel-ahkhan 	MGV	n.	OBJ.CONC	biological warfare
+h	0	Ha-wak-vel 	MGV	n.	OBJ.CONC	biological clock
+h	0	Haf 	MGV	n.	OBJ.CONC	gap
+h	0	Hafa'el 	anc.	n.	OBJ.CONC	hostel(ry)
+h	0	Hafan-tor 	MGV	v.	ACT.CONC	stay (spending time/being a guest)
+h	0	Hafau 	MGV	v.	ACT.CONC	remain (behind)
+h	0	Hag-, Hagik 	MGV	adj.	PROP.CONC	easy, facile
+h	0	Hahf 	MGV	n.	OBJ.CONC	adversary, foe
+h	0	Haifan 	MGV	n.	OBJ.CONC	banner, flag, pennant
+h	0	Haishau 	MGV	v.	ACT.CONC	demand
+h	0	Hakau 	MGV	v.	ACT.CONC	heal
+h	0	Hakausu 	MGV	n.	OBJ.CONC	healer
+h	0	Hakur-, Hakurik 	MGV	adj.	PROP.CONC	vivid
+h	0	Hal	anc.	n.	OBJ.CONC	car, cart
+h	0	Hal-masu 	MGV	n.	OBJ.CONC	gasoline, petrol, liquid fuel
+h	0	Hal-sov-mishek 	MGV	n.	OBJ.CONC	carburetor
+h	0	Hal-tor 	MGV	v.	ACT.CONC	go, proceed
+h	0	Halan 	MGV	n.	OBJ.CONC	trip, trek, voyage
+h	0	Halek 	MGV	n.	OBJ.CONC	wheel
+h	0	Hali 	MGV	n.	OBJ.CONC	conveyance, craft, ship, vehicle
+h	0	Halitra 	MGV	n.	OBJ.CONC	fleet
+h	0	Halitra-lan 	MGV	n.	OBJ.CONC	admiral
+h	0	Halovau 	MGV	v.	ACT.CONC	journey, travel
+h	0	Halovaya 	MGV	n.	OBJ.CONC	journey, travel
+h	0	Halovaya t'Falor	MGV	n.	OBJ.CONC	Falor's Journey' a tale of enlightenment with 348 verses
+h	0	Han 	MGV	n.	OBJ.CONC	nose
+h	0	Hanuvau 	MGV	v.	ACT.CONC	flicker
+h	0	Haran 	anc.	n.	OBJ.CONC	legendary 'fire beast'
+h	0	Has 	MGV	n.	OBJ.CONC	disease
+h	0	Has-bosh 	MGV	adj.	PROP.CONC	sick
+h	0	Has-dvinsu 	MGV	n.	OBJ.CONC	orderly
+h	0	Has-golsu, Has-gol'nevsu 	MGV	n.	OBJ.CONC	nurse
+h	0	Has-mar 	MGV	n.	OBJ.CONC	sickness
+h	0	Has-mashek 	MGV	n.	OBJ.CONC	amp(o)ule
+h	0	Has-tal 	MGV	n.	OBJ.CONC	medicine (the medical field)
+h	0	Hasam 	MGV	n.	OBJ.CONC	toxin
+h	0	Hasau 	MGV	v.	ACT.CONC	sicken, become ill
+h	0	Haseret 	MGV	n.	OBJ.CONC	medicine, medication
+h	0	Hash-hassu 	MGV	n.	OBJ.CONC	flight surgeon
+h	0	Hash-hutau 	MGV	v.	ACT.CONC	buffet
+h	0	Hash-hutaya 	MGV	n.	OBJ.CONC	buffeting
+h	0	Hash-mishek 	MGV	n.	OBJ.CONC	flight engineer
+h	0	Hash-tal 	MGV	n.	OBJ.CONC	aeronautics
+h	0	Hash-tash 	MGV	n.	OBJ.CONC	flight control
+h	0	Hash-tor 	MGV	v.	ACT.CONC	fly
+h	0	Hash-vulu 	MGV	n.	OBJ.CONC	angle of attack
+h	0	Hash-yut 	MGV	n.	OBJ.CONC	flight path
+h	0	Hashan-mathra 	MGV	n.	OBJ.CONC	flying saucer
+h	0	Hashsu 	MGV	n.	OBJ.CONC	aviator, flier, pilot
+h	0	Hashsu-shal 	MGV	n.	OBJ.CONC	cockpit
+h	0	Hassu 	MGV	n.	OBJ.CONC	healer, doctor, physician
+h	0	Hasu 	MGV	n.	OBJ.CONC	a living person/being
+h	0	Hasuk 	MGV	adj.	PROP.CONC	medical
+h	0	Hau 	MGV	v.	ACT.CONC	add
+h	0	Hau-vel 	MGV	n.	OBJ.CONC	addend(um)
+h	0	Haul-kur 	MGV	adj.	PROP.CONC	silver
+h	0	Haul-tor 	MGV	v.	ACT.CONC	reflect
+h	0	Haul-tukh 	MGV	n.	OBJ.CONC	silver (metal)
+h	0	Haulan 	MGV	n.	OBJ.CONC	reflection
+h	0	Haulat 	MGV	n.	OBJ.CONC	mirror
+h	0	Haulek 	MGV	n.	OBJ.CONC	reflector
+h	0	Haurok 	MGV	n.	OBJ.CONC	a Vulcan bird
+h	0	Haya 	MGV	n.	OBJ.CONC	addition
+h	0	Hayaik 	MGV	adj.	PROP.CONC	additional
+h	0	Hayal|-| 	MGV	adj.	PROP.CONC	calm, placid
+h	0	Hayalit 	MGV	n.	OBJ.CONC	a small Vulcan burrowing animal
+h	0	Hayatau 	MGV	v.	ACT.CONC	augment
+h	0	Hayataya 	MGV	n.	OBJ.CONC	augmentation
+h	0	Heh 	MGV	conj.	CONNECTOR	and (after a consonant sound)
+h	0	Herbosh 	MGV	adj.	PROP.CONC	empty
+h	0	Herik 	MGV	adj.	PROP.CONC	suitable
+h	0	Herish-tor 	MGV	v.	ACT.CONC	blend
+h	0	Herishek 	MGV	n.	OBJ.CONC	blender
+h	0	Hertak 	MGV	n.	OBJ.CONC	baffle
+h	0	Hertak-math 	MGV	n.	OBJ.CONC	baffle plate
+h	0	Hesha 	MGV	v.	ACT.CONC	fold
+h	0	Hi 	MGV	conj.	CONNECTOR	but
+h	0	Hif-bi 	MGV	pron.	OBJ.CONC	to me (superior)
+h	0	Hiktra 	MGV	n.	OBJ.CONC	font (type)
+h	0	Hil-tor 	MGV	v.	ACT.CONC	dig
+h	0	Hilek 	MGV	n.	OBJ.CONC	digger, shovel, spade
+h	0	Hinek 	MGV	n.	OBJ.CONC	bone
+h	0	Hinek-masu 	MGV	n.	OBJ.CONC	(bone) marrow
+h	0	Hinek-tukh 	MGV	n.	OBJ.CONC	calcium
+h	0	Hinekau 	MGV	v.	ACT.CONC	calcify, ossify
+h	0	Hirat	anc.	n.	OBJ.CONC	grape-like Vulcan plant
+h	0	His-tor 	MGV	v.	ACT.CONC	strain
+h	0	Hish-pla-kur 	MGV	adj.	PROP.CONC	cyan
+h	0	Hish-tor 	MGV	v.	ACT.CONC	print, press (down on)
+h	0	Hishek 	MGV	n.	OBJ.CONC	press
+h	0	Hishel 	MGV	n.	OBJ.CONC	stress
+h	0	Hishsu 	MGV	n.	OBJ.CONC	printer (person)
+h	0	Hitra 	MGV	n.	OBJ.CONC	media
+h	0	Hiya'es 	MGV	n.	OBJ.CONC	expertise
+h	0	Hiyasu 	MGV	n.	OBJ.CONC	expert
+h	0	Hiyet 	MGV	adv.	DEG.MOD	enough
+h	0	Hizhuk 	MGV	adj.	PROP.CONC	quiet
+h	0	Ho-rah	anc.	n.	OBJ.CONC	ritual
+h	0	Hohl-tor 	MGV	v.	ACT.CONC	shave
+h	0	Hoknau 	MGV	v.	ACT.CONC	accumulate, gather (up)
+h	0	Hoknaya 	MGV	n.	OBJ.CONC	accumulation, gathering (up)
+h	0	Hokni'es 	MGV	n.	OBJ.CONC	consciousness
+h	0	Holsh 	MGV	n.	OBJ.CONC	myth
+h	0	Holsh-tal 	MGV	n.	OBJ.CONC	mythology
+h	0	Holshan-, Holshanik 	MGV	adj.	PROP.CONC	mythical
+h	0	Hosh-tukh 	MGV	n.	OBJ.CONC	fluorine
+h	0	Hotor-, Hotorik 	MGV	adj.	PROP.CONC	formal
+h	0	Hu'a 	anc.	n.	OBJ.CONC	"mythological demon seductress; succubus"
+h	0	Hudokal-, Hudokalik 	MGV	adj.	PROP.CONC	delighted
+h	0	Hudokau 	MGV	v.	ACT.CONC	delight
+h	0	Hudokaya 	MGV	n.	OBJ.CONC	delight
+h	0	Huhk 	MGV	n.	OBJ.CONC	hiccup
+h	0	Huhsh 	MGV	n.	OBJ.CONC	cough
+h	0	Huht-, Huhtik 	MGV	adj.	PROP.CONC	solid
+h	0	Hushau 	MGV	v.	ACT.CONC	gasp
+h	0	Hutau 	MGV	v.	ACT.CONC	shake, quake
+h	0	Huun 	MGV	interj.	interjection	oops
+i	1	I, I' 	MGV	adv.	ACT.CONC.MOD	now
+i	1	If 	MGV	pron.	OBJ.CONC	which
+i	1	Ifis 	MGV	n.	OBJ.CONC	transport(ation)
+i	1	Ifis-tor 	MGV	v.	ACT.CONC	transport
+i	1	Ifis-ur 	MGV	n.	OBJ.CONC	travel tube, 'subway'
+i	1	Ifisek 	MGV	n.	OBJ.CONC	transporter
+i	1	Igen 	MGV	n.	OBJ.CONC	sky
+i	1	Igen-tukh 	MGV	n.	OBJ.CONC	atmosphere
+i	1	Igen-va 	MGV	n.	OBJ.CONC	weather
+i	1	Ihat-, Ihatik 	MGV	adj.	PROP.CONC	extant
+i	1	Ihn'es 	MGV	n.	OBJ.CONC	density
+i	1	Ihn-, Ihnik 	MGV	adj.	PROP.CONC	dense
+i	1	Ihk-banut	anc.	pron.	OBJ.CONC	'the subject of discussion', 'the one who is being spoken of'
+i	1	Ihsek 	MGV	n.	OBJ.CONC	fog
+i	1	Ihsek-pasht 	MGV	adj.	PROP.CONC	fogbound
+i	1	Ihsek-vikayek 	MGV	n.	OBJ.CONC	foghorn
+i	1	Ihsekweik 	MGV	adj.	PROP.CONC	foggy
+i	1	Ihv-mofek 	MGV	n.	OBJ.CONC	pry bar
+i	1	Ihv-tor 	MGV	v.	ACT.CONC	pry
+i	1	Ihv-vel 	MGV	n.	OBJ.CONC	crowbar
+i	1	Ikap-, Ikapik 	MGV	adj.	PROP.CONC	closed
+i	1	Ikap-raf-kuvik 	MGV	adj.	PROP.CONC	closed circuit
+i	1	Ikap-shal-pthak 	MGV	n.	OBJ.CONC	claustrophobia
+i	1	Ikap-tor 	MGV	v.	ACT.CONC	close, shut
+i	1	Ikapirak 	MGV	n.	OBJ.CONC	closed posture' (meditation)
+i	1	Iksevau 	MGV	v.	ACT.CONC	annoy
+i	1	Iksevaunik 	MGV	adj.	PROP.CONC	annoyed
+i	1	Ikun 	MGV	n.	OBJ.CONC	cone
+i	1	Il 	MGV	conj.	CONNECTOR	or, nor
+i	1	Il-eh 	MGV	conj.	CONNECTOR	and/or
+i	1	Im-tukh 	MGV	n.	OBJ.CONC	argon
+i	1	Inam-, Inamik 	MGV	adj.	PROP.CONC	existent
+i	1	Ip-sut	anc.	v.	ACT.CONC	conceal, hide
+i	1	Ir 	MGV	n.	OBJ.CONC	distance
+i	1	Ir-zehl-kes 	MGV	n.	OBJ.CONC	azimuth
+i	1	Irak|-| 	MGV	adj.	PROP.CONC	far, distant
+i	1	Is 	MGV	n.	OBJ.CONC	use
+i	1	Is-bosh 	MGV	adj.	PROP.CONC	useful
+i	1	Is-fam-, Is-famik 	MGV	adj.	PROP.CONC	useless
+i	1	Is-lof 	MGV	n.	OBJ.CONC	function
+i	1	Is-tor 	MGV	v.	ACT.CONC	use
+i	1	Isachya 	MGV	n.	OBJ.CONC	hair
+i	1	Isan 	MGV	n.	OBJ.CONC	usage
+i	1	Ish-veh 	MGV	pron.	SITU.MOD	that one
+i	1	Isha 	MGV	adv.	ACT.CONC.MOD	also, too
+i	1	Iskan 	MGV	n.	OBJ.CONC	economy
+i	1	Iskan-tal 	MGV	n.	OBJ.CONC	economics
+i	1	Iskan-talsu 	MGV	n.	OBJ.CONC	economist
+i	1	Istau 	MGV	v.	ACT.CONC	wish
+i	1	Istaya 	MGV	n.	OBJ.CONC	wish
+i	1	Isu-keh 	MGV	n.	OBJ.CONC	a type of Vulcan bush
+i	1	It 	MGV	n.	OBJ.CONC	tact
+i	1	It-bosh 	MGV	adj.	PROP.CONC	tactful
+i	1	It-fam-, It-famik 	MGV	adj.	PROP.CONC	tactless
+i	1	Itaren 	MGV	v.	ACT.CONC	thank
+i	1	Iwi|-| 	MGV	adv.	ACT.CONC.MOD	immediate(ly)
+i	1	Iyi-, Iyik 	MGV	adj.	PROP.CONC	contemporary, modern
+i	1	Iyula 	MGV	n.	OBJ.CONC	culture
+i	1	Izau 	MGV	v.	ACT.CONC	shift
+i	1	Izayek 	MGV	n.	OBJ.CONC	shifter, shift lever
+i	1	Izh 	MGV	n.	OBJ.CONC	snow
+i	1	Izh-ash'el 	MGV	n.	OBJ.CONC	showshoe
+i	1	Izh-sahriv 	MGV	n.	OBJ.CONC	snowstorm, blizzard
+i	1	Izh-vok 	MGV	n.	OBJ.CONC	snow level
+i	1	Izh-wef 	MGV	n.	OBJ.CONC	snowflake
+i	1	Izh-zahzek 	MGV	n.	OBJ.CONC	snow plow
+i	1	Izhau 	MGV	v.	ACT.CONC	snow
+i	1	Izhyan-, Izhyanik 	MGV	adj.	PROP.CONC	snowy
+k	0	K'ashiv 	MGV	adv.	ACT.CONC.MOD	often
+k	0	K'ha 	MGV	adj.	PROP.CONC	alive
+k	0	K'ha-solektau-pthak 	MGV	n.	OBJ.CONC	taphephobia
+k	0	K'hu'kru 	MGV	n.	OBJ.CONC	babble, hubbub
+k	0	K'kan 	MGV	adj.	PROP.CONC	pregnant
+k	0	K'kla-min 	MGV	adv.	ACT.CONC.MOD	in fact, in all actuality
+k	0	K'kvayei 	MGV	prep.	SITU.MOD	through which
+k	0	K'oh-nar	anc.	n.	OBJ.CONC	fear of being completely exposed in a vulnerable situation
+k	0	K'puu 	MGV	adv.	DEG.MOD	at least
+k	0	K'shatri 	anc.	adj.	PROP.CONC	foreign
+k	0	K'torr 	anc.	adj.	PROP.CONC	completely lacking something
+k	0	K'wuhli 	MGV	prep.	SITU.MOD	apart, separate (from)
+k	0	Ka 	MGV	adv.	ACT.CONC.MOD	same, equally
+k	0	Ka'a 	MGV	adj.	PROP.CONC	as, like, similar to, akin to
+k	0	Ka'athaira 	MGV	n.	OBJ.CONC	'ka'athyra', a Vulcan musical instrument
+k	0	Ka'es 	MGV	n.	OBJ.CONC	equality
+k	0	Ka'yed 	anc.	n.	OBJ.CONC	axiom
+k	0	Ka-, Kaik 	MGV	adj.	PROP.CONC	same, equal
+k	0	Ka-gad 	MGV	n.	OBJ.CONC	equinox
+k	0	Ka-ir-, Ka-irik 	MGV	adj.	PROP.CONC	equidistant
+k	0	Ka-reh-vla 	MGV	n.	OBJ.CONC	equilateral triangle
+k	0	Ka-shal-salehm 	MGV	n.	OBJ.CONC	equal-area projection
+k	0	Ka-tala'es 	MGV	n.	OBJ.CONC	equivalence
+k	0	Ka-tala-, Ka-talupik 	MGV	adj.	PROP.CONC	equivalent
+k	0	Kad 	MGV	n.	OBJ.CONC	bump
+k	0	Kafeh 	MGV	n.	OBJ.CONC	slave, bonded servant
+k	0	Kafunik 	MGV	adj.	PROP.CONC	random
+k	0	Kahai 	MGV	v.	ACT.CONC	flash
+k	0	Kahai-sfek 	MGV	n.	OBJ.CONC	flash point
+k	0	Kahat 	MGV	n.	OBJ.CONC	flash
+k	0	Kahatek 	MGV	n.	OBJ.CONC	flasher
+k	0	Kahkrus 	MGV	n.	OBJ.CONC	district
+k	0	Kahla 	MGV	n.	OBJ.CONC	inertia
+k	0	Kahm 	MGV	n.	OBJ.CONC	flesh, meat
+k	0	Kahm-yokulsu, Kahm-yokulfa 	MGV	n.	OBJ.CONC	carnivore, meat-eater
+k	0	Kahn-tor 	MGV	v.	ACT.CONC	boil
+k	0	Kahnek 	MGV	n.	OBJ.CONC	boiler
+k	0	Kahr 	MGV	n.	OBJ.CONC	city, town
+k	0	Kahr-lan 	MGV	n.	OBJ.CONC	general (officer)
+k	0	Kahs-hir	anc.	n.	OBJ.CONC	an ornamental dark stone, usually black
+k	0	Kahs-wan	anc.	n.	OBJ.CONC	Vulcan coming-of-age survival test
+k	0	Kaht 	MGV	n.	OBJ.CONC	"garnet; cat"
+k	0	Kai 	MGV	n.	OBJ.CONC	step, stage (in a process)
+k	0	Kai'tan 	anc.	n.	OBJ.CONC	pain and muscle control
+k	0	Kai-ros 	MGV	n.	OBJ.CONC	children's game similar to hopscotch
+k	0	Kaiden 	MGV	n.	OBJ.CONC	stairs, staircase, steps
+k	0	Kaisu 	MGV	n.	OBJ.CONC	sibling
+k	0	Kak 	MGV	n.	OBJ.CONC	jar
+k	0	Kakhartau 	MGV	v.	ACT.CONC	guide
+k	0	Kal-tor 	MGV	v.	ACT.CONC	allow, let
+k	0	Kala 	MGV	n.	OBJ.CONC	thorny plant often used for hedges
+k	0	Kali-tor 	MGV	v.	ACT.CONC	challenge
+k	0	Kaluk 	MGV	n.	OBJ.CONC	ear
+k	0	Kaluk-ek'zerut 	MGV	n.	OBJ.CONC	earring
+k	0	Kaluk-kusut 	MGV	n.	OBJ.CONC	earache
+k	0	Kaluk-ralashek 	MGV	n.	OBJ.CONC	earphone
+k	0	Kaluk-vel 	MGV	n.	OBJ.CONC	earpiece
+k	0	Kam-nat 	anc.	n.	OBJ.CONC	treason
+k	0	Kambus 	MGV	n.	OBJ.CONC	shingle
+k	0	Kamu 	MGV	n.	OBJ.CONC	roof
+k	0	Kan 	MGV	n.	OBJ.CONC	child
+k	0	Kan-palutunausu 	MGV	n.	OBJ.CONC	nanny
+k	0	Kanok 	MGV	adj.	SELEC.MOD	every
+k	0	Kanok-veh 	MGV	pron.	OBJ.CONC	everyone, everybody
+k	0	Kanok-vel 	MGV	pron.	OBJ.CONC	everything
+k	0	Kanok-wilat 	MGV	prep.	SITU.MOD	everyplace, everywhere
+k	0	Kap 	MGV	n.	OBJ.CONC	bread
+k	0	Kapiratau 	MGV	v.	ACT.CONC	discard, throw away, cast away
+k	0	Kapol 	MGV	n.	OBJ.CONC	filter
+k	0	Kapol-dun 	MGV	n.	OBJ.CONC	filter paper
+k	0	Kapol-lantra 	MGV	n.	OBJ.CONC	filter bed
+k	0	Kapol-nafek 	MGV	n.	OBJ.CONC	kidney
+k	0	Kapol-tor 	MGV	v.	ACT.CONC	filter
+k	0	Kapol-toran 	MGV	n.	OBJ.CONC	filtration
+k	0	Kapol-yokulek 	MGV	n.	OBJ.CONC	filter feeder
+k	0	Kapralau 	MGV	v.	ACT.CONC	fluctuate
+k	0	Kapralaya 	MGV	n.	OBJ.CONC	fluctuation
+k	0	Kar 	MGV	n.	OBJ.CONC	arm
+k	0	Kar-nef 	MGV	n.	OBJ.CONC	elbow
+k	0	Kar-nik 	MGV	n.	OBJ.CONC	wrist
+k	0	Karf 	MGV	n.	OBJ.CONC	fragment
+k	0	Karik 	MGV	adj.	PROP.CONC	strong
+k	0	Kas'el|-| 	MGV	adj.	PROP.CONC	lazy
+k	0	Kas-elakh 	MGV	n.	OBJ.CONC	vine, tendril
+k	0	Kasa 	MGV	n.	OBJ.CONC	a blue-green Vulcan fruit
+k	0	Kash-naf 	MGV	n.	OBJ.CONC	mind-link, mind-meld
+k	0	Kash-ral 	MGV	n.	OBJ.CONC	sense
+k	0	Kash-tok 	MGV	adj.	PROP.CONC	intelligent
+k	0	Kash-tor 	MGV	v.	ACT.CONC	sense
+k	0	Kashan 	MGV	n.	OBJ.CONC	sensation
+k	0	Kashek 	MGV	n.	OBJ.CONC	(the) mind
+k	0	Kashkau 	MGV	n.	OBJ.CONC	minds (e.g., in melding, etc.)
+k	0	Kashovau 	MGV	v.	ACT.CONC	sensitize
+k	0	Kastik 	MGV	n.	OBJ.CONC	plant
+k	0	Kastik-goh-yokulsu 	MGV	n.	OBJ.CONC	vegetarian
+k	0	Kastik-sokasitausu 	MGV	n.	OBJ.CONC	plant cultivator
+k	0	Kastik-yokulfa 	MGV	n.	OBJ.CONC	herbivore
+k	0	Kastoral-, Kastoralik 	MGV	adj.	PROP.CONC	encouraged
+k	0	Kastorau 	MGV	v.	ACT.CONC	encourage
+k	0	Kastoraya 	MGV	n.	OBJ.CONC	encouragement
+k	0	Kastorilak 	MGV	n.	OBJ.CONC	stimulant
+k	0	Kastorilal-, Kastorilalik 	MGV	adj.	PROP.CONC	stimulated
+k	0	Kastorilau 	MGV	v.	ACT.CONC	stimulate
+k	0	Kastorilaya 	MGV	n.	OBJ.CONC	stimulation
+k	0	Kastorilayek 	MGV	n.	OBJ.CONC	stimulator
+k	0	Kasu 	MGV	n.	OBJ.CONC	equal (person)
+k	0	Katachik 	MGV	adj.	PROP.CONC	aggravated
+k	0	Katak 	MGV	n.	OBJ.CONC	placebo
+k	0	Katau 	MGV	v.	ACT.CONC	bring
+k	0	Katelau 	MGV	v.	ACT.CONC	mate
+k	0	Kath-vuk 	anc.	n.	OBJ.CONC	syndrome
+k	0	Katra 	MGV	n.	OBJ.CONC	soul, spirit, essence
+k	0	Katravah-vel 	MGV	n.	OBJ.CONC	fellowship
+k	0	Katravahsu 	MGV	n.	OBJ.CONC	associate, fellow
+k	0	Katravek 	MGV	n.	OBJ.CONC	association
+k	0	Katrom 	MGV	n.	OBJ.CONC	current (elect. & water)
+k	0	Kau 	MGV	n.	OBJ.CONC	wisdom
+k	0	Kau-bosh 	MGV	adj.	PROP.CONC	wise
+k	0	Kau-leh 	MGV	num.	SELEC.MOD	fifty
+k	0	Kau-leh'rak, kau-lehr- 	MGV	adj.	PROP.CONC	fiftieth
+k	0	Kau-leh'veh 	MGV	n.	OBJ.CONC	fiftieth
+k	0	Kau-tor 	MGV	v.	ACT.CONC	grow or become wise
+k	0	Kauk 	MGV	adj.	PROP.CONC	even
+k	0	Kau|kuh| 	MGV	num.	SELEC.MOD	five
+k	0	Kaul-tukh 	MGV	n.	OBJ.CONC	vanadium
+k	0	Kaunshal-, Kaunshalik 	MGV	adj.	PROP.CONC	united
+k	0	Kaunshal-Teraya t'Ek'tralar	MGV	n.	OBJ.CONC	United Federation of Planets
+k	0	Kaunshau 	MGV	v.	ACT.CONC	to unite
+k	0	Kaunshaya 	MGV	n.	OBJ.CONC	unity
+k	0	Ke-ta-yatar	anc.	n.	OBJ.CONC	ancient fighting style designed to kill
+k	0	Ke-tarya	anc.	n.	OBJ.CONC	an ancient fighting style
+k	0	Kebi 	MGV	n.	OBJ.CONC	unit
+k	0	Kebitra 	MGV	n.	OBJ.CONC	facility
+k	0	Kef-, Kefik 	MGV	adj.	PROP.CONC	emergency
+k	0	Kef-dvelek 	MGV	n.	OBJ.CONC	emergency switch
+k	0	Kef-ferek 	MGV	n.	OBJ.CONC	emergency generator
+k	0	Kef-fisolekau-mal 	MGV	n.	OBJ.CONC	emergency landing leg
+k	0	Kef-ha'kiv-nenikaya 	MGV	n.	OBJ.CONC	emergency life support
+k	0	Kef-ifisek 	MGV	n.	OBJ.CONC	emergency transporter
+k	0	Kef-kipok 	MGV	n.	OBJ.CONC	emergency battery
+k	0	Kef-kluhvau-krau 	MGV	n.	OBJ.CONC	emergency flush vent
+k	0	Kef-rishan-tsorayek 	MGV	n.	OBJ.CONC	emergency survival compartment
+k	0	Kef-thro-svep 	MGV	n.	OBJ.CONC	emergency hatch
+k	0	Kef-tuhlau-vis 	MGV	n.	OBJ.CONC	emergency containment grid
+k	0	Kefik has-reh-bikuvsu 	MGV	n.	OBJ.CONC	emergency medical hologram (EMH)
+k	0	Kefik tehn-sesh-kwitek 	MGV	n.	OBJ.CONC	emergency anti-grav thruster
+k	0	Keh-leh 	MGV	num.	SELEC.MOD	forty
+k	0	Keh-leh'rak, keh-lehr- 	MGV	adj.	PROP.CONC	fortieth
+k	0	Keh-leh'veh 	MGV	n.	OBJ.CONC	fortieth
+k	0	Keh|kuh| 	MGV	num.	SELEC.MOD	four
+k	0	Kehr-, Keh'rak 	MGV	adj.	PROP.CONC	fourth
+k	0	Kei|-| 	MGV	adj.	PROP.CONC	fierce
+k	0	Keimen|-| 	anc.	adj.	PROP.CONC	ferocious
+k	0	Kel 	MGV	n.	OBJ.CONC	building, structure
+k	0	Kelek 	MGV	n.	OBJ.CONC	house, dwelling
+k	0	Ken-tor 	MGV	v.	ACT.CONC	understand
+k	0	Kenel 	MGV	n.	OBJ.CONC	extinct horse-like Vulcan animal
+k	0	Kenelsu 	MGV	n.	OBJ.CONC	kenel-rider
+k	0	Kep 	MGV	n.	OBJ.CONC	gong
+k	0	Kerik 	MGV	adj.	PROP.CONC	worthy
+k	0	Kes 	MGV	n.	OBJ.CONC	arc
+k	0	Kesek 	MGV	n.	OBJ.CONC	arch
+k	0	Kesazh 	MGV	n.	OBJ.CONC	navel, umbilicus, belly button
+k	0	Keshtan 	MGV	n.	OBJ.CONC	birth
+k	0	Kesik 	MGV	adj.	PROP.CONC	likely (as in a likely story?)
+k	0	Ket'es 	MGV	n.	OBJ.CONC	integrity
+k	0	Kethelvau 	MGV	v.	ACT.CONC	describe
+k	0	Kethtra 	MGV	n.	OBJ.CONC	lore
+k	0	Ketilau 	MGV	n.	OBJ.CONC	lore
+k	0	Kevas 	MGV	n.	OBJ.CONC	medicinal Vulcan herb
+k	0	Kevetsu 	MGV	n.	OBJ.CONC	ambassador
+k	0	Kha'wal 	MGV	n.	OBJ.CONC	joke
+k	0	Khaf 	MGV	n.	OBJ.CONC	blood
+k	0	Khaf-kur 	MGV	adj.	PROP.CONC	a green color (lit. 'blood green')
+k	0	Khaf-spol 	MGV	n.	OBJ.CONC	heart
+k	0	Khaf-tukh 	MGV	n.	OBJ.CONC	copper
+k	0	Khar-, Kharik 	MGV	adj.	PROP.CONC	direct
+k	0	Kharat 	MGV	n.	OBJ.CONC	direction
+k	0	Kharlah 	MGV	v.	ACT.CONC	route
+k	0	Kharlahek 	MGV	n.	OBJ.CONC	router
+k	0	Khart-lan 	MGV	n.	OBJ.CONC	captain
+k	0	Khartau 	MGV	n.	OBJ.CONC	command, direct, manage
+k	0	Khat-, Khatik 	MGV	adj.	PROP.CONC	grave, serious
+k	0	Khau 	MGV	v.	ACT.CONC	rule
+k	0	Khav-kur 	MGV	adj.	PROP.CONC	brown
+k	0	Kheh 	MGV	n.	OBJ.CONC	a type of grain
+k	0	Khin 	MGV	n.	OBJ.CONC	fame
+k	0	Khinik 	MGV	adj.	PROP.CONC	famous
+k	0	Khlapau 	MGV	v.	ACT.CONC	knock
+k	0	Khlop-thon-, Khlop-thonik 	MGV	adj.	PROP.CONC	geometric
+k	0	Khlop-thon-sagan 	MGV	n.	OBJ.CONC	geometric distribution
+k	0	Khlop-thon-weizehl 	MGV	n.	OBJ.CONC	geometric series
+k	0	Khlop-thon-zehlanaya 	MGV	n.	OBJ.CONC	geometric sequence
+k	0	Khlop-thonik su'us-ek'tal 	MGV	n.	OBJ.CONC	geometry
+k	0	Khluhkau 	MGV	v.	ACT.CONC	choke
+k	0	Khlup 	MGV	n.	OBJ.CONC	gel, jelly
+k	0	Khoken 	MGV	n.	OBJ.CONC	entrance
+k	0	Khom 	MGV	n.	OBJ.CONC	front
+k	0	Khrasau 	MGV	v.	ACT.CONC	discharge
+k	0	Khrash 	MGV	n.	OBJ.CONC	violence
+k	0	Khrashik 	MGV	n.	OBJ.CONC	violent
+k	0	Khru 	MGV	n.	OBJ.CONC	evening
+k	0	Khru-yem 	MGV	n.	OBJ.CONC	supper
+k	0	Khu'rak 	MGV	n.	OBJ.CONC.MOD	south
+k	0	Khu'rak-, Khu'rakik 	MGV	adj.	PROP.CONC	southern
+k	0	Khu'raksu 	MGV	n.	OBJ.CONC	southerner
+k	0	Khu-she'rak 	MGV	n.	OBJ.CONC.MOD	southeast
+k	0	Khu-tev'rak 	MGV	n.	OBJ.CONC.MOD	southwest
+k	0	Khush 	MGV	n.	OBJ.CONC	crystal
+k	0	Ki' 	MGV	v.	ACT.CONC	have, has (participial)
+k	0	Ki'an 	MGV	n.	OBJ.CONC	nest
+k	0	Ki'haf 	anc.	n.	OBJ.CONC	basket
+k	0	Ki-fah	anc.	n.	OBJ.CONC	lethal self-defense
+k	0	Kid 	MGV	n.	OBJ.CONC	feather, plume
+k	0	Kidtra 	MGV	n.	OBJ.CONC	plumage
+k	0	Kihsev 	MGV	n.	OBJ.CONC	pendant
+k	0	Kihsh-kur 	MGV	adj.	PROP.CONC	lilac, mauve
+k	0	Kiht 	MGV	n.	OBJ.CONC	code
+k	0	Kiit 	MGV	n.	OBJ.CONC	fury
+k	0	Kik 	MGV	n.	OBJ.CONC	hook
+k	0	Kil 	MGV	n.	OBJ.CONC	spark
+k	0	Kil-tor 	MGV	v.	ACT.CONC	spark
+k	0	Kil-tukh 	MGV	n.	OBJ.CONC	flint
+k	0	Kilko|-srashiv| 	MGV	n.	OBJ.CONC	answer
+k	0	Kilko-tor 	MGV	v.	ACT.CONC	answer
+k	0	Kim-, Kim-shah 	MGV	adj.	SELEC.MOD	final, last
+k	0	Kim-tor 	MGV	v.	ACT.CONC	finalize
+k	0	Kimsu 	MGV	n.	OBJ.CONC	finalist
+k	0	Kin-kur 	MGV	adj.	PROP.CONC	yellow, golden
+k	0	Kin-tukh 	MGV	n.	OBJ.CONC	gold
+k	0	Kinuf 	MGV	n.	OBJ.CONC	date
+k	0	Kipof 	MGV	n.	OBJ.CONC	battery, accumulator
+k	0	Kir'Shara	anc.	n.	OBJ.CONC	the ancient repository of Surak's writings
+k	0	Kis-ka 	MGV	adj.	PROP.CONC	jealous
+k	0	Kisev 	MGV	n.	OBJ.CONC	document
+k	0	Kisheya 	MGV	n.	OBJ.CONC	accident
+k	0	Kisu 	MGV	n.	OBJ.CONC	member
+k	0	Kitak 	MGV	n.	OBJ.CONC	pen (writing)
+k	0	Kitau 	MGV	v.	ACT.CONC	write
+k	0	Kitausu 	MGV	n.	OBJ.CONC	author, scribe, writer
+k	0	Kitek 	MGV	n.	OBJ.CONC	dirt, silt
+k	0	Kitok-wilat 	MGV	prep.	SITU.MOD	elsewhere
+k	0	Kitork|-| 	MGV	adj.	PROP.CONC	dirty
+k	0	Kla-hil-tor 	MGV	v.	ACT.CONC	research
+k	0	Kla-hilsu 	MGV	n.	OBJ.CONC	researcher
+k	0	Kla-min 	MGV	n.	OBJ.CONC	fact
+k	0	Klai 	MGV	n.	OBJ.CONC	factor
+k	0	Klash 	MGV	n.	OBJ.CONC	guard (protective item)
+k	0	Klashau 	MGV	v.	ACT.CONC	guard
+k	0	Klashausu 	MGV	n.	OBJ.CONC	guard (person)
+k	0	Klau 	MGV	v.	ACT.CONC	harm
+k	0	Klaya 	MGV	n.	OBJ.CONC	harm
+k	0	Klehp 	MGV	n.	OBJ.CONC	fjord
+k	0	Klem 	MGV	n.	OBJ.CONC	gratitude, thankfulness
+k	0	Klem-bosh 	MGV	adj.	PROP.CONC	grateful
+k	0	Klepovau 	MGV	v.	ACT.CONC	shop
+k	0	Kli 	MGV	n.	OBJ.CONC	dart
+k	0	Klimtau 	MGV	v.	ACT.CONC	melt
+k	0	Kling 	MGV	prep.	SELEC.MOD	no-one, nobody, not one person
+k	0	Kliton 	MGV	n.	OBJ.CONC	arrow
+k	0	Klomak 	anc.	n.	OBJ.CONC	fortress
+k	0	Klon|-| 	MGV	adj.	PROP.CONC	smart
+k	0	Klopau 	MGV	v.	ACT.CONC	describe
+k	0	Klosha 	MGV	v.	ACT.CONC	behave
+k	0	Kloshai 	MGV	n.	OBJ.CONC	behavior
+k	0	Klotau 	MGV	v.	ACT.CONC	block
+k	0	Klotaya 	MGV	n.	OBJ.CONC	blockage
+k	0	Kluchi 	MGV	v.	ACT.CONC	object
+k	0	Kluf 	MGV	n.	OBJ.CONC	boot
+k	0	Klunyau 	MGV	v.	ACT.CONC	ram
+k	0	Knuk|-| 	MGV	adj.	PROP.CONC	lousy
+k	0	Ko-, Koyik 	MGV	adj.	PROP.CONC	female
+k	0	Ko-eik-te'krusu 	MGV	n.	OBJ.CONC	empress
+k	0	Ko-fu 	MGV	n.	OBJ.CONC	daughter
+k	0	Ko-ka-ashausu 	MGV	n.	OBJ.CONC	lesbian
+k	0	Ko-kai 	MGV	n.	OBJ.CONC	sister
+k	0	Ko-kan 	MGV	n.	OBJ.CONC	girl
+k	0	Ko-kelek-han 	MGV	n.	OBJ.CONC	prioress
+k	0	Ko-kuk 	MGV	n.	OBJ.CONC	aunt
+k	0	Ko-mekh 	MGV	n.	OBJ.CONC	mother
+k	0	Ko-niht 	MGV	n.	OBJ.CONC	female cousin
+k	0	Ko-Te'kor 	MGV	n.	OBJ.CONC	Queen (only in a title or with a proper name)
+k	0	Ko-te'krusu 	MGV	n.	OBJ.CONC	queen (general term)
+k	0	Ko-telsu 	MGV	n.	OBJ.CONC	wife
+k	0	Kobat|-| 	MGV	adj.	PROP.CONC	weak
+k	0	Kobsu 	MGV	n.	OBJ.CONC	dwarf
+k	0	Kodonuhk 	MGV	adj.	PROP.CONC	expensive
+k	0	Kogav'es 	MGV	n.	OBJ.CONC	femininity
+k	0	Kogav-, Kogavik 	MGV	adj.	PROP.CONC	feminine
+k	0	Kohl 	anc.	n.	OBJ.CONC	emotion-purging mind-exercise
+k	0	Kohl-tor 	MGV	v.	ACT.CONC	meditate (Vulcan-style)
+k	0	Kohs'es 	MGV	n.	OBJ.CONC	sanity
+k	0	Kohs-, Kohsik 	MGV	adj.	PROP.CONC	sane
+k	0	Kohv-tukh 	MGV	n.	OBJ.CONC	quartz
+k	0	Kol 	MGV	n.	OBJ.CONC	stew
+k	0	Kolaya 	MGV	n.	OBJ.CONC	shock
+k	0	Kolchak 	MGV	n.	OBJ.CONC	flute, piccolo, fife
+k	0	Kolinahr 	anc.	n.	OBJ.CONC	highest adult state of mental discipline
+k	0	Komak 	MGV	n.	OBJ.CONC	genus
+k	0	Komihn|-| 	MGV	adj.	PROP.CONC	human
+k	0	Kon 	MGV	n.	OBJ.CONC	worship
+k	0	Kon-tor 	MGV	v.	ACT.CONC	worship
+k	0	Kopal 	MGV	n.	OBJ.CONC	jacket (clothing)
+k	0	Korsau 	MGV	v.	ACT.CONC	save, preserve, conserve
+k	0	Korseivel 	MGV	v.	ACT.CONC	save (by means of)
+k	0	Korsovau 	MGV	v.	ACT.CONC	to be saved spiritually
+k	0	Koshvar 	MGV	n.	OBJ.CONC	disaster
+k	0	Koshtri 	MGV	n.	OBJ.CONC	race, species
+k	0	Kosu 	MGV	n.	OBJ.CONC	female, woman
+k	0	Kosu-has-tal 	MGV	n.	OBJ.CONC	gynecology
+k	0	Kosu-hassu 	MGV	n.	OBJ.CONC	gynecologist
+k	0	Kov 	MGV	n.	OBJ.CONC	rock, stone (as an individual object)
+k	0	Kov-skramsu 	MGV	n.	OBJ.CONC	stonecarver
+k	0	Kov-tor 	MGV	v.	ACT.CONC	stone, throw rocks at
+k	0	Kov-tukh 	MGV	n.	OBJ.CONC	rock, stone (as a material)
+k	0	Kovau 	MGV	v.	ACT.CONC	turn to stone, fossilize, petrify
+k	0	Kozauk 	MGV	adj.	PROP.CONC	specific
+k	0	Kra-tukh 	MGV	n.	OBJ.CONC	antimony
+k	0	Kraffaya 	MGV	n.	OBJ.CONC	abort
+k	0	Krahkra	anc.	interj.	interjection	'It is nothing'
+k	0	Krahl 	MGV	n.	OBJ.CONC	pressure point
+k	0	Kraisek 	MGV	n.	OBJ.CONC	cage
+k	0	Krani 	MGV	n.	OBJ.CONC	window
+k	0	Kras 	MGV	n.	OBJ.CONC	paint
+k	0	Kras-tor 	MGV	v.	ACT.CONC	paint
+k	0	Krassu 	MGV	n.	OBJ.CONC	painter
+k	0	Krau 	MGV	n.	OBJ.CONC	vent
+k	0	Kravau 	MGV	v.	ACT.CONC	cheat
+k	0	Kreila 	MGV	n.	OBJ.CONC	'kreyla', a flat bread-like food
+k	0	Krein 	MGV	n.	OBJ.CONC	canopy
+k	0	Krelsh	anc.	n.	OBJ.CONC	witch
+k	0	Krenath 	MGV	n.	OBJ.CONC	'shamed one', half-breed, illegitimate child
+k	0	Kresik 	MGV	adj.	PROP.CONC	aggressive
+k	0	Krik 	MGV	n.	OBJ.CONC	pinch
+k	0	Krik-tor 	MGV	v.	ACT.CONC	pinch
+k	0	Kril'es 	MGV	n.	OBJ.CONC	harmony
+k	0	Kril-tor 	MGV	v.	ACT.CONC	harmonize
+k	0	Kriltesau 	MGV	v.	ACT.CONC	guess
+k	0	Krish 	MGV	n.	OBJ.CONC	bronze
+k	0	Kritashsu 	MGV	n.	OBJ.CONC	cyborg
+k	0	Kriv 	MGV	adv.	ACT.CONC.MOD	such
+k	0	Krizhiv 	MGV	n.	OBJ.CONC	clay
+k	0	Kro|-| 	MGV	adj.	PROP.CONC	fair
+k	0	Kroikah 	anc.	interj.	interjection	'Kroykah', 'Be still', 'Stop'
+k	0	Krol-tor 	MGV	v.	ACT.CONC	praise
+k	0	Kronosh 	MGV	n.	OBJ.CONC	Klingon home world
+k	0	Kropaya 	MGV	n.	OBJ.CONC	fantasy
+k	0	Kru 	MGV	n.	OBJ.CONC	supervisor
+k	0	Kru'minaakh	anc.	v.	ACT.CONC	appoint
+k	0	Krumaat 	MGV	n.	OBJ.CONC	generation
+k	0	Krup 	MGV	n.	OBJ.CONC	boundary
+k	0	Krus 	MGV	n.	OBJ.CONC	part, piece, segment, section
+k	0	Krusek 	MGV	n.	OBJ.CONC	fraction
+k	0	Kruvek 	MGV	n.	OBJ.CONC	sect
+k	0	Ktorr 	anc.	v.	ACT.CONC	cut off, sever
+k	0	Ktorr skann	anc.	n.	OBJ.CONC	the formal cutting of family ties
+k	0	Ku 	MGV	n.	OBJ.CONC	palm (hand)
+k	0	Ku-li 	MGV	n.	OBJ.CONC	valley
+k	0	Ku-san 	MGV	n.	OBJ.CONC	chair
+k	0	Ku-tor 	MGV	v.	ACT.CONC	sit
+k	0	Ku-trak 	MGV	n.	OBJ.CONC	cushion
+k	0	Kudau 	MGV	v.	ACT.CONC	bless
+k	0	Kugau 	MGV	v.	ACT.CONC	commit
+k	0	Kuhku 	MGV	n.	OBJ.CONC	pus
+k	0	Kuhlau 	MGV	v.	ACT.CONC	compete
+k	0	Kuhlaya 	MGV	n.	OBJ.CONC	competition
+k	0	Kuhr 	MGV	n.	OBJ.CONC	latch
+k	0	Kuhsh-tor 	MGV	v.	ACT.CONC	beat
+k	0	Kuht 	MGV	n.	OBJ.CONC	herd
+k	0	Kukev 	MGV	n.	OBJ.CONC	benzene
+k	0	Kulan 	MGV	n.	OBJ.CONC	helix, spiral
+k	0	Kulauf 	MGV	n.	OBJ.CONC	exception
+k	0	Kum-tor 	MGV	v.	ACT.CONC	catch
+k	0	Kun-ut	anc.	n.	OBJ.CONC	bond-mate, spouse
+k	0	Kun-ut kali-fi	anc.	n.	OBJ.CONC	ritual 'marriage challenge'
+k	0	Kun-ut so'lik	anc.	n.	OBJ.CONC	ritual 'marriage proposal'
+k	0	Kunel 	MGV	n.	OBJ.CONC	hill, butte
+k	0	Kunli 	MGV	adj.	PROP.CONC	happy
+k	0	Kup 	MGV	adj.	PREDIC.MODAL	able, can
+k	0	Kur 	MGV	adj.	PROP.CONC	color
+k	0	Kur-tor 	MGV	adj.	PROP.CONC	color, dye
+k	0	Kur-tukh 	MGV	adj.	PROP.CONC	dye
+k	0	Kurau 	MGV	adj.	PROP.CONC	stain
+k	0	Kuraya 	MGV	adj.	PROP.CONC	stain
+k	0	Kurek 	MGV	adj.	PROP.CONC	pigment(ation)
+k	0	Kuriht 	MGV	n.	OBJ.CONC	rash
+k	0	Kurtra 	MGV	adj.	PROP.CONC	spectrum
+k	0	Kurucham 	MGV	n.	OBJ.CONC	zombie
+k	0	Kus-tor 	MGV	v.	ACT.CONC	ring
+k	0	Kus-vakh 	MGV	n.	OBJ.CONC	bell
+k	0	Kushel 	MGV	n.	OBJ.CONC	bird, fowl
+k	0	Kushizhau 	MGV	v.	ACT.CONC	mold
+k	0	Kusilau 	MGV	v.	ACT.CONC	resonate
+k	0	Kusut 	MGV	n.	OBJ.CONC	pain
+k	0	Kutra 	MGV	n.	OBJ.CONC	bank
+k	0	Kuv 	MGV	conj.	CONNECTOR	if
+k	0	Kuvish 	MGV	n.	OBJ.CONC	bearing
+k	0	Kuyau 	MGV	v.	ACT.CONC	sit
+k	0	Kuzhet 	MGV	n.	OBJ.CONC	harness
+k	0	Kveshkau 	MGV	v.	ACT.CONC	taunt
+k	0	Kvichau 	MGV	v.	ACT.CONC	worry
+k	0	Kwai 	MGV	adj.	PROP.CONC	wild, untamed, undomesticated
+k	0	Kwal se tu	anc.	interj.	interjection	'Is that really you?', traditional greeting after a long separation
+k	0	Kwal-tor 	MGV	v.	ACT.CONC	frown
+k	0	Kwas-, Kwasik 	MGV	adj.	PROP.CONC	meek
+k	0	Kwes 	MGV	adj.	PROP.CONC	afraid
+k	0	Kwi' 	MGV	adv.	SITU.MOD	from a distance
+k	0	Kwi'shoret 	MGV	v.	ACT.CONC	call (to)
+k	0	Kwitau 	MGV	v.	ACT.CONC	push
+k	0	Kwohk'a 	anc.	n.	OBJ.CONC	mythological guardian spirit
+k	0	Kwon-mor-, Kwon-morik 	MGV	adj.	PROP.CONC	evergreen
+k	0	Kwon-mor-kastik 	MGV	n.	OBJ.CONC	evergreen (plant)
+k	0	Kwon-mor-lap 	MGV	n.	OBJ.CONC	evergreen (tree)
+k	0	Kwon-mor-laptra 	MGV	n.	OBJ.CONC	evergreen forest
+k	0	Kwon-sum 	anc.	adv.	ACT.CONC.MOD	always
+k	0	Kwul 	MGV	n.	OBJ.CONC	hit, impact, strike
+k	0	Kwul-razh 	MGV	n.	OBJ.CONC	(impact) crater
+k	0	Kwul-tor 	MGV	v.	ACT.CONC	hit, impact, strike
+l	1	L'langon 	MGV	n.	OBJ.CONC	a Vulcan mountain range
+l	1	L'langon-tukh 	MGV	n.	OBJ.CONC	krypton
+l	1	La, La' 	MGV	prep.	SITU.MOD	here
+l	1	La'ash 	anc.	n.	OBJ.CONC	axe
+l	1	La'ka-yehat 	MGV	adj.	PROP.CONC	available
+l	1	La'yi 	anc.	n.	OBJ.CONC	a type of rug
+l	1	Lad 	MGV	n.	OBJ.CONC	sole (foot)
+l	1	Laf-bosh 	MGV	adj.	PROP.CONC	erroneous
+l	1	Laf-glantokaya 	MGV	n.	OBJ.CONC	error signal
+l	1	Laf-kiht 	MGV	n.	OBJ.CONC	error code
+l	1	Laf-skladan 	MGV	n.	OBJ.CONC	error message
+l	1	Laf-tor 	MGV	v.	ACT.CONC	err, make a mistake
+l	1	Laf-tukh 	MGV	n.	OBJ.CONC	chlorine
+l	1	Lafosh 	MGV	n.	OBJ.CONC	error, mistake
+l	1	Lafot 	MGV	n.	OBJ.CONC	defect, flaw
+l	1	Lafotik 	MGV	adj.	PROP.CONC	defective, faulty, flawed
+l	1	Lag 	MGV	n.	OBJ.CONC	gum
+l	1	Lahrn 	MGV	n.	OBJ.CONC	rudder
+l	1	Lahv 	MGV	n.	OBJ.CONC	tongue
+l	1	Lairet 	MGV	n.	OBJ.CONC	'lyrette', type of harp
+l	1	Laithuhret 	MGV	n.	OBJ.CONC	'lytherette', type of harp
+l	1	Lakh	anc.	n.	OBJ.CONC	language
+l	1	Lam-tor 	MGV	v.	ACT.CONC	stand
+l	1	Lamekh|-| 	MGV	adj.	PROP.CONC	warm
+l	1	Lan 	MGV	n.	OBJ.CONC	rank
+l	1	Lan-tol 	MGV	n.	OBJ.CONC	"floor, deck; bed"
+l	1	Lanet 	MGV	n.	OBJ.CONC	bottom
+l	1	Lansu 	MGV	n.	OBJ.CONC	officer
+l	1	Lap 	MGV	n.	OBJ.CONC	tree
+l	1	Lap-gel 	MGV	n.	OBJ.CONC	branch
+l	1	Lap-shal 	MGV	n.	OBJ.CONC	woodland
+l	1	Lap-tukh 	MGV	n.	OBJ.CONC	timber
+l	1	Lapan 	MGV	n.	OBJ.CONC	wood
+l	1	Lapan-skramsu 	MGV	n.	OBJ.CONC	woodcarver
+l	1	Lapan-tanaf 	MGV	n.	OBJ.CONC	woodcraft
+l	1	Laptra 	MGV	n.	OBJ.CONC	forest
+l	1	Lara 	MGV	n.	OBJ.CONC	a Vulcan desert bird
+l	1	Lasha 	MGV	v.	ACT.CONC	arrive
+l	1	Lashan 	MGV	n.	OBJ.CONC	arrival
+l	1	Lashark	anc.	n.	OBJ.CONC	"a poetic name for sunrise; lit. 'he who arrives'"
+l	1	Laskat 	MGV	n.	OBJ.CONC	depot, station, terminal
+l	1	Lates 	MGV	n.	OBJ.CONC	walk
+l	1	Lau|-| 	MGV	v.	PREDIC.MODAL	may, might
+l	1	Lautuv|-| 	MGV	adj.	PROP.CONC	stubborn
+l	1	Laz 	MGV	n.	OBJ.CONC	(door)jamb
+l	1	Le-matya 	anc.	n.	OBJ.CONC	large, venomous Vulcan desert predator (reptile)
+l	1	Le-su	anc.	n.	OBJ.CONC	frost
+l	1	Le-suma 	anc.	n.	OBJ.CONC	ice
+l	1	Le-suma-eiktra 	MGV	n.	OBJ.CONC	ice shelf
+l	1	Le-suma-haki 	MGV	n.	OBJ.CONC	ice hockey
+l	1	Le-suma-marshak 	MGV	n.	OBJ.CONC	(ice) floe
+l	1	Le-suma-pal 	MGV	n.	OBJ.CONC	ice age
+l	1	Le-suma-tal 	MGV	n.	OBJ.CONC	glaciology
+l	1	Lef'es 	MGV	n.	OBJ.CONC	texture
+l	1	Leh-dah 	MGV	num.	SELEC.MOD	twelve
+l	1	Leh-dah'veh 	MGV	n.	OBJ.CONC	twelfth
+l	1	Leh-dah-tukh 	MGV	n.	OBJ.CONC	Seaborgium
+l	1	Leh-dahr-, Leh-dah'rak 	MGV	adj.	PROP.CONC	twelfth
+l	1	Leh-kau 	MGV	num.	SELEC.MOD	fifteen
+l	1	Leh-kau'veh 	MGV	n.	OBJ.CONC	fifteenth
+l	1	Leh-kau-tukh 	MGV	n.	OBJ.CONC	Meitnerium
+l	1	Leh-kaur-, Leh-kau'rak 	MGV	adj.	PROP.CONC	fifteenth
+l	1	Leh-keh 	MGV	num.	SELEC.MOD	fourteen
+l	1	Leh-keh'veh 	MGV	n.	OBJ.CONC	fourteenth
+l	1	Leh-keh-tukh 	MGV	n.	OBJ.CONC	Hassium
+l	1	Leh-kehr-, Leh-keh'rak 	MGV	adj.	PROP.CONC	fourteenth
+l	1	Leh-nau 	MGV	num.	SELEC.MOD	nineteen
+l	1	Leh-nau'veh 	MGV	n.	OBJ.CONC	nineteenth
+l	1	Leh-naur-, Leh-nau'rak 	MGV	adj.	PROP.CONC	nineteenth
+l	1	Leh-oh 	MGV	num.	SELEC.MOD	eighteen
+l	1	Leh-oh'veh 	MGV	n.	OBJ.CONC	eighteenth
+l	1	Leh-ohr-, Leh-oh'rak 	MGV	adj.	PROP.CONC	eighteenth
+l	1	Leh-reh 	MGV	num.	SELEC.MOD	thirteen
+l	1	Leh-reh'veh 	MGV	n.	OBJ.CONC	thirteenth
+l	1	Leh-reh-tukh 	MGV	n.	OBJ.CONC	Bohrium
+l	1	Leh-rehr-, Leh-reh'rak 	MGV	adj.	PROP.CONC	thirteenth
+l	1	Leh-sheh 	MGV	num.	SELEC.MOD	sixteen
+l	1	Leh-sheh'veh 	MGV	n.	OBJ.CONC	sixteenth
+l	1	Leh-shehr-, Leh-sheh'rak 	MGV	adj.	PROP.CONC	sixteenth
+l	1	Leh-steh 	MGV	num.	SELEC.MOD	seventeen
+l	1	Leh-steh'veh 	MGV	n.	OBJ.CONC	seventeenth
+l	1	Leh-stehr-, Leh-steh'rak 	MGV	adj.	PROP.CONC	seventeenth
+l	1	Leh-tukh 	MGV	n.	OBJ.CONC	Rutherfordium
+l	1	Leh-wuh 	MGV	num.	SELEC.MOD	eleven
+l	1	Leh-wuh'veh 	MGV	n.	OBJ.CONC	eleventh
+l	1	Leh-wuh-tukh 	MGV	n.	OBJ.CONC	Dubnium
+l	1	Leh-wuhr-, Leh-wuh'rak 	MGV	adj.	PROP.CONC	eleventh
+l	1	Lehk 	MGV	n.	OBJ.CONC	post
+l	1	Leh|kuh| 	MGV	num.	SELEC.MOD	ten
+l	1	Lehm-tor 	MGV	v.	ACT.CONC	throw, toss, heave
+l	1	Leipau 	MGV	v.	ACT.CONC	bake
+l	1	Leipausu 	MGV	n.	OBJ.CONC	baker
+l	1	Leitri 	MGV	n.	OBJ.CONC	toy, plaything
+l	1	Lek-tukh 	MGV	n.	OBJ.CONC	niobium
+l	1	Lekva 	MGV	n.	OBJ.CONC	aegis
+l	1	Ler-tukh 	MGV	n.	OBJ.CONC	tungsten
+l	1	Lerakh|-| 	MGV	adj.	PROP.CONC	compressed, compacted
+l	1	Lerash|-| 	MGV	adj.	PROP.CONC	hard
+l	1	Les 	MGV	n.	OBJ.CONC	target
+l	1	Lesek 	MGV	n.	OBJ.CONC	joint
+l	1	Lesh 	MGV	v.	ACT.CONC	bear, carry
+l	1	Lest 	MGV	n.	OBJ.CONC	burden
+l	1	Li-fal 	MGV	n.	OBJ.CONC	example, sample
+l	1	Li-wun 	MGV	n.	OBJ.CONC	lance
+l	1	Lihsek 	MGV	n.	OBJ.CONC	grommet
+l	1	Limak 	MGV	n.	OBJ.CONC	facing
+l	1	Limein 	MGV	n.	OBJ.CONC	mask
+l	1	Limuk 	MGV	n.	OBJ.CONC	face
+l	1	Limuk-sazehlanaya 	MGV	n.	OBJ.CONC	face-lift
+l	1	Linisau 	MGV	v.	ACT.CONC	examine
+l	1	Linsu 	MGV	n.	OBJ.CONC	cynic
+l	1	Lipau 	MGV	n.	OBJ.CONC	knife
+l	1	Lipitah 	anc.	n.	OBJ.CONC	dagger
+l	1	Lirpa 	anc.	n.	OBJ.CONC	ceremonial weapon with a blade on one end and club on the other
+l	1	Littau 	MGV	v.	ACT.CONC	quench
+l	1	Lo'uk 	MGV	adj.	PROP.CONC	great
+l	1	Lof 	MGV	n.	OBJ.CONC	reason, purpose
+l	1	Lof-torvauk 	MGV	n.	OBJ.CONC	constructive purpose
+l	1	Lograzek 	MGV	n.	OBJ.CONC	jail
+l	1	Lok 	MGV	n.	OBJ.CONC	penis, phallus
+l	1	Los'rak 	MGV	n.	OBJ.CONC.MOD	left
+l	1	Lu 	MGV	adv.	SITU.MOD	when
+l	1	Lufik 	MGV	adj.	PROP.CONC	oblique
+l	1	Luhp-, Luhpik 	MGV	adj.	PROP.CONC	rude
+l	1	Luk 	MGV	n.	OBJ.CONC	fungus
+l	1	Lushun 	MGV	n.	OBJ.CONC	torpedo
+l	1	Luvau 	MGV	v.	ACT.CONC	to yawn
+m	1	Ma 	MGV	v.	ACT.CONC	have, own, possess
+m	1	Ma'os|-| 	MGV	adj.	PROP.CONC	ancient
+m	1	Ma-vel 	MGV	n.	OBJ.CONC	possession (thing)
+m	1	Maat 	MGV	n.	OBJ.CONC	clan, extended family
+m	1	Mabuhl'es 	MGV	n.	OBJ.CONC	exuberance
+m	1	Mabuhl-, Mabuhlik 	MGV	adj.	PROP.CONC	exuberant
+m	1	Mad 	MGV	n.	OBJ.CONC	bracket
+m	1	Madzh 	MGV	n.	OBJ.CONC	plug
+m	1	Maf 	MGV	n.	OBJ.CONC	cry
+m	1	Maf-tor 	MGV	v.	ACT.CONC	cry
+m	1	Mag 	MGV	n.	OBJ.CONC	thirst
+m	1	Magol 	anc.	n.	OBJ.CONC	flagon
+m	1	Magu 	MGV	n.	OBJ.CONC	reel, spindle
+m	1	Magu-shidik 	MGV	adj.	PROP.CONC	fusiform, spindle-shaped
+m	1	Mah-tor 	MGV	v.	ACT.CONC	hammer
+m	1	Mah-vel 	MGV	n.	OBJ.CONC	hammer
+m	1	Mahai 	MGV	n.	OBJ.CONC	seizure, convulsion
+m	1	Mahal-tor 	MGV	v.	ACT.CONC	swim
+m	1	Mahalovau 	MGV	v.	ACT.CONC	cruise
+m	1	Mahr-kel 	MGV	n.	OBJ.CONC	shop, store, market
+m	1	Mahr-tor 	MGV	v.	ACT.CONC	buy, purchase
+m	1	Mair-, Mairik 	MGV	adj.	PROP.CONC	extreme
+m	1	Mair-nuk-vakav'es |MNV| 	MGV	n.	OBJ.CONC	extremely low frequency (ELF)
+m	1	Mair-pid-vakav'es |MPV| 	MGV	n.	OBJ.CONC	extremely high frequency (EHF)
+m	1	Mak 	MGV	n.	OBJ.CONC	joy
+m	1	Makau 	MGV	v.	ACT.CONC	spell
+m	1	Makh 	MGV	n.	OBJ.CONC	glass
+m	1	Makh-salursu 	MGV	n.	OBJ.CONC	glass-blower
+m	1	Makh-zhuksu 	MGV	n.	OBJ.CONC	glass-maker
+m	1	Mal 	MGV	n.	OBJ.CONC	leg
+m	1	Mal-nef 	MGV	n.	OBJ.CONC	knee
+m	1	Mal-nik 	MGV	n.	OBJ.CONC	ankle
+m	1	Malanu 	MGV	n.	OBJ.CONC	pants, trousers
+m	1	Malat 	MGV	n.	OBJ.CONC	nature
+m	1	Mamuk 	anc.	v.	ACT.CONC	aid
+m	1	Man-elakh 	MGV	n.	OBJ.CONC	rope
+m	1	Man-tor 	MGV	v.	ACT.CONC	climb
+m	1	Map 	MGV	n.	OBJ.CONC	fen
+m	1	Marau 	MGV	v.	ACT.CONC	drift
+m	1	Maraya 	MGV	n.	OBJ.CONC	drift
+m	1	Markan-, Markanik 	MGV	adj.	ACT.CONC.MOD	floating
+m	1	Markau 	MGV	v.	ACT.CONC	float
+m	1	Markaya 	MGV	n.	OBJ.CONC	flotation, floating
+m	1	Markek 	MGV	n.	OBJ.CONC	float
+m	1	Markek-sov-hali 	MGV	n.	OBJ.CONC	floatplane
+m	1	Markuhsh 	MGV	n.	OBJ.CONC	flotsam
+m	1	Marom|-| 	MGV	adj.	PROP.CONC	excellent
+m	1	Marshak 	MGV	n.	OBJ.CONC	raft
+m	1	Masayuk 	MGV	n.	OBJ.CONC	faucet, tap
+m	1	Mashau 	MGV	v.	ACT.CONC	water
+m	1	Mashayek 	MGV	n.	OBJ.CONC	sprinkler
+m	1	Mashek 	MGV	n.	OBJ.CONC	bottle, flask, canteen, amphora, amp(o)ule
+m	1	Mashen 	MGV	n.	OBJ.CONC	tide
+m	1	Mashuk 	MGV	n.	OBJ.CONC	bucket
+m	1	Mashulek 	MGV	n.	OBJ.CONC	fountain (decorative)
+m	1	Mashya 	MGV	n.	OBJ.CONC	a Vulcan tuberous vegetable
+m	1	Masmev 	MGV	n.	OBJ.CONC	hose
+m	1	Masmezh 	MGV	n.	OBJ.CONC	ford
+m	1	Masmezhau 	MGV	v.	ACT.CONC	ford
+m	1	Mastevau 	MGV	v.	ACT.CONC	drown
+m	1	Masu 	MGV	n.	OBJ.CONC	water, fluid, liquid
+m	1	Masu'er 	MGV	n.	OBJ.CONC	navy
+m	1	Masu'es 	MGV	n.	OBJ.CONC	wetness, moisture
+m	1	Masu-hali 	MGV	n.	OBJ.CONC	ship, large boat
+m	1	Masu-nakh 	MGV	n.	OBJ.CONC	moisture index
+m	1	Masu-razh 	MGV	n.	OBJ.CONC	well
+m	1	Masu-tukh 	MGV	n.	OBJ.CONC	hydrogen
+m	1	Masu-ur 	MGV	n.	OBJ.CONC	aqueduct
+m	1	Masu-yut 	MGV	n.	OBJ.CONC	waterway, canal
+m	1	Masuk, Masuk' 	MGV	adj.	PROP.CONC	enormous, gigantic, gargantuan, huge, mammoth, massive
+m	1	Masumok-tukh 	MGV	n.	OBJ.CONC	mercury
+m	1	Masupau 	MGV	v.	ACT.CONC	dampen, moisten, wet
+m	1	Masupik 	MGV	n.	OBJ.CONC	damp, moist, wet
+m	1	Masusek 	MGV	n.	OBJ.CONC	ewer, pitcher
+m	1	Masusu 	MGV	n.	OBJ.CONC	sailor, seaman
+m	1	Masutra 	MGV	n.	OBJ.CONC	sea, ocean
+m	1	Masutra-ek'maik 	MGV	adj.	PROP.CONC	seaworthy
+m	1	Masutra-eshu'a 	MGV	n.	OBJ.CONC	waterspout, marine tornado
+m	1	Masutra-glu-spathel 	MGV	n.	OBJ.CONC	ocean trench
+m	1	Masutra-ha-tal 	MGV	n.	OBJ.CONC	marine biology
+m	1	Masutra-ha-talsu 	MGV	n.	OBJ.CONC	marine biologist
+m	1	Masutra-kunel 	MGV	n.	OBJ.CONC	seamount
+m	1	Masutra-mish-tal 	MGV	n.	OBJ.CONC	oceanology
+m	1	Masutra-nursu 	MGV	n.	OBJ.CONC	mermaid
+m	1	Masutra-pa'ash-kunel 	MGV	n.	OBJ.CONC	guyot
+m	1	Masutra-pi'salan 	MGV	n.	OBJ.CONC	sea breeze
+m	1	Masutra-riflash 	MGV	n.	OBJ.CONC	estuary
+m	1	Masutra-sasu 	MGV	n.	OBJ.CONC	merman
+m	1	Masutra-su'u 	MGV	n.	OBJ.CONC	merfolk, merpeople
+m	1	Masutra-tal 	MGV	n.	OBJ.CONC	oceanography
+m	1	Masutra-tol 	MGV	n.	OBJ.CONC	seafloor
+m	1	Masutra-vashraluk 	MGV	n.	OBJ.CONC	sea serpent
+m	1	Masutraik 	MGV	adj.	PROP.CONC	marine, oceanic, pelagic
+m	1	Masutral'esk 	MGV	n.	OBJ.CONC	sea monster
+m	1	Mat 	MGV	n.	OBJ.CONC	possession, ownership
+m	1	Math 	MGV	n.	OBJ.CONC	plate
+m	1	Mathra 	MGV	n.	OBJ.CONC	disc, disk
+m	1	Mathra-glayek 	MGV	n.	OBJ.CONC	disk camera
+m	1	Mathra-kapol 	MGV	n.	OBJ.CONC	disk filter
+m	1	Mathra-sadan-dahshayek 	MGV	n.	OBJ.CONC	disk centrifuge
+m	1	Mathra-spunek 	MGV	n.	OBJ.CONC	disk valve
+m	1	Mathra-tuh 	MGV	n.	OBJ.CONC	disk pack
+m	1	Mathra-vohrayeklar 	MGV	n.	OBJ.CONC	disc brakes
+m	1	Mathra-yeturek 	MGV	n.	OBJ.CONC	disc drive
+m	1	Mau 	MGV	adv.	SELEC.MOD	much
+m	1	Mau-tan 	MGV	n.	OBJ.CONC	excess, plethora, overabundance, glut
+m	1	Maut|-| 	MGV	adv.	DEG.MOD	very
+m	1	Maut-klon'es 	MGV	n.	OBJ.CONC	brilliance (intelligence)
+m	1	Maut-klonik 	MGV	adj.	PROP.CONC	brilliant, very smart
+m	1	Maut-ugel'es 	MGV	n.	OBJ.CONC	brilliance (brightness)
+m	1	Maut-ugelik 	MGV	adj.	PROP.CONC	brilliant (bright)
+m	1	Mauyik 	MGV	adj.	PROP.CONC	excessive
+m	1	Mavau 	MGV	v.	ACT.CONC	play
+m	1	Maz 	MGV	n.	OBJ.CONC	grain (of sand, etc.)
+m	1	Mazhiv 	MGV	n.	OBJ.CONC	sand(s)
+m	1	Mazhiv-tukh 	MGV	n.	OBJ.CONC	silicon
+m	1	Mazhu 	MGV	n.	OBJ.CONC	silica
+m	1	Mehk-tath	anc.	n.	OBJ.CONC	an integral part
+m	1	Mehtal-tor 	MGV	v.	ACT.CONC	pass, go past
+m	1	Meil-, Meilik 	MGV	adj.	PROP.CONC	chemical
+m	1	Meil-folaya 	MGV	n.	OBJ.CONC	chemical reaction
+m	1	Meil-lesk 	MGV	n.	OBJ.CONC	chemistry set
+m	1	Meil-tal 	MGV	n.	OBJ.CONC	chemistry
+m	1	Meil-tel 	MGV	n.	OBJ.CONC	chemical bond
+m	1	Meil-tepul 	MGV	n.	OBJ.CONC	chemical energy
+m	1	Meil-tukh 	MGV	n.	OBJ.CONC	chemical
+m	1	Meil-vo'ihn 	MGV	n.	OBJ.CONC	chemical equation
+m	1	Meilak 	MGV	n.	OBJ.CONC	(chemical) element
+m	1	Meilaktra 	MGV	n.	OBJ.CONC	chemical compound
+m	1	Meilokul 	MGV	v.	ACT.CONC	corrode
+m	1	Meilokulan 	MGV	n.	OBJ.CONC	corrosion
+m	1	Mek-tor 	MGV	v.	ACT.CONC	nod
+m	1	Mekh 	MGV	n.	OBJ.CONC	parent
+m	1	Mekh-tor 	MGV	v.	ACT.CONC	parent
+m	1	Mekhlar 	MGV	n.	OBJ.CONC	parents (general plural or alternatives)
+m	1	Mekhu 	MGV	n.	OBJ.CONC	parents (a mother and a father)
+m	1	Men-hil-tor 	MGV	v.	ACT.CONC	investigate
+m	1	Men-hilan 	MGV	n.	OBJ.CONC	investigation
+m	1	Men-hilsu 	MGV	n.	OBJ.CONC	investigator
+m	1	Menal 	MGV	n.	OBJ.CONC	cliff
+m	1	Mes 	MGV	n.	OBJ.CONC	crossing (place)
+m	1	Mes' 	MGV	prep.	SITU.MOD	across
+m	1	Mes-iyula-, Mes-iyulaik 	MGV	adj.	PROP.CONC	cross-cultural
+m	1	Mes-kahr-, Mes-kahrik 	MGV	adj.	PROP.CONC	crosstown
+m	1	Mes-katrom 	MGV	n.	OBJ.CONC	crosscurrent
+m	1	Mes-nakh-tor 	MGV	v.	ACT.CONC	cross-index
+m	1	Mes-shasol-, Mes-shasolik 	MGV	adj.	PROP.CONC	cross-national
+m	1	Mes-solektra-, Mes-solektraik 	MGV	adj.	PROP.CONC	cross-country
+m	1	Mes-tor 	MGV	v.	ACT.CONC	cross (over)
+m	1	Mes-yehat 	MGV	adj.	PROP.CONC	crossable
+m	1	Mesah 	MGV	n.	OBJ.CONC	catwalk
+m	1	Mesakh' 	MGV	prep.	SITU.MOD	beyond
+m	1	Mesan 	MGV	n.	OBJ.CONC	crossing (act of going across)
+m	1	Mesh 	MGV	n.	OBJ.CONC	shame
+m	1	Mesk 	MGV	n.	OBJ.CONC	case, chest, crate, container, etc.
+m	1	Meskarau 	MGV	v.	ACT.CONC	hold
+m	1	Mesprah 	MGV	v.	ACT.CONC	define
+m	1	Mesprahn 	MGV	n.	OBJ.CONC	definition
+m	1	Messau 	MGV	v.	ACT.CONC	approve
+m	1	Messaya 	MGV	n.	OBJ.CONC	approval
+m	1	Mestau 	MGV	v.	ACT.CONC	contact
+m	1	Mestaya 	MGV	n.	OBJ.CONC	contact
+m	1	Mesukh-tor 	MGV	v.	ACT.CONC	translate
+m	1	Mesut 	MGV	n.	OBJ.CONC	bridge
+m	1	Mesya 	MGV	n.	OBJ.CONC	a children's game similar to 'Tag'
+m	1	Mesyel 	MGV	n.	OBJ.CONC	overhang
+m	1	Mesyutik 	MGV	adj.	PROP.CONC	opposite
+m	1	Mev 	MGV	n.	OBJ.CONC	pipe, tube, duct
+m	1	Mihl-tor 	MGV	v.	ACT.CONC	taper
+m	1	Mihr-, Mihrik 	MGV	adj.	PROP.CONC	funny
+m	1	Mihrsh 	MGV	n.	OBJ.CONC	fun
+m	1	Mihrsh-bosh 	MGV	adj.	PROP.CONC	fun
+m	1	Mihrtra 	MGV	n.	OBJ.CONC	comedy
+m	1	Mik 	MGV	n.	OBJ.CONC	dial
+m	1	Mik-yal 	MGV	n.	OBJ.CONC	gauge
+m	1	Mikat'es 	MGV	n.	OBJ.CONC	curiosity
+m	1	Mikat-, Mikatik 	MGV	adj.	PROP.CONC	curious
+m	1	Min-tor 	MGV	v.	ACT.CONC	glow
+m	1	Min-tukh 	MGV	n.	OBJ.CONC	neon
+m	1	Mish-tal 	MGV	n.	OBJ.CONC	engineering
+m	1	Mish-vel 	MGV	n.	OBJ.CONC	machine
+m	1	Mishek 	MGV	n.	OBJ.CONC	engineer
+m	1	Mit-, Mitik 	MGV	adj.	PROP.CONC	gentle
+m	1	Miyusau 	MGV	v.	ACT.CONC	assume
+m	1	Miyusaya 	MGV	n.	OBJ.CONC	assumption
+m	1	Mlan	anc.	n.	OBJ.CONC	a very distant blood relative
+m	1	Mof 	MGV	n.	OBJ.CONC	pin
+m	1	Mog'es 	MGV	n.	OBJ.CONC	volume
+m	1	Moh 	MGV	num.	SELEC.MOD	billion
+m	1	Moh'veh 	MGV	n.	OBJ.CONC	billionth
+m	1	Mohk-, Mohkik 	MGV	adj.	PROP.CONC	comfortable
+m	1	Mohr-, Moh'rak 	MGV	adj.	PROP.CONC	billionth
+m	1	Mohrn 	MGV	n.	OBJ.CONC	class
+m	1	Mohrnau 	MGV	v.	ACT.CONC	classify
+m	1	Mohrnaya 	MGV	n.	OBJ.CONC	classification
+m	1	Mokev 	MGV	n.	OBJ.CONC	metal
+m	1	Mokh 	MGV	n.	OBJ.CONC	aim
+m	1	Mokh-tor 	MGV	v.	ACT.CONC	aim
+m	1	Mokuv 	MGV	n.	OBJ.CONC	ring, metal loop
+m	1	Mol-kur 	MGV	adj.	PROP.CONC	magenta
+m	1	Molu 	MGV	n.	OBJ.CONC	tone (sound)
+m	1	Mon 	MGV	n.	OBJ.CONC	drink
+m	1	Mon-masu 	MGV	n.	OBJ.CONC	drinking water, potable water
+m	1	Mon-masuyek 	MGV	n.	OBJ.CONC	drinking fountain
+m	1	Mon-tor 	MGV	v.	ACT.CONC	drink
+m	1	Mon-yehat 	MGV	adj.	PROP.CONC	drinkable, potable
+m	1	Mor 	MGV	n.	OBJ.CONC	leaf
+m	1	Mor-vulu 	MGV	n.	OBJ.CONC	blade angle
+m	1	Morov 	anc.	n.	OBJ.CONC	combat
+m	1	Mos|-| 	MGV	adj.	PROP.CONC	soft
+m	1	Mu'gel 	MGV	n.	OBJ.CONC	dark
+m	1	Mu'gel'es 	MGV	n.	OBJ.CONC	darkness
+m	1	Mu'gel-, Mu'gelik 	MGV	adj.	PROP.CONC	dark
+m	1	Mu'gel-folaya 	MGV	n.	OBJ.CONC	dark reaction
+m	1	Mu'gel-rubilaya 	MGV	n.	OBJ.CONC	dark adaptation
+m	1	Mu'gel-stukh-wan 	MGV	n.	OBJ.CONC	dark nebula
+m	1	Mu'gel-tukh 	MGV	n.	OBJ.CONC	dark matter
+m	1	Mu'glau 	MGV	v.	ACT.CONC	darken
+m	1	Mu'glaya 	MGV	n.	OBJ.CONC	darkening
+m	1	Mu'yar-kur 	MGV	adj.	PROP.CONC	dark green
+m	1	Mu'yor 	MGV	n.	OBJ.CONC	night
+m	1	Mu'yor-yem 	MGV	n.	OBJ.CONC	supper
+m	1	Muhd 	MGV	n.	OBJ.CONC	club
+m	1	Muhl 	MGV	adj.	PROP.CONC	healthy, well
+m	1	Muhl'es 	MGV	n.	OBJ.CONC	health, wellness
+m	1	Muhl-olau'es 	MGV	n.	OBJ.CONC	euphoria
+m	1	Muhl-olauk 	MGV	adj.	PROP.CONC	euphoric
+m	1	Muhs 	MGV	n.	OBJ.CONC	vapor
+m	1	Mukau 	MGV	v.	ACT.CONC	pour
+m	1	Mulut'es 	MGV	n.	OBJ.CONC	antagonism
+m	1	Mumau 	MGV	v.	ACT.CONC	rhyme
+m	1	Mun 	MGV	n.	OBJ.CONC	sauce
+m	1	Mutau 	MGV	v.	ACT.CONC	divert
+m	1	Mutaya 	MGV	n.	OBJ.CONC	diversion
+m	1	Muzh 	MGV	n.	OBJ.CONC	pond, waterhole
+n	1	Na 	MGV	n.	OBJ.CONC	pole
+n	1	Na' 	MGV	adv.	ACT.CONC.MOD	at, to(wards)
+n	1	Na'gal 	MGV	n.	OBJ.CONC	polaron
+n	1	Na'shau 	MGV	v.	ACT.CONC	greet
+n	1	Na'shaya 	MGV	n.	OBJ.CONC	greeting
+n	1	Na'shikh	anc.	n.	OBJ.CONC	advice, counsel
+n	1	Na-sovau 	MGV	v.	ACT.CONC	evaporate
+n	1	Na-sovau-thonek 	MGV	n.	OBJ.CONC	evaporimeter
+n	1	Na-sovaya 	MGV	n.	OBJ.CONC	evaporation
+n	1	Na-sovayek 	MGV	n.	OBJ.CONC	evaporator
+n	1	Naf 	MGV	n.	OBJ.CONC	link
+n	1	Nafai-tor 	MGV	n.	OBJ.CONC	acknowledge
+n	1	Nafek 	MGV	n.	OBJ.CONC	organ
+n	1	Nafek-nen 	MGV	n.	OBJ.CONC	fundus
+n	1	Naflakh 	MGV	n.	OBJ.CONC	chain
+n	1	Naflakh-aberau-vihpan 	MGV	n.	OBJ.CONC	chain block
+n	1	Naflakh-halek 	MGV	n.	OBJ.CONC	chain wheel
+n	1	Naflakh-spol 	MGV	n.	OBJ.CONC	chain pump
+n	1	Naflakh-tvi-shal 	MGV	n.	OBJ.CONC	chain locker
+n	1	Naflakh-zheleshek 	MGV	n.	OBJ.CONC	chain conveyor
+n	1	Nafu'es 	MGV	n.	OBJ.CONC	personality
+n	1	Nafuhlau 	MGV	v.	ACT.CONC	frustrate
+n	1	Nafuhlaya 	MGV	n.	OBJ.CONC	frustration
+n	1	Nagau 	MGV	v.	ACT.CONC	face, confront
+n	1	Naglashau 	MGV	v.	ACT.CONC	recognize
+n	1	Nah-tor 	MGV	v.	ACT.CONC	think
+n	1	Nahp 	MGV	n.	OBJ.CONC	thought(s)
+n	1	Nahp-tash-svitan 	MGV	n.	OBJ.CONC	cerebrum
+n	1	Nahr 	anc.	n.	OBJ.CONC	discipline
+n	1	Nahth-tukh 	MGV	n.	OBJ.CONC	halogen
+n	1	Nak 	MGV	n.	OBJ.CONC	cheek
+n	1	Nakarat 	MGV	n.	OBJ.CONC	endeavor
+n	1	Nakh 	MGV	n.	OBJ.CONC	index
+n	1	Nakht 	MGV	n.	OBJ.CONC	a cereal grain similar to oats
+n	1	Nakihtilau 	MGV	v.	ACT.CONC	modulate
+n	1	Nakihtilayek 	MGV	n.	OBJ.CONC	modulator
+n	1	Nal-tor 	MGV	v.	ACT.CONC	chew
+n	1	Nala 	MGV	n.	OBJ.CONC	cell
+n	1	Nala-, Nalatik 	MGV	adj.	PROP.CONC	cellular
+n	1	Nala-ashauk 	MGV	adj.	PROP.CONC	cytophilic
+n	1	Nala-da-nel 	MGV	n.	OBJ.CONC	cell cycle
+n	1	Nala-dahshaya 	MGV	n.	OBJ.CONC	cell(ular) division
+n	1	Nala-hasam 	MGV	n.	OBJ.CONC	cytotoxin
+n	1	Nala-kaunshaya 	MGV	n.	OBJ.CONC	cell(ular) fusion
+n	1	Nala-litra 	MGV	n.	OBJ.CONC	cell culture
+n	1	Nala-meil-tal 	MGV	n.	OBJ.CONC	cytochemistry
+n	1	Nala-pehkauk 	MGV	n.	OBJ.CONC	cytostatic
+n	1	Nala-svitan 	MGV	n.	OBJ.CONC	cell(ular) nucleus
+n	1	Nala-tal 	MGV	n.	OBJ.CONC	cytology
+n	1	Nala-temok 	MGV	n.	OBJ.CONC	cell wall
+n	1	Nala-to'ovaya 	MGV	n.	OBJ.CONC	cell(ular) growth
+n	1	Nala-tol-tal 	MGV	n.	OBJ.CONC	cytogenetics
+n	1	Nala-wein 	MGV	n.	OBJ.CONC	cell(ular) membrane
+n	1	Nalatra 	MGV	n.	OBJ.CONC	tissue
+n	1	Nalatra-nisan 	MGV	n.	OBJ.CONC	biopsy
+n	1	Nalatra-vaferek 	MGV	n.	OBJ.CONC	tissue regenerator
+n	1	Naliveh 	MGV	n.	OBJ.CONC	alcohol
+n	1	Nam 	MGV	n.	OBJ.CONC	existence, the state of being
+n	1	Nam-tor 	MGV	v.	ACT.CONC	be, exist
+n	1	Namishau 	MGV	v.	ACT.CONC	adjust
+n	1	Namishaya 	MGV	n.	OBJ.CONC	adjustment
+n	1	Nan 	MGV	n.	OBJ.CONC	threat
+n	1	Nan-tor 	MGV	v.	ACT.CONC	threaten
+n	1	Nantau 	MGV	v.	ACT.CONC	stare
+n	1	Nar-tor 	MGV	v.	ACT.CONC	accept
+n	1	Narak 	MGV	n.	OBJ.CONC	pole
+n	1	Narak'es 	MGV	n.	OBJ.CONC	polarity
+n	1	Nartau 	MGV	v.	ACT.CONC	embrace
+n	1	Nas|-| 	MGV	adj.	PROP.CONC	sharp
+n	1	Nash-gad 	MGV	adv.	ACT.CONC.MOD	today
+n	1	Nashinahru	anc.	n.	OBJ.CONC	offensive psionic warrior
+n	1	Nashiv 	MGV	n.	OBJ.CONC	attack
+n	1	Nashiv-tor 	MGV	v.	ACT.CONC	attack
+n	1	Natel 	MGV	n.	OBJ.CONC	module
+n	1	Nati 	MGV	v.	ACT.CONC	differ
+n	1	Natuhn 	MGV	n.	OBJ.CONC	box, carton
+n	1	Natya|-| 	MGV	n.	OBJ.CONC	different
+n	1	Natyan 	MGV	n.	OBJ.CONC	difference(s)
+n	1	Nau 	MGV	v.	ACT.CONC	moan
+n	1	Nau'veh 	MGV	n.	OBJ.CONC	ninth
+n	1	Nau-leh 	MGV	num.	SELEC.MOD	ninety
+n	1	Nau-leh'veh 	MGV	n.	OBJ.CONC	ninetieth
+n	1	Nau-lehr-, Nau-leh'rak 	MGV	adj.	PROP.CONC	ninetieth
+n	1	Nauf 	MGV	n.	OBJ.CONC	epoch
+n	1	Nauk 	MGV	n.	OBJ.CONC	sprain
+n	1	Nau|kuh| 	MGV	num.	SELEC.MOD	nine
+n	1	Naul 	MGV	n.	OBJ.CONC	feud
+n	1	Naur-, Nau'rak 	MGV	adj.	PROP.CONC	ninth
+n	1	Nav 	MGV	adv.	ACT.CONC.MOD	ever
+n	1	Navath-zhit 	MGV	n.	OBJ.CONC	comparitive (grammar)
+n	1	Navathau 	MGV	v.	ACT.CONC	compare
+n	1	Navathaya 	MGV	n.	OBJ.CONC	comparison
+n	1	Navau 	MGV	v.	ACT.CONC	succeed
+n	1	Navun 	MGV	n.	OBJ.CONC	success
+n	1	Navyasik 	MGV	adj.	PROP.CONC	anxious
+n	1	Nayik 	MGV	adj.	PROP.CONC	avid, eager
+n	1	Nazh|-kap| 	MGV	n.	OBJ.CONC	gain
+n	1	Nazh-tor 	MGV	v.	ACT.CONC	gain
+n	1	Ne'	MGV	prep.	SITU.MOD	below, beneath, under
+n	1	Ne'rak	MGV	adv.	ACT.CONC.MOD	underneath, beneath
+n	1	Ne-kaluk 	MGV	n.	OBJ.CONC	earlobe
+n	1	Ne-kar 	MGV	n.	OBJ.CONC	forearm
+n	1	Ne-koshtri'es 	MGV	n.	OBJ.CONC	ethnicity
+n	1	Ne-koshtri-svitanik 	MGV	adj.	PROP.CONC	ethnocentric
+n	1	Ne-koshtri-tal 	MGV	n.	OBJ.CONC	ethnology
+n	1	Ne-lan 	MGV	n.	OBJ.CONC	cadet, trainee
+n	1	Ne-mal 	MGV	n.	OBJ.CONC	shin
+n	1	Ne-shal 	MGV	n.	OBJ.CONC	basement
+n	1	Ne-tuhlek 	MGV	n.	OBJ.CONC	belly tank
+n	1	Ned 	MGV	n.	OBJ.CONC	dough
+n	1	Nef 	MGV	n.	OBJ.CONC	shelf, terrace
+n	1	Nehau 	MGV	v.	ACT.CONC	decay, rot
+n	1	Nehg 	MGV	n.	OBJ.CONC	belly
+n	1	Nei 	MGV	n.	OBJ.CONC	seed
+n	1	Neikau 	MGV	v.	ACT.CONC	defeat, vanquish
+n	1	Neis-tor 	MGV	v.	ACT.CONC	deplete, use up
+n	1	Nek 	MGV	n.	OBJ.CONC	squad, patrol, scouting party
+n	1	Nekwitaya 	MGV	n.	OBJ.CONC	force
+n	1	Nel-, Nelik 	MGV	adj.	PROP.CONC	main
+n	1	Nel-dath 	MGV	n.	OBJ.CONC	pattern
+n	1	Nelka 	MGV	n.	OBJ.CONC	pedestal, display stand
+n	1	Nem-tor 	MGV	v.	ACT.CONC	take
+n	1	Nemashau 	MGV	v.	ACT.CONC	dehydrate
+n	1	Nemashaya 	MGV	n.	OBJ.CONC	dehydration
+n	1	Nemasu-, Nemasuyik 	MGV	adj.	PROP.CONC	underwater, undersea, submarine, subsea
+n	1	Nemut 	MGV	n.	OBJ.CONC	enemy
+n	1	Nen 	MGV	n.	OBJ.CONC	base, foot, foundation
+n	1	Nen-, Nenik 	MGV	adj.	PROP.CONC	basal, basic, fundamental
+n	1	Nen-dukal 	MGV	n.	OBJ.CONC	baseball (the ball)
+n	1	Nen-dukal-torvukh 	MGV	n.	OBJ.CONC	baseball (the sport)
+n	1	Nen-kas-tukh 	MGV	n.	OBJ.CONC	cellulose
+n	1	Nen-kebi 	MGV	n.	OBJ.CONC	base unit, fundamental unit
+n	1	Nen-pi'gal 	MGV	n.	OBJ.CONC	fundamental particle
+n	1	Nen-shid 	MGV	n.	OBJ.CONC	basic form, fundamental form
+n	1	Nen-shif 	MGV	n.	OBJ.CONC	base pair
+n	1	Nen-tin 	MGV	n.	OBJ.CONC	base level
+n	1	Nen-torektra 	MGV	n.	OBJ.CONC	basic system, fundamental system
+n	1	Nen-travek 	MGV	n.	OBJ.CONC	base group, fundamental group
+n	1	Nen-vukharat 	MGV	n.	OBJ.CONC	base vector
+n	1	Nen-vukhut 	MGV	n.	OBJ.CONC	basal body
+n	1	Nen-vulu 	MGV	n.	OBJ.CONC	base angle
+n	1	Nen-weltralar 	MGV	n.	OBJ.CONC	basal ganglia
+n	1	Nen-zehl 	MGV	n.	OBJ.CONC	baseline
+n	1	Nenam-tor 	MGV	v.	ACT.CONC	to be based on
+n	1	Nenem-tor 	MGV	v.	ACT.CONC	deduct
+n	1	Nenikau 	MGV	v.	ACT.CONC	support
+n	1	Nentu 	MGV	n.	OBJ.CONC	frame
+n	1	Ner-, Nerik 	MGV	n.	OBJ.CONC	dependent
+n	1	Nerau 	MGV	v.	ACT.CONC	depend
+n	1	Nerek|-| 	MGV	adj.	PROP.CONC	dependable
+n	1	Neruk-, Nerukik 	MGV	adj.	PROP.CONC	humble
+n	1	Nes 	MGV	n.	OBJ.CONC	drop (in temperature)
+n	1	Nesh 	MGV	n.	OBJ.CONC	cut
+n	1	Nesh-kur 	MGV	adj.	PROP.CONC	black
+n	1	Nesh-kurau 	MGV	v.	ACT.CONC	blacken
+n	1	Nesh-tor 	MGV	v.	ACT.CONC	cut
+n	1	Nesh-tukh 	MGV	n.	OBJ.CONC	iodine
+n	1	Neshek 	MGV	n.	OBJ.CONC	cutter
+n	1	Neshuhk 	MGV	n.	OBJ.CONC	parasite
+n	1	Net 	MGV	n.	OBJ.CONC	scab
+n	1	Netikidau 	MGV	v.	ACT.CONC	reduce
+n	1	Nev-kur 	MGV	adj.	PROP.CONC	maroon
+n	1	Nevasa	anc.	n.	OBJ.CONC	a name for the Vulcan system's sun
+n	1	Nezhak 	MGV	n.	OBJ.CONC	chaos
+n	1	Ni 	MGV	adv.	DEG.MOD	so, such a
+n	1	Ni-prazh	anc.	n.	OBJ.CONC	stoic, displaying no emotion(s)
+n	1	Nifauli|-| 	MGV	adj.	PROP.CONC	bizarre
+n	1	Niht 	MGV	n.	OBJ.CONC	cousin (general term)
+n	1	Nik'el 	MGV	n.	OBJ.CONC	convoy, caravan
+n	1	Nikh	anc.	n.	OBJ.CONC	eye
+n	1	Nis-tor 	MGV	v.	ACT.CONC	test
+n	1	Nisan 	MGV	n.	OBJ.CONC	test
+n	1	Nisau 	MGV	v.	ACT.CONC	probe, test thoroughly, examine in detail, analyze
+n	1	Nodolaya 	MGV	n.	OBJ.CONC	fixation
+n	1	Nohv 	MGV	n.	OBJ.CONC	meld
+n	1	Nok 	MGV	n.	OBJ.CONC	concrete (material)
+n	1	Nol-tukh 	MGV	n.	OBJ.CONC	carbon
+n	1	Nop 	MGV	n.	OBJ.CONC	card
+n	1	Nosahp 	MGV	n.	OBJ.CONC	amount
+n	1	Nosh 	MGV	n.	OBJ.CONC	state, condition
+n	1	Nosh-nisaklar 	MGV	n.	OBJ.CONC	diagnostics
+n	1	Nosh-satilau 	MGV	v.	ACT.CONC	diagnose
+n	1	Nosh-satilaya 	MGV	n.	OBJ.CONC	diagnosis
+n	1	Nosh-tor 	MGV	v.	ACT.CONC	condition
+n	1	Noshau 	MGV	v.	ACT.CONC	stand (as)
+n	1	Noshek 	MGV	n.	OBJ.CONC	conditioner
+n	1	Noshtra 	MGV	n.	OBJ.CONC	trait, characteristic
+n	1	Nu, Nu' 	MGV	prep.	SITU.MOD	down
+n	1	Nu'le 	MGV	adv.	ACT.CONC.MOD	downwards
+n	1	Nu'ri|-| 	MGV	adj.	PROP.CONC	young
+n	1	Nu-seshan 	MGV	n.	OBJ.CONC	gravity
+n	1	Nu-seshan-svitan 	MGV	n.	OBJ.CONC	center of gravity
+n	1	Nu-tor 	MGV	v.	ACT.CONC	lower
+n	1	Nuf 	MGV	n.	OBJ.CONC	case, event
+n	1	Nufau 	MGV	v.	ACT.CONC	offer
+n	1	Nuh' 	MGV	adv.	DEG.MOD	too
+n	1	Nuhish 	MGV	n.	OBJ.CONC	downward pressure
+n	1	Nuhk|-| 	MGV	adj.	PROP.CONC	courteous
+n	1	Nuhk'es 	MGV	n.	OBJ.CONC	courtesy
+n	1	Nuhs 	MGV	n.	OBJ.CONC	era
+n	1	Nuk|-| 	MGV	adj.	PROP.CONC	low
+n	1	Nuk-ha'gel-, Nuk-ha'gelik 	MGV	adj.	PROP.CONC	dim
+n	1	Nuk-khaf-vihish 	MGV	n.	OBJ.CONC	low blood pressure
+n	1	Nuk-mashen 	MGV	n.	OBJ.CONC	low tide
+n	1	Nuk-tahmoh-, Nuk-tahmohik 	MGV	adj.	PROP.CONC	low resolution
+n	1	Nuk-vihish 	MGV	n.	OBJ.CONC	low pressure
+n	1	Nuk-vikuvtra 	MGV	n.	OBJ.CONC	cay, key, low island
+n	1	Nukh 	MGV	n.	OBJ.CONC	mode
+n	1	Nukuyau 	MGV	v.	ACT.CONC	sit down
+n	1	Nulau 	MGV	v.	ACT.CONC	decrease, diminish, suppress
+n	1	Numo 	MGV	adj.	PROP.CONC	extremely small, microscopic
+n	1	Numo-zan-vel 	MGV	n.	OBJ.CONC	microscope
+n	1	Nunau 	MGV	v.	ACT.CONC	fit
+n	1	Nup 	MGV	n.	OBJ.CONC	fractal
+n	1	Nuralash 	MGV	n.	OBJ.CONC	bass (low frequency sound)
+n	1	Nuralash-aboraya 	MGV	n.	OBJ.CONC	bass boost
+n	1	Nuralash-vakav'es 	MGV	n.	OBJ.CONC	bass frequency
+n	1	Nus 	MGV	n.	OBJ.CONC	parameter
+n	1	Nushau 	MGV	v.	ACT.CONC	collapse
+n	1	Nushaya 	MGV	n.	OBJ.CONC	collapse
+n	1	Nut 	MGV	n.	OBJ.CONC	drop, lowering
+n	1	Nuv-tor 	MGV	v.	ACT.CONC	flutter
+o	1	Odon 	MGV	n.	OBJ.CONC	treasure
+o	1	Odva 	MGV	n.	OBJ.CONC	faith
+o	1	Oekon 	MGV	n.	OBJ.CONC	God, the Supreme Being
+o	1	Ofereiksu 	MGV	n.	OBJ.CONC	the Creator (i.e.God)
+o	1	Og 	MGV	n.	OBJ.CONC	stitch
+o	1	Og-elakh 	MGV	n.	OBJ.CONC	thread
+o	1	Og-lum 	MGV	n.	OBJ.CONC	needle
+o	1	Og-tor 	MGV	v.	ACT.CONC	sew, stitch
+o	1	Ogsu 	MGV	n.	OBJ.CONC	seamster, seamstress (general term)
+o	1	Oh-leh 	MGV	num.	SELEC.MOD	eighty
+o	1	Oh-leh'veh 	MGV	n.	OBJ.CONC	eightieth
+o	1	Oh-lehr-, Oh-leh'rak 	MGV	adj.	PROP.CONC	eightieth
+o	1	Oh|kuh| 	MGV	num.	SELEC.MOD	eight
+o	1	Ohmor 	MGV	n.	OBJ.CONC	epithet
+o	1	Ohorssu 	MGV	n.	OBJ.CONC	knight (Terran)
+o	1	Ok 	MGV	n.	OBJ.CONC	cam
+o	1	Ok-fek 	MGV	n.	OBJ.CONC	camshaft
+o	1	Okenelsu 	MGV	n.	OBJ.CONC	knight (Vulcan)
+o	1	Olau 	MGV	v.	ACT.CONC	feel
+o	1	Oluhk 	MGV	n.	OBJ.CONC	snake
+o	1	On 	MGV	pron.	SELEC.MOD	both
+o	1	Ooch	anc.	n.	OBJ.CONC	wizard
+o	1	Opilsu 	MGV	n.	OBJ.CONC	chef (honoured)
+o	1	Opul-, Opulik 	MGV	adj.	PROP.CONC	aware
+o	1	Oren-tor 	MGV	v.	ACT.CONC	learn
+o	1	Orenau 	MGV	v.	ACT.CONC	study
+o	1	Orensu 	MGV	n.	OBJ.CONC	student, pupil
+o	1	Orenus 	MGV	n.	OBJ.CONC	course (of study)
+o	1	Orfikkel 	anc.	n.	OBJ.CONC	ancestors, forebearers, progenitors
+o	1	Ork 	MGV	n.	OBJ.CONC	boom
+o	1	Orn-tukh 	MGV	n.	OBJ.CONC	nickel
+o	1	Orniaga	anc.	adj.	PROP.CONC	irritated
+o	1	Os|-| 	MGV	adj.	PROP.CONC	old, aged
+o	1	Oshi 	MGV	n.	OBJ.CONC	shrine
+o	1	Oshu'a	anc.	n.	OBJ.CONC	mythological volcano spirit
+o	1	Osos'ehtak 	MGV	n.	OBJ.CONC	legend
+o	1	Osos'ehtakan-, Osos'ehtakanik 	MGV	adj.	PROP.CONC	legendary
+o	1	Osu 	MGV	n.	OBJ.CONC	honored person (can be used for 'sir' or 'madam' in context)
+o	1	Ot-lan 	MGV	n.	OBJ.CONC	captain
+o	1	Oub 	MGV	n.	OBJ.CONC	firmament
+o	1	Oveh 	MGV	n.	OBJ.CONC	saint
+o	1	Ovsotu	anc.	v.	ACT.CONC	total
+o	1	Ovsotuhl 	MGV	adj.	PROP.CONC	complete, total
+o	1	Ovsu 	anc.	n.	OBJ.CONC	total
+o	1	Ovulau 	MGV	v.	ACT.CONC	bow
+o	1	Oyut 	MGV	n.	OBJ.CONC	custom
+o	1	Ozh 	MGV	n.	OBJ.CONC	finger
+o	1	Ozh-dukal 	MGV	n.	OBJ.CONC	fist
+o	1	Ozhika 	MGV	n.	OBJ.CONC	logic
+o	1	Ozhikaik 	MGV	adj.	PROP.CONC	logical
+p	0	Pa' 	MGV	prep.	SITU.MOD	around
+p	0	Pa'ash|-| 	MGV	adj.	PROP.CONC	flat
+p	0	Pa'ash-tor 	MGV	v.	ACT.CONC	flatten
+p	0	Pa'shau 	MGV	v.	ACT.CONC	clear
+p	0	Pa'tam'al-kelek 	MGV	n.	OBJ.CONC	haunted house
+p	0	Pa'tam'au 	MGV	v.	ACT.CONC	haunt
+p	0	Pa-tukh 	MGV	n.	OBJ.CONC	gas (oxygen, etc.)
+p	0	Pa-tukh-, Pa-tukhik 	MGV	adj.	PROP.CONC	gaseous
+p	0	Pabukh-tor 	MGV	v.	ACT.CONC	forgive
+p	0	Pabukhu 	MGV	n.	OBJ.CONC	The Forgiven
+p	0	Pada-tor 	MGV	v.	ACT.CONC	spin/rotate quickly, turn fast
+p	0	Padukau 	MGV	v.	ACT.CONC	roll
+p	0	Pafam|-| 	MGV	adj.	PROP.CONC	deficient
+p	0	Pagun 	anc.	n.	OBJ.CONC	duel
+p	0	Pahth 	MGV	n.	OBJ.CONC	panic
+p	0	Pahutau 	MGV	v.	ACT.CONC	agitate
+p	0	Pahz 	MGV	n.	OBJ.CONC	lightning
+p	0	Paikau 	MGV	v.	ACT.CONC	fluster
+p	0	Pak 	MGV	n.	OBJ.CONC	loss
+p	0	Pak-tor 	MGV	v.	ACT.CONC	lose
+p	0	Pakh 	MGV	n.	OBJ.CONC	stroke
+p	0	Pakhaik 	MGV	adj.	PROP.CONC	regular
+p	0	Pakhartau 	MGV	v.	ACT.CONC	regulate
+p	0	Pakik, Pakal-, Pakalik 	MGV	adj.	PROP.CONC	lost
+p	0	Pakuv 	MGV	n.	OBJ.CONC	coil, loop
+p	0	Pal 	MGV	n.	OBJ.CONC	age, era
+p	0	Palesh-tor 	MGV	v.	ACT.CONC	endure
+p	0	Palikau 	MGV	v.	ACT.CONC	begin, commence, start
+p	0	Palutunau 	MGV	v.	ACT.CONC	care for, tend, watch over
+p	0	Pamashok 	MGV	n.	OBJ.CONC	dike
+p	0	Pamutau 	MGV	v.	ACT.CONC	bypass
+p	0	Panaz 	MGV	n.	OBJ.CONC	fume
+p	0	Panu 	MGV	n.	OBJ.CONC	world
+p	0	Paribau 	MGV	v.	ACT.CONC	discuss
+p	0	Paribaya 	MGV	n.	OBJ.CONC	discussion
+p	0	Pas-, Pasik 	MGV	adj.	PROP.CONC	dull, blunt
+p	0	Pash-tor 	MGV	v.	ACT.CONC	trap
+p	0	Pashov 	anc.	n.	OBJ.CONC	dolmen
+p	0	Pasu 	MGV	n.	OBJ.CONC	table
+p	0	Pasutau 	MGV	v.	ACT.CONC	camouflage, disguise
+p	0	Patal-tor 	MGV	v.	ACT.CONC	detect
+p	0	Patalek 	MGV	n.	OBJ.CONC	detector
+p	0	Patalavau 	MGV	v.	ACT.CONC	appraise, evaluate
+p	0	Patalavaya 	MGV	n.	OBJ.CONC	appraisal, evaluation
+p	0	Patam 	MGV	n.	OBJ.CONC	head
+p	0	Patishal-, Patishalik 	MGV	adj.	PROP.CONC	popular
+p	0	Patorau 	MGV	v.	ACT.CONC	process
+p	0	Patra 	MGV	n.	OBJ.CONC	pool (vehicle, gene, etc.)
+p	0	Patuhl-tor 	MGV	v.	ACT.CONC	encase
+p	0	Pau 	MGV	n.	OBJ.CONC	corona, halo
+p	0	Pauk 	MGV	adj.	PROP.CONC	round
+p	0	Pavek 	MGV	n.	OBJ.CONC	event
+p	0	Pavesh-tor 	MGV	v.	ACT.CONC	happen, occur
+p	0	Pehkau 	MGV	v.	ACT.CONC	stop
+p	0	Pekh 	MGV	n.	OBJ.CONC	feces, dung, excrement, manure
+p	0	Pel-tar'uk	anc.	n.	OBJ.CONC	a low shrub which produces small, green, edible berries
+p	0	Pelakh 	MGV	n.	OBJ.CONC	filament
+p	0	Pelal 	MGV	n.	OBJ.CONC	robe
+p	0	Pen-, Penik 	MGV	adj.	PROP.CONC	short
+p	0	Pen-tor 	MGV	v.	ACT.CONC	shorten, curtail
+p	0	Penal-harr 	MGV	adj.	PROP.CONC	bobtail
+p	0	Per-ithop	anc.	n.	OBJ.CONC	actor, actress
+p	0	Per-tor 	MGV	v.	ACT.CONC	act
+p	0	Pes-, Pesik 	MGV	adj.	PROP.CONC	firm
+p	0	Pev 	anc.	n.	OBJ.CONC	mat
+p	0	Pi, Pi' 	MGV	adj.	PROP.CONC	small, little
+p	0	Pi'dayek 	MGV	n.	OBJ.CONC	rotor
+p	0	Pi'dayek-hashek 	MGV	n.	OBJ.CONC	gyrocopter
+p	0	Pi'gal 	MGV	n.	OBJ.CONC	particle
+p	0	Pi'kahr 	MGV	n.	OBJ.CONC	village, hamlet, settlement
+p	0	Pi'maat 	MGV	n.	OBJ.CONC	family
+p	0	Pi'mashali 	MGV	n.	OBJ.CONC	boat
+p	0	Pi'math 	MGV	n.	OBJ.CONC	saucer
+p	0	Pi'nafek 	MGV	n.	OBJ.CONC	gland
+p	0	Pi'sukhlop 	MGV	n.	OBJ.CONC	figurine, statuette
+p	0	Pi'tenkan	MGV	n.	OBJ.CONC	embryo
+p	0	Pi'wakru 	MGV	n.	OBJ.CONC	minute
+p	0	Pid|-| 	MGV	adj.	PROP.CONC	high
+p	0	Pid-khaf-vihish 	MGV	n.	OBJ.CONC	high blood pressure, hypertension
+p	0	Pid-mashen 	MGV	n.	OBJ.CONC	high tide
+p	0	Pid-shal|tra| 	MGV	n.	OBJ.CONC	highland(s)
+p	0	Pid-tahmoh-, Pid-tahmohik 	MGV	adj.	PROP.CONC	high resolution
+p	0	Pid-vihish 	MGV	n.	OBJ.CONC	high pressure
+p	0	Pidek 	MGV	n.	OBJ.CONC	height
+p	0	Pidesh 	anc.	v.	ACT.CONC	exert
+p	0	Pidvalu 	MGV	n.	OBJ.CONC	hyperbola
+p	0	Pih-saya 	MGV	n.	OBJ.CONC	gamma radiation
+p	0	Pih-zehllar 	MGV	n.	OBJ.CONC	gamma rays
+p	0	Pihl 	MGV	n.	OBJ.CONC	quark
+p	0	Pihlora 	MGV	n.	OBJ.CONC	'pyllora', counselor, guide
+p	0	Pil-tor 	MGV	v.	ACT.CONC	prepare food (for eating)
+p	0	Pilash 	MGV	n.	OBJ.CONC	river
+p	0	Pilsu 	MGV	n.	OBJ.CONC	food preparer, cook, chef
+p	0	Pim-tukh 	MGV	n.	OBJ.CONC	lithium
+p	0	Pinkau 	MGV	v.	ACT.CONC	earn
+p	0	Pishek 	MGV	n.	OBJ.CONC	steel
+p	0	Pitoh 	MGV	n.	OBJ.CONC	note
+p	0	Piyah|-| 	MGV	adj.	PROP.CONC	ripe
+p	0	Pla'dor 	MGV	n.	OBJ.CONC	back
+p	0	Pla'rak 	MGV	adv.	ACT.CONC.MOD	backward(s)
+p	0	Pla-kur 	MGV	adj.	PROP.CONC	blue
+p	0	Pla-tor 	MGV	v.	ACT.CONC	back up, to go in reverse
+p	0	Pla-tukh 	MGV	n.	OBJ.CONC	cobalt
+p	0	Plak-tau	anc.	n.	OBJ.CONC	plak tow', Vulcan 'blood fever'
+p	0	Plan 	MGV	n.	OBJ.CONC	backing up, reversal
+p	0	Plat 	MGV	n.	OBJ.CONC	spine
+p	0	Plathau 	MGV	v.	ACT.CONC	consummate
+p	0	Plesh-tor 	MGV	v.	ACT.CONC	crush
+p	0	Pliflau 	MGV	v.	ACT.CONC	condemn
+p	0	Plik 	MGV	n.	OBJ.CONC	advantage
+p	0	Plis-tor 	MGV	v.	ACT.CONC	glide
+p	0	Plisek 	MGV	n.	OBJ.CONC	glider
+p	0	Plokh 	MGV	n.	OBJ.CONC	delusion
+p	0	Plom	anc.	n.	OBJ.CONC	vegetable
+p	0	Plom-bah-ker 	MGV	n.	OBJ.CONC	vegetable garden
+p	0	Plomik 	MGV	adj.	PROP.CONC	'plomeek', vegetable
+p	0	Plomik shur 	MGV	n.	OBJ.CONC	plomeek soup, vegetable soup
+p	0	Pluhk 	MGV	n.	OBJ.CONC	vomit
+p	0	Po 	MGV	adv.	PREDIC.MOD	why
+p	0	Po' 	MGV	prep.	SITU.MOD	after
+p	0	Po-wak 	MGV	n.	OBJ.CONC	aftermath
+p	0	Pohl|-| 	MGV	adv.	SELEC.MOD	several
+p	0	Pohshau 	MGV	v.	ACT.CONC	shoot
+p	0	Pohshek 	MGV	n.	OBJ.CONC	firearm, gun
+p	0	Pok 	MGV	adj.	PROP.CONC	ready
+p	0	Pol-tor 	MGV	v.	ACT.CONC	fry
+p	0	Pon farr	anc.	n.	OBJ.CONC	'mating time'
+p	0	Pon-to-fa	anc.	n.	OBJ.CONC	estrus, 'heat'
+p	0	Pon-tor 	MGV	v.	ACT.CONC	mate
+p	0	Poprah 	MGV	v.	ACT.CONC	receive
+p	0	Poshaht-, Poshahtik 	MGV	adj.	PROP.CONC	eventual
+p	0	Potau 	MGV	v.	ACT.CONC	keep
+p	0	Potun-tor 	MGV	v.	ACT.CONC	sustain
+p	0	Praduk 	MGV	n.	OBJ.CONC	front
+p	0	Prahk'es 	MGV	n.	OBJ.CONC	ecstasy
+p	0	Pral 	MGV	n.	OBJ.CONC	wave
+p	0	Prash 	MGV	n.	OBJ.CONC	mucus
+p	0	Praskul-, Praskulik 	MGV	adj.	PROP.CONC	flamboyant
+p	0	Prel 	MGV	n.	OBJ.CONC	bliss
+p	0	Prel-bosh 	MGV	adj.	PROP.CONC	blissful
+p	0	Pris-tor 	MGV	v.	ACT.CONC	braid
+p	0	Psal-tukh 	MGV	n.	OBJ.CONC	strontium
+p	0	Psau 	MGV	v.	ACT.CONC	seek
+p	0	Pseth|-| 	MGV	adj.	PROP.CONC	dry
+p	0	Pseth-wak 	MGV	n.	OBJ.CONC	drought
+p	0	Pstha 	MGV	v.	ACT.CONC	search, look for
+p	0	Psthan 	MGV	n.	OBJ.CONC	search, quest
+p	0	Pstheran 	MGV	n.	OBJ.CONC	cliche
+p	0	Pthak 	MGV	n.	OBJ.CONC	fear, phobia
+p	0	Pu'a 	MGV	n.	OBJ.CONC	fairy
+p	0	Pu'gal 	MGV	n.	OBJ.CONC	baryon
+p	0	Pu'olu 	MGV	n.	OBJ.CONC	genie
+p	0	Pu'ulidau 	MGV	v.	ACT.CONC	to be marked
+p	0	Pu-tor 	MGV	v.	ACT.CONC	clean
+p	0	Pudatau 	MGV	v.	ACT.CONC	to be propelled
+p	0	Pudor-tor 	MGV	v.	ACT.CONC	to be honored
+p	0	Pudva-tor 	MGV	v.	ACT.CONC	to be to believed
+p	0	Pudvel-tor 	MGV	v.	ACT.CONC	to be chosen
+p	0	Pufai-tor 	MGV	v.	ACT.CONC	to be known
+p	0	Pufas-tor 	MGV	v.	ACT.CONC	to be cooked
+p	0	Pufulag-tor 	MGV	v.	ACT.CONC	to be lead
+p	0	Puhku 	MGV	n.	OBJ.CONC	amber, succinite
+p	0	Puhnk 	MGV	n.	OBJ.CONC	crust
+p	0	Puhsh 	MGV	n.	OBJ.CONC	foam, froth, spume
+p	0	Puk-tor 	MGV	v.	ACT.CONC	fight
+p	0	Pukilko-tor 	MGV	v.	ACT.CONC	to be answered
+p	0	Pula'tusa 	MGV	v.	ACT.CONC	to be mourned
+p	0	Pulau 	MGV	v.	ACT.CONC	reach
+p	0	Pulayau 	MGV	v.	ACT.CONC	to be present
+p	0	Pulu-kur 	MGV	adj.	PROP.CONC	lavender
+p	0	Puma 	MGV	v.	ACT.CONC	to be owned
+p	0	Pumeskarau 	MGV	v.	ACT.CONC	to be held
+p	0	Puna'shau 	MGV	v.	ACT.CONC	to be greeted
+p	0	Punaf-tor 	MGV	v.	ACT.CONC	to be linked
+p	0	Punar-tor 	MGV	v.	ACT.CONC	to be accepted
+p	0	Punekwitau 	MGV	v.	ACT.CONC	to be forced
+p	0	Pupak-tor 	MGV	v.	ACT.CONC	to be lost
+p	0	Pupol-tor 	MGV	v.	ACT.CONC	to be fried
+p	0	Puragtau 	MGV	v.	ACT.CONC	to be introduced
+p	0	Purubai 	MGV	v.	ACT.CONC	to be changed
+p	0	Pusaganau 	MGV	v.	ACT.CONC	to be dispersed
+p	0	Pushau 	MGV	v.	ACT.CONC	to be broken
+p	0	Puskau-tor 	MGV	v.	ACT.CONC	to be digested
+p	0	Puspusau 	MGV	v.	ACT.CONC	to be launched
+p	0	Pustau 	MGV	v.	ACT.CONC	to be killed
+p	0	Pusvik-tor 	MGV	v.	ACT.CONC	to be betrayed
+p	0	Putal-tor 	MGV	v.	ACT.CONC	to be found
+p	0	Putan-tor 	MGV	v.	ACT.CONC	to be given
+p	0	Putanovau 	MGV	v.	ACT.CONC	to be equipped
+p	0	Putash-tor 	MGV	v.	ACT.CONC	to be controlled
+p	0	Putaurau 	MGV	v.	ACT.CONC	to be amazed
+p	0	Puterish-tor 	MGV	v.	ACT.CONC	to be combined
+p	0	Putesha 	MGV	v.	ACT.CONC	to be awed
+p	0	Puthakau 	MGV	v.	ACT.CONC	to be focused
+p	0	Puthrap-tor 	MGV	v.	ACT.CONC	to be offended
+p	0	Putrefei 	MGV	v.	ACT.CONC	to be martyred
+p	0	Putumau 	MGV	v.	ACT.CONC	to be programmed
+p	0	Putus-tor 	MGV	v.	ACT.CONC	to be loaded
+p	0	Puv 	MGV	n.	OBJ.CONC	swelling
+p	0	Puv-tor 	MGV	v.	ACT.CONC	swell
+p	0	Puvinem-tor 	MGV	v.	ACT.CONC	to be assimilated
+p	0	Puyem-tor 	MGV	v.	ACT.CONC	to be fed
+p	0	Puyik 	MGV	adj.	PROP.CONC	clean
+p	0	Puzehl-tor 	MGV	v.	ACT.CONC	to be aligned
+p	0	Puzhu-tor 	MGV	v.	ACT.CONC	to be heard
+r	1	Ra 	MGV	adj.	SELEC.MOD	what
+r	1	Raal 	MGV	n.	OBJ.CONC	a region on Vulcan
+r	1	Rada-tor 	MGV	v.	ACT.CONC	spin (yarn, a web, etc.)
+r	1	Radet 	MGV	n.	OBJ.CONC	bushing
+r	1	Raf-, Rafik 	MGV	adj.	PROP.CONC	electric(al)
+r	1	Raf-a'rak|-| 	MGV	adj.	PROP.CONC	electropositive
+r	1	Raf-ar'kada-, Raf-ar'kadaik 	MGV	adj.	PROP.CONC	electronic
+r	1	Raf-ar'kada-dvelek 	MGV	adj.	PROP.CONC	electronic switch
+r	1	Raf-ar'kada-ha'wein 	MGV	n.	OBJ.CONC	electronic shutter (camera)
+r	1	Raf-ar'kada-kahat 	MGV	n.	OBJ.CONC	electronic flash
+r	1	Raf-ar'kada-sakat 	MGV	n.	OBJ.CONC	electronic mail (e-mail)
+r	1	Raf-ar'kada-sutauk 	MGV	n.	OBJ.CONC	electronics bay
+r	1	Raf-ar'kada-tash 	MGV	n.	OBJ.CONC	electronic control
+r	1	Raf-ar'kada-tehnokatlar 	MGV	n.	OBJ.CONC	electronic countermeasures (ECM)
+r	1	Raf-ar'kada-tvelkaun 	MGV	n.	OBJ.CONC	electronic tuning
+r	1	Raf-ar'kada-vellar 	MGV	n.	OBJ.CONC	electronics (equipment)
+r	1	Raf-ar'kada-viralashek 	MGV	n.	OBJ.CONC	electronic microphone
+r	1	Raf-ar'kada-yonan 	MGV	n.	OBJ.CONC	electronic ignition
+r	1	Raf-dataya 	MGV	n.	OBJ.CONC	electric propulsion
+r	1	Raf-dvun-nekwitaya 	MGV	n.	OBJ.CONC	electromotive force
+r	1	Raf-dvun-tal 	MGV	n.	OBJ.CONC	electrokinetics
+r	1	Raf-elakh 	MGV	n.	OBJ.CONC	electric(al) wire
+r	1	Raf-falek-, Raf-falekik 	MGV	adj.	PROP.CONC	electrothermal
+r	1	Raf-gasu 	MGV	n.	OBJ.CONC	electric flux
+r	1	Raf-glayek 	MGV	n.	OBJ.CONC	electric eye
+r	1	Raf-ha'gelek 	MGV	n.	OBJ.CONC	electric light
+r	1	Raf-khrasaya 	MGV	n.	OBJ.CONC	electrical discharge
+r	1	Raf-kolaya 	MGV	n.	OBJ.CONC	electric(al) shock
+r	1	Raf-kus-vakh 	MGV	n.	OBJ.CONC	electric bell
+r	1	Raf-meil-tal 	MGV	n.	OBJ.CONC	electrochemistry
+r	1	Raf-mish-tal 	MGV	n.	OBJ.CONC	electrical engineering
+r	1	Raf-mishu 	MGV	n.	OBJ.CONC	electric motor
+r	1	Raf-nala 	MGV	n.	OBJ.CONC	electrocyte
+r	1	Raf-natya-thonek 	MGV	n.	OBJ.CONC	electrometer
+r	1	Raf-nifau 	MGV	v.	ACT.CONC	electrolyze
+r	1	Raf-nifaya 	MGV	n.	OBJ.CONC	electrolysis
+r	1	Raf-seshan-dvelek 	MGV	n.	OBJ.CONC	electromagnetic switch
+r	1	Raf-seshan-ferek 	MGV	n.	OBJ.CONC	electromagnetic generator
+r	1	Raf-seshan-kebi 	MGV	n.	OBJ.CONC	electromagnetic unit
+r	1	Raf-seshan-pral 	MGV	n.	OBJ.CONC	electromagnetic wave
+r	1	Raf-seshan-sagaya 	MGV	n.	OBJ.CONC	electromagnetic pulse (EMP)
+r	1	Raf-seshan-saya 	MGV	n.	OBJ.CONC	electromagnetic radiation
+r	1	Raf-seshan-vel 	MGV	n.	OBJ.CONC	electromagnet
+r	1	Raf-seshan-vimevilaya 	MGV	n.	OBJ.CONC	electromagnetic induction
+r	1	Raf-seshan-vohrayek 	MGV	n.	OBJ.CONC	electromagnetic brake
+r	1	Raf-seshan-vunai 	MGV	n.	OBJ.CONC	electromagnetic field (EMF)
+r	1	Raf-slaun 	MGV	n.	OBJ.CONC	electroplating
+r	1	Raf-spa'es 	MGV	n.	OBJ.CONC	electrical conductivity
+r	1	Raf-tepul 	MGV	n.	OBJ.CONC	electrical power, electricity
+r	1	Raf-tepul-sagan 	MGV	n.	OBJ.CONC	electrical power distribution
+r	1	Raf-tor-velsu 	MGV	n.	OBJ.CONC	electrician
+r	1	Raf-toranu-masu 	MGV	n.	OBJ.CONC	electrodynamic fluid
+r	1	Raf-u'rak|-| 	MGV	n.	OBJ.CONC	electronegative
+r	1	Raf-yontaya 	MGV	n.	OBJ.CONC	electric(al) burn
+r	1	Rafanitra 	MGV	n.	OBJ.CONC	bus
+r	1	Rafau 	MGV	v.	ACT.CONC	electrify
+r	1	Rafaya 	MGV	n.	OBJ.CONC	electrification
+r	1	Rafostau 	MGV	v.	ACT.CONC	electrocute
+r	1	Rafostaya 	MGV	n.	OBJ.CONC	electrocution
+r	1	Ragel-tor 	MGV	v.	ACT.CONC	meet
+r	1	Ragelan 	MGV	n.	OBJ.CONC	meeting
+r	1	Ragtau 	MGV	v.	ACT.CONC	introduce
+r	1	Ragtaya 	MGV	n.	OBJ.CONC	introduction
+r	1	Rahm 	MGV	n.	OBJ.CONC	thunder
+r	1	Rai 	MGV	interj.	interjection	no (opposite of 'yes')
+r	1	Rak 	MGV	n.	OBJ.CONC	position
+r	1	Rak-tukh 	MGV	n.	OBJ.CONC	boron
+r	1	Rakusau 	MGV	v.	ACT.CONC	sting
+r	1	Ral|-| 	MGV	adj.	PROP.CONC	loud
+r	1	Ral'es 	MGV	n.	OBJ.CONC	volume, loudness
+r	1	Rala 	MGV	n.	OBJ.CONC	wing
+r	1	Ralash 	MGV	n.	OBJ.CONC	noise, sound
+r	1	Ralash-bosh 	MGV	adj.	PROP.CONC	noisy
+r	1	Ralash-fam 	MGV	adj.	PROP.CONC	silent
+r	1	Ralash-tal 	MGV	n.	OBJ.CONC	acoustics
+r	1	Ralash-tanaf 	MGV	n.	OBJ.CONC	music
+r	1	Ralash-tanafsu 	MGV	n.	OBJ.CONC	musician
+r	1	Ram-, Ramik 	MGV	adj.	PROP.CONC	classical
+r	1	Ran-, Ranik 	MGV	adj.	PROP.CONC	nice
+r	1	Ran-pleth	anc.	n.	OBJ.CONC	revenge
+r	1	Ran-tor 	MGV	v.	ACT.CONC	avenge, take revenge
+r	1	Ranau 	MGV	v.	ACT.CONC	train
+r	1	Ranaya 	MGV	n.	OBJ.CONC	training
+r	1	Ras|-| 	MGV	adj.	PROP.CONC	heavy
+r	1	Ras-tukh 	MGV	n.	OBJ.CONC	lead (metal)
+r	1	Rasahkos|-|	anc.	adj.	PROP.CONC	bad
+r	1	Raskwul 	MGV	n.	OBJ.CONC	bash(ing)
+r	1	Raskwul-tor 	MGV	v.	ACT.CONC	bash
+r	1	Raspiis 	MGV	n.	OBJ.CONC	curse
+r	1	Rau-nol 	MGV	n.	OBJ.CONC	refuge, shelter
+r	1	Rau-tor 	MGV	v.	ACT.CONC	shelter, provide refuge
+r	1	Raul 	MGV	n.	OBJ.CONC	tool
+r	1	Ravot 	MGV	n.	OBJ.CONC	insect, bug
+r	1	Razh 	MGV	n.	OBJ.CONC	hole, pit
+r	1	Razhen 	MGV	n.	OBJ.CONC	ulcer
+r	1	Razhil 	MGV	n.	OBJ.CONC	excavation
+r	1	Razhil-tor 	MGV	v.	ACT.CONC	excavate
+r	1	Redzh-, Redzhik 	MGV	adj.	PROP.CONC	mild
+r	1	Reh-leh 	MGV	num.	SELEC.MOD	thirty
+r	1	Reh-leh'veh 	MGV	n.	OBJ.CONC	thirtieth
+r	1	Reh-lehr-, Reh-leh'rak 	MGV	adj.	PROP.CONC	thirtieth
+r	1	Rehek 	MGV	n.	OBJ.CONC	trio
+r	1	Reh|kuh| 	MGV	num.	SELEC.MOD	three
+r	1	Rehr-, Reh'rak 	MGV	adj.	PROP.CONC	third
+r	1	Rekun 	MGV	n.	OBJ.CONC	pyramid
+r	1	Reldai	anc.	n.	OBJ.CONC	female religious leader, ruler or princess
+r	1	Relen	anc.	n.	OBJ.CONC	a plant made into a tea
+r	1	Relk 	MGV	n.	OBJ.CONC	cupola
+r	1	Relkoh 	MGV	n.	OBJ.CONC	oath
+r	1	Renkup'es 	MGV	n.	OBJ.CONC	skill
+r	1	Renyut 	MGV	n.	OBJ.CONC	way (skill, type)
+r	1	Reshan 	MGV	n.	OBJ.CONC	anger, rage
+r	1	Reshnek 	MGV	adj.	PROP.CONC	angry, enraged
+r	1	Ret 	MGV	n.	OBJ.CONC	space (room)
+r	1	Ri 	MGV	adv.	ACT.CONC.MOD	not
+r	1	Ri'el 	MGV	pron.	OBJ.CONC	nothing
+r	1	Rifainuk 	MGV	adj.	PROP.CONC	unknown
+r	1	Rigath|-| 	MGV	adj.	PROP.CONC	benign
+r	1	Rigishuk 	MGV	adj.	PROP.CONC	unexpected
+r	1	Rihag-, Rihagik 	MGV	adj.	PROP.CONC	difficult, hard, not easy
+r	1	Rihamau 	MGV	v.	ACT.CONC	check, verify
+r	1	Rihansu 	MGV	n.	OBJ.CONC	Romulan
+r	1	Riherik 	MGV	adj.	PROP.CONC	unsuitable
+r	1	Rihk 	MGV	n.	OBJ.CONC	edge
+r	1	Rihpret 	MGV	n.	OBJ.CONC	cataract (water)
+r	1	Rihtun 	MGV	n.	OBJ.CONC	virtue
+r	1	Rikerik 	MGV	adj.	PROP.CONC	unworthy
+r	1	Rikohs-, Rikohsik 	MGV	adj.	PROP.CONC	insane, mad
+r	1	Ril 	MGV	conj.	CONNECTOR	nor
+r	1	Rilik 	MGV	adj.	PROP.CONC	intermittent
+r	1	Rim 	MGV	adv.	ACT.CONC.MOD	none
+r	1	Rimon-yehat 	MGV	adj.	PROP.CONC	undrinkable, non-potable
+r	1	Rinan'es 	MGV	n.	OBJ.CONC	futility
+r	1	Rinan-, Rinanik 	MGV	n.	OBJ.CONC	futile
+r	1	Riozhika 	MGV	n.	OBJ.CONC	illogic
+r	1	Riozhikaik 	MGV	adj.	PROP.CONC	illogical
+r	1	Ripabukhu 	MGV	n.	OBJ.CONC	The Unforgiven
+r	1	Ripakhaik 	MGV	adj.	PROP.CONC	irregular
+r	1	Ripakhaik'es 	MGV	n.	OBJ.CONC	irregularity
+r	1	Rirom|-| 	MGV	adj.	PROP.CONC	not good (but not necessarily bad)
+r	1	Ris 	MGV	num.	SELEC.MOD	zero
+r	1	Risanemau 	MGV	v.	ACT.CONC	deprive
+r	1	Rish-tor 	MGV	v.	ACT.CONC	survive
+r	1	Rishan 	MGV	n.	OBJ.CONC	survival
+r	1	Riskuri|-| 	MGV	adj.	PROP.CONC	unconventional
+r	1	Rislau 	MGV	v.	ACT.CONC	contaminate
+r	1	Rislaya 	MGV	n.	OBJ.CONC	contamination
+r	1	Ritsuk|-| 	MGV	adj.	PROP.CONC	rare, uncommon
+r	1	Ritsuri|-| 	MGV	adj.	PROP.CONC	abnormal, irregular, unusual
+r	1	Rivak 	MGV	n.	OBJ.CONC	course
+r	1	Riyin 	MGV	n.	OBJ.CONC	negation
+r	1	Ro'fah 	MGV	v.	ACT.CONC	inform
+r	1	Ro'fori 	anc.	n.	OBJ.CONC	information
+r	1	Ro-kas 	MGV	n.	OBJ.CONC	vaccine
+r	1	Ro-kasau 	MGV	v.	ACT.CONC	vaccinate
+r	1	Ro-kasaya 	MGV	n.	OBJ.CONC	vaccination
+r	1	Rok 	MGV	n.	OBJ.CONC	hope
+r	1	Rom|-| 	MGV	adj.	PROP.CONC	good
+r	1	Rom-lashan 	MGV	n.	OBJ.CONC	welcome
+r	1	Ru'lut 	MGV	n.	OBJ.CONC	mouth
+r	1	Ru'lut-masu 	MGV	n.	OBJ.CONC	saliva
+r	1	Rubah 	MGV	n.	OBJ.CONC	change
+r	1	Rubanau 	MGV	v.	ACT.CONC	change
+r	1	Rubitau 	MGV	v.	ACT.CONC	alter, modify
+r	1	Rubitaya 	MGV	n.	OBJ.CONC	alteration, modification
+r	1	Ruduhk 	MGV	n.	OBJ.CONC	decoy
+r	1	Rufai 	MGV	n.	OBJ.CONC	benefit
+r	1	Ruhm 	MGV	adv.	ACT.CONC.MOD	even
+r	1	Rukau 	MGV	v.	ACT.CONC	bounce
+r	1	Ruken 	MGV	n.	OBJ.CONC	exit
+r	1	Run 	MGV	n.	OBJ.CONC	dream
+r	1	Runem-tor 	MGV	v.	ACT.CONC	grab
+r	1	Runev 	MGV	n.	OBJ.CONC	spasm
+r	1	Ruskarau 	MGV	v.	ACT.CONC	grasp
+r	1	Ruskarayek 	MGV	n.	OBJ.CONC	forceps
+r	1	Ryill 	anc.	n.	OBJ.CONC	a Vulcan musical instrument
+s	0	S'udish 	MGV	prep.	SITU.MOD	outside
+s	0	Sa'adek 	MGV	n.	OBJ.CONC	elevator, lift
+s	0	Sa'akh 	anc.	n.	OBJ.CONC	debt
+s	0	Sa'awek	anc.	adj.	PROP.CONC	alone
+s	0	Sa'le-esh-tor 	MGV	v.	ACT.CONC	exhale
+s	0	Sa'le-eshan 	MGV	n.	OBJ.CONC	exhalation
+s	0	Sa'ovau 	MGV	v.	ACT.CONC	expand
+s	0	Sa'ovau-lesek 	MGV	n.	OBJ.CONC	expansion joint
+s	0	Sa'ovau-masu-mishu 	MGV	n.	OBJ.CONC	expansion engine
+s	0	Sa'ovau-spunek 	MGV	n.	OBJ.CONC	expansion valve
+s	0	Sa'ovau-tuhlek 	MGV	n.	OBJ.CONC	expansion tank
+s	0	Sa'ovaya 	MGV	n.	OBJ.CONC	expansion
+s	0	Sa-, Sayik 	MGV	adj.	PROP.CONC	male
+s	0	Sa-fu 	MGV	n.	OBJ.CONC	son
+s	0	Sa-ka-ashausu 	MGV	n.	OBJ.CONC	male homosexual
+s	0	Sa-kai 	MGV	n.	OBJ.CONC	brother
+s	0	Sa-kan 	MGV	n.	OBJ.CONC	boy
+s	0	Sa-kelek-han 	MGV	n.	OBJ.CONC	prior (person)
+s	0	Sa-kuk 	MGV	n.	OBJ.CONC	uncle
+s	0	Sa-mekh 	MGV	n.	OBJ.CONC	father
+s	0	Sa-niht 	MGV	n.	OBJ.CONC	male cousin
+s	0	Sa-Te'kor 	MGV	n.	OBJ.CONC	King (only in a title or with a proper name)
+s	0	Sa-te'krusu 	MGV	n.	OBJ.CONC	king (general term)
+s	0	Sa-telsu 	MGV	n.	OBJ.CONC	husband
+s	0	Sadahshaya t'Lokan 	MGV	n.	OBJ.CONC	Lokan's Schism (often inaccurately called 'T'Lokan Schism')
+s	0	Sadakh 	anc.	v.	ACT.CONC	eject
+s	0	Sadakh-ku-san 	MGV	n.	OBJ.CONC	ejection seat
+s	0	Sadakhat 	MGV	n.	OBJ.CONC	ejection
+s	0	Sadakhek 	MGV	n.	OBJ.CONC	ejector
+s	0	Sadalau 	MGV	v.	ACT.CONC	release
+s	0	Sagan-tor 	MGV	v.	ACT.CONC	distribute
+s	0	Saganau 	MGV	v.	ACT.CONC	disperse
+s	0	Sagau 	MGV	v.	ACT.CONC	pulse, burst out
+s	0	Saguhsh 	MGV	n.	OBJ.CONC	exhaust
+s	0	Saguhsh-mev 	MGV	n.	OBJ.CONC	exhaust pipe
+s	0	Saguhsh-pa-tukh 	MGV	n.	OBJ.CONC	exhaust gas
+s	0	Saguhsh-sovek 	MGV	n.	OBJ.CONC	exhaust fan
+s	0	Saguhsh-tersvep 	MGV	n.	OBJ.CONC	exhaust port
+s	0	Saguhsh-wekh-vel 	MGV	n.	OBJ.CONC	exhaust manifold
+s	0	Saguhsh-yontayek 	MGV	n.	OBJ.CONC	afterburner
+s	0	Sahil-tor 	MGV	v.	ACT.CONC	dig out, dig up, unearth
+s	0	Sahish-tor 	MGV	v.	ACT.CONC	depressurize
+s	0	Sahishan 	MGV	n.	OBJ.CONC	depressurization
+s	0	Sahr'gal 	MGV	n.	OBJ.CONC	tachyon
+s	0	Sahr'gal-glashayek 	MGV	n.	OBJ.CONC	tachyon scanner
+s	0	Sahr'gal-vunai 	MGV	n.	OBJ.CONC	tachyon field
+s	0	Sahr'gal-zehl|ek| 	MGV	n.	OBJ.CONC	tachyon beam
+s	0	Sahr-, Sahris 	MGV	adj.	PROP.CONC	fast, quick, rapid, speedy
+s	0	Sahr-tor 	MGV	v.	ACT.CONC	run
+s	0	Sahrafel 	MGV	v.	ACT.CONC	trust
+s	0	Sahrau 	MGV	v.	ACT.CONC	accelerate, speed up
+s	0	Sahraya 	MGV	n.	OBJ.CONC	acceleration
+s	0	Sahrayek 	MGV	n.	OBJ.CONC	accelerator
+s	0	Sahriv 	MGV	n.	OBJ.CONC	storm
+s	0	Sahrvukh 	MGV	n.	OBJ.CONC	race
+s	0	Sahrvukh-ashket 	MGV	n.	OBJ.CONC	racetrack
+s	0	Sahrvukh-hors 	MGV	n.	OBJ.CONC	racehorse
+s	0	Sahrvukhsu 	MGV	n.	OBJ.CONC	racer(person)
+s	0	Sai-bosh 	MGV	adj.	PROP.CONC	overdressed
+s	0	Sai-fam 	MGV	adj.	PROP.CONC	naked, nude, unclothed, completely undressed
+s	0	Sai-tor 	MGV	v.	ACT.CONC	clothe
+s	0	Sai-tukh 	MGV	n.	OBJ.CONC	cloth
+s	0	Sai-vel 	MGV	n.	OBJ.CONC	clothes, clothing
+s	0	Sailau 	MGV	v.	ACT.CONC	accompany
+s	0	Saizhiv 	MGV	n.	OBJ.CONC	lint
+s	0	Sak-tor 	MGV	v.	ACT.CONC	spread
+s	0	Sak-tukh 	MGV	n.	OBJ.CONC	scandium
+s	0	Sakal 	MGV	n.	OBJ.CONC	testis, testicle
+s	0	Sakal-rasahtra 	MGV	n.	OBJ.CONC	testicular cancer
+s	0	Sakal-sa'haf 	MGV	n.	OBJ.CONC	scrotum
+s	0	Sakat 	MGV	n.	OBJ.CONC	mail
+s	0	Sakatau 	MGV	v.	ACT.CONC	enhance
+s	0	Sakataya 	MGV	n.	OBJ.CONC	enhancement
+s	0	Sakathilau 	MGV	v.	ACT.CONC	discriminate
+s	0	Sakelekau 	MGV	v.	ACT.CONC	evict
+s	0	Sakikau 	MGV	v.	ACT.CONC	jettison
+s	0	Saklukhau 	MGV	v.	ACT.CONC	deteriorate
+s	0	Sakurau 	MGV	v.	ACT.CONC	decolorize
+s	0	Sakwitau 	MGV	v.	ACT.CONC	deflect
+s	0	Sakwitayek 	MGV	n.	OBJ.CONC	deflector
+s	0	Salan 	MGV	n.	OBJ.CONC	wind
+s	0	Salasu 	MGV	n.	OBJ.CONC	native
+s	0	Salatik 	MGV	adj.	PROP.CONC	native
+s	0	Salur 	MGV	v.	ACT.CONC	blow
+s	0	Samazhau 	MGV	v.	ACT.CONC	bail (water)
+s	0	Samek 	MGV	adj.	PROP.CONC	cold
+s	0	Sameskarau 	MGV	v.	ACT.CONC	isolate
+s	0	Sameskaraya 	MGV	n.	OBJ.CONC	isolation
+s	0	Samev 	MGV	n.	OBJ.CONC	flue
+s	0	Samm 	MGV	n.	OBJ.CONC	flea
+s	0	Samuyek 	MGV	n.	OBJ.CONC	chiller
+s	0	San 	MGV	n.	OBJ.CONC	waist
+s	0	San-zhel 	MGV	n.	OBJ.CONC	belt
+s	0	Sanan 	MGV	n.	OBJ.CONC	exclusion
+s	0	Sanan'es 	MGV	n.	OBJ.CONC	exclusivity, exclusiveness
+s	0	Sanan-tor 	MGV	v.	ACT.CONC	exclude
+s	0	Sananik 	MGV	adj.	PROP.CONC	exclusive
+s	0	Sanesh-tor 	MGV	v.	ACT.CONC	amputate
+s	0	Sanoi	anc.	v.	ACT.CONC	please
+s	0	Sanok-, Sanokik 	MGV	adj.	PROP.CONC	pleasant
+s	0	Sanosh	anc.	n.	OBJ.CONC	pleasure
+s	0	Sanu 	MGV	v.	ACT.CONC	please (pleasantry)
+s	0	Sapanu-, Sapanuyik 	MGV	adj.	PROP.CONC	off-world
+s	0	Saplau 	MGV	v.	ACT.CONC	spray
+s	0	Saplaya 	MGV	n.	OBJ.CONC	spray
+s	0	Saplayek 	MGV	n.	OBJ.CONC	sprayer
+s	0	Sar-tak 	MGV	n.	OBJ.CONC	bed
+s	0	Sar-tak-pthak 	MGV	n.	OBJ.CONC	clinophobia
+s	0	Saran-tukh 	MGV	n.	OBJ.CONC	technetium
+s	0	Sark 	MGV	n.	OBJ.CONC	beetle
+s	0	Sarlah 	MGV	v.	ACT.CONC	come, arrive
+s	0	Sas-a-shar	anc.	n.	OBJ.CONC	a Vulcan desert
+s	0	Sas-tor 	MGV	v.	ACT.CONC	diffuse
+s	0	Sasahr-tor 	MGV	v.	ACT.CONC	flee, run away (from)
+s	0	Sasak 	MGV	n.	OBJ.CONC	diffusion
+s	0	Sasalfosau 	MGV	v.	ACT.CONC	pasteurize
+s	0	Sasalfosaya 	MGV	n.	OBJ.CONC	pasteurization
+s	0	Sasarlah 	MGV	v.	ACT.CONC	come out, emerge
+s	0	Sasau 	MGV	v.	ACT.CONC	transmit
+s	0	Sasaya 	MGV	n.	OBJ.CONC	transmission
+s	0	Sasayek 	MGV	n.	OBJ.CONC	transmitter
+s	0	Saseshau 	MGV	v.	ACT.CONC	pull out, withdraw, extract, evulse
+s	0	Sash 	MGV	n.	OBJ.CONC	acid (compound)
+s	0	Sash'es 	MGV	n.	OBJ.CONC	acidity
+s	0	Sash-masu 	MGV	n.	OBJ.CONC	acid (liquid)
+s	0	Sash-sov-masu 	MGV	n.	OBJ.CONC	acid rain
+s	0	Sashalotau 	MGV	v.	ACT.CONC	evacuate
+s	0	Sashalotaya 	MGV	n.	OBJ.CONC	evacuation
+s	0	Sashavau 	MGV	v.	ACT.CONC	expose
+s	0	Sashidau 	MGV	v.	ACT.CONC	deform
+s	0	Sashidaya 	MGV	n.	OBJ.CONC	deformation
+s	0	Sashik 	MGV	adj.	PROP.CONC	acidic
+s	0	Sasnem-tor 	MGV	v.	ACT.CONC	excrete
+s	0	Sasovau 	MGV	v.	ACT.CONC	deflate
+s	0	Sastoraya 	MGV	n.	OBJ.CONC	breakthrough
+s	0	Satalau 	MGV	v.	ACT.CONC	determine
+s	0	Satau 	MGV	v.	ACT.CONC	send
+s	0	Sateh 	MGV	n.	OBJ.CONC	percent
+s	0	Sateh'es 	MGV	n.	OBJ.CONC	percentage
+s	0	Satekhau 	MGV	v.	ACT.CONC	sprout up
+s	0	Satersau 	MGV	v.	ACT.CONC	disconnect
+s	0	Satorvu 	MGV	n.	OBJ.CONC	product
+s	0	Sau 	MGV	v.	ACT.CONC	emit
+s	0	Sau-ha'tanau 	MGV	v.	ACT.CONC	fluoresce
+s	0	Sau-ha'tanauk 	MGV	adj.	PROP.CONC	fluorescent
+s	0	Saudau 	MGV	v.	ACT.CONC	appear
+s	0	Saul-tor 	MGV	v.	ACT.CONC	shout, yell
+s	0	Saurib-, Sauribik 	MGV	adj.	PROP.CONC	radio
+s	0	Saurib-poprat 	MGV	n.	OBJ.CONC	radio reception
+s	0	Saurib-pral 	MGV	n.	OBJ.CONC	radio wave
+s	0	Saurib-sasaya 	MGV	n.	OBJ.CONC	radio broadcast/transmission
+s	0	Saurib-vakav'es 	MGV	n.	OBJ.CONC	radio frequency (RF)
+s	0	Sauribau 	MGV	v.	ACT.CONC	radio
+s	0	Sauribayek 	MGV	n.	OBJ.CONC	radio
+s	0	Sauyau 	MGV	v.	ACT.CONC	seem
+s	0	Sav'el 	MGV	n.	OBJ.CONC	shirt
+s	0	Savar-tor 	MGV	v.	ACT.CONC	confess
+s	0	Savas 	MGV	n.	OBJ.CONC	fruit
+s	0	Savas-slor-tukh 	MGV	n.	OBJ.CONC	fructose
+s	0	Savasau 	MGV	v.	ACT.CONC	(bear) fruit, fructify
+s	0	Savasau-bosh 	MGV	adj.	PROP.CONC	fruitful
+s	0	Savasaya 	MGV	n.	OBJ.CONC	fructification, fruition, fruiting (out)
+s	0	Savasik 	MGV	adj.	PROP.CONC	fruity
+s	0	Savau 	MGV	v.	ACT.CONC	diverge
+s	0	Savaya 	MGV	n.	OBJ.CONC	divergence
+s	0	Savilau 	MGV	v.	ACT.CONC	deodorize
+s	0	Savlau 	MGV	v.	ACT.CONC	evade
+s	0	Savlaya 	MGV	n.	OBJ.CONC	evasion
+s	0	Saweinau 	MGV	v.	ACT.CONC	molt, shed one's skin
+s	0	Sayonotau 	MGV	v.	ACT.CONC	extinguish
+s	0	Sayonotayek 	MGV	n.	OBJ.CONC	extinguisher
+s	0	Sayorkunau 	MGV	v.	ACT.CONC	eviscerate, disembowel, gut
+s	0	Sayumak 	MGV	n.	OBJ.CONC	spring (water source)
+s	0	Sazehlik 	MGV	adj.	PROP.CONC	perpendicular
+s	0	Sazh 	MGV	n.	OBJ.CONC	legume
+s	0	Sef 	MGV	n.	OBJ.CONC	dune
+s	0	Sehlat 	MGV	n.	OBJ.CONC	large bear-like animal with sabre teeth (sometimes domesticated as a pet)
+s	0	Sek 	MGV	n.	OBJ.CONC	outlet
+s	0	Sele-an-t'li	anc.	n.	OBJ.CONC	secondary level of adult discipline
+s	0	Seleya 	MGV	n.	OBJ.CONC	"a mountain; site of a major Vulcan ceremonial center"
+s	0	Selk 	MGV	n.	OBJ.CONC	delta
+s	0	Sem-rik 	MGV	adj.	ACT.CONC.MOD	fascinating
+s	0	Senau 	MGV	v.	ACT.CONC	get up, arise
+s	0	Senepa	anc.	n.	OBJ.CONC	a weapon with poisoned tips
+s	0	Sep-wafikh	anc.	v.	ACT.CONC	agree
+s	0	Sesh'gal 	MGV	n.	OBJ.CONC	graviton
+s	0	Sesh'gal-vunai 	MGV	n.	OBJ.CONC	graviton field
+s	0	Sesh'gal-zehl|ek| 	MGV	n.	OBJ.CONC	graviton beam
+s	0	Seshan 	MGV	n.	OBJ.CONC	pull
+s	0	Seshan-ek'shal 	MGV	n.	OBJ.CONC	magnetosphere
+s	0	Seshan-fen 	MGV	n.	OBJ.CONC	magnetic seal
+s	0	Seshan-khluhkayek 	MGV	n.	OBJ.CONC	magnetic constrictor
+s	0	Seshan-korsau-tuhlek 	MGV	n.	OBJ.CONC	magnetic storage bottle
+s	0	Seshan-kwitayek 	MGV	n.	OBJ.CONC	magnetic repulsor
+s	0	Seshan-thonek 	MGV	n.	OBJ.CONC	magnetometer
+s	0	Seshan-vel 	MGV	n.	OBJ.CONC	magnet
+s	0	Seshan-vunai 	MGV	n.	OBJ.CONC	magnetic field
+s	0	Seshan-vunai-yeturek 	MGV	n.	OBJ.CONC	magnetic field drive
+s	0	Seshau 	MGV	v.	ACT.CONC	pull
+s	0	Seshayek 	MGV	n.	OBJ.CONC	tractor, tug
+s	0	Seshilan-eitaya 	MGV	n.	OBJ.CONC	gravimetric shear
+s	0	Seshilan-glashayek 	MGV	n.	OBJ.CONC	gravimetric scanner
+s	0	Seshilan-sagaya 	MGV	n.	OBJ.CONC	gravimetric pulse
+s	0	Seshu-ip-thorshek 	MGV	n.	OBJ.CONC	gravitic mine
+s	0	Seshupau 	MGV	v.	ACT.CONC	magnetize
+s	0	Seshupik 	MGV	adj.	PROP.CONC	magnetic
+s	0	Seshupik flekh'es 	MGV	n.	OBJ.CONC	magnetic anomaly
+s	0	Set 	MGV	n.	OBJ.CONC	drop
+s	0	Set'ki 	MGV	adj.	ACT.CONC.MOD	interesting
+s	0	Set-kar 	MGV	n.	OBJ.CONC	drop arm
+s	0	Set-mah-vel 	MGV	n.	OBJ.CONC	drop hammer
+s	0	Set-sfek 	MGV	n.	OBJ.CONC	drop point
+s	0	Set-spunek 	MGV	n.	OBJ.CONC	drop valve
+s	0	Set-tor 	MGV	v.	ACT.CONC	drop
+s	0	Set-tuhlek 	MGV	n.	OBJ.CONC	drop tank
+s	0	Setebihk 	MGV	n.	OBJ.CONC	symbol
+s	0	Sfek 	MGV	n.	OBJ.CONC	point
+s	0	Sfith|-| 	MGV	adj.	PROP.CONC	bitter
+s	0	Sfith-masu 	MGV	n.	OBJ.CONC	vinegar
+s	0	Sfith-masu-sash 	MGV	n.	OBJ.CONC	acetic acid
+s	0	Sha' 	MGV	pron.	PROP.CONC	one's own, personal
+s	0	Sha'es 	MGV	n.	OBJ.CONC	identity
+s	0	Sha'koshtri 	MGV	n.	OBJ.CONC	one's own race or species
+s	0	Sha'ti 	MGV	n.	OBJ.CONC	cubbyhole, niche, nook, recess
+s	0	Sha-ka-ri	anc.	n.	OBJ.CONC	mythical source of creation
+s	0	Shad 	MGV	n.	OBJ.CONC	brain
+s	0	Shaf 	MGV	n.	OBJ.CONC	cyst
+s	0	Shahtau 	MGV	v.	ACT.CONC	conclude, end, finish
+s	0	Shahtaya 	MGV	n.	OBJ.CONC	conclusion, end, finish
+s	0	Shai 	MGV	n.	OBJ.CONC	self
+s	0	Shai-kas-vikantaya 	MGV	n.	OBJ.CONC	self-pollination
+s	0	Shai-vashau 	MGV	v.	ACT.CONC	self-destruct
+s	0	Shai-vashau-torektra 	MGV	n.	OBJ.CONC	self-destruct(ion)
+s	0	Shai-vashaya 	MGV	n.	OBJ.CONC	self-destruct(ion)
+s	0	Shai-vikantaya 	MGV	n.	OBJ.CONC	self-fertilization
+s	0	Shaik|-| 	MGV	adj.	PROP.CONC	odd (not even)
+s	0	Shaik-su'us 	MGV	n.	OBJ.CONC	odd number
+s	0	Shaka 	MGV	n.	OBJ.CONC	fiend
+s	0	Shal 	MGV	n.	OBJ.CONC	area, region, zone
+s	0	Shal-lan 	MGV	n.	OBJ.CONC	colonel
+s	0	Shalrihk 	MGV	n.	OBJ.CONC	frontier
+s	0	Shan-hali 	MGV	n.	OBJ.CONC	shuttle(craft)
+s	0	Shan-tor 	MGV	v.	ACT.CONC	transfer
+s	0	Shanai'Kahr 	MGV	n.	OBJ.CONC	a Vulcan city
+s	0	Shar 	MGV	n.	OBJ.CONC	security (police)
+s	0	Shar'es 	MGV	n.	OBJ.CONC	security (condition)
+s	0	Shar-tor 	MGV	v.	ACT.CONC	secure
+s	0	Sharu 	MGV	n.	OBJ.CONC	opening, aperture
+s	0	Sharush 	MGV	v.	ACT.CONC	open up, split open
+s	0	Sharushan 	MGV	n.	OBJ.CONC	surgery
+s	0	Shasol 	MGV	n.	OBJ.CONC	land, country, nation
+s	0	Shasutan 	MGV	n.	OBJ.CONC	identification
+s	0	Shasutan-tor 	MGV	v.	ACT.CONC	identify
+s	0	Shatarr 	MGV	n.	OBJ.CONC	a poisonous lizard
+s	0	Shau 	MGV	v.	ACT.CONC	break, fracture
+s	0	Shau-vel 	MGV	n.	OBJ.CONC	fuse
+s	0	Shaukaush 	MGV	n.	OBJ.CONC	passion(s)
+s	0	Shaula 	MGV	n.	OBJ.CONC	self-control, reason(ing)
+s	0	Shavokh	anc.	n.	OBJ.CONC	very large Vulcan bird with gold-brown feathers
+s	0	Shaya 	MGV	n.	OBJ.CONC	break, fracture
+s	0	Shayuf 	MGV	n.	OBJ.CONC	ego
+s	0	She'rak 	MGV	n.	OBJ.CONC.MOD	east
+s	0	She'raksu 	MGV	n.	OBJ.CONC	easterner
+s	0	She-tor 	MGV	v.	ACT.CONC	ascend, rise
+s	0	Shefek 	MGV	n.	OBJ.CONC	rail
+s	0	Shefek-hali 	MGV	n.	OBJ.CONC	train
+s	0	Shefek-seshayek 	MGV	n.	OBJ.CONC	locomotive, railroad engine
+s	0	Shefek-yut 	MGV	n.	OBJ.CONC	railroad, railway
+s	0	Shefek-yut-laskat 	MGV	n.	OBJ.CONC	railroad station
+s	0	Shefek-yut-mes 	MGV	n.	OBJ.CONC	railroad crossing
+s	0	Sheh'rak, Shehr- 	MGV	adj.	PROP.CONC	sixth
+s	0	Sheh'veh 	MGV	n.	OBJ.CONC	sixth
+s	0	Sheh-leh 	MGV	num.	SELEC.MOD	sixty
+s	0	Sheh-leh'veh 	MGV	n.	OBJ.CONC	sixtieth
+s	0	Sheh-lehr-, Sheh-leh'rak 	MGV	adj.	PROP.CONC	sixtieth
+s	0	Sheh-vla 	MGV	n.	OBJ.CONC	hexagon, hexahedron
+s	0	Sheh|kuh| 	MGV	num.	SELEC.MOD	six
+s	0	Shehr-, Sheh'rak 	MGV	adj.	PROP.CONC	eastern
+s	0	Shei 	MGV	v.	ACT.CONC	scream
+s	0	Shek 	MGV	n.	OBJ.CONC	sword
+s	0	Shek-tukh 	MGV	n.	OBJ.CONC	iron (metal)
+s	0	Shel-tukh 	MGV	n.	OBJ.CONC	manganese
+s	0	Shemp-, Shempik 	MGV	adj.	PROP.CONC	glad
+s	0	Shen 	MGV	n.	OBJ.CONC	ascent, rising
+s	0	Shenek 	MGV	n.	OBJ.CONC	escalator
+s	0	Shetau 	MGV	v.	ACT.CONC	become
+s	0	Shi 	MGV	n.	OBJ.CONC	place, site, location
+s	0	Shi'aushfalar 	MGV	n.	OBJ.CONC	zoo, zoological garden, zoological park
+s	0	Shi'dan-abru 	MGV	n.	OBJ.CONC	zenith
+s	0	Shi'dunap 	MGV	n.	OBJ.CONC	library
+s	0	Shi'has 	MGV	n.	OBJ.CONC	hospital
+s	0	Shi'ip 	MGV	n.	OBJ.CONC	blind, hide, place of concealment
+s	0	Shi'Kahr, Shir'Kahr, Shir-Kahr, ShirKahr	MGV	n.	OBJ.CONC	Vulcan capital city
+s	0	Shi'kon 	MGV	n.	OBJ.CONC	church, temple, synagogue, mosque
+s	0	Shi'kov 	MGV	n.	OBJ.CONC	non-volcanic mountain
+s	0	Shi'kwai 	MGV	n.	OBJ.CONC	wilderness
+s	0	Shi'masu 	MGV	n.	OBJ.CONC	oasis
+s	0	Shi'oren 	MGV	n.	OBJ.CONC	school, academy, educational institute
+s	0	Shi'Oren t'Ek'tallar T'Khasi 	MGV	n.	OBJ.CONC	Vulcan Academy of Sciences (Vulcan Science Academy)
+s	0	Shi'sochya 	MGV	n.	OBJ.CONC	Vulcan-type park
+s	0	Shi'to-gav 	MGV	n.	OBJ.CONC	(law) court
+s	0	Shi'vukhut 	MGV	n.	OBJ.CONC	grave
+s	0	Shi'wun|lar| 	MGV	n.	OBJ.CONC	armory, arsenal
+s	0	Shi'yar 	MGV	n.	OBJ.CONC	Earth-type park
+s	0	Shi'yavekh 	MGV	n.	OBJ.CONC	address
+s	0	Shi'yem 	MGV	n.	OBJ.CONC	dining room
+s	0	Shi'yon 	MGV	n.	OBJ.CONC	volcano
+s	0	Shi'yuk 	MGV	n.	OBJ.CONC	bedroom
+s	0	Shi-shi-ifisek 	MGV	n.	OBJ.CONC	site-to-site transporter
+s	0	Shid 	MGV	n.	OBJ.CONC	form, shape
+s	0	Shid-shuk-tor 	MGV	v.	ACT.CONC	sculpt
+s	0	Shid-tanaf 	MGV	n.	OBJ.CONC	sculpting
+s	0	Shid-tanafsu 	MGV	n.	OBJ.CONC	sculptor
+s	0	Shid-vel 	MGV	n.	OBJ.CONC	sculpture (piece of art)
+s	0	Shidau 	MGV	v.	ACT.CONC	form, shape
+s	0	Shif 	MGV	n.	OBJ.CONC	pair
+s	0	Shihvek 	MGV	n.	OBJ.CONC	wedge
+s	0	Shikh-orna 	MGV	n.	OBJ.CONC	council
+s	0	Shila 	MGV	n.	OBJ.CONC	community
+s	0	Shila'es 	MGV	n.	OBJ.CONC	society
+s	0	Shilaik 	MGV	adj.	PROP.CONC	social
+s	0	Shisau 	MGV	v.	ACT.CONC	hiss
+s	0	Shitau 	MGV	v.	ACT.CONC	(put into) place, locate something somewhere, position
+s	0	Shivak 	MGV	n.	OBJ.CONC	mass
+s	0	Shivau 	MGV	v.	ACT.CONC	paralyze
+s	0	Shiyau 	MGV	v.	ACT.CONC	be located
+s	0	Shiyu 	MGV	n.	OBJ.CONC	degree
+s	0	Shok 	MGV	n.	OBJ.CONC	kiss
+s	0	Shok-tor 	MGV	v.	ACT.CONC	kiss
+s	0	Shom-tor 	MGV	v.	ACT.CONC	to rest
+s	0	Shonau 	MGV	v.	ACT.CONC	engulf
+s	0	Shoren 	MGV	n.	OBJ.CONC	calling out to
+s	0	Shoret 	MGV	v.	ACT.CONC	call (out)
+s	0	Shrau 	MGV	v.	ACT.CONC	fray, frazzle
+s	0	Shu-pal 	MGV	n.	OBJ.CONC	source
+s	0	Shu-tukh 	MGV	n.	OBJ.CONC	uranium
+s	0	Shuhk 	MGV	n.	OBJ.CONC	slime
+s	0	Shul 	MGV	n.	OBJ.CONC	position
+s	0	Shur 	MGV	n.	OBJ.CONC	soup
+s	0	Si-, Sik 	MGV	adj.	PROP.CONC	outer
+s	0	Sih-nehaya 	MGV	n.	OBJ.CONC	alpha decay
+s	0	Sih-pi'gal 	MGV	n.	OBJ.CONC	alpha particle
+s	0	Sih-saya 	MGV	n.	OBJ.CONC	alpha radiation
+s	0	Sih-sayek 	MGV	n.	OBJ.CONC	alpha emitter
+s	0	Sih-zehllar 	MGV	n.	OBJ.CONC	alpha rays
+s	0	Sir-sen 	MGV	n.	OBJ.CONC	'cir-cen', a squat, cactus-like Vulcan plant
+s	0	Sis-tor 	MGV	v.	ACT.CONC	squander, fritter away
+s	0	Siselau 	MGV	v.	ACT.CONC	ferment
+s	0	Siyah 	MGV	adv.	ACT.CONC.MOD	almost
+s	0	Ska'gal 	MGV	n.	OBJ.CONC	neutrino
+s	0	Ska-fulagtau 	MGV	v.	ACT.CONC	abdicate
+s	0	Skaf 	MGV	n.	OBJ.CONC	dais, platform, stage
+s	0	Skahal-tor 	MGV	v.	ACT.CONC	get off (of)
+s	0	Skahan 	MGV	n.	OBJ.CONC	curtain
+s	0	Skamau 	MGV	v.	ACT.CONC	attract
+s	0	Skan 	MGV	n.	OBJ.CONC	proof
+s	0	Skan-tor 	MGV	v.	ACT.CONC	prove
+s	0	Skann	anc.	n.	OBJ.CONC	all of one's blood relatives
+s	0	Skapa'shau 	MGV	v.	ACT.CONC	clear off
+s	0	Skasau 	MGV	v.	ACT.CONC	treat
+s	0	Skau-tor 	MGV	v.	ACT.CONC	digest
+s	0	Skau-yehat 	MGV	adj.	PROP.CONC	digestible
+s	0	Skaun 	MGV	n.	OBJ.CONC	digestion
+s	0	Skaun-ek'ur 	MGV	n.	OBJ.CONC	digestive tract
+s	0	Skaun-ek'ur-tal 	MGV	n.	OBJ.CONC	gastroenterology
+s	0	Skaun-pi'nafek 	MGV	n.	OBJ.CONC	digestive gland
+s	0	Skaun-pi'vel 	MGV	n.	OBJ.CONC	lysosome
+s	0	Skaun-sa'haf 	MGV	n.	OBJ.CONC	stomach
+s	0	Skaun-sa'haf-masu 	MGV	n.	OBJ.CONC	gastric juice
+s	0	Skaun-sa'haf-pamutaya 	MGV	n.	OBJ.CONC	gastric bypass
+s	0	Skaun-sa'haf-razhen 	MGV	n.	OBJ.CONC	gastric ulcer
+s	0	Skaun-sa'haf-yonshaya 	MGV	n.	OBJ.CONC	gastritis
+s	0	Skaun-zalu 	MGV	n.	OBJ.CONC	digestive enzyme
+s	0	Skaunek 	MGV	n.	OBJ.CONC	digester
+s	0	Skautuhlau 	MGV	v.	ACT.CONC	rid
+s	0	Skehl 	MGV	n.	OBJ.CONC	groove
+s	0	Skek 	MGV	n.	OBJ.CONC	wound
+s	0	Ski'flana-oren 	MGV	n.	OBJ.CONC	academy
+s	0	Skichra	anc.	n.	OBJ.CONC	epilepsy
+s	0	Skil 	MGV	n.	OBJ.CONC	win, victory
+s	0	Skil-tor 	MGV	v.	ACT.CONC	to win
+s	0	Skilsu 	MGV	n.	OBJ.CONC	winner, victor
+s	0	Skish-tor 	MGV	v.	ACT.CONC	slide, slip
+s	0	Skladan 	MGV	n.	OBJ.CONC	message
+s	0	Skladasu 	MGV	n.	OBJ.CONC	messenger
+s	0	Skonn 	MGV	n.	OBJ.CONC	surface
+s	0	Skor-tor 	MGV	v.	ACT.CONC	tie (as a rope)
+s	0	Skram 	MGV	n.	OBJ.CONC	carving
+s	0	Skram-tor 	MGV	v.	ACT.CONC	carve
+s	0	Skramek 	MGV	n.	OBJ.CONC	lathe
+s	0	Skramsu 	MGV	n.	OBJ.CONC	carver (person)
+s	0	Skrashau 	MGV	v.	ACT.CONC	erode
+s	0	Skrol 	MGV	n.	OBJ.CONC	errand, mission
+s	0	Sku 	MGV	n.	OBJ.CONC	sill (window?)
+s	0	Skuf 	MGV	n.	OBJ.CONC	rune
+s	0	Skunap 	MGV	n.	OBJ.CONC	diploma
+s	0	Skuri|-| 	MGV	adj.	PROP.CONC	conventional
+s	0	Slah 	MGV	n.	OBJ.CONC	fiber, fibre
+s	0	Slah-gnal 	MGV	n.	OBJ.CONC	fibroid tumor, fibroma
+s	0	Slah-makh 	MGV	n.	OBJ.CONC	fiberglass
+s	0	Slah-nalatra 	MGV	n.	OBJ.CONC	fibrous tissue
+s	0	Slaht-, Slahtik 	MGV	adj.	PROP.CONC	fibrous
+s	0	Slakh 	MGV	n.	OBJ.CONC	nausea
+s	0	Slau-tor 	MGV	v.	ACT.CONC	plate, chrome
+s	0	Slau-tukh 	MGV	n.	OBJ.CONC	chromium
+s	0	Slokh 	MGV	n.	OBJ.CONC	starch
+s	0	Slor|-| 	MGV	n.	OBJ.CONC	sweet
+s	0	Slor-dau-tukh 	MGV	n.	OBJ.CONC	insulin
+s	0	Slor-tukh 	MGV	n.	OBJ.CONC	sugar
+s	0	Slu-, Sluk 	MGV	adj.	PROP.CONC	fresh
+s	0	Sluyau 	MGV	v.	ACT.CONC	freshen
+s	0	Smash-hali-kif 	MGV	n.	OBJ.CONC	dry dock
+s	0	Smashau 	MGV	v.	ACT.CONC	drain
+s	0	Smer 	MGV	n.	OBJ.CONC	pest
+s	0	Smertau 	MGV	v.	ACT.CONC	harass, bug, pester, vex
+s	0	Smes-shasol-, Smes-shasolik 	MGV	adj.	PROP.CONC	international
+s	0	Smol 	MGV	n.	OBJ.CONC	alga(e)
+s	0	Smusma 	MGV	v.	ACT.CONC	prosper
+s	0	Smusma'es 	MGV	n.	OBJ.CONC	prosperity
+s	0	Sna-lok	anc.	n.	OBJ.CONC	mosaic, tessara
+s	0	Sna-lok-zhuksu 	MGV	n.	OBJ.CONC	mosaic-worker
+s	0	Snagel-tor 	MGV	v.	ACT.CONC	encounter
+s	0	Snaipau 	MGV	v.	ACT.CONC	crumble
+s	0	Snauk 	MGV	n.	OBJ.CONC	fork
+s	0	Snazh|-tukh| 	MGV	n.	OBJ.CONC	plasma
+s	0	Snem-tor 	MGV	v.	ACT.CONC	remove
+s	0	Snertau 	MGV	v.	ACT.CONC	interfere
+s	0	Snesh-tor 	MGV	v.	ACT.CONC	cut out, excise
+s	0	Snet 	MGV	n.	OBJ.CONC	fulcrum
+s	0	Snikau 	MGV	v.	ACT.CONC	rob
+s	0	Snishau 	MGV	v.	ACT.CONC	erase
+s	0	Snuhglau 	MGV	v.	ACT.CONC	gargle
+s	0	Snuhkrol 	MGV	n.	OBJ.CONC	flattery
+s	0	Snuhkrol-tor 	MGV	v.	ACT.CONC	flatter
+s	0	So-resh 	MGV	n.	OBJ.CONC	madness
+s	0	Sochya 	MGV	n.	OBJ.CONC	peace
+s	0	Sohk'es 	MGV	n.	OBJ.CONC	elegance
+s	0	Solai 	MGV	n.	OBJ.CONC	field (cultivated)
+s	0	Solantra 	MGV	n.	OBJ.CONC	property, land(s)
+s	0	Solek 	MGV	n.	OBJ.CONC	soil
+s	0	Solektra 	MGV	n.	OBJ.CONC	ground, land
+s	0	Solektra-besan 	MGV	n.	OBJ.CONC	map, chart
+s	0	Solektra-hutau'es 	MGV	n.	OBJ.CONC	seismicity
+s	0	Solektra-hutauk masutra-pral 	MGV	n.	OBJ.CONC	seismic sea wave, tsunami, 'tidal wave'
+s	0	Solektra-hutaya 	MGV	n.	OBJ.CONC	earthquake
+s	0	Solektra-hutaya-besan 	MGV	n.	OBJ.CONC	seismogram
+s	0	Solektra-hutaya-besek 	MGV	n.	OBJ.CONC	seismograph
+s	0	Solektra-hataya-pavek 	MGV	n.	OBJ.CONC	seismic event
+s	0	Solektra-hutaya-tal 	MGV	n.	OBJ.CONC	seismology
+s	0	Solektra-hutaya-thonek 	MGV	n.	OBJ.CONC	seismometer
+s	0	Solektra-hataya-toran 	MGV	n.	OBJ.CONC	seismic activity
+s	0	Sos'eh 	MGV	adv.	PREDIC.MODAL	maybe, perhaps, possibly
+s	0	Sov 	MGV	n.	OBJ.CONC	air
+s	0	Sov-dvun-tal 	MGV	n.	OBJ.CONC	aerodynamics
+s	0	Sov-ha-vel 	MGV	n.	OBJ.CONC	aerobe
+s	0	Sov-hali 	MGV	n.	OBJ.CONC	aircraft
+s	0	Sov-hashek 	MGV	n.	OBJ.CONC	airplane
+s	0	Sov-kapol 	MGV	n.	OBJ.CONC	air filter
+s	0	Sov-ladik 	MGV	adj.	PROP.CONC	aerobic
+s	0	Sov-lerakovayek 	MGV	n.	OBJ.CONC	air compressor
+s	0	Sov-mashau 	MGV	v.	ACT.CONC	rain
+s	0	Sov-masu 	MGV	n.	OBJ.CONC	rain
+s	0	Sov-masu'es 	MGV	n.	OBJ.CONC	humidity
+s	0	Sov-masu-thek 	MGV	n.	OBJ.CONC	raindrop
+s	0	Sov-mev 	MGV	n.	OBJ.CONC	air duct
+s	0	Sov-noshek 	MGV	n.	OBJ.CONC	air conditioner
+s	0	Sov-pidek 	MGV	n.	OBJ.CONC	altitude
+s	0	Sov-puyek 	MGV	n.	OBJ.CONC	air cleaner
+s	0	Sov-spol 	MGV	n.	OBJ.CONC	air pump
+s	0	Sov-spunek 	MGV	n.	OBJ.CONC	air valve
+s	0	Sov-su-yata 	MGV	n.	OBJ.CONC	airliner
+s	0	Sov-tan-tor 	MGV	v.	ACT.CONC	aerate
+s	0	Sov-tanan 	MGV	n.	OBJ.CONC	aeration
+s	0	Sov-tukh 	MGV	n.	OBJ.CONC	nitrogen
+s	0	Sov-vihish 	MGV	n.	OBJ.CONC	air pressure
+s	0	Sov-yutik-dvun 	MGV	n.	OBJ.CONC	advection
+s	0	Sovash 	MGV	n.	OBJ.CONC	alkali, base
+s	0	Sovash-, Sovashik 	MGV	adj.	PROP.CONC	alkaline, basic
+s	0	Sovash-kipof 	MGV	n.	OBJ.CONC	alkaline battery
+s	0	Sovek 	MGV	n.	OBJ.CONC	fan (cooling)
+s	0	Spa'ash 	MGV	n.	OBJ.CONC	disgust
+s	0	Spa-tor 	MGV	v.	ACT.CONC	conduct
+s	0	Spahk 	MGV	n.	OBJ.CONC	claw, talon
+s	0	Spathel 	MGV	n.	OBJ.CONC	canyon
+s	0	Spen-tor 	MGV	v.	ACT.CONC	jump, leap
+s	0	Spes 	MGV	n.	OBJ.CONC	voice
+s	0	Spes-fam 	MGV	adj.	PROP.CONC	mute
+s	0	Spis-tor 	MGV	v.	ACT.CONC	dip
+s	0	Spitau 	MGV	v.	ACT.CONC	bore, drill
+s	0	Spitau-el'lamok 	MGV	n.	OBJ.CONC	drill press
+s	0	Spitau-raul 	MGV	n.	OBJ.CONC	auger, boring tool, manual drill
+s	0	Spitau-zus 	MGV	n.	OBJ.CONC	drill bit
+s	0	Spitayek 	MGV	n.	OBJ.CONC	drill (machine)
+s	0	Spo-kur 	MGV	adj.	PROP.CONC	dark blue
+s	0	Spoh-tor 	MGV	v.	ACT.CONC	fade (out), become pale
+s	0	Spoh-tukh 	MGV	n.	OBJ.CONC	potassium
+s	0	Spol 	MGV	n.	OBJ.CONC	pump
+s	0	Spolek 	MGV	n.	OBJ.CONC	experiment
+s	0	Sporiben 	MGV	v.	ACT.CONC	exclaim
+s	0	Sporun 	MGV	n.	OBJ.CONC	exclamation
+s	0	Sposh-tor 	MGV	v.	ACT.CONC	erupt
+s	0	Sprah 	MGV	n.	OBJ.CONC	indeed
+s	0	Spunau 	MGV	v.	ACT.CONC	outweigh
+s	0	Spunek 	MGV	n.	OBJ.CONC	valve
+s	0	Spusau 	MGV	v.	ACT.CONC	launch
+s	0	Srashiv 	MGV	n.	OBJ.CONC	achievement
+s	0	Sri'Kahr 	MGV	n.	OBJ.CONC	a Vulcan city
+s	0	Stal-tukh 	MGV	n.	OBJ.CONC	cadmium
+s	0	Stan-tor 	MGV	v.	ACT.CONC	exude, ooze
+s	0	Star-krus 	MGV	n.	OBJ.CONC	statement
+s	0	Stariben 	MGV	n.	OBJ.CONC	speak (a language)
+s	0	Starun 	MGV	n.	OBJ.CONC	speech
+s	0	Stau 	MGV	v.	ACT.CONC	kill
+s	0	Steh-leh 	MGV	num.	SELEC.MOD	seventy
+s	0	Steh-leh'rak, steh-lehr- 	MGV	adj.	PROP.CONC	seventieth
+s	0	Steh-leh'veh 	MGV	n.	OBJ.CONC	seventieth
+s	0	Steh-vla 	MGV	n.	OBJ.CONC	heptagon
+s	0	Steheht 	MGV	n.	OBJ.CONC	type of old Vulcan poetry
+s	0	Steh|kuh| 	MGV	num.	SELEC.MOD	seven
+s	0	Stehr-, Steh'rak 	MGV	adj.	PROP.CONC	seventh
+s	0	Stek 	MGV	n.	OBJ.CONC	clamp
+s	0	Stivan 	MGV	n.	OBJ.CONC	phenomenon
+s	0	Stonal 	MGV	n.	OBJ.CONC	(musical) horn
+s	0	Stonn 	MGV	n.	OBJ.CONC	animal horn, antler
+s	0	Stor-, Storik 	MGV	adj.	PROP.CONC	developed
+s	0	Storau 	MGV	v.	ACT.CONC	develop
+s	0	Storaya 	MGV	n.	OBJ.CONC	development
+s	0	Storil|-| 	MGV	adj.	PROP.CONC	advanced
+s	0	Stron 	MGV	n.	OBJ.CONC	escape
+s	0	Stron-tor 	MGV	v.	ACT.CONC	escape
+s	0	Stron-threshan 	MGV	n.	OBJ.CONC	escape velocity
+s	0	Stron-thro-svep 	MGV	n.	OBJ.CONC	escape hatch
+s	0	Stronsu 	MGV	n.	OBJ.CONC	escapee
+s	0	Stukh 	MGV	n.	OBJ.CONC	(outer) space
+s	0	Stukh-hali 	MGV	n.	OBJ.CONC	spacecraft, spaceship
+s	0	Stukh-hash 	MGV	n.	OBJ.CONC	spaceflight
+s	0	Stukh-laskat 	MGV	n.	OBJ.CONC	space station
+s	0	Stukh-saikhut 	MGV	n.	OBJ.CONC	spacesuit
+s	0	Stukh-shan-hali 	MGV	n.	OBJ.CONC	space shuttle
+s	0	Stukhtra 	MGV	n.	OBJ.CONC	universe
+s	0	Su'el-tor 	MGV	v.	ACT.CONC	emancipate
+s	0	Su'elan 	MGV	n.	OBJ.CONC	emancipation
+s	0	Su'elsu 	MGV	n.	OBJ.CONC	emancipator
+s	0	Su'us 	MGV	n.	OBJ.CONC	number
+s	0	Su-lak 	MGV	n.	OBJ.CONC	third party (person)
+s	0	Su-plisek 	MGV	n.	OBJ.CONC	hang glider
+s	0	Sudef 	MGV	n.	OBJ.CONC	womb, uterus
+s	0	Sudef t'Yon 	MGV	n.	OBJ.CONC	'The Womb of Fire'
+s	0	Sufnuvau 	MGV	v.	ACT.CONC	abhor, detest, loathe
+s	0	Suk, Suk' 	MGV	adj.	PROP.CONC	big, large
+s	0	Suk-payon 	MGV	n.	OBJ.CONC	inferno
+s	0	Sukhlop 	MGV	n.	OBJ.CONC	statue
+s	0	Sunil	anc.	n.	OBJ.CONC	pan
+s	0	Sura'Kahr 	MGV	n.	OBJ.CONC	a Vulcan city
+s	0	Sut 	MGV	n.	OBJ.CONC	ache
+s	0	Sutor-, Sutorik 	MGV	adj.	PROP.CONC	artificial
+s	0	Sutor-aikum 	MGV	n.	OBJ.CONC	artificial satellite
+s	0	Sutor-kash-tok'es 	MGV	n.	OBJ.CONC	artificial intelligence (AI)
+s	0	Sutor-nu-seshan 	MGV	n.	OBJ.CONC	artificial gravity
+s	0	Sutorik kapol-nafek 	MGV	n.	OBJ.CONC	artificial kidney
+s	0	Sutorik khaf-spol 	MGV	n.	OBJ.CONC	artificial heart
+s	0	Sutorik sa-neitaya 	MGV	n.	OBJ.CONC	artificial insemination
+s	0	Sutra 	MGV	n.	OBJ.CONC	crew, staff, faculty
+s	0	Sutravek 	MGV	n.	OBJ.CONC	team
+s	0	Suus Mahna	anc.	n.	OBJ.CONC	a Vulcan martial art discipline which takes years to master
+s	0	Suyu 	MGV	n.	OBJ.CONC	crew, faculty, personnel
+s	0	Sva' 	MGV	prep.	SITU.MOD	between
+s	0	Svai 	MGV	n.	OBJ.CONC	flower
+s	0	Svai-zehlausu 	MGV	n.	OBJ.CONC	floral arranger
+s	0	Svai-zhuksu 	MGV	n.	OBJ.CONC	florist
+s	0	Svail 	MGV	n.	OBJ.CONC	fragrance
+s	0	Svailik 	MGV	n.	OBJ.CONC	fragrant
+s	0	Sval 	MGV	n.	OBJ.CONC	lesion
+s	0	Svekh 	MGV	n.	OBJ.CONC	cartridge
+s	0	Svep 	MGV	n.	OBJ.CONC	door
+s	0	Svi' 	MGV	prep.	SITU.MOD	among, in (the midst of)
+s	0	Svi'udish 	MGV	adj.	PROP.CONC	inside, internal
+s	0	Svi-shau 	MGV	v.	ACT.CONC	interrupt
+s	0	Svi-tor 	MGV	v.	ACT.CONC	enter
+s	0	Svi-wak 	MGV	n.	OBJ.CONC	interval
+s	0	Svik-tor 	MGV	v.	ACT.CONC	betray
+s	0	Svitan 	MGV	n.	OBJ.CONC	center, middle, core
+s	0	Svitasunezh 	MGV	n.	OBJ.CONC	club, group, association, membership
+s	0	Svizh-tor 	MGV	v.	ACT.CONC	pause
+s	0	Swana 	MGV	n.	OBJ.CONC	a rare and precious item
+t	0	T'an	anc.	n.	OBJ.CONC	rod used in kal-toh puzzle
+t	0	T'dahsu 	MGV	n.	OBJ.CONC	twin
+t	0	T'forti 	MGV	adv.	ACT.CONC.MOD	finally
+t	0	T'kausu 	MGV	n.	OBJ.CONC	quintuplet
+t	0	T'kehsu 	MGV	n.	OBJ.CONC	quadruplet
+t	0	T'Khasi 	MGV	n.	OBJ.CONC	the native name for the Vulcan homeworld
+t	0	T'Khut 	MGV	n.	OBJ.CONC	a name for the twin world of T'Khasi
+t	0	T'Lai-tukh 	MGV	n.	OBJ.CONC	zirconium
+t	0	T'Lokan 	MGV	n.	OBJ.CONC	"see \Sadahshaya t'Lokan\\\\\"""""
+t	0	T'rehsu 	MGV	n.	OBJ.CONC	triplet
+t	0	T'Rukh 	MGV	n.	OBJ.CONC	a name for the twin world of T'Khasi
+t	0	T'Rukhemai 	MGV	n.	OBJ.CONC	a name for T'Rukh's moon
+t	0	T'shehsu 	MGV	n.	OBJ.CONC	sextuplet
+t	0	T'stehsu 	MGV	n.	OBJ.CONC	septuplet
+t	0	Ta	MGV	pron.	OBJ.CONC	that, which, who (not a question word)
+t	0	Ta'a	anc.	n.	OBJ.CONC	'taal', traditional Vulcan hand salute
+t	0	Ta'an	anc.	n.	OBJ.CONC	a very valuable gift
+t	0	Ta'bek 	MGV	n.	OBJ.CONC	drug
+t	0	Ta'gal 	MGV	n.	OBJ.CONC	neutron
+t	0	Ta'raf 	MGV	adj.	PROP.CONC	neutral
+t	0	Ta'Valsh 	MGV	n.	OBJ.CONC	an ancient Vulcan port facility
+t	0	Tab-ma	anc.	adv.	ACT.CONC.MOD	late
+t	0	Tabakau 	MGV	v.	ACT.CONC	regain
+t	0	Tadek-adir	anc.	adj.	PROP.CONC	absent
+t	0	Taflau 	MGV	v.	ACT.CONC	punish
+t	0	Taflaya 	MGV	n.	OBJ.CONC	punishment
+t	0	Tah|-| 	MGV	adj.	PROP.CONC	unobtainable
+t	0	Tahal|-| 	MGV	adj.	PROP.CONC	light(weight)
+t	0	Tahal-tukh 	MGV	n.	OBJ.CONC	helium
+t	0	Tahmoh 	MGV	n.	OBJ.CONC	resolution
+t	0	Tahsin-, Tahsinik 	MGV	adj.	ACT.CONC.MOD	intransigent, uncompromising
+t	0	Taik 	MGV	n.	OBJ.CONC	hat, cap
+t	0	Taik-luk 	MGV	n.	OBJ.CONC	mushroom
+t	0	Takau 	MGV	v.	ACT.CONC	beckon
+t	0	Takov|-| 	MGV	adj.	PROP.CONC	pretty
+t	0	Takurek 	MGV	n.	OBJ.CONC	prism
+t	0	Tal t'li	anc.	n.	OBJ.CONC	first meditation of adult training
+t	0	Tal-kam 	MGV	adj.	PROP.CONC	dear
+t	0	Tal-muv 	MGV	n.	OBJ.CONC	key
+t	0	Tal-tor 	MGV	v.	ACT.CONC	find, discover
+t	0	Tala 	MGV	n.	OBJ.CONC	value
+t	0	Talal 	MGV	n.	OBJ.CONC	find, discovery
+t	0	Talash-, Talashik 	MGV	adj.	PROP.CONC	logarithmic
+t	0	Talash-ketil 	MGV	n.	OBJ.CONC	logarithmic integral
+t	0	Talash-kulan 	MGV	n.	OBJ.CONC	logarithmic spiral
+t	0	Talash-sagan 	MGV	n.	OBJ.CONC	logarithmic distribution
+t	0	Talash-su'us 	MGV	n.	OBJ.CONC	logarithmic number
+t	0	Talashenek 	MGV	n.	OBJ.CONC	logarithm
+t	0	Talik 	MGV	adj.	PROP.CONC	scientific
+t	0	Talkau 	MGV	v.	ACT.CONC	head
+t	0	Talu 	MGV	n.	OBJ.CONC	neck
+t	0	Talu-krik 	MGV	n.	OBJ.CONC	neck pinch
+t	0	Talu-shaya 	MGV	n.	OBJ.CONC	'tal-shaya', execution by breaking the neck
+t	0	Taluhk|-| 	MGV	adj.	PROP.CONC	precious, valuable
+t	0	Taluhk-tukh 	MGV	n.	OBJ.CONC	platinum
+t	0	Talupau 	MGV	v.	ACT.CONC	estimate
+t	0	Talvot 	MGV	n.	OBJ.CONC	bacterium, germ
+t	0	Tam-tor 	MGV	v.	ACT.CONC	dance
+t	0	Tam'a 	MGV	n.	OBJ.CONC	ghost, apparition, phantom, spirit
+t	0	Tamadau 	MGV	v.	ACT.CONC	abuse
+t	0	Tamadaya 	MGV	n.	OBJ.CONC	abuse
+t	0	Tamsu 	MGV	n.	OBJ.CONC	dancer
+t	0	Tan 	MGV	n.	OBJ.CONC	donation, gift, present
+t	0	Tan-tor 	MGV	v.	ACT.CONC	donate, gift, present with something
+t	0	Tanaf 	MGV	n.	OBJ.CONC	art
+t	0	Tanafsu 	MGV	n.	OBJ.CONC	artist
+t	0	Tangu 	MGV	n.	OBJ.CONC	ideal
+t	0	Tanilau 	MGV	v.	ACT.CONC	provide, supply
+t	0	Tanilkel 	MGV	n.	OBJ.CONC	warehouse
+t	0	Tanovau 	MGV	v.	ACT.CONC	equip, provision, fit out
+t	0	Tanovau-tukh 	MGV	n.	OBJ.CONC	equipment, gear, provisions
+t	0	Tansu 	MGV	n.	OBJ.CONC	donor, giver
+t	0	Tar-tor 	MGV	n.	OBJ.CONC	say
+t	0	Tarkiv 	MGV	n.	OBJ.CONC	crown
+t	0	Tasau 	MGV	v.	ACT.CONC	leak
+t	0	Tash 	MGV	n.	OBJ.CONC	control
+t	0	Tash-tor 	MGV	v.	ACT.CONC	control
+t	0	Tashal 	MGV	n.	OBJ.CONC	(control) console
+t	0	Tashek 	MGV	n.	OBJ.CONC	controller
+t	0	Tau 	MGV	n.	OBJ.CONC	fever
+t	0	Tau-kath 	MGV	n.	OBJ.CONC	'fever healing'
+t	0	Tauf 	MGV	n.	OBJ.CONC	ridge
+t	0	Tauk 	MGV	n.	OBJ.CONC	cave
+t	0	Taul-tor 	MGV	v.	ACT.CONC	dive
+t	0	Taulik 	MGV	adj.	PROP.CONC	febrile, feverish
+t	0	Taulsu 	MGV	n.	OBJ.CONC	diver
+t	0	Taurau 	MGV	v.	ACT.CONC	amaze
+t	0	Tauvolau 	MGV	v.	ACT.CONC	incite, foment
+t	0	Tav 	MGV	n.	OBJ.CONC	rate
+t	0	Tavat 	MGV	n.	OBJ.CONC	ratio
+t	0	Tcha 	MGV	n.	OBJ.CONC	curl
+t	0	Tchachaik 	MGV	adj.	PROP.CONC	awkward
+t	0	Tchai 	MGV	n.	OBJ.CONC	tea (Earth-style)
+t	0	Tchas 	MGV	n.	OBJ.CONC	warp
+t	0	Tchas-klai 	MGV	n.	OBJ.CONC	warp factor
+t	0	Tchas-mev 	MGV	n.	OBJ.CONC	warp conduit
+t	0	Tchas-mishu 	MGV	n.	OBJ.CONC	warp engine
+t	0	Tchas-threshan 	MGV	n.	OBJ.CONC	warp speed
+t	0	Tchas-tviyan 	MGV	n.	OBJ.CONC	warp core
+t	0	Tchas-vunai 	MGV	n.	OBJ.CONC	warp field
+t	0	Tchas-yeturek 	MGV	n.	OBJ.CONC	warp drive
+t	0	Tchef 	MGV	n.	OBJ.CONC	vortex
+t	0	Tchepnu 	MGV	n.	OBJ.CONC	dork, nerd
+t	0	Tchol 	MGV	n.	OBJ.CONC	bay
+t	0	Te 	MGV	n.	OBJ.CONC	structure
+t	0	Te'koshfet	anc.	n.	OBJ.CONC	architect
+t	0	Te'koshif	anc.	n.	OBJ.CONC	architecture
+t	0	Te'krul-, Te'krulik 	MGV	adj.	PROP.CONC	royal
+t	0	Te'krul-maat 	MGV	n.	OBJ.CONC	royal family
+t	0	Te'krultra 	MGV	n.	OBJ.CONC	royalty
+t	0	Te'krulyek 	MGV	n.	OBJ.CONC	royal house
+t	0	Te'Rikh, TeRikh 	MGV	n.	OBJ.CONC	a Vulcan city
+t	0	Tedvun-tor 	MGV	v.	ACT.CONC	flex
+t	0	Tedvunik 	MGV	adj.	PROP.CONC	flexible, pliable, pliant
+t	0	Tefosh'es 	MGV	n.	OBJ.CONC	immunity
+t	0	Tefosh-, Tefoshik 	MGV	adj.	PROP.CONC	immune
+t	0	Tefosh-kesaya 	MGV	n.	OBJ.CONC	immune response
+t	0	Tefosh-torektra 	MGV	n.	OBJ.CONC	immune system
+t	0	Tefuk 	MGV	v.	ACT.CONC	deliver
+t	0	Teh 	MGV	num.	SELEC.MOD	hundred (the number)
+t	0	Teh'rak, Tehr- 	MGV	adj.	PROP.CONC	hundredth
+t	0	Teh'veh 	MGV	n.	OBJ.CONC	hundredth
+t	0	Tehk 	MGV	n.	OBJ.CONC	sprout
+t	0	Tehnat 	MGV	prep.	SITU.MOD	against
+t	0	Tehnau 	MGV	v.	ACT.CONC	resist, stand up against
+t	0	Tehnyak 	MGV	n.	OBJ.CONC	override
+t	0	Tehrai 	MGV	n.	OBJ.CONC	goal
+t	0	Tehs 	MGV	n.	OBJ.CONC	deceit, fraud, deception, trickery
+t	0	Tehs-bosh 	MGV	adj.	PROP.CONC	deceitful, deceptive, fraudulent
+t	0	Tehs-tor 	MGV	v.	ACT.CONC	deceive, defraud, trick
+t	0	Tehvar 	MGV	n.	OBJ.CONC	danger
+t	0	Tehvarik 	MGV	adj.	PROP.CONC	dangerous
+t	0	Tekeret 	MGV	n.	OBJ.CONC	deviation
+t	0	Tekla 	MGV	n.	OBJ.CONC	a type of wood
+t	0	Tel 	MGV	n.	OBJ.CONC	bond
+t	0	Tel-tor 	MGV	v.	ACT.CONC	bond
+t	0	Tela'at	anc.	n.	OBJ.CONC	elder (title of respect for advanced age Kolinahru)
+t	0	Telsu 	MGV	n.	OBJ.CONC	one who is bonded, a married person
+t	0	Telv-tor 	MGV	v.	ACT.CONC	read
+t	0	Temep 	MGV	n.	OBJ.CONC	gate
+t	0	Temep-dvinsu 	MGV	n.	OBJ.CONC	gatekeeper
+t	0	Temep-kelek 	MGV	n.	OBJ.CONC	gatehouse
+t	0	Temep-lehk 	MGV	n.	OBJ.CONC	gatepost
+t	0	Temep-sharu 	MGV	n.	OBJ.CONC	gateway
+t	0	Temok 	MGV	n.	OBJ.CONC	wall
+t	0	Temok-weiwan 	MGV	n.	OBJ.CONC	plaster
+t	0	Ten 	MGV	adv.	ACT.CONC.MOD	less
+t	0	Ten-mal 	MGV	adv.	ACT.CONC.MOD	early
+t	0	Tenah 	MGV	v.	ACT.CONC	blame
+t	0	Tenkan 	MGV	n.	OBJ.CONC	fetus
+t	0	Teporilau 	MGV	v.	ACT.CONC	excite
+t	0	Tepuh 	MGV	v.	ACT.CONC	power
+t	0	Tepul 	MGV	n.	OBJ.CONC	energy, power
+t	0	Tepul-mev 	MGV	n.	OBJ.CONC	energy conduit, power conduit
+t	0	Tepul-nala 	MGV	n.	OBJ.CONC	energy cell, power cell
+t	0	Tepul-pak 	MGV	n.	OBJ.CONC	energy loss, power loss
+t	0	Tepul-rushanek 	MGV	n.	OBJ.CONC	power converter
+t	0	Tepul-sek 	MGV	n.	OBJ.CONC	power outlet
+t	0	Tepul-shan 	MGV	n.	OBJ.CONC	energy transfer, power transfer
+t	0	Tepul-smashaya 	MGV	n.	OBJ.CONC	energy drain, power drain
+t	0	Tepul-tanilayek 	MGV	n.	OBJ.CONC	power supply
+t	0	Tepul-tersayek 	MGV	n.	OBJ.CONC	power coupling
+t	0	Tepul-torvayek 	MGV	n.	OBJ.CONC	power plant
+t	0	Tepul-tral 	MGV	n.	OBJ.CONC	energy surge, power surge
+t	0	Tepul-vis 	MGV	n.	OBJ.CONC	power grid
+t	0	Tepul-vok 	MGV	n.	OBJ.CONC	energy level, power level
+t	0	Tepul-vunai 	MGV	n.	OBJ.CONC	energy field
+t	0	Tepulau 	MGV	v.	ACT.CONC	energize
+t	0	Ter-tor 	MGV	v.	ACT.CONC	compose
+t	0	Terau 	MGV	v.	ACT.CONC	federate, fasten, join together
+t	0	Teraya 	MGV	n.	OBJ.CONC	federation, fastening, joining together
+t	0	Terek 	MGV	n.	OBJ.CONC	affix
+t	0	Teresh-kah 	MGV	n.	OBJ.CONC	Vulcan 'silver-bird'
+t	0	Teretarun 	MGV	n.	OBJ.CONC	conference
+t	0	Teretau 	MGV	v.	ACT.CONC	converge
+t	0	Teretek 	MGV	n.	OBJ.CONC	coupler
+t	0	Teretuhr 	MGV	n.	OBJ.CONC	together, united, fused
+t	0	Terish-tor 	MGV	v.	ACT.CONC	combine
+t	0	Terk 	MGV	n.	OBJ.CONC	bolt
+t	0	Terpau 	MGV	v.	ACT.CONC	adhere
+t	0	Terpaya 	MGV	n.	OBJ.CONC	adhesion
+t	0	Terpayek 	MGV	n.	OBJ.CONC	adhesive
+t	0	Terra 	MGV	n.	OBJ.CONC	Earth
+t	0	Terrasu 	MGV	n.	OBJ.CONC	Terran, Earthling, Earther
+t	0	Terrupik 	MGV	adj.	PROP.CONC	Terran, earthly
+t	0	Tersau 	MGV	v.	ACT.CONC	connect
+t	0	Tersek 	MGV	n.	OBJ.CONC	buckle
+t	0	Tershau 	MGV	v.	ACT.CONC	collect
+t	0	Tersu 	MGV	n.	OBJ.CONC	partner
+t	0	Teruk 	MGV	n.	OBJ.CONC	corner
+t	0	Tesha 	MGV	v.	ACT.CONC	awe
+t	0	Tesihk 	MGV	n.	OBJ.CONC	albumin
+t	0	Teslau 	MGV	v.	ACT.CONC	repair, fix
+t	0	Tessau 	MGV	v.	ACT.CONC	addict
+t	0	Tessaya 	MGV	n.	OBJ.CONC	addiction
+t	0	Tetalaya 	MGV	n.	OBJ.CONC	friction
+t	0	Tetau 	MGV	v.	ACT.CONC	rub
+t	0	Tev'rak 	MGV	n.	OBJ.CONC.MOD	west
+t	0	Tev'rak-, Tev'rakik 	MGV	adj.	PROP.CONC	western, westerly
+t	0	Tev'raksu 	MGV	n.	OBJ.CONC	westerner
+t	0	Tev-tor 	MGV	v.	ACT.CONC	"fall, descend; die"
+t	0	Tev-yehat 	MGV	adj.	PROP.CONC	mortal
+t	0	Tevakh 	MGV	n.	OBJ.CONC	death
+t	0	Tevakh-fam 	MGV	adj.	PROP.CONC	deathless, immortal
+t	0	Tevakh-kahk 	MGV	adv.	ACT.CONC.MOD	deathly
+t	0	Teval-, Tevalik 	MGV	adj.	PROP.CONC	deadly
+t	0	Tevan 	MGV	n.	OBJ.CONC	descent, fall
+t	0	Tevanu 	MGV	n.	OBJ.CONC	the Dead
+t	0	Tevanu-prikel 	MGV	n.	OBJ.CONC	mortuary
+t	0	Tevanu-tsorkel 	MGV	n.	OBJ.CONC	morgue
+t	0	Tevik 	MGV	adj.	PROP.CONC	dead
+t	0	Tevun 	MGV	n.	OBJ.CONC	year
+t	0	Thak	MGV	n.	OBJ.CONC	breast
+t	0	Thak-hayataya 	MGV	n.	OBJ.CONC	breast augmentation
+t	0	Thak-netakidaya 	MGV	n.	OBJ.CONC	breast reduction
+t	0	Thak-storau-palikaya 	MGV	n.	OBJ.CONC	thelarche
+t	0	Thak-vishi-vel 	MGV	n.	OBJ.CONC	breast implant
+t	0	Thak-yem-tor 	MGV	n.	OBJ.CONC	breastfeed
+t	0	Thakau 	MGV	v.	ACT.CONC	focus
+t	0	Thakaya 	MGV	n.	OBJ.CONC	focus
+t	0	Thal|-| 	MGV	adj.	PROP.CONC	loose
+t	0	Thal-tor 	MGV	n.	OBJ.CONC	loosen
+t	0	Thalv 	MGV	n.	OBJ.CONC	page, sheet
+t	0	Thanai 	MGV	v.	ACT.CONC	adopt
+t	0	Thas 	MGV	n.	OBJ.CONC	milk
+t	0	Thas-pi'nafek 	MGV	n.	OBJ.CONC	mammary gland
+t	0	Thas-spol 	MGV	n.	OBJ.CONC	breast pump
+t	0	Thasau 	MGV	v.	ACT.CONC	lactate
+t	0	Thasaya 	MGV	n.	OBJ.CONC	lactation
+t	0	Thasnem-tor 	MGV	v.	ACT.CONC	milk
+t	0	Thasnemek 	MGV	n.	OBJ.CONC	milking machine
+t	0	Thav 	MGV	n.	OBJ.CONC	cone
+t	0	Thek 	MGV	n.	OBJ.CONC	drop (rain, tear, etc.)
+t	0	Thel'a 	MGV	n.	OBJ.CONC	fat
+t	0	Thel'a-di'kish-torek 	MGV	n.	OBJ.CONC	fat metabolism
+t	0	Thel'a-sash 	MGV	n.	OBJ.CONC	fatty acid
+t	0	Thel-, Thelik 	MGV	adj.	PROP.CONC	fat, fatty
+t	0	Theris 	MGV	n.	OBJ.CONC	a Vulcan herb
+t	0	Theris-masu 	MGV	n.	OBJ.CONC	tea(Vulcan-style)
+t	0	Thes-tor 	MGV	v.	ACT.CONC	engrave
+t	0	Theshau 	MGV	v.	ACT.CONC	scrape
+t	0	Thezh-tor 	MGV	v.	ACT.CONC	drip
+t	0	Thinoi 	MGV	v.	ACT.CONC	waste
+t	0	Thol|-| 	MGV	adj.	PROP.CONC	noble
+t	0	Tholsu 	MGV	n.	OBJ.CONC	noble
+t	0	Tholtra 	MGV	n.	OBJ.CONC	nobility, aristocracy
+t	0	Thon 	MGV	n.	OBJ.CONC	measurement
+t	0	Thon-tor 	MGV	v.	ACT.CONC	measure
+t	0	Thon-yehat 	MGV	adj.	PROP.CONC	measurable
+t	0	Thonau 	MGV	v.	ACT.CONC	anguish
+t	0	Thonek 	MGV	n.	OBJ.CONC	meter, measuring device
+t	0	Thorau 	MGV	v.	ACT.CONC	burst
+t	0	Thoraya 	MGV	n.	OBJ.CONC	burst
+t	0	Thorsh-yel 	MGV	n.	OBJ.CONC	nova
+t	0	Thorshau 	MGV	v.	ACT.CONC	explode
+t	0	Thorshau-tukh 	MGV	n.	OBJ.CONC	explosives
+t	0	Thorshaya 	MGV	n.	OBJ.CONC	explosion
+t	0	Thorshek 	MGV	n.	OBJ.CONC	bomb
+t	0	Thorshun 	MGV	n.	OBJ.CONC	cannon
+t	0	Thrah 	MGV	n.	OBJ.CONC	friend (general term)
+t	0	Thraht-, Thrahtik 	MGV	n.	OBJ.CONC	friendly
+t	0	Thrakh 	MGV	n.	OBJ.CONC	gneiss
+t	0	Thrap 	MGV	n.	OBJ.CONC	offense
+t	0	Thrap-tor 	MGV	v.	ACT.CONC	offend
+t	0	Thresh-tor 	MGV	v.	ACT.CONC	split, cleave
+t	0	Threshan 	MGV	n.	OBJ.CONC	speed, velocity
+t	0	Thro 	MGV	n.	OBJ.CONC	access
+t	0	Thro-tor 	MGV	v.	ACT.CONC	access
+t	0	Thro-wein 	MGV	n.	OBJ.CONC	access panel
+t	0	Thro-yehat 	MGV	adj.	PROP.CONC	accessible
+t	0	Throks 	MGV	v.	ACT.CONC	give, share (with a superior)
+t	0	Thruhk|-| 	MGV	adj.	PROP.CONC	foul, offensive, loathsome, repulsive
+t	0	Thu 	MGV	conj.	CONNECTOR	then (next in sequence)
+t	0	Thuhk 	MGV	n.	OBJ.CONC	cheese
+t	0	Thurai 	MGV	adv.	ACT.CONC.MOD	next
+t	0	Thyar 	MGV	n.	OBJ.CONC	butter
+t	0	Ti 	MGV	v.	ACT.CONC	lay, lie (down)
+t	0	Tik 	MGV	adj.	SELEC.MOD	each
+t	0	Tikap 	MGV	n.	OBJ.CONC	method
+t	0	Tikopah 	MGV	n.	OBJ.CONC	independence
+t	0	Tilau 	MGV	v.	ACT.CONC	perforate, pierce
+t	0	Tilek 	MGV	n.	OBJ.CONC	spear
+t	0	Timut 	MGV	n.	OBJ.CONC	heel
+t	0	Tin 	MGV	n.	OBJ.CONC	layer, stratum
+t	0	Tinga 	MGV	n.	OBJ.CONC	dimension (measurement)
+t	0	Tipan 	MGV	n.	OBJ.CONC	shoulder
+t	0	Tir-nuk	anc.	n.	OBJ.CONC	a small Vulcan succulent tree that produces wood
+t	0	Tish 	MGV	pron.	OBJ.CONC	to you
+t	0	Tishau 	MGV	v.	ACT.CONC	like
+t	0	Tizh-tor 	MGV	v.	ACT.CONC	enjoy
+t	0	Tlingansu 	MGV	n.	OBJ.CONC	Klingon
+t	0	To'ovau 	MGV	v.	ACT.CONC	grow
+t	0	To'oveh 	MGV	n.	OBJ.CONC	adult
+t	0	To-gav 	MGV	n.	OBJ.CONC	law
+t	0	To-gav-kel 	MGV	n.	OBJ.CONC	courthouse
+t	0	To-pal 	MGV	n.	OBJ.CONC	coat
+t	0	To-tanlar 	MGV	n.	OBJ.CONC	rights
+t	0	Tobeg-tor 	MGV	v.	ACT.CONC	excuse
+t	0	Todvel-tor 	MGV	v.	ACT.CONC	elect
+t	0	Toglantau 	MGV	v.	ACT.CONC	(eye)witness
+t	0	Toglantausu 	MGV	n.	OBJ.CONC	(eye)witness
+t	0	Togolau 	MGV	v.	ACT.CONC	enforce
+t	0	Togolausu 	MGV	n.	OBJ.CONC	enforcer
+t	0	Togolaya 	MGV	n.	OBJ.CONC	enforcement
+t	0	Tok-ti 	MGV	adj.	PROP.CONC	fine
+t	0	Tol 	MGV	n.	OBJ.CONC	gene
+t	0	Tol-, Tolik 	MGV	n.	OBJ.CONC	genetic
+t	0	Tol-has 	MGV	n.	OBJ.CONC	genetic disease
+t	0	Tol-kiht 	MGV	n.	OBJ.CONC	genetic code
+t	0	Tol-mish-tal 	MGV	n.	OBJ.CONC	genetic engineering
+t	0	Tol-patra 	MGV	n.	OBJ.CONC	gene pool
+t	0	Tol-tal 	MGV	n.	OBJ.CONC	genetics
+t	0	Tol-ulidek 	MGV	n.	OBJ.CONC	genetic marker
+t	0	Tol-var 	MGV	n.	OBJ.CONC	genome
+t	0	Tol-ves 	MGV	n.	OBJ.CONC	genotype
+t	0	Tol-yumaya 	MGV	n.	OBJ.CONC	gene flow
+t	0	Tolasau 	MGV	v.	ACT.CONC	clone
+t	0	Toltra 	MGV	n.	OBJ.CONC	chromosome
+t	0	Tomasu 	MGV	n.	OBJ.CONC	kinsman, relative
+t	0	Tomayeht-, Tomayehtik 	MGV	adj.	PROP.CONC	ethical
+t	0	Toper 	MGV	n.	OBJ.CONC	act, deed
+t	0	Tor 	MGV	v.	ACT.CONC	do, make
+t	0	Tor-tal 	MGV	n.	OBJ.CONC	physics
+t	0	Tor-vel 	MGV	n.	OBJ.CONC	mechanism
+t	0	Tor-velsu 	MGV	n.	OBJ.CONC	mechanic (person)
+t	0	Tor-zhit 	MGV	n.	OBJ.CONC	verb (grammar)
+t	0	Torah 	MGV	v.	ACT.CONC	act, produce an effect
+t	0	Torai 	MGV	n.	OBJ.CONC	action
+t	0	Toran 	MGV	n.	OBJ.CONC	activity
+t	0	Toranelek 	MGV	n.	OBJ.CONC	dynamo
+t	0	Toranik 	MGV	adj.	PROP.CONC	busy
+t	0	Torek 	MGV	n.	OBJ.CONC	process
+t	0	Torektra 	MGV	n.	OBJ.CONC	system
+t	0	Torsh 	MGV	n.	OBJ.CONC	feat, exploit
+t	0	Toru-zhit 	MGV	n.	OBJ.CONC	imperative (grammar)
+t	0	Torupik 	MGV	adj.	PROP.CONC	active
+t	0	Torupik dvun-zehl 	MGV	n.	OBJ.CONC	active fault
+t	0	Torupik |suk'|zul-kunel 	MGV	n.	OBJ.CONC	active volcano
+t	0	Torvau 	MGV	v.	ACT.CONC	build, construct, produce
+t	0	Torvel-zhit 	MGV	n.	OBJ.CONC	gerund (grammar)
+t	0	Torvukh 	MGV	n.	OBJ.CONC	sport
+t	0	Tostau 	MGV	n.	OBJ.CONC	execute, put to death
+t	0	Tovek-tukh 	MGV	n.	OBJ.CONC	germanium
+t	0	Tra 	MGV	n.	OBJ.CONC	mass, body, accumulation, assemblage
+t	0	Tra-lan 	MGV	n.	OBJ.CONC	major
+t	0	Trahokna 	MGV	n.	OBJ.CONC	institute
+t	0	Trahokna t'Ek'Mishan T'Khasi 	MGV	n.	OBJ.CONC	Vulcan Institute of Technology
+t	0	Trak 	MGV	n.	OBJ.CONC	pillow
+t	0	Tral 	MGV	n.	OBJ.CONC	surge
+t	0	Tran 	MGV	v.	ACT.CONC	order (command)
+t	0	Tran-tor 	MGV	v.	ACT.CONC	order (to do something)
+t	0	Tranush 	MGV	n.	OBJ.CONC	patience
+t	0	Trasha 	MGV	v.	ACT.CONC	depart, leave
+t	0	Trau 	MGV	adj.	PROP.CONC	honest
+t	0	Trau'es 	MGV	n.	OBJ.CONC	honesty
+t	0	Travek 	MGV	n.	OBJ.CONC	group, set, platoon
+t	0	Traveksu 	MGV	n.	OBJ.CONC	sergeant, petty officer
+t	0	Travilau 	MGV	v.	ACT.CONC	compile
+t	0	Trefei 	MGV	v.	ACT.CONC	martyr
+t	0	Trefem 	MGV	n.	OBJ.CONC	martyr
+t	0	Treit 	MGV	n.	OBJ.CONC	flock
+t	0	Tren-tor 	MGV	v.	ACT.CONC	master
+t	0	Trensu 	MGV	n.	OBJ.CONC	master
+t	0	Tres-tor 	MGV	v.	ACT.CONC	rip, tear
+t	0	Tresahk-tor 	MGV	v.	ACT.CONC	rip into pieces, rend, shred
+t	0	Tresahk-vel 	MGV	n.	OBJ.CONC	shredder
+t	0	Treshau 	MGV	v.	ACT.CONC	crack, split open
+t	0	Tri-zhar	anc.	n.	OBJ.CONC	an invasive procedure
+t	0	Trof	anc.	n.	OBJ.CONC	week
+t	0	Truhk|-zehl| 	MGV	n.	OBJ.CONC	latitude
+t	0	Tsa 	MGV	n.	OBJ.CONC	curve
+t	0	Tsat 	MGV	n.	OBJ.CONC	secret
+t	0	Tsat-, Tsatik 	MGV	adj.	PROP.CONC	secret
+t	0	Tsau-tukh 	MGV	n.	OBJ.CONC	zinc
+t	0	Tsautal-, Tsautalik 	MGV	adj.	PROP.CONC	galvanized
+t	0	Tsek 	MGV	n.	OBJ.CONC	column
+t	0	Tsel-, Tselik 	MGV	adj.	PROP.CONC	mutant
+t	0	Tsel-vel 	MGV	n.	OBJ.CONC	mutant
+t	0	Tselau 	MGV	v.	ACT.CONC	mutate
+t	0	Tselau-palikauk 	MGV	adj.	PROP.CONC	mutagenic
+t	0	Tselau-tav 	MGV	n.	OBJ.CONC	mutation rate
+t	0	Tselaya 	MGV	n.	OBJ.CONC	mutation
+t	0	Tselayek 	MGV	n.	OBJ.CONC	mutagen
+t	0	Tselfa 	MGV	n.	OBJ.CONC	mutant (non-sentient being)
+t	0	Tselsu 	MGV	n.	OBJ.CONC	mutant (sentient being)
+t	0	Tsokal 	MGV	n.	OBJ.CONC	territory
+t	0	Tsorau 	MGV	v.	ACT.CONC	store, cache, save up
+t	0	Tsorkel 	MGV	n.	OBJ.CONC	storehouse
+t	0	Tsuk|-| 	MGV	adj.	PROP.CONC	common
+t	0	Tsulaya 	MGV	n.	OBJ.CONC	amplitude
+t	0	Tsuri|-| 	MGV	adj.	PROP.CONC	normal, regular, usual
+t	0	Tsuri-fna-krus 	MGV	n.	OBJ.CONC	normal section
+t	0	Tsuri-kek 	MGV	n.	OBJ.CONC	normal function
+t	0	Tsuri-khaf-vihish 	MGV	n.	OBJ.CONC	normotension
+t	0	Tsuri-pa'ashtra 	MGV	n.	OBJ.CONC	normal plane
+t	0	Tsuri-sagan 	MGV	n.	OBJ.CONC	normal distribution
+t	0	Tsuri-shid 	MGV	n.	OBJ.CONC	normal form
+t	0	Tsuri-su'us 	MGV	n.	OBJ.CONC	regular number
+t	0	Tsuri-travek 	MGV	n.	OBJ.CONC	normal group
+t	0	Tsuri-vo'ihn 	MGV	n.	OBJ.CONC	normal equation
+t	0	Tsuri-vukharat 	MGV	n.	OBJ.CONC	normal vector
+t	0	Tsuri-wehk-vla 	MGV	n.	OBJ.CONC	regular polygon
+t	0	Tsuri-zehlanaya 	MGV	n.	OBJ.CONC	regular sequence
+t	0	Tsuri-zek 	MGV	n.	OBJ.CONC	normal order
+t	0	Tsurkan-, Tsurkanik 	MGV	adj.	PROP.CONC	consistent
+t	0	Tu 	MGV	pron.	OBJ.CONC	you (after a vowel sound)
+t	0	Tu'ash 	MGV	v.	ACT.CONC	open
+t	0	Tu-lan 	MGV	n.	OBJ.CONC	Vulcan breathing exercise
+t	0	Tuf 	MGV	n.	OBJ.CONC	chest, thorax
+t	0	Tuf-has-tal 	MGV	n.	OBJ.CONC	thoracic medicine
+t	0	Tuf-hinek 	MGV	n.	OBJ.CONC	breast bone, sternum
+t	0	Tuf-wel 	MGV	n.	OBJ.CONC	thoracic nerve
+t	0	Tuh 	MGV	n.	OBJ.CONC	stack, pile, heap
+t	0	Tuhk 	MGV	n.	OBJ.CONC	dent
+t	0	Tuhllar 	MGV	n.	OBJ.CONC	contents
+t	0	Tuhsau 	MGV	v.	ACT.CONC	cross
+t	0	Tukh 	MGV	n.	OBJ.CONC	material, stuff, substance
+t	0	Tum 	MGV	n.	OBJ.CONC	count, tally
+t	0	Tum-nentu 	MGV	n.	OBJ.CONC	abacus
+t	0	Tum-tor 	MGV	v.	ACT.CONC	count, add up, tally
+t	0	Tum-vel 	MGV	n.	OBJ.CONC	computer
+t	0	Tumak 	MGV	n.	OBJ.CONC	(computer) program
+t	0	Tumau 	MGV	v.	ACT.CONC	program
+t	0	Tun 	MGV	n.	OBJ.CONC	care
+t	0	Tupa 	MGV	n.	OBJ.CONC	lesson
+t	0	Tus-tor 	MGV	v.	ACT.CONC	load
+t	0	Tusa 	MGV	v.	ACT.CONC	weep
+t	0	Tushah 	MGV	v.	ACT.CONC	grieve
+t	0	Tushat 	MGV	n.	OBJ.CONC	grief
+t	0	Tushetik 	MGV	adj.	PROP.CONC	apprehensive
+t	0	Tusla 	MGV	n.	OBJ.CONC	cargo
+t	0	Tusla-masu-hali, Tusla-mashali 	MGV	n.	OBJ.CONC	cargo ship, freighter
+t	0	Tusok 	MGV	n.	OBJ.CONC	exercise
+t	0	Tuvel 	MGV	n.	OBJ.CONC	(subject) matter
+t	0	Tuwak 	MGV	adj.	PROP.CONC	recent
+t	0	Tvah 	MGV	n.	OBJ.CONC	meaning
+t	0	Tvai 	MGV	v.	ACT.CONC	mean
+t	0	Tvau 	MGV	v.	ACT.CONC	swing
+t	0	Tvaya 	MGV	n.	OBJ.CONC	swing
+t	0	Tvelkau 	MGV	v.	ACT.CONC	tune (radio)
+t	0	Tveshu 	MGV	n.	OBJ.CONC	origin
+t	0	Tvi-, Tvik 	MGV	adj.	PROP.CONC	inner, interior, internal
+t	0	Tvi-dash 	MGV	n.	OBJ.CONC	internal injury
+t	0	Tvi-ha-velik 	MGV	adj.	PROP.CONC	in vivo
+t	0	Tvi-kaluk 	MGV	n.	OBJ.CONC	inner ear
+t	0	Tvi-kovtra 	MGV	n.	OBJ.CONC	mantle
+t	0	Tvi-nafeklar 	MGV	n.	OBJ.CONC	internal organs
+t	0	Tvi-samuyek 	MGV	n.	OBJ.CONC	intercooler
+t	0	Tvi-sau-pi'nafek 	MGV	n.	OBJ.CONC	endocrine gland
+t	0	Tvi-sau-tal 	MGV	n.	OBJ.CONC	endocrinology
+t	0	Tvi-sau-torektra 	MGV	n.	OBJ.CONC	endocrine system
+t	0	Tvi-shitik 	MGV	adj.	PROP.CONC	in situ
+t	0	Tvi-stukh 	MGV	n.	OBJ.CONC	interstice
+t	0	Tvi-sudefik 	MGV	adj.	PROP.CONC	in utero
+t	0	Tvi-sviribayek 	MGV	n.	OBJ.CONC	intercom
+t	0	Tvi-thro-svep 	MGV	n.	OBJ.CONC	inner hatch
+t	0	Tvi-tukh 	MGV	n.	OBJ.CONC	endoplasm
+t	0	Tvi-vulu 	MGV	n.	OBJ.CONC	interior angle
+t	0	Tvi-wek 	MGV	n.	OBJ.CONC	interphase
+t	0	Tvi-yontau-mishu 	MGV	n.	OBJ.CONC	internal combustion engine
+t	0	Tvi-zan-vel 	MGV	n.	OBJ.CONC	endoscope
+t	0	Tvi-zul 	MGV	n.	OBJ.CONC	magma
+t	0	Tvidon'es 	MGV	n.	OBJ.CONC	enrichment
+t	0	Tvidon-tor 	MGV	v.	ACT.CONC	enrich
+t	0	Tvihal	MGV	n.	OBJ.CONC	chamber, room, atrium
+t	0	Tvihanek 	MGV	n.	OBJ.CONC	interface
+t	0	Tviklachek 	MGV	n.	OBJ.CONC	interlock
+t	0	Tvimesau 	MGV	v.	ACT.CONC	intersect
+t	0	Tvimesaya 	MGV	n.	OBJ.CONC	intersection
+t	0	Tvisek 	MGV	n.	OBJ.CONC	reflex
+t	0	Tvitau 	MGV	v.	ACT.CONC	line
+t	0	Tvitaya 	MGV	n.	OBJ.CONC	lining
+t	0	Tviyan 	MGV	n.	OBJ.CONC	core
+u	1	U, U' 	MGV	conj.	CONNECTOR	as
+u	1	U'gal 	MGV	n.	OBJ.CONC	electron
+u	1	U'gal-glashaun 	MGV	n.	OBJ.CONC	electron scanning
+u	1	U'gal-ha'zehl 	MGV	n.	OBJ.CONC	electron beam
+u	1	U'gal-pohshek 	MGV	n.	OBJ.CONC	electron gun
+u	1	U'gal-salash 	MGV	n.	OBJ.CONC	electron stream
+u	1	U'gal-shivak 	MGV	n.	OBJ.CONC	electron mass
+u	1	U'gal-yumau-tal 	MGV	n.	OBJ.CONC	electronics
+u	1	Ugalik numo-zan-vel 	MGV	n.	OBJ.CONC	electron microscope
+u	1	U'rak 	MGV	n.	OBJ.CONC	negative (polarity)
+u	1	Ub 	MGV	n.	OBJ.CONC	dome
+u	1	Udash|-| 	MGV	adj.	PROP.CONC	cruel, mean, not nice (at all)
+u	1	Uf 	MGV	adv.	PREDIC.MOD	how
+u	1	Ugau 	MGV	v.	ACT.CONC	promise
+u	1	Uk 	MGV	n.	OBJ.CONC	digit (finger or toe)
+u	1	Ukhru-vishan 	MGV	n.	OBJ.CONC	affair
+u	1	Ukralau 	MGV	v.	ACT.CONC	crawl
+u	1	Ukraluk 	MGV	n.	OBJ.CONC	reptile
+u	1	Ul-wihka 	MGV	n.	OBJ.CONC	hypothesis
+u	1	Ulef 	MGV	n.	OBJ.CONC	half
+u	1	Ulidak 	MGV	n.	OBJ.CONC	scarring
+u	1	Ulidar 	MGV	n.	OBJ.CONC	mark, scar
+u	1	Ulidau 	MGV	v.	ACT.CONC	mark, scar
+u	1	Ulidau-glaribek 	MGV	n.	OBJ.CONC	marker beacon
+u	1	Ulidaya 	MGV	n.	OBJ.CONC	marking
+u	1	Ulidayek 	MGV	n.	OBJ.CONC	marker buoy
+u	1	Ulidek 	MGV	n.	OBJ.CONC	marker
+u	1	Um 	MGV	n.	OBJ.CONC	tip, point
+u	1	Un 	MGV	n.	OBJ.CONC	digit
+u	1	Ur 	MGV	n.	OBJ.CONC	tunnel
+u	1	Uralau 	MGV	v.	ACT.CONC	sing
+u	1	Uralausu 	MGV	n.	OBJ.CONC	singer
+u	1	Urgam 	MGV	n.	OBJ.CONC	effort
+u	1	Uroshal 	MGV	n.	OBJ.CONC	farm
+u	1	Uroshal-kelek 	MGV	n.	OBJ.CONC	farmhouse
+u	1	Uroshal-solektra 	MGV	n.	OBJ.CONC	farmland
+u	1	Uroshal-zupsu 	MGV	n.	OBJ.CONC	farm hand, farm worker
+u	1	Uroshalsu 	MGV	n.	OBJ.CONC	farmer
+u	1	Uroshitau 	MGV	v.	ACT.CONC	farm
+u	1	Urozh	anc.	n.	OBJ.CONC	crop(s)
+u	1	Ushek 	MGV	n.	OBJ.CONC	basalt
+u	1	Ushgul 	MGV	n.	OBJ.CONC	a legendary werewolf-like being
+u	1	Utan 	MGV	adj.	PROP.CONC	compassionate
+u	1	Utan'es 	MGV	n.	OBJ.CONC	compassion
+u	1	Utvau 	MGV	v.	ACT.CONC	reason
+u	1	Uus 	MGV	n.	OBJ.CONC	icon
+u	1	Uyed 	MGV	n.	OBJ.CONC	emphatic particle (grammar)
+u	1	Uz 	MGV	n.	OBJ.CONC	fee
+u	1	Uzh|-| 	MGV	adj.	PROP.CONC	new
+u	1	Uzhau 	MGV	v.	ACT.CONC	refresh, renew
+v	1	V'hak	anc.	n.	OBJ.CONC	elegy
+v	1	Va'amau 	MGV	v.	ACT.CONC	mimic
+v	1	Va'asau 	MGV	v.	ACT.CONC	copy
+v	1	Va'ashiv 	MGV	adv.	ACT.CONC.MOD	again
+v	1	Va'prah 	MGV	v.	ACT.CONC	replace
+v	1	Vah 	MGV	adj.	PROP.CONC	as (comparitive)
+v	1	Vahl 	MGV	v.	ACT.CONC	grant, bequeath
+v	1	Vai 	MGV	adj.	PROP.CONC	holy
+v	1	Vaikar-, Vaikarik 	MGV	adj.	PROP.CONC	devout
+v	1	Vaikau 	MGV	v.	ACT.CONC	devote
+v	1	Vaikausu 	MGV	n.	OBJ.CONC	devotee, fan
+v	1	Vak-zehl 	MGV	n.	OBJ.CONC	X-ray
+v	1	Vakav'es 	MGV	n.	OBJ.CONC	frequency
+v	1	Vakav'es-fereikek 	MGV	n.	OBJ.CONC	frequency synthesizer
+v	1	Vakav'es-nakihtilaya 	MGV	n.	OBJ.CONC	frequency modulation (FM)
+v	1	Vakav'es-rushanek 	MGV	n.	OBJ.CONC	frequency converter
+v	1	Vakav'es-zhel 	MGV	n.	OBJ.CONC	frequency band
+v	1	Vakav-, Vakavik 	MGV	adj.	PROP.CONC	frequent
+v	1	Vakh-, Vakhik 	MGV	adj.	PROP.CONC	bold
+v	1	Vaksurik 	MGV	adj.	PROP.CONC	beautiful
+v	1	Val 	MGV	n.	OBJ.CONC	chip
+v	1	Valit 	MGV	n.	OBJ.CONC	a Vulcan burrowing animal
+v	1	Vam 	MGV	n.	OBJ.CONC	esteem
+v	1	Van-kal	anc.	n.	OBJ.CONC	ceremony
+v	1	Van-razh 	MGV	n.	OBJ.CONC	mine (shaft)
+v	1	Van-tor 	MGV	v.	ACT.CONC	mine, excavate, dig up
+v	1	Van-tukh 	MGV	n.	OBJ.CONC	ore
+v	1	Vanu-, Vanuk 	MGV	adj.	PROP.CONC	ceremonial
+v	1	Var 	MGV	n.	OBJ.CONC	tale, story
+v	1	Var-tor 	MGV	v.	ACT.CONC	tell (a story)
+v	1	Varahmau 	MGV	v.	ACT.CONC	address, speak directly to
+v	1	Variben 	MGV	v.	ACT.CONC	talk
+v	1	Vas-tor 	MGV	v.	ACT.CONC	relieve
+v	1	Vash 	MGV	n.	OBJ.CONC	terror
+v	1	Vash-tor 	MGV	v.	ACT.CONC	terrify
+v	1	Vashau 	MGV	v.	ACT.CONC	destroy
+v	1	Vashaya 	MGV	n.	OBJ.CONC	destruction
+v	1	Vat 	MGV	n.	OBJ.CONC	repository, temporary storage
+v	1	Vath 	MGV	adj.	SELEC.MOD	other
+v	1	Vathru 	MGV	adv.	ACT.CONC.MOD	otherwise
+v	1	Vau-tukh 	MGV	n.	OBJ.CONC	titanium
+v	1	Vaukh 	MGV	n.	OBJ.CONC	calf (leg)
+v	1	Vaunah 	MGV	n.	OBJ.CONC	hesitation
+v	1	Vaunai 	MGV	n.	OBJ.CONC	hesitate
+v	1	Vava 	MGV	n.	OBJ.CONC	echo
+v	1	Vazgau 	MGV	v.	ACT.CONC	steal
+v	1	Vazh 	MGV	n.	OBJ.CONC	urine
+v	1	Vazh-ek'ur-tal 	MGV	n.	OBJ.CONC	urology
+v	1	Vazh-mev 	MGV	n.	OBJ.CONC	urethra
+v	1	Vazh-mev-yonshaya 	MGV	n.	OBJ.CONC	urethritis
+v	1	Vazhaf	MGV	n.	OBJ.CONC	bladder
+v	1	Vazhau 	MGV	v.	ACT.CONC	urinate
+v	1	Vazhau-kusut|-nosh| 	MGV	n.	OBJ.CONC	urodynia
+v	1	Vazhaya 	MGV	n.	OBJ.CONC	urination
+v	1	Ved 	MGV	adv.	ACT.CONC.MOD	quite
+v	1	Vedik 	MGV	n.	OBJ.CONC	weed
+v	1	Vek 	MGV	n.	OBJ.CONC	(egg) yolk
+v	1	Vel 	MGV	n.	OBJ.CONC	thing, object, item
+v	1	Vel-zhit 	MGV	n.	OBJ.CONC	noun
+v	1	Velek 	MGV	n.	OBJ.CONC	structure
+v	1	Veli-, Velik 	MGV	adj.	PROP.CONC	simple, basic
+v	1	Veltra 	MGV	n.	OBJ.CONC	property
+v	1	Ven-dol-tar	anc.	n.	OBJ.CONC	philosophy
+v	1	Venek 	MGV	n.	OBJ.CONC	trend
+v	1	Venk 	MGV	n.	OBJ.CONC	idea
+v	1	Venlinahr	anc.	n.	OBJ.CONC	normal state of adult discipline
+v	1	Ver-tor 	MGV	v.	ACT.CONC	edit
+v	1	Versu 	MGV	n.	OBJ.CONC	editor
+v	1	Ves 	MGV	n.	OBJ.CONC	kind, type, ilk
+v	1	Vesh 	MGV	adv.	ACT.CONC.MOD	ago
+v	1	Veshau 	MGV	v.	ACT.CONC	elapse, pass
+v	1	Vesht 	MGV	n.	OBJ.CONC	past
+v	1	Vesht-aushfa-tal 	MGV	n.	OBJ.CONC	paleozoology
+v	1	Vesht-ek'nosh-tal 	MGV	n.	OBJ.CONC	paleoclimatology
+v	1	Vesht-ha-tal 	MGV	n.	OBJ.CONC	paleontology
+v	1	Vesht-kastik-tal 	MGV	n.	OBJ.CONC	paleobotany
+v	1	Vesht-koshtri 	MGV	n.	OBJ.CONC	paleospecies
+v	1	Vesht-var 	MGV	n.	OBJ.CONC	history
+v	1	Vesht-varik 	MGV	adj.	PROP.CONC	historic(al)
+v	1	Veshtau 	MGV	v.	ACT.CONC	experience
+v	1	Veshtaya 	MGV	n.	OBJ.CONC	experience
+v	1	Vesuhl	anc.	n.	OBJ.CONC	bitumen
+v	1	Vet 	MGV	n.	OBJ.CONC	doubt
+v	1	Vet-bosh 	MGV	adj.	PROP.CONC	doubtful, dubious
+v	1	Vet-fam 	MGV	adj.	PROP.CONC	doubtless
+v	1	Vi 	MGV	pron.	OBJ.CONC	who
+v	1	Vi-kwitau 	MGV	v.	ACT.CONC	intrude
+v	1	Vi-kwitaya 	MGV	n.	OBJ.CONC	intrusion
+v	1	Vi-seshau 	MGV	v.	ACT.CONC	absorb
+v	1	Vi-seshau'es 	MGV	n.	OBJ.CONC	absorbency
+v	1	Vi-seshau-kurtra 	MGV	n.	OBJ.CONC	absorption spectrum
+v	1	Vi-seshau-zehllar 	MGV	n.	OBJ.CONC	absorption lines
+v	1	Vi-seshau-zhel 	MGV	n.	OBJ.CONC	absorption band
+v	1	Vi-seshauk 	MGV	adj.	PROP.CONC	absorbent
+v	1	Vi-seshaya 	MGV	n.	OBJ.CONC	absorption
+v	1	Vi-seshayek 	MGV	n.	OBJ.CONC	absorbent
+v	1	Vihash-tor 	MGV	v.	ACT.CONC	fly in, arrive by aircraft
+v	1	Vihish 	MGV	n.	OBJ.CONC	pressure
+v	1	Vihish-fen 	MGV	n.	OBJ.CONC	pressure seal
+v	1	Vihish-mev 	MGV	n.	OBJ.CONC	pressurization duct
+v	1	Vihish-pakhartayek 	MGV	n.	OBJ.CONC	pressure regulator
+v	1	Vihish-sahish-torektra 	MGV	n.	OBJ.CONC	pressurization/depressurization system
+v	1	Vihish-tash-torektra 	MGV	n.	OBJ.CONC	pressure control system
+v	1	Vihish-tor 	MGV	v.	ACT.CONC	pressurize
+v	1	Vihishan 	MGV	n.	OBJ.CONC	pressurization
+v	1	Vihk 	MGV	n.	OBJ.CONC	blob, clod, clot, glob
+v	1	Vihpan 	MGV	n.	OBJ.CONC	block
+v	1	Vikau 	MGV	v.	ACT.CONC	warn
+v	1	Vikaya 	MGV	n.	OBJ.CONC	warning, alarm
+v	1	Vikayek 	MGV	n.	OBJ.CONC	alarm
+v	1	Vikuvau 	MGV	v.	ACT.CONC	encircle, surround
+v	1	Vil 	MGV	n.	OBJ.CONC	odor
+v	1	Vimashau 	MGV	v.	ACT.CONC	liquefy
+v	1	Vimashaya 	MGV	n.	OBJ.CONC	liquefication
+v	1	Vimevilau 	MGV	v.	ACT.CONC	induce
+v	1	Vimevilaya 	MGV	n.	OBJ.CONC	induction
+v	1	Vimevilayek 	MGV	n.	OBJ.CONC	inducer
+v	1	Vin'es 	MGV	n.	OBJ.CONC	maturity
+v	1	Vin-tor 	MGV	v.	ACT.CONC	mature
+v	1	Vinem 	MGV	n.	OBJ.CONC	assimilation
+v	1	Vinem-tor 	MGV	v.	ACT.CONC	assimilate
+v	1	Vinemalik, Vinemayik 	MGV	adj.	PROP.CONC	assimilated
+v	1	Vinik 	MGV	adj.	PROP.CONC	mature(d)
+v	1	Vipladau 	MGV	v.	ACT.CONC	record
+v	1	Vipladayek 	MGV	n.	OBJ.CONC	recorder
+v	1	Vis 	MGV	n.	OBJ.CONC	grid, net, web
+v	1	Visak'a	anc.	n.	OBJ.CONC	legacy
+v	1	Visatilau 	MGV	v.	ACT.CONC	encrypt
+v	1	Visatilaya 	MGV	n.	OBJ.CONC	encryption
+v	1	Vishau 	MGV	v.	ACT.CONC	insert
+v	1	Vishaya 	MGV	n.	OBJ.CONC	insertion
+v	1	Vishi-vel 	MGV	n.	OBJ.CONC	implant
+v	1	Vishitau 	MGV	v.	ACT.CONC	embed, implant, set into place
+v	1	Vishitaya 	MGV	n.	OBJ.CONC	embedding, implantation
+v	1	Vishizhukel 	MGV	n.	OBJ.CONC	foundry
+v	1	Viskulan 	MGV	n.	OBJ.CONC	matrix
+v	1	Visnuhpau 	MGV	v.	ACT.CONC	encroach
+v	1	Visnuhpaya 	MGV	n.	OBJ.CONC	encroachment
+v	1	Visolektau 	MGV	v.	ACT.CONC	bury
+v	1	Visolektaya 	MGV	n.	OBJ.CONC	burial
+v	1	Visovau 	MGV	v.	ACT.CONC	inflate
+v	1	Visovaya 	MGV	n.	OBJ.CONC	inflation
+v	1	Vistra 	MGV	n.	OBJ.CONC	network, netting, webbing
+v	1	Vita 	MGV	adv.	ACT.CONC.MOD	unless
+v	1	Vitaya 	MGV	n.	OBJ.CONC	stasis
+v	1	Vitik 	MGV	adj.	PROP.CONC	static
+v	1	Vitush 	MGV	n.	OBJ.CONC	ash(es)
+v	1	Vivotaya 	MGV	n.	OBJ.CONC	infection
+v	1	Viyatau 	MGV	v.	ACT.CONC	impregnate
+v	1	Viyi-, Viyik 	MGV	adj.	PROP.CONC	even (not odd)
+v	1	Viyi-su'us 	MGV	n.	OBJ.CONC	even number
+v	1	Vla 	MGV	n.	OBJ.CONC	side, facet
+v	1	Vlak|-| 	MGV	adj.	PROP.CONC	sudden
+v	1	Vlavla|-| 	MGV	adj.	PROP.CONC	parallel
+v	1	Vlavla-wakrubaya 	MGV	n.	OBJ.CONC	parallel evolution
+v	1	Vlau-tor 	MGV	v.	ACT.CONC	stink, reek
+v	1	Vlei 	MGV	v.	ACT.CONC	bellow
+v	1	Vlitau 	MGV	v.	ACT.CONC	pay
+v	1	Vluhn 	MGV	n.	OBJ.CONC	drum
+v	1	Vluhn-kuhsh 	MGV	n.	OBJ.CONC	drumbeat
+v	1	Vluhn-tor 	MGV	v.	ACT.CONC	drum
+v	1	Vlur 	MGV	v.	ACT.CONC	howl
+v	1	Vnol	anc.	n.	OBJ.CONC	former friend who is now an enemy
+v	1	Vohr-, Vohris 	MGV	adj.	PROP.CONC	slow
+v	1	Vohrau 	MGV	v.	ACT.CONC	brake, slow down, slow to a stop
+v	1	Vohtau 	MGV	v.	ACT.CONC	delay
+v	1	Vokau 	MGV	v.	ACT.CONC	remember
+v	1	Vokaya 	MGV	n.	OBJ.CONC	memory, remembrance
+v	1	Vom-tukh 	MGV	n.	OBJ.CONC	limestone
+v	1	Vrav-teht 	MGV	adj.	PROP.CONC	foolproof
+v	1	Vravshau 	MGV	v.	ACT.CONC	fail
+v	1	Vravshaya 	MGV	n.	OBJ.CONC	failure
+v	1	Vre-katra	anc.	n.	OBJ.CONC	"vre'katra/vrekatra; Katric ark, crystalline repository for a katra"
+v	1	Vre-kasht	anc.	n.	OBJ.CONC	exile, outcast
+v	1	Vrel 	MGV	n.	OBJ.CONC	mud
+v	1	Vrel-eiktra 	MGV	n.	OBJ.CONC	mud flat
+v	1	Vrel-yumaya 	MGV	n.	OBJ.CONC	mudflow
+v	1	Vu 	MGV	pron.	OBJ.CONC	you (reflexive)
+v	1	Vugau 	MGV	v.	ACT.CONC	to fester
+v	1	Vuhlkansu 	MGV	n.	OBJ.CONC	Vulcan
+v	1	Vuhnau 	MGV	v.	ACT.CONC	vary
+v	1	Vuhnauk 	MGV	adj.	PROP.CONC	divers(e), various
+v	1	Vuhnaya 	MGV	n.	OBJ.CONC	variation, diversity
+v	1	Vukh 	MGV	n.	OBJ.CONC	hull, fuselage
+v	1	Vukharat 	MGV	n.	OBJ.CONC	vector
+v	1	Vukhut 	MGV	n.	OBJ.CONC	body
+v	1	Vul 	MGV	n.	OBJ.CONC	slant, slope
+v	1	Vulosoltra 	MGV	n.	OBJ.CONC	embankment
+v	1	Vulu 	MGV	n.	OBJ.CONC	angle
+v	1	Vulumau 	MGV	v.	ACT.CONC	bevel
+v	1	Vun|-| 	MGV	v.	PREDIC.MODAL	have to, must
+v	1	Vunai 	MGV	n.	OBJ.CONC	field
+v	1	Vunai-ferek 	MGV	n.	OBJ.CONC	field generator
+v	1	Vunai-karik'es 	MGV	n.	OBJ.CONC	field strength
+v	1	Vunai-katrom 	MGV	n.	OBJ.CONC	field current
+v	1	Vunai-khlop-thon 	MGV	n.	OBJ.CONC	field geometry
+v	1	Vunai-khrasaya 	MGV	n.	OBJ.CONC	field discharge
+v	1	Vunai-mish-raul 	MGV	n.	OBJ.CONC	hydrospanner
+v	1	Vunai-pakuv 	MGV	n.	OBJ.CONC	field coil
+v	1	Vunai-seshan-vel 	MGV	n.	OBJ.CONC	field magnet
+v	1	Vunai-wihka 	MGV	n.	OBJ.CONC	field theory
+v	1	Vup 	MGV	n.	OBJ.CONC	feint
+v	1	Vus 	MGV	n.	OBJ.CONC	echelon
+v	1	Vutau 	MGV	v.	ACT.CONC	call
+v	1	Vuyurau 	MGV	v.	ACT.CONC	roar
+v	1	Vuzh 	MGV	n.	OBJ.CONC	smoke
+v	1	Vuzh-mev 	MGV	n.	OBJ.CONC	chimney, smokestack
+v	1	Vuzh-patalek 	MGV	n.	OBJ.CONC	smoke detector
+v	1	Vyek 	MGV	n.	OBJ.CONC	inlet
+w	1	Wa, Wa' 	MGV	adv.	ACT.CONC.MOD	especially
+w	1	Wadashau 	MGV	v.	ACT.CONC	perspire, sweat
+w	1	Wadi 	MGV	n.	OBJ.CONC	skin
+w	1	Wafau 	MGV	v.	ACT.CONC	deny
+w	1	Wahdzh-, Wahdzhik 	MGV	adj.	PROP.CONC	severe
+w	1	Wahtau 	MGV	v.	ACT.CONC	insult
+w	1	Wak 	MGV	n.	OBJ.CONC	time
+w	1	Wak-vel 	MGV	n.	OBJ.CONC	clock
+w	1	Wakiv-, Wakivik 	MGV	adj.	PROP.CONC	temporal
+w	1	Wakiv-flekh'es 	MGV	n.	OBJ.CONC	temporal anomaly
+w	1	Wakiv-fo-dan 	MGV	n.	OBJ.CONC	temporal shield
+w	1	Wakiv-ri'aret-nosh 	MGV	n.	OBJ.CONC	temporal narcosis
+w	1	Wakiv-sasayek 	MGV	n.	OBJ.CONC	temporal transmitter
+w	1	Wakiv-vavayek 	MGV	n.	OBJ.CONC	temporal transponder
+w	1	Wakiv-vunai 	MGV	n.	OBJ.CONC	temporal field
+w	1	Wakli 	MGV	adv.	ACT.CONC.MOD	in what manner, in what way
+w	1	Wakrubau 	MGV	v.	ACT.CONC	evolve
+w	1	Wakrubaya 	MGV	n.	OBJ.CONC	evolution
+w	1	Wal-tukh 	MGV	n.	OBJ.CONC	magnesium
+w	1	Wan 	MGV	n.	OBJ.CONC	cloud
+w	1	Wan-kur 	MGV	adj.	PROP.CONC	white
+w	1	Wan-tukh 	MGV	n.	OBJ.CONC	aluminum, aluminium
+w	1	Wan-tukh-grazhiv 	MGV	n.	OBJ.CONC	aluminum powder
+w	1	Wan-tukh-thalv 	MGV	n.	OBJ.CONC	aluminum foil
+w	1	Waneti	anc.	n.	OBJ.CONC	Vulcan plant with tiny white blossoms
+w	1	Wat 	MGV	n.	OBJ.CONC	problem
+w	1	Watosh|-| 	MGV	adj.	PROP.CONC	ugly
+w	1	Wauk 	MGV	n.	OBJ.CONC	turbulence
+w	1	Wedzh 	MGV	n.	OBJ.CONC	intent
+w	1	Wedzh-tor 	MGV	v.	ACT.CONC	intend
+w	1	Wef 	MGV	n.	OBJ.CONC	scale, flake
+w	1	Weh|-| 	MGV	adj.	PROP.CONC	more
+w	1	Weh-abu-, Weh-abuk 	MGV	adj.	PROP.CONC	upper
+w	1	Weh-abu-grei 	MGV	n.	OBJ.CONC	upper limit
+w	1	Weh-abu-ketil 	MGV	n.	OBJ.CONC	upper integral
+w	1	Weh-abu-klayanek 	MGV	n.	OBJ.CONC	upper factorial
+w	1	Weh-glu|-| 	MGV	adj.	PROP.CONC	deeper
+w	1	Weh-has-bosh 	MGV	adj.	PROP.CONC	sicker
+w	1	Weh-karik 	MGV	adj.	PROP.CONC	stronger
+w	1	Weh-klon|-| 	MGV	adj.	PROP.CONC	smarter
+w	1	Weh-kobat|-| 	MGV	adj.	PROP.CONC	weaker
+w	1	Weh-lerash|-| 	MGV	adj.	PROP.CONC	harder (less soft)
+w	1	Weh-nu'ri|-| 	MGV	adj.	PROP.CONC	younger
+w	1	Weh-nuk|-| 	MGV	adj.	PROP.CONC	lower
+w	1	Weh-nuk-grei 	MGV	n.	OBJ.CONC	lower limit
+w	1	Weh-nuk-ketil 	MGV	n.	OBJ.CONC	lower integral
+w	1	Weh-nuk-klayanek 	MGV	n.	OBJ.CONC	lower factorial
+w	1	Weh-os|-| 	MGV	adj.	PROP.CONC	older
+w	1	Weh-pid|-| 	MGV	adj.	PROP.CONC	higher
+w	1	Weh-ras|-| 	MGV	adj.	PROP.CONC	heavier
+w	1	Weh-rom|-| 	MGV	adj.	PROP.CONC	better
+w	1	Weh-sahr-, Weh-sahris 	MGV	adj.	PROP.CONC	faster, quicker
+w	1	Weh-slu-, Weh-sluk 	MGV	adj.	PROP.CONC	fresher
+w	1	Weh-ta'hal|-| 	MGV	adj.	PROP.CONC	lighter (less heavy)
+w	1	Weh-thel-, Weh-thelik 	MGV	adj.	PROP.CONC	fatter
+w	1	Weh-vohr-, Weh-vohris 	MGV	adj.	PROP.CONC	slower
+w	1	Weh-wonil|-| 	MGV	adj.	PROP.CONC	thinner
+w	1	Wehk|-| 	MGV	adv.	SELEC.MOD	many
+w	1	Wehk-vel 	MGV	n.	OBJ.CONC	manifold
+w	1	Wehk-wek-fnash 	MGV	n.	OBJ.CONC	multiphasic sweep
+w	1	Wehk-wek-glashaya 	MGV	n.	OBJ.CONC	multiphasic scan
+w	1	Wehk-wek-glashayek 	MGV	n.	OBJ.CONC	multiphasic scanner
+w	1	Wehkovau 	MGV	v.	ACT.CONC	multiply
+w	1	Wehkovaya 	MGV	n.	OBJ.CONC	multiplication
+w	1	Wehkovayek 	MGV	n.	OBJ.CONC	multiplier
+w	1	Weht 	MGV	n.	OBJ.CONC	more
+w	1	Wehu 	MGV	n.	OBJ.CONC	plural
+w	1	Wei-, Weik 	MGV	adj.	PROP.CONC	easy
+w	1	Wein 	MGV	n.	OBJ.CONC	cover
+w	1	Weizehl 	MGV	n.	OBJ.CONC	series
+w	1	Wek 	MGV	n.	OBJ.CONC	phase
+w	1	Wek-ashenayek 	MGV	n.	OBJ.CONC	phase amplifier
+w	1	Wek-izaya 	MGV	n.	OBJ.CONC	phase shift
+w	1	Wek-nakihtilayek 	MGV	n.	OBJ.CONC	phase modulator
+w	1	Wek-sapa'shayek 	MGV	n.	OBJ.CONC	phase discriminator
+w	1	Wek-tor 	MGV	v.	ACT.CONC	phase
+w	1	Wek-vimevilayek 	MGV	n.	OBJ.CONC	phase inducer
+w	1	Wek-zehlek 	MGV	n.	OBJ.CONC	phaser
+w	1	Wek-zehlek-kutra 	MGV	n.	OBJ.CONC	phaser bank
+w	1	Wek-zehlek-pohshaikebi 	MGV	n.	OBJ.CONC	phaser battery
+w	1	Wek-zehlek-pakuv 	MGV	n.	OBJ.CONC	phaser coil
+w	1	Wek-zehlek-thorshun 	MGV	n.	OBJ.CONC	phaser cannon
+w	1	Wel 	MGV	n.	OBJ.CONC	nerve
+w	1	Wel-haf 	MGV	n.	OBJ.CONC	synapse
+w	1	Weltra 	MGV	n.	OBJ.CONC	ganglion
+w	1	Wenator 	MGV	v.	ACT.CONC	accomplish
+w	1	Wesh-tor 	MGV	v.	ACT.CONC	streak
+w	1	Wesht 	MGV	n.	OBJ.CONC	pathos
+w	1	Wi 	MGV	conj.	CONNECTOR	yet
+w	1	Wi'trel 	MGV	n.	OBJ.CONC	puzzle
+w	1	Wihs 	MGV	n.	OBJ.CONC	frenzy
+w	1	Wilat 	MGV	prep.	SITU.MOD	where
+w	1	Wilnei 	MGV	v.	ACT.CONC	droop
+w	1	Wimish 	MGV	v.	ACT.CONC	to be called/named
+w	1	Wis 	MGV	n.	OBJ.CONC	tense (grammar)
+w	1	Wivel'es 	MGV	n.	OBJ.CONC	tolerance
+w	1	Wivelau 	MGV	v.	ACT.CONC	tolerate
+w	1	Woht 	MGV	n.	OBJ.CONC	funnel
+w	1	Wonil|-| 	MGV	adj.	PROP.CONC	narrow, strict
+w	1	Worla 	MGV	adv.	ACT.CONC.MOD	never
+w	1	Wu|-| 	MGV	adj.	PROP.CONC	long
+w	1	Wu'sibau 	MGV	v.	ACT.CONC	bathe
+w	1	Wu'sibau-pthak 	MGV	n.	OBJ.CONC	ablutophobia
+w	1	Wu'sibaya 	MGV	n.	OBJ.CONC	bath
+w	1	Wu-vath 	MGV	n.	OBJ.CONC	length
+w	1	Wu-zud 	MGV	n.	OBJ.CONC	fang
+w	1	Wufik 	MGV	adj.	PROP.CONC	tight
+w	1	Wufkau 	MGV	v.	ACT.CONC	tighten
+w	1	Wugau 	MGV	v.	ACT.CONC	confirm
+w	1	Wuh 	MGV	indef.	SITU.MOD	a, an
+w	1	Wuh'ashiv 	MGV	pron.	SELEC.MOD	another
+w	1	Wuh'veh 	MGV	n.	OBJ.CONC	first, primary
+w	1	Wuh-guv-, Wuh-guvik 	MGV	adj.	PROP.CONC	unisexual
+w	1	Wuh-guv-svai 	MGV	n.	OBJ.CONC	unisexual flower
+w	1	Wuh-lan 	MGV	n.	OBJ.CONC	second lieutenant
+w	1	Wuh-thurai 	MGV	pron.	OBJ.CONC	the next one
+w	1	Wuh-vlavla-vel 	MGV	n.	OBJ.CONC	trapezoid
+w	1	Wuh-wak 	MGV	n.	OBJ.CONC	once
+w	1	Wuhin'es 	MGV	n.	OBJ.CONC	uniqueness
+w	1	Wuhin-, Wuhinik 	MGV	adj.	PROP.CONC	unique
+w	1	Wuh|kuh| 	MGV	num.	SELEC.MOD	one (the number)
+w	1	Wuhr-, Wuh'rak 	MGV	adj.	PROP.CONC	first, primary
+w	1	Wuhtantau 	MGV	v.	ACT.CONC	unify
+w	1	Wuhtantaya 	MGV	n.	OBJ.CONC	unification
+w	1	Wuk 	MGV	n.	OBJ.CONC	canker (sore)
+w	1	Wun 	MGV	n.	OBJ.CONC	weapon
+w	1	Wut|-zehl| 	MGV	n.	OBJ.CONC	longitude
+w	1	Wuvau 	MGV	v.	ACT.CONC	elongate
+w	1	Wuvauk 	MGV	adj.	PROP.CONC	elongated
+w	1	Wuvaya 	MGV	n.	OBJ.CONC	elongation
+y	1	Ya'akash 	MGV	v.	ACT.CONC	ask
+y	1	Ya'shakhuv 	MGV	n.	OBJ.CONC	age
+y	1	Yad-tukh 	MGV	n.	OBJ.CONC	thallium
+y	1	Yadan 	MGV	n.	OBJ.CONC	edition
+y	1	Yahla 	MGV	n.	OBJ.CONC	tunic
+y	1	Yahv-tor 	MGV	v.	ACT.CONC	borrow
+y	1	Yai 	MGV	n.	OBJ.CONC	flame
+y	1	Yailaik 	MGV	adj.	PROP.CONC	dejected
+y	1	Yak 	MGV	n.	OBJ.CONC	lymph
+y	1	Yak-gnal 	MGV	n.	OBJ.CONC	lymphoma
+y	1	Yak-kal 	MGV	n.	OBJ.CONC	lymph node
+y	1	Yak-masu 	MGV	n.	OBJ.CONC	lymph(atic fluid)
+y	1	Yak-mev 	MGV	n.	OBJ.CONC	lymph(atic) vessel
+y	1	Yak-nala 	MGV	n.	OBJ.CONC	lymphocyte
+y	1	Yakektra 	MGV	n.	OBJ.CONC	lymphatic system
+y	1	Yal 	MGV	n.	OBJ.CONC	indicator
+y	1	Yansoku 	MGV	n.	OBJ.CONC	The Damned
+y	1	Yar 	MGV	n.	OBJ.CONC	grass
+y	1	Yar-kur 	MGV	adj.	PROP.CONC	green
+y	1	Yar-tukh 	MGV	n.	OBJ.CONC	copper ore
+y	1	Yaret 	MGV	v.	ACT.CONC	visit
+y	1	Yaritra 	MGV	n.	OBJ.CONC	pasture, grazing land
+y	1	Yarmok 	MGV	n.	OBJ.CONC	salad
+y	1	Yartik 	MGV	n.	OBJ.CONC	grain
+y	1	Yatau 	MGV	v.	ACT.CONC	father a child, sire
+y	1	Yauluhk 	MGV	adj.	PROP.CONC	important
+y	1	Yausha 	MGV	v.	ACT.CONC	expire
+y	1	Yaut|-| 	MGV	adj.	PROP.CONC	proud
+y	1	Yazhutau 	MGV	v.	ACT.CONC	chafe
+y	1	Yazik 	MGV	adj.	PROP.CONC	probable
+y	1	Yed 	MGV	adv.	ACT.CONC.MOD	though
+y	1	Yeht|-| 	MGV	adj.	PROP.CONC	correct, right, real, true, genuine
+y	1	Yeht'es 	MGV	n.	OBJ.CONC	truth, reality
+y	1	Yeht-fam 	MGV	adj.	PROP.CONC	wrong, incorrect, false, untrue
+y	1	Yeht-gav 	MGV	n.	OBJ.CONC	justice
+y	1	Yeht-urgam|-| 	MGV	adj.	PROP.CONC	efficient
+y	1	Yeht-urgam'es 	MGV	n.	OBJ.CONC	efficiency
+y	1	Yehvaru 	MGV	n.	OBJ.CONC	fable
+y	1	Yekuhl 	MGV	n.	OBJ.CONC	moss
+y	1	Yel 	MGV	n.	OBJ.CONC	star
+y	1	Yel-ek'duv 	MGV	n.	OBJ.CONC	solar eclipse
+y	1	Yel-halek 	MGV	n.	OBJ.CONC	galaxy
+y	1	Yel-halek-, Yel-halekik 	MGV	n.	OBJ.CONC	galactic
+y	1	Yel-halek-dan 	MGV	n.	OBJ.CONC	galactic rotation
+y	1	Yel-halek-kuv 	MGV	n.	OBJ.CONC	galactic circle
+y	1	Yel-halek-pa'ashtra 	MGV	n.	OBJ.CONC	galactic plane
+y	1	Yel-halekik shi-kethel 	MGV	n.	OBJ.CONC	galactic coordinate
+y	1	Yel-hali 	MGV	n.	OBJ.CONC	starship
+y	1	Yel-Halitra 	MGV	n.	OBJ.CONC	Starfleet
+y	1	Yel-pi'maat 	MGV	n.	OBJ.CONC	solar system
+y	1	Yel-pohshaya 	MGV	n.	OBJ.CONC	solar flare
+y	1	Yel-salan 	MGV	n.	OBJ.CONC	solar wind
+y	1	Yel-sposhan 	MGV	n.	OBJ.CONC	solar prominence
+y	1	Yel-su-yata 	MGV	n.	OBJ.CONC	starliner
+y	1	Yel-toran 	MGV	n.	OBJ.CONC	solar activity
+y	1	Yem 	MGV	n.	OBJ.CONC	meal
+y	1	Yem-gisaman 	MGV	n.	OBJ.CONC	food poisoning
+y	1	Yem-tan 	MGV	n.	OBJ.CONC	nutrition
+y	1	Yem-tan-tor 	MGV	v.	ACT.CONC	nourish
+y	1	Yem-tanan 	MGV	n.	OBJ.CONC	nourishment
+y	1	Yem-tanek 	MGV	n.	OBJ.CONC	nutrient
+y	1	Yem-tanik 	MGV	adj.	PROP.CONC	nutritious
+y	1	Yem-tanilayek 	MGV	n.	OBJ.CONC	food dispenser
+y	1	Yem-tor 	MGV	n.	OBJ.CONC	feed
+y	1	Yem-tukh 	MGV	n.	OBJ.CONC	food
+y	1	Yem-zektra 	MGV	n.	OBJ.CONC	food chain
+y	1	Yen-tor 	MGV	v.	ACT.CONC	forget
+y	1	Yerak 	MGV	n.	OBJ.CONC	bowl
+y	1	Yetur 	MGV	v.	ACT.CONC	drive
+y	1	Yetur-ek'zehl 	MGV	n.	OBJ.CONC	driveline, drivetrain
+y	1	Yetur-fek 	MGV	n.	OBJ.CONC	drive shaft
+y	1	Yetur-pakuv 	MGV	n.	OBJ.CONC	driver coil
+y	1	Yeturak 	MGV	n.	OBJ.CONC	driver (software)
+y	1	Yeturat 	MGV	n.	OBJ.CONC	drive, urge
+y	1	Yeturek 	MGV	n.	OBJ.CONC	drive
+y	1	Yeturek-krus 	MGV	n.	OBJ.CONC	drive section
+y	1	Yetursu 	MGV	n.	OBJ.CONC	driver (person)
+y	1	Yi 	MGV	adv.	ACT.CONC.MOD	then
+y	1	Yidor-tor 	MGV	v.	ACT.CONC	format
+y	1	Yo 	MGV	prep.	SITU.MOD	per
+y	1	Yokul 	MGV	v.	ACT.CONC	eat
+y	1	Yokul-mev 	MGV	n.	OBJ.CONC	esophagus, gullet
+y	1	Yokul-yehat 	MGV	adj.	PROP.CONC	edible
+y	1	Yokulsu t'Katralar 	MGV	n.	OBJ.CONC	'The Eater of Souls'
+y	1	Yol 	MGV	n.	OBJ.CONC	chitin (insect shell, etc.)
+y	1	Yon 	MGV	n.	OBJ.CONC	fire
+y	1	Yon-dok 	MGV	n.	OBJ.CONC	firebrick
+y	1	Yon-dukal 	MGV	n.	OBJ.CONC	sun (colloquial term)
+y	1	Yon-foshek 	MGV	n.	OBJ.CONC	firebreak
+y	1	Yon-ha'gel 	MGV	n.	OBJ.CONC	firelight
+y	1	Yon-kur 	MGV	adj.	PROP.CONC	red
+y	1	Yon-lapan 	MGV	n.	OBJ.CONC	firewood
+y	1	Yon-pohshek 	MGV	n.	OBJ.CONC	flamethrower
+y	1	Yon-sha'ti 	MGV	n.	OBJ.CONC	fireplace
+y	1	Yon-teht 	MGV	n.	OBJ.CONC	fireproof
+y	1	Yon-temok 	MGV	n.	OBJ.CONC	fire wall
+y	1	Yon-thorshek 	MGV	n.	OBJ.CONC	firebomb
+y	1	Yon-tor 	MGV	v.	ACT.CONC	ignite, set on fire
+y	1	Yon-tukh 	MGV	n.	OBJ.CONC	phosphorus
+y	1	Yon-vohr-torektra 	MGV	n.	OBJ.CONC	fire suppression system
+y	1	Yon-yehat 	MGV	adj.	PROP.CONC	flammable
+y	1	Yonag 	MGV	n.	OBJ.CONC	torch (flaming only)
+y	1	Yonan 	MGV	n.	OBJ.CONC	ignition
+y	1	Yonan-pehkau 	MGV	v.	ACT.CONC	flame out
+y	1	Yonan-pehkaya 	MGV	n.	OBJ.CONC	flameout
+y	1	Yonan-torektra 	MGV	n.	OBJ.CONC	ignition system
+y	1	Yonek 	MGV	n.	OBJ.CONC	igniter
+y	1	Yonkal 	MGV	n.	OBJ.CONC	fireball
+y	1	Yonshau 	MGV	v.	ACT.CONC	inflame
+y	1	Yonshaya 	MGV	n.	OBJ.CONC	inflammation
+y	1	Yontau 	MGV	v.	ACT.CONC	burn
+y	1	Yontaya 	MGV	n.	OBJ.CONC	burn(ing)
+y	1	Yonuk 	MGV	n.	OBJ.CONC	quarter (1/4)
+y	1	Yorku 	MGV	n.	OBJ.CONC	guts, innards, viscera
+y	1	Yos-, Yosik 	MGV	adj.	PROP.CONC	tender
+y	1	Yoshuhlnak	anc.	n.	OBJ.CONC	dragon
+y	1	Yu-mur 	MGV	n.	OBJ.CONC	egg
+y	1	Yu-mur-fo 	MGV	n.	OBJ.CONC	egg shell
+y	1	Yuda-dva 	MGV	n.	OBJ.CONC	Judaism
+y	1	Yuda-dvasu 	MGV	n.	OBJ.CONC	Jew (general term)
+y	1	Yudasik 	MGV	adj.	PROP.CONC	Jewish
+y	1	Yuk-sai 	MGV	n.	OBJ.CONC	blanket
+y	1	Yuk-tor 	MGV	v.	ACT.CONC	sleep
+y	1	Yuk-vel 	MGV	n.	OBJ.CONC	mattress
+y	1	Yukal 	MGV	n.	OBJ.CONC	ovary
+y	1	Yukau 	MGV	v.	ACT.CONC	ovulate
+y	1	Yumau 	MGV	v.	ACT.CONC	flow
+y	1	Yush-tukh 	MGV	n.	OBJ.CONC	polonium
+y	1	Yut 	MGV	n.	OBJ.CONC	path, trail, way
+y	1	Yuv-, Yuvik 	MGV	adj.	PROP.CONC	oval, ovoid, elliptic(al)
+y	1	Yuzhat 	MGV	n.	OBJ.CONC	caution
+z	1	Za' 	MGV	prep.	SITU.MOD	behind
+z	1	Za-gad 	MGV	adv.	ACT.CONC.MOD	yesterday
+z	1	Za-glan 	MGV	n.	OBJ.CONC	hindsight
+z	1	Za-vel 	MGV	n.	OBJ.CONC	relic
+z	1	Zad-, Zadik 	MGV	adj.	PROP.CONC	forbidden
+z	1	Zadau 	MGV	v.	ACT.CONC	forbid
+z	1	Zahal-tor 	MGV	v.	ACT.CONC	follow
+z	1	Zahv-tor 	MGV	v.	ACT.CONC	taste
+z	1	Zahz 	MGV	n.	OBJ.CONC	plow, plough
+z	1	Zaipos	anc.	n.	OBJ.CONC	magic
+z	1	Zaipossu 	MGV	n.	OBJ.CONC	magician
+z	1	Zaiposyan-, Zaiposyanik 	MGV	adj.	PROP.CONC	magic(al)
+z	1	Zakar 	MGV	n.	OBJ.CONC	damage
+z	1	Zakashtau 	MGV	v.	ACT.CONC	remind
+z	1	Zalu 	MGV	n.	OBJ.CONC	enzyme
+z	1	Zalu-nafek 	MGV	n.	OBJ.CONC	pancreas
+z	1	Zalu-nafek-masu 	MGV	n.	OBJ.CONC	pancreatic juice
+z	1	Zalu-nafek-mev 	MGV	n.	OBJ.CONC	pancreatic duct
+z	1	Zalu-nafek-rasahtra 	MGV	n.	OBJ.CONC	pancreatic cancer
+z	1	Zalu-nafek-yonshaya 	MGV	n.	OBJ.CONC	pancreatitis
+z	1	Zam 	MGV	adv.	SELEC.MOD	few
+z	1	Zama-tor 	MGV	v.	ACT.CONC	spy
+z	1	Zamasu 	MGV	n.	OBJ.CONC	spy
+z	1	Zan-tor 	MGV	v.	ACT.CONC	view
+z	1	Zaprah 	MGV	v.	ACT.CONC	retrieve, get back, fetch
+z	1	Zarahk-tor 	MGV	v.	ACT.CONC	break into pieces, shatter, smash
+z	1	Zaseshau 	MGV	v.	ACT.CONC	drag
+z	1	Zasuhl 	MGV	n.	OBJ.CONC	granite
+z	1	Zat|-| 	MGV	adj.	PROP.CONC	acute
+z	1	Zat'es 	MGV	n.	OBJ.CONC	acuity
+z	1	Zavikau 	MGV	v.	ACT.CONC	trace, track down
+z	1	Zeh 	MGV	n.	OBJ.CONC	beam, girder
+z	1	Zehik 	MGV	adj.	PROP.CONC	straight
+z	1	Zehl 	MGV	n.	OBJ.CONC	line, row, beam
+z	1	Zehl'es 	MGV	n.	OBJ.CONC	alignment
+z	1	Zehl-krus 	MGV	n.	OBJ.CONC	line segment
+z	1	Zehl-tor 	MGV	v.	ACT.CONC	align
+z	1	Zehl-travek 	MGV	n.	OBJ.CONC	linear group
+z	1	Zehl-vo'ihn 	MGV	n.	OBJ.CONC	linear equation
+z	1	Zehl-velak 	MGV	n.	OBJ.CONC	line element
+z	1	Zehlanau 	MGV	v.	ACT.CONC	sequence
+z	1	Zehlau 	MGV	v.	ACT.CONC	arrange, array
+z	1	Zek 	MGV	n.	OBJ.CONC	order (seating, birth)
+z	1	Zhagra 	MGV	n.	OBJ.CONC	game
+z	1	Zhai-kur 	MGV	adj.	PROP.CONC	gray
+z	1	Zhai-tukh 	MGV	n.	OBJ.CONC	tin
+z	1	Zhar 	MGV	n.	OBJ.CONC	rust
+z	1	Zhar-kur 	MGV	adj.	PROP.CONC	orange
+z	1	Zhar-tor 	MGV	v.	ACT.CONC	rust
+z	1	Zhel 	MGV	n.	OBJ.CONC	strap, band
+z	1	Zhel-lan 	MGV	n.	OBJ.CONC	lieutenant colonel
+z	1	Zherka	anc.	n.	OBJ.CONC	emotion(s)
+z	1	Zherka-bosh 	MGV	adj.	PROP.CONC	emotional
+z	1	Zherka-fam 	MGV	adj.	PROP.CONC	emotionless
+z	1	Zhil 	MGV	n.	OBJ.CONC	term
+z	1	Zhipenau 	MGV	v.	ACT.CONC	abbreviate
+z	1	Zhipenaya 	MGV	n.	OBJ.CONC	abbreviation
+z	1	Zhis 	MGV	n.	OBJ.CONC	steam
+z	1	Zhit 	MGV	n.	OBJ.CONC	word
+z	1	Zhit-dunap 	MGV	n.	OBJ.CONC	dictionary
+z	1	Zhit-feim 	MGV	n.	OBJ.CONC	vocabulary (list)
+z	1	Zhit-vesht-tal 	MGV	n.	OBJ.CONC	etymology
+z	1	Zhoh 	MGV	num.	SELEC.MOD	million
+z	1	Zhoh'veh 	MGV	n.	OBJ.CONC	millionth
+z	1	Zhohr-, Zhoh'rak 	MGV	adj.	PROP.CONC	millionth
+z	1	Zhu-fam 	MGV	adj.	PROP.CONC	deaf
+z	1	Zhu-famau 	MGV	v.	ACT.CONC	deafen
+z	1	Zhu-tal 	MGV	n.	OBJ.CONC	audiology
+z	1	Zhu-tor 	MGV	v.	ACT.CONC	hear
+z	1	Zhu-yehat 	MGV	adj.	PROP.CONC	audible
+z	1	Zhuk-fas-tor 	MGV	v.	ACT.CONC	forge
+z	1	Zhuk-fasek 	MGV	n.	OBJ.CONC	forge
+z	1	Zhuk-Fasu 	MGV	n.	OBJ.CONC	The Forge
+z	1	Zhuk-om 	anc.	n.	OBJ.CONC	factory
+z	1	Zhuk-tor 	MGV	v.	ACT.CONC	fabricate
+z	1	Zih 	MGV	n.	OBJ.CONC	blur
+z	1	Zih-, Zihik 	MGV	adj.	PROP.CONC	blurred, blurry, fuzzy, out-of-focus
+z	1	Zih-ozhika 	MGV	n.	OBJ.CONC	fuzzy logic
+z	1	Zih-tor 	MGV	v.	ACT.CONC	blur
+z	1	Zihn 	MGV	n.	OBJ.CONC	fuzz
+z	1	Zish-tor 	MGV	v.	ACT.CONC	slide
+z	1	Zisplah 	MGV	v.	ACT.CONC	whistle
+z	1	Zli 	MGV	n.	OBJ.CONC	stripe
+z	1	Zo 	MGV	adv.	ACT.CONC.MOD	no matter (how)
+z	1	Zon-tukh 	MGV	n.	OBJ.CONC	barium
+z	1	Zud 	MGV	n.	OBJ.CONC	tooth
+z	1	Zud-halek 	MGV	n.	OBJ.CONC	gear
+z	1	Zud-has-tal 	MGV	n.	OBJ.CONC	dentistry
+z	1	Zud-hassu 	MGV	n.	OBJ.CONC	dentist
+z	1	Zud-nehaya 	MGV	n.	OBJ.CONC	dental caries
+z	1	Zud-tukh 	MGV	n.	OBJ.CONC	dentine
+z	1	Zudtra 	MGV	n.	OBJ.CONC	dentition
+z	1	Zul 	MGV	n.	OBJ.CONC	lava
+z	1	Zul-kunel 	MGV	n.	OBJ.CONC	volcano
+z	1	Zul-kunel-sposhan 	MGV	n.	OBJ.CONC	volcanic eruption
+z	1	Zul-kunel-tal 	MGV	n.	OBJ.CONC	volcanology
+z	1	Zul-kunel-zehl 	MGV	n.	OBJ.CONC	volcanic chain
+z	1	Zul-makh 	MGV	n.	OBJ.CONC	volcanic glass, obsidian
+z	1	Zul-mazh 	MGV	n.	OBJ.CONC	lava lake
+z	1	Zul-mazhiv 	MGV	n.	OBJ.CONC	volcanic sand
+z	1	Zul-razh 	MGV	n.	OBJ.CONC	volcanic crater
+z	1	Zul-ru'lut 	MGV	n.	OBJ.CONC	volcanic vent
+z	1	Zul-ur 	MGV	n.	OBJ.CONC	lava tube
+z	1	Zul-yumaya 	MGV	n.	OBJ.CONC	lava flow
+z	1	Zun 	MGV	n.	OBJ.CONC	letter (alphabet)
+z	1	Zun-shif 	MGV	n.	OBJ.CONC	dyad
+z	1	Zung-tor 	MGV	v.	ACT.CONC	tire, fatigue
+z	1	Zungor 	MGV	adj.	PROP.CONC	tired, fatigued
+z	1	Zup-dvun-tal 	MGV	n.	OBJ.CONC	ergonomics
+z	1	Zup-fulagsu 	MGV	n.	OBJ.CONC	foreman
+z	1	Zup-shal 	MGV	n.	OBJ.CONC	(work)shop
+z	1	Zup-thro-kispek 	MGV	n.	OBJ.CONC	gantry
+z	1	Zup-tor 	MGV	v.	ACT.CONC	labor
+z	1	Zupsu 	MGV	n.	OBJ.CONC	laborer, worker
+z	1	Zus 	MGV	n.	OBJ.CONC	(drill) bit
+z	1	Zuvel 	MGV	n.	OBJ.CONC	gadget, gizmo
