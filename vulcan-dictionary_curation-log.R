@@ -1,5 +1,5 @@
 ##### VULCAN DICTIONARY DATABASE PROJECT - DATA CURATION LOG - GS #####
-#### START: 2023.04.11 - LAST UPDATED: 2023.05.03 ####
+#### START: 2023.04.11 - LAST UPDATED: 2023.05.04 ####
 
 #### DESCRIPTION OF DATA COLLECTION ####
 # Data was collected from the Vulcan Language Institute (VLI) dictionary (archived on the wayback machine)
@@ -312,8 +312,13 @@ V.FSE$misc <- trim2(V.FSE$misc)
 write.table(V.FSE, file = "V-FSE-pos.txt", append = FALSE, sep = "\t", dec = ".",
             row.names = TRUE, col.names = TRUE)
 
+# So I don't think I'll have time for these things this time around...this is a pretty extensive project, and in order to get my class project done, I need to finish something, so we'll leave this off for now...
+  ### Next, we'll separate out semantic domain data and add the 'domain' column to V.FSE, FSE.V ###
 
-### Next, we'll separate out semantic domain data and add the 'domain' column to V.FSE, FSE.V ###
+  #### TASK 3: (if there's time) Add concept data from concepticon, new Vulc-concepticon ####
+  # Vulc-concepticon = new table I will create with vulcan-specific and trek-specific concepts
 
-#### TASK 3: (if there's time) Add concept data from concepticon, new Vulc-concepticon ####
-# Vulc-concepticon = new table I will create with vulcan-specific and trek-specific concepts
+# Right now, I want to focus on visualising the data somehow, so that'll be on the new R script. See you soon!
+
+
+### END ###
