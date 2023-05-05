@@ -284,7 +284,8 @@ V.FSE1 <- data.frame(V.FSE) %>%
   #    contains("n.") ~ "noun",
   #    contains("prep.") ~ "preposition",
   #    contains("v.") ~ "verb"))
-# Nope. That didn't work. Let's try something else.
+# Nope. That didn't work. (Error message: `contains()` must be used within a *selecting* function.)
+# Let's try something else.
 
 # First, let's create a vector that has our expected parts of speech in it...
 v1 <- c('adj.', 'n.', 'prep.', 'v.')
@@ -308,6 +309,9 @@ V.FSE$misc <- trim1(V.FSE$misc)
 V.FSE$misc <- trim2(V.FSE$misc)
 # FIXED: (NOTE TO SELF: When editing in Excel, line 209 has an extra tab after pos column that needs deleted!)
 
+# Now let's remove those extra tables
+rm(V.FSE1,V.FSE2)
+
 # Let's write a new table we can edit in text editor/excel!
 write.table(V.FSE, file = "V-FSE-pos.txt", append = FALSE, sep = "\t", dec = ".",
             row.names = TRUE, col.names = TRUE)
@@ -318,7 +322,22 @@ write.table(V.FSE, file = "V-FSE-pos.txt", append = FALSE, sep = "\t", dec = "."
   #### TASK 3: (if there's time) Add concept data from concepticon, new Vulc-concepticon ####
   # Vulc-concepticon = new table I will create with vulcan-specific and trek-specific concepts
 
-# Right now, I want to focus on visualising the data somehow, so that'll be on the new R script. See you soon!
+# Really quick, I'm going to load the data I recently coded back in so I can trim it!
+V.FSE.new <- read.delim("~/590DataScience/Vulcan-Dictionary-Project1/V-FSE-pos1.txt", stringsAsFactors=TRUE)
+# first, I need to trim off the extra column...
+# Oh wait! It's showing that there are too many tabs in rows 3306, 3307, & 3308! Better go take care of those so I don't lose data!
+# We'll re-load the data (re-run line above)
+# Okay, **now** we can trim that off...
+V.FSE.new <- subset(V.FSE.new, select = -c(X))
+# Now I need to trim the leading and trailing spaces in the fse column
+V.FSE.new$fse <- trim(V.FSE.new$fse)
+# Nice! That worked really well!
+
+# Now, I'll have R re-write the 'V-FSE-pos1' file so it saves my changes...
+write.table(V.FSE.new, file = "V-FSE-pos1.txt", append = FALSE, sep = "\t", dec = ".",
+            row.names = TRUE, col.names = TRUE)
+
+# Okay, right now, I want to focus on visualising the data somehow, so the that'll be on the new R script. See you soon!
 
 
 ### END ###
