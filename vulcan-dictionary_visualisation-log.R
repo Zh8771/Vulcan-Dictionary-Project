@@ -19,7 +19,7 @@ library(stringr)
 library(ggplot2)
 library(treemap)
 ## LOAD DATA ##
-V.FSE.new <- read.delim("~/590DataScience/Vulcan-Dictionary-Project1/V-FSE-pos1.txt", stringsAsFactors=TRUE)
+V.FSE.new <- read.delim("~/590DataScience/Vulcan-Dictionary-Project1/old txt files/V-FSE-pos1.txt", stringsAsFactors=TRUE)
 
 
 #### ---------- TASK 1: SUBSET DATA TO BE PLOTTED ---------- ####
@@ -126,7 +126,13 @@ ggplot(V.FSE.plot2, aes(x=pos)) +
   geom_bar() +
   xlab("Modern Golic Vulcan - parts of speech")
 
-### Okay that's cool, but there's so many nouns that it's hard to see everything else! Why don't we try a tree map instead?
+### Okay that's cool, but there's so many nouns that it's hard to see everything else! Let's try this on a log scale so it's easier to see...
+ggplot(V.FSE.plot2, aes(x=pos)) +
+  geom_bar() +
+  scale_y_continuous(trans = 'log2') +
+  xlab("Modern Golic Vulcan - parts of speech")
+
+## Just for fun, why don't we try a tree map instead?
 ## Treemap
 # To make a treemap, we'll need a data frame that has our counts in it
 V.FSE.plot3 <- data.frame(table(V.FSE.plot2$pos))
@@ -167,10 +173,17 @@ ggplot(V.FSE.plot7, aes(x=croftian_crossling_concepts, y=n, fill=variety))+
   labs(title = "Comparison of Crosslinguistic Concept Counts b/w Ancient Golic Vulcan and NGS", x = "Crosslinguistic Concepts", y = "", fill="Type")+  
   scale_fill_discrete(name= "Type")
 
-# Hard to see,  but it looks like a lot more Ancient Golic Vulcan words have stuck around than the borrowed ones.
+# Hard to see, but it looks like a lot more Ancient Golic Vulcan words have stuck around than the borrowed ones.
+# Let's try logging this y axis, too...
+ggplot(V.FSE.plot7, aes(x=croftian_crossling_concepts, y=n, fill=variety))+  
+  geom_bar(position="dodge", stat="identity") + 
+  scale_y_continuous(trans = 'log2') +
+  theme_classic() + 
+  labs(title = "Comparison of Crosslinguistic Concept Counts b/w Ancient Golic Vulcan and NGS", x = "Crosslinguistic Concepts", y = "", fill="Type")+  
+  scale_fill_discrete(name= "Type")
 
 ### Back to the starting letters...
-## I think I found the first bargraph to be the most interesting, so let's try to add some colour to that one.
+## I think I found the first bar graph to be the most interesting, so let's try to add some colour to that one.
 
 ## I'd like to compare MGV With Ancient and see which ones have  
 V.FSE.plot8 <- V.FSE.plot[V.FSE.plot$variety == "MGV" | V.FSE.plot$variety == "anc.", ]
@@ -198,22 +211,27 @@ ggplot(V.FSE.plot10, aes(x=FRST_LETTER)) +
 # It looks like their winner is k instead of s (as it was for MGV)! It still looks like they favour voiceless starting sounds  
 # overall and the winning letters are still s, t, and k.
 
+## So now I want to know if Modern Golic and Ancient Vulcan really do show a preference for starting with voiceless sounds,
+## and what the difference is between them.
+
+# What happens when we log the y axis for both Modern Golic and Ancient?
+ggplot(V.FSE.plot9, aes(x=FRST_LETTER, y=n, fill=variety))+  
+  geom_bar(position="dodge", stat="identity") + 
+  theme_classic() + 
+  scale_y_continuous(trans = 'log2') +
+  labs(title = "Starting Letters in Modern Golic vs. Ancient Vulcan", x = "Crosslinguistic Concepts", y = "", fill="Type")+  
+  scale_fill_discrete(name= "Type")
+
+# This is easier to see, but it doesn't really tell me anything. Oh well.
+
 # Out of curiosity, I'm going to add another column to V.FSE.plot9 that includes whether the starting letter is voiced or not...(this will be easier to do in excel)
 write.table(V.FSE.plot9, file = "V-FSE-plot9.txt", append = FALSE, sep = "\t", dec = ".",
             row.names = TRUE, col.names = TRUE)
 # Read table back in...
-V.FSE.plot9 <- read.delim("~/590DataScience/Vulcan-Dictionary-Project1/V-FSE-plot9.txt", stringsAsFactors=TRUE)
+V.FSE.plot8 <- read.delim("~/590DataScience/Vulcan-Dictionary-Project1/V-FSE-plot8.txt", stringsAsFactors=TRUE)
 # I want words instead of numbers, so I'm going to redo the voicing column...
-V.FSE.plot9 <- V.FSE.plot9 %>%
+V.FSE.plot9 <- V.FSE.plot8 %>%
   mutate(voicing = if_else(voicing == 1, "voiced", "voiceless"))
-
-## So now I want to know if Modern Golic and Ancient Vulcan really do show a preference for starting with voiceless sounds,
-## and what the difference is between them.
-
-ggplot(V.FSE.plot9, aes(x=voicing, fill = variety)) +
-  geom_bar(stat = "count") +
-  theme_classic() +
-  xlab("Voicing of Starting Letters in Modern Golic vs. Ancient Vulcan")
 
 # This isn't what I expected to see, but I think it may be my inexperience with plotting that is making it hard for me
 # to figure out how to connect the voicing counts with the plot itself...
@@ -225,5 +243,9 @@ ggplot(V.FSE.plot8, aes(x=voicing, fill = variety)) +
   xlab("Voicing of Starting Letters in Modern Golic vs. Ancient Vulcan")
 
 # Hmm...those look exactly the same? Oh well. We're out of time, so we'll figure it out later.
+
+# Ah! In order to meet the requirements of the assignment, I will write the table I've been working on as a csv!
+write.table(V.FSE.plot9, file = "V-FSE-plot9.csv", append = FALSE, sep = "\t", dec = ".",
+            row.names = TRUE, col.names = TRUE)
 
 ### END ###
