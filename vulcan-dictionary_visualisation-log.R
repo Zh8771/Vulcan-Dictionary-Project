@@ -38,7 +38,7 @@ V.FSE.new <- read.delim("~/590DataScience/Vulcan-Dictionary-Project1/old txt fil
 ## adjectives as property concepts (PROP.CONC), and verbs as action concepts (ACT.CONC), and small changes were made where applicable.
 ## Other categorisations present are: Action Concept Modifier (for action concepts doing modification work), Object Concept Modifier
 ## (For object concepts doing modification work), Predicate Modifier (for Action Concept Modifiers doing predicate work; question words),
-## Modal Predicates (for modal action concepts doing predicate work), and Selectional, Situational, and Degree Modifiers (to account for
+## Modal Predicates (for modal action concepts doing predicate work), and Selecting, Situational, and Degree Modifiers (to account for
 ## modifiers doing deictic and degree work). These are very roughly defined categories and are only meant to paint a slightly more high-
 ## resolution picture in the plots than I can with the part of speech data.
 
@@ -244,8 +244,24 @@ ggplot(V.FSE.plot8, aes(x=voicing, fill = variety)) +
 
 # Hmm...those look exactly the same? Oh well. We're out of time, so we'll figure it out later.
 
+# Let's do cross-linguistic concepts between MGV and ancient
+## Bar graph
+V.FSE.plot10 <- V.FSE.plot8 %>% 
+  count(variety, croftian_crossling_concepts) %>%
+  mutate(Freq = n/sum(n))
+V.FSE.plot10$croftian_crossling_concepts <- factor(V.FSE.plot10$croftian_crossling_concepts,                                    
+                                                  levels = c("OBJ.CONC", "ACT.CONC", "PROP.CONC", "ACT.CONC.MOD", "SITU.MOD", "SELEC.MOD", "DEG.MOD", "CONNECTOR", "OBJ.CONC.MOD", "interjection", "PREDIC.MODAL", "PREDIC.MOD"))
+# Let's do a grouped bar graph (and we won't be able to see anything unless we log transform the y axis, so let's do that)...
+ggplot(V.FSE.plot10, aes(x=croftian_crossling_concepts, y=n, fill=variety))+  
+  geom_bar(position="dodge", stat="identity") + 
+  scale_y_continuous(trans = 'log2') +
+  theme_classic() + 
+  labs(title = "Comparison of Crosslinguistic Concept Counts b/w Ancient and Modern Golic Vulcan", x = "Crosslinguistic Concepts", y = "", fill="Type")+  
+  scale_fill_discrete(name= "Type")
+ 
 # Ah! In order to meet the requirements of the assignment, I will write the table I've been working on as a csv!
 write.table(V.FSE.plot9, file = "V-FSE-plot9.csv", append = FALSE, sep = "\t", dec = ".",
             row.names = TRUE, col.names = TRUE)
+
 
 ### END ###
